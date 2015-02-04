@@ -1,9 +1,0 @@
- thispag locat statu searchrefnum asp 
- worq system work order search 
- enter refer number time request field click 
- search 
- refer number 
- 
- e mail 
- physic plant requir assist 
- typeof searchrefnum onbeforeserverev function typeof searchrefnum onbeforeserverev unknown thispag advis onbeforeserverev searchrefnum onbeforeserverev searchrefnum thispag searchrefnum locat searchrefnum asp searchrefnum navig object searchrefnum navig show function thispag invokemethod show show argument resultrefnum object resultrefnum locat resultrefnum asp resultrefnum navig object resultrefnum navig showrefnum function reftyp thispag invokemethod resultrefnum locat showrefnum showrefnum argument resultrefnum navig show function thispag invokemethod resultrefnum locat show show argument 
