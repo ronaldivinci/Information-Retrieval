@@ -1,0 +1,106 @@
+ registrar student servic univers memphi 
+ registrar student servic univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ regist class 
+ student info 
+ veteran info 
+ faculti staff info 
+ parent info 
+ form 
+ registrar z list 
+ contact 
+ admiss 
+ financi aid 
+ scholarship 
+ pai fee bursar 
+ tom 
+ univers memphi 
+ quick link 
+ campu map 
+ class search 
+ data standard 
+ ferpa tutori 
+ grade 
+ iam 
+ semest calendar 
+ servic faculti 
+ servic student 
+ um event calendar 
+ veteran educ benefit 
+ withdraw um 
+ student servic 
+ gener 
+ ad restor portal channel 
+ find u number 
+ registr 
+ advisor 
+ find advisor 
+ concis student schedul person class schedul 
+ view print 
+ enrol verif 
+ request 
+ check statu request 
+ error messag problem 
+ hold 
+ view 
+ common hold 
+ lookup class 
+ select 
+ tip 
+ popular list 
+ result 
+ onlin registr 
+ quick guid 
+ student record 
+ attend 
+ check report class attend 
+ grade 
+ view offici 
+ view unoffici 
+ hold 
+ view 
+ common hold 
+ enrol link 
+ audit 
+ credit exam undergradu 
+ credit exam graduat 
+ enrol verif 
+ loan defer 
+ placement exam 
+ regist class 
+ reinstat 
+ withdraw um 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ admiss 
+ financi aid 
+ registrar 
+ scholarship 
+ offic registrar wilder tower memphi 
+ tn 
+ ph fx 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

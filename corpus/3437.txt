@@ -1,0 +1,261 @@
+ electr comput engin faculti staff univers memphi 
+ electr comput engin faculti staff univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ futur student 
+ current student 
+ peopl 
+ research 
+ faculti resourc 
+ accredit 
+ academ 
+ 
+ quick link 
+ uofm homepag 
+ engin homepag 
+ engin op 
+ outlook 
+ bursar s offic 
+ ecoursewar um 
+ tom 
+ campu map 
+ umdriv 
+ contact 
+ depart 
+ biomed 
+ civil 
+ electr comput 
+ engin tech 
+ mechan 
+ imag src share share rootsit imag hover background jpg 
+ faculti staff 
+ featur 
+ faculti 
+ hasan ali 
+ madhusudhanan balasubramanian 
+ bonni banerje 
+ russel deaton 
+ steven t griffin 
+ eddi jacob 
+ peter lau 
+ bashir morsh 
+ chrysanth preza 
+ aaron l robinson 
+ moham yeasin 
+ thoma wyatt 
+ staff 
+ ms becki ward 
+ dr hasan ali 
+ phone 
+ email 
+ mhali memphi 
+ offic engin scienc build room 
+ titl assist professor 
+ websit 
+ profession background 
+ earn b sc electr electron engin rajshahi univers engin technolog ruet bangladesh 
+ earn m sc electr electron engin kitami institut technolog kit hokkaido japan 
+ earn ph d electr electron engin kitami institut technolog kit hokkaido japan 
+ research interest 
+ advanc power system analysi dynam stabil control 
+ smart grid micro grid system 
+ renew energi system wind photovolta power gener system fuel cell 
+ cyber physic system 
+ applic power electron 
+ applic fuzzi logic control power system 
+ electr ship system model analysi 
+ top 
+ dr 
+ madhusudhanan balasubramanian 
+ phone 
+ email 
+ mblsbrmn memphi 
+ offic engin scienc build room d 
+ titl assist professor 
+ websit 
+ profession background 
+ diploma electr electron engin april muthiah polytechn annamalainagar india 
+ bachelor engin electr electron june psg colleg technolog coimbator india 
+ master scienc system scienc decemb louisiana state univers baton roug usa 
+ doctor philosophi comput scienc louisiana state univers baton roug usa 
+ postgradu medic studi fellowship glaucoma research june univers california san diego la jolla usa 
+ research interest 
+ dr balasubramanian s interdisciplinari biomed research interest studi structur optic nerv head normal ey ey progress glaucoma aqueou humor dynam biosolid biofluid mechan comput scienc engin 
+ top 
+ dr bonni banerje 
+ phone 
+ email 
+ bbnerje memphi 
+ offic engin scienc build room b 
+ titl assist professor 
+ websit 
+ profession background 
+ earn b e electron telecommun engin jadavpur univers kolkata india 
+ earn m s electr engin ohio state univers columbu usa 
+ earn phd comput inform scienc ohio state univers columbu usa 
+ joint appoint dept electr comput engin institut intellig system univers memphi 
+ research interest 
+ artifici intellig 
+ machin learn 
+ top 
+ dr russel deaton 
+ phone 
+ email 
+ rjdeaton memphi 
+ offic engin scienc build room 
+ titl depart chair ring professor engin 
+ profession background 
+ earn ba english univers north carolina 
+ earn bsee memphi state univers 
+ earn msee duke univers 
+ earn phd duke univers 
+ member univers memphi faculti 
+ current activ 
+ research area model design dna guid assembl nanostructur 
+ top 
+ dr steven t griffin 
+ phone 
+ email 
+ stgriffn memphi 
+ offic engin scienc build room 
+ titl associ professor 
+ profession background 
+ earn bsee memphi state univers 
+ earn msee univers illinoi 
+ earn phd univers illinoi 
+ work memphi state comput center 
+ work gaseou lab univers illinoi 
+ work microswitch divis honeywel 
+ member univers memphi faculti 
+ top 
+ dr eddi jacob 
+ phone 
+ email 
+ eljacob memphi 
+ offic engin technolog build room 
+ titl associ professor 
+ profession background 
+ earn bsee univers arkansa 
+ earn msee univers arkansa 
+ earn d sc georg washington univers 
+ member univers memphi faculti 
+ top 
+ dr peter lau 
+ phone 
+ email 
+ peterlau memphi 
+ offic engin scienc build room d 
+ titl associ professor 
+ profession background 
+ earn b sc electr engin univers toronto 
+ earn m sc electr engin univers toronto 
+ earn ph d electr engin univers toronto 
+ top 
+ dr bashir morsh 
+ phone 
+ email 
+ bmorsh memphi 
+ offic engin scienc build room c 
+ titl assist professor 
+ websit 
+ profession background 
+ earn b sc electr electron engin bangladesh univers engin technolog dhaka bangladesh 
+ earn m sc electr comput engin univers windsor windsor canada 
+ earn ph d electron engin carleton univers ottawa canada 
+ member univers memphi faculti 
+ research interest 
+ embed system 
+ microdevic biosens neurosens 
+ power design wireless technolog 
+ top 
+ dr chrysanth preza 
+ phone 
+ email 
+ cpreza memphi 
+ offic engin scienc build room 
+ titl associ professor 
+ websit 
+ profession background 
+ b sc degre ee cs washington univers st loui 
+ m sc degre ee cs washington univers st loui 
+ d sc degre ee washington univers st loui 
+ member univers memphi faculti 
+ current activ 
+ research comput imag microscopi 
+ research comput hyperspectr imag 
+ top 
+ dr aaron l robinson 
+ phone 
+ email 
+ alrobin memphi 
+ offic engin scienc build room c 
+ titl associ professor 
+ profession background 
+ earn phd florida state 
+ member univers memphi faculti 
+ top 
+ dr mohamm 
+ d yeasin 
+ phone 
+ email 
+ myeasin memphi 
+ offic engin scienc build room 
+ titl associ professor 
+ websit 
+ profil memphi myeasin 
+ profession background 
+ earn phd indian institut technolog 
+ member univers memphi faculti 
+ top 
+ thoma wyatt 
+ phone 
+ email 
+ tewyatt memphi 
+ offic engin scienc build room 
+ titl instructor 
+ top 
+ ms becki ward 
+ phone 
+ email 
+ rlward memphi 
+ offic engin scienc build rm 
+ top 
+ faculti resourc 
+ herff link 
+ new event 
+ multimedia 
+ photo galleri 
+ give herff 
+ eec spotlight 
+ dr moham yeasin associ professor depart electr comput engin receiv nation scienc foundat nsf faculti earli career develop award research career award prestigi award junior faculti member receiv nsf 
+ 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ contact electr comput engin depart 
+ engin scienc bldg 
+ central avenu 
+ memphi tn phone 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

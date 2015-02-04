@@ -1,0 +1,322 @@
+ undergradu catalog thea univers memphi 
+ undergradu catalog thea univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ thea 
+ thea theatr 
+ depart theatr danc 
+ holli c lau m f chair 
+ room theatr commun build 
+ note addit specif prerequisit junior stand permiss depart chair prerequisit level cours depart theatr danc 
+ note thea includ prepar particip department theatr product individu work form supervis laboratori situat run crew season product select particip lab repeat maximum hour credit permiss instructor 
+ addit cours depart offer special topic cours 
+ thea special topic theatr 
+ topic vari onlin class list repeat maximum hour credit topic vari 
+ thea intro theatr 
+ experienti conceptu histor cultur studi theatr uniqu form artist express mirror human experi valu world survei constitu element theatric work major form express attend live theatr product requir g 
+ thea introduct design 
+ histor conceptu survei basic element product sceneri costum light sound relat theatric product process 
+ thea stage movement 
+ introduct movement basic element actor s craft free bodi mind order understand develop recogn natur physic action rhythm applic stage prerequisit permiss instructor 
+ thea basic keyboard skill actor 
+ studi basic keyboard abil aid comprehens theatr profession 
+ thea sing actor 
+ studi basic sing techniqu specif emphasi vocal aesthet genr american music theatr repeat hour credit 
+ thea intro theatr product 
+ lectur laboratori cover phase craft skill equip involv technic theatr product requir lab work 
+ thea intro theatr graphic 
+ introduct graphic commun process technic theatr mechan draft cad sceneri properti sound light design poster program graphic offer altern year 
+ thea basic costum construct 
+ foundat hand experi craft garment construct interpret d theatr costum design execut stage worthi garment 
+ thea stage makeup 
+ fundament theatric makeup hand project basic stage contour correct ag charact transform fantasi specialti techniqu scar wound introduct fundament facial hair wig applic open major permiss instructor 
+ thea act major 
+ introduct craft act develop actor s individu potenti basic techniqu perform short scene class 
+ thea perform fundament 
+ synergi text voic movement develop perform s instrument prerequisit permiss instructor 
+ thea act i 
+ develop charact dramat action util monologu scene improvis work lectur hour laboratori hour week prerequisit thea permiss instructor 
+ thea music theatr appli voic 
+ individu vocal studi emphasi music theatr literatur repeat maximum hour credit prerequisit thea permiss instructor 
+ thea dynam vocal prod i 
+ interrel bodi voic perform free voic postur relat breath explor phonat bodi dynam conson energi text lectur hour laboratori hour week prerequisit permiss instructor 
+ thea dynam vocal prod ii 
+ explor interrel bodi voic perform pitch reson conson tonal structur energi text lectur hour laboratori hour week prerequisit thea permiss instructor 
+ thea direct experi 
+ theatric imag creativ exercis imagin space time materi relat stage direct design 
+ thea movement style 
+ mime theatr relat danc period movement style prerequisit thea permiss instructor 
+ thea stage combat 
+ rapier dagger unarm combat prerequisit permiss instructor 
+ thea stagecraft 
+ thea act ii 
+ develop partnership work scene lectur hour studio hour week prerequisit thea permiss instructor 
+ thea act iii 
+ develop ensembl work scene lectur hour laboratori hour week prerequisit thea permiss instructor 
+ thea audit prep perform 
+ explor audit process materi select final present practic busi inform resum photo job opportun prerequisit permiss instructor 
+ thea principl scene design 
+ applic principl theatric convent configur offer altern year 
+ thea principl costum dsgn 
+ techniqu costum design special attent charact interpret design visual open major permiss instructor offer altern year 
+ thea mgmt public prod lab 
+ thea costum product lab 
+ thea light product lab 
+ thea sound product lab 
+ thea sceneri product lab 
+ thea prop product lab 
+ thea danc product lab 
+ thea stage manag lab 
+ repeat maximum hour credit permiss instructor 
+ thea stage manag skill 
+ explor basic tool knowledg stage manag theatr repeat maximum hour credit prerequisit permiss instructor 
+ thea gai lesbian dramat lit 
+ overview theatr dramat literatur reflect gai lesbian experi america teh st centuri 
+ thea advanc scenic product 
+ compon electr system safeti electron control ohm law graphic solut sightlin issu true size shape 
+ thea act music theatr 
+ explor techniqu perform fuse act act sing lectur hour laboratori hour week prerequisit thea muap equival exam audit permiss instructor 
+ thea stage dialect 
+ thea asian theatr 
+ histori theori tradit contemporari theatr form asia studi cultur social histori prerequisit permiss instructor offer altern year 
+ thea music theatr perform prac 
+ studi practic rehears perform techniqu music theatr product includ solo group literatur lectur hour laboratori hour week prerequisit thea permiss instructor 
+ thea principl music theori theatr 
+ studi basic written music theori aural skill aid comprehens theatr profession 
+ thea perform repertori 
+ group perform dramat narr theatr style danc theatr movement repeat maximum hour credit 
+ thea direct narr theatr 
+ thea vocal style perform 
+ explor languag base character evolv structur style text prerequisit thea permiss instructor 
+ thea adv movement style 
+ studi advanc physic theatr style vari semest topic solo perform perform art fight style period weapon physic theatr techniqu theatr teacher choreograph director repeat maximum hour credit content vari offer altern year prerequisit permiss instructor 
+ thea creativ dramat 
+ basic techniqu theori dramat elementari secondari educ includ socio drama dramat school subject daili concern improvis creation dramat plai offer altern year 
+ thea theatr renderng technqu 
+ materi techniqu render theatric space scenic costum light properti design element offer altern year 
+ thea scene paint 
+ lectur laboratori cover techniqu paint sceneri stage prerequisit thea offer altern year 
+ thea technic direct 
+ lectur laboratori theatr technician includ product organ safeti engin rig materi control suppli order prerequisit thea offer altern year 
+ thea principl stage direct 
+ thea act style 
+ develop act style influenc environ histor period repeat maximum hour credit chang content lectur hour laboratori hour week prerequisit thea permiss instructor 
+ thea mask perform 
+ vari semest topic commedia dell art perform creation perform charact mask mask work base physic theatr repeat maximum hour credit content vari prerequisit permiss instructor 
+ thea internship 
+ supervis work actual univers commun profession theatr product internship basi credit vari amount time respons involv prerequisit permiss instructor 
+ thea music theatr histori 
+ survei shape forc histori art craft american music offer altern year 
+ thea theatr histori 
+ shape forc theatric form earli civil present time emphasi western cultur offer altern year 
+ thea dramat literatur i 
+ comprehens survei dramat literatur greek centuri emphasi problem product offer altern year 
+ thea dramat literatur ii 
+ comprehens survei dramat literatur centuri present emphasi problem product offer altern year 
+ thea individu studi thtr 
+ advanc student wish concentr studi specif area theatr repeat maximum hour credit prerequisit permiss instructor 
+ thea visual histori i 
+ design aesthet select histor period ancient time victorian era appli theatric design prerequisit permiss instructor offer altern year 
+ thea scenic technolog 
+ lectur laboratori tradit contemporari materi scenic techniqu includ rig metal weld wood work plastic prerequisit thea permiss instructor offer altern year 
+ thea light technolog 
+ studi technic principl support area theatric light design instrument equip electr electron control system oper mainten principl procedur stage electrician offer altern year 
+ thea costum technolog 
+ intermedi costum construct techniqu emploi tradit experiment method sew bring costum design concept realiti prerequisit thea permiss instructor offer altern year 
+ thea visual histori ii 
+ design aesthet select histor period victorian era centuri appli theatric design prerequisit permiss instructor offer altern year 
+ thea thea african diaspora 
+ explor select playwright theatr practition west south africa caribbean african american descent includ perform project repeat maximum hour credit content vari prerequisit permiss instructor offer altern year 
+ thea scenic design studio 
+ applic design principl studi analysi design process graphic skill creativ express portfolio develop stress offer altern year 
+ thea light design studio 
+ thea costum design studio 
+ thea playwrit 
+ theori principl write plai stage practic write short long plai repeat maximum hour credit offer altern year prerequisit permiss instructor 
+ thea theatr manag 
+ procedur practic stage manag theatric product manag box offic public promot theatr perform art compar studi commerci educ amateur theatr oper 
+ thea theatr architec facil plan 
+ process techniqu emploi theatr planner design construct renov theatric space structur survei theatr form histor develop theatric structur space program method procedur specif renov techniqu multi structur concept consult procedur practic offer altern year prerequisit permiss instructor 
+ thea sound technolog 
+ technic principl support area theatric sound design digit analog equip audio signal theori technolog system design softwar oper principl procedur theatric sound engin offer altern year 
+ thea sound design studio 
+ thea act film tv 
+ educ experi actor media film televis offer altern year prerequisit permiss instructor 
+ thea honor seminar 
+ intens studi problem theatr danc repeat maximum hour credit topic vari prerequisit permiss depart chair 
+ thea senior honor thesi 
+ supervis independ research project open student enrol theatr danc honor program repeat maximum hour credit prerequisit permiss depart chair 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

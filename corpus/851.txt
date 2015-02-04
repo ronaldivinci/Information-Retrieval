@@ -1,0 +1,128 @@
+ graduat catalog univers administr univers memphi 
+ graduat catalog univers administr univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ introduct 
+ graduat school 
+ academ servic 
+ admiss regul 
+ academ regul 
+ appeal procedur 
+ degre program 
+ cours 
+ expens 
+ graduat assistantship 
+ fellowship 
+ graduat faculti 
+ member 
+ research facil 
+ minimum degre 
+ requir 
+ resid classif 
+ catalog archiv 
+ univers 
+ administr 
+ univers calendar 
+ quick link 
+ outlook 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ univers administr 
+ link interest 
+ michael david rudd phd presid 
+ karen weddl west phd interim provost 
+ univers council graduat studi 
+ stand member 
+ roger kreuz phd associ dean graduat studi research colleg art scienc 
+ lloyd brook phd associ dean academ program fogelman colleg busi econom 
+ moira logan mfa associ dean director graduat program colleg commun fine art 
+ vivian morri phd associ dean graduat studi colleg educ health human scienc 
+ warren haggard phd associ dean director graduat studi herff colleg engin 
+ linda d jarmulowicz phd associ dean school commun scienc disord 
+ david j wark phd director graduat studi school commun scienc disord 
+ gayl shiba dnsc director graduat studi loewenberg school nurs 
+ marian levi phd associ dean director graduat studi school public health 
+ william akei edd interim associ dean univers colleg 
+ elect colleg repres date expir appoint 
+ quentin chu financ 
+ kevin berisso 
+ engin technolog 
+ jeffrei berman faculti senat 
+ jeffrei byford instruct curriculum leadership 
+ kaitlin duckett graduat student associ 
+ antonio de velasco commun 
+ gari emmert chemistri 
+ susan neeli barn social work 
+ michael o nele theatr danc 
+ chrysanth preza electr comput engin 
+ jeffrei scraba english 
+ dan sherrel market suppli chain manag 
+ larri weiss health sport scienc 
+ officio member 
+ jasbir dhaliw phd interim graduat school dean vice provost academ affair 
+ jame kierulff ph d interim director graduat student servic 
+ betsi park ms univers librari 
+ offic provost 
+ karen weddl west phd interim provost 
+ lorrain allen edd interim coordin provost offic divers budget 
+ jan brownle interim chief staff 
+ melissa buchner director academ affair administr 
+ jasbir dhaliw phd interim dean graduat school vice provost academ affair 
+ dean franklin associ director academ affair financ 
+ betti huff vice provost enrol servic 
+ richard irwin phd interim vice provost academ innov support servic 
+ henri kurtz phd special assist provost academ plan 
+ dan poje edd interim vice provost academ plan assess innov 
+ nile reddick phd vice provost lambuth campu 
+ ellen watson vice provost chief inform offic inform technolog 
+ thoma j nenon phd dean colleg art scienc 
+ rajiv grover phd dean fogelman colleg busi econom 
+ richard r ranta phd dean colleg commun fine art 
+ ernest rakow phd interim dean colleg educ health human scienc 
+ richard c warder jr phd dean herff colleg engin 
+ sylverna ford phd dean librari 
+ mauric i mendel phd dean school commun scienc disord 
+ kevin h smith jd phd dean cecil c humphrei school law 
+ lin zhan ph d dean loewenberg school nurs 
+ lisa klesg phd dean school public health 
+ dan lattimor phd dean univers colleg 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

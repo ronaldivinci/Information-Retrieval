@@ -1,0 +1,272 @@
+ undergradu catalog polit scienc univers memphi 
+ undergradu catalog polit scienc univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ polit scienc 
+ depart polit scienc 
+ polit scienc major b 
+ program object b polit scienc basic understand polit institut process unit state countri b basic understand wai countri interact intermediari institut c basic understand develop polit thought d appli basic polit scienc methodolog polit scienc question e analyz explain polit process outcom f interpret polit attitud valu belief g critic think skill career govern busi law academia 
+ univers gener educ program hour 
+ 
+ graduat univers 
+ univers gener educ program requir 
+ b colleg degre b requir hour 
+ 
+ colleg bachelor art requir 
+ addit univers gener educ program requir 
+ c major hour 
+ purpos defin undergradu requir polit scienc major minor depart emploi subfield cours 
+ american govern polit pol 
+ compar polit pol 
+ intern relat pol 
+ polit theori pol 
+ student complet pol 
+ student complet hour subfield list 
+ total hour internship pol mock trial pol research studi pol independ studi pol combin count hour requir major polit scienc hour hour administr internship pol total hour combin pol count major 
+ hour polit scienc earn resid univers memphi 
+ note student successfulli complet equival social statist prior declar polit scienc major exempt requir pol substitut upper divis polit scienc 
+ note colleg offer pre law advis interest career law major polit scienc earn major intern studi polit scienc cours intern relat compar polit fulfil requir polit scienc major interdisciplinari major intern studi 
+ acceler b m program polit scienc 
+ program outstand undergradu coursework master art polit scienc senior year student encourag plan enter acceler b m program earli undergradu career consult advisor depart polit scienc 
+ work undergradu graduat academ coordin undergradu select program carefulli tailor studi complet b degre coursework m 
+ student appli graduat school acceler b m program graduat cours polit scienc continu program b student appli full admiss graduat school polit scienc depart s m program 
+ abm program hour graduat work appli undergradu graduat program graduat coursework appli undergradu gpa 
+ d elect 
+ elect chosen bring total number hour 
+ e honor program 
+ depart offer honor program qualifi major choos pursu sophist knowledg disciplin rigor level analysi deeper understand polit student complet hour work hour polit scienc minimum grade point averag minimum polit scienc present equival qualif invit appli admiss program program requir hour honor work upper divis polit scienc cours minimum final grade point averag polit scienc honor coursework honor student option complet senior thesi polit scienc pol student complet program regular colleg requir recogn commenc ceremoni degre confer honor polit scienc student s diploma record univers memphi reflect distinct detail program polit scienc offic 
+ polit scienc minor 
+ complet minor polit scienc student earn hour polit scienc disciplin condit student complet hour area list b student complet hour cours level higher c hour internship pol mock trial pol research studi pol independ studi pol combin count hour requir minor polit scienc 
+ typic year polit scienc sequenc 
+ freshman year 
+ engl 
+ engl 
+ math 
+ nat sci math b 
+ pol 
+ pol 
+ elect 
+ pol 
+ foreign languag b 
+ foreign languag b 
+ semest total 
+ hr 
+ hr 
+ sophomor year 
+ engl 
+ pol polit theori 
+ histori 
+ natur scienc 
+ natur scienc 
+ elect 
+ pol 
+ elect 
+ fine art 
+ comm 
+ semest total 
+ hr 
+ hr 
+ junior year 
+ ud human b pol 
+ ud pol amer gov polici 
+ elect 
+ ud pol intern relat 
+ ud pol 
+ ud pol 
+ ud pol compar polit 
+ ud elect 
+ pol 
+ elect 
+ semest total 
+ hr 
+ hr 
+ senior year 
+ pol 
+ ud elect 
+ elect 
+ ud elect 
+ elect 
+ ud elect 
+ ud elect 
+ elect 
+ ud elect 
+ semest total 
+ hr 
+ hr 
+ total hour 
+ total hour requir graduat 
+ satisfi univers gener educ program requir 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

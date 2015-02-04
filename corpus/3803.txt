@@ -1,0 +1,75 @@
+ ed gain employ disclosur templat 
+ ed gain employ disclosur templat 
+ bodi font famili arial font size px pad px px px px background color e e e program font famili palatino linotyp time roman font size px font weight normal color f d program level length font famili palatino linotyp time roman font size px font weight normal color e e c question icon float left width px height px margin top px background imag url imag icon q png background repeat repeat answer icon float left width px height px margin top px background imag url imag icon png background repeat repeat qa text float left width px margin left px font famili arial font size px font weight bold color qa text long float left width px margin left px font famili arial font size px font weight bold color qa space height px divid background imag url imag dotdivid gif background repeat repeat x height px margin top px pad bottom px margin left px margin px divadditionalinfolink background imag url imag icon question png background repeat repeat background posit px px height px pad left px margin left px margin top px link font famili arial font size px color font weight normal text decor underlin visit font famili arial font size px color font weight normal text decor underlin hover font famili arial font size px color font weight normal text decor underlin small text font famili arial font size px color font weight normal popup close cursor pointer 
+ filter state 
+ unitid 
+ 
+ address 
+ citi 
+ state 
+ zip 
+ abil pai student loan depend factor debt accru complet program earn job complet measur repay rate debt earn ratio includ inform previou student program successfulli pai loan burden monthli budget 
+ 
+ state 
+ placement rate calcul 
+ includ calcul rate 
+ type job student 
+ student emploi 
+ complet track 
+ accredit agenc placement rate calcul 
+ includ calcul rate 
+ type job student 
+ student emploi 
+ complet track 
+ click link inform job relat program 
+ program 
+ program level 
+ program length 
+ program cost 
+ tuition fee 
+ book suppli 
+ campu room board 
+ cost program 
+ program cost inform 
+ click 
+ amount shown includ cost entir program assum normal time complet note inform subject chang 
+ financ option pai program 
+ financ program grant scholarship loan feder privat institut financ plan median amount debt program graduat shown 
+ feder loan 
+ privat educ loan 
+ institut financ plan 
+ graduat receiv loan median amount withheld preserv confidenti loan recipi 
+ school elect provid addit inform 
+ xx 
+ program graduat loan financ cost program 
+ long complet program 
+ program design 
+ xx 
+ month 
+ complet complet program 
+ xx 
+ finish 
+ xx 
+ month 
+ student complet program number finish normal time withheld preserv confidenti student 
+ chanc job i graduat 
+ job placement rate student complet program 
+ xx 
+ futher inform job placement rate 
+ click 
+ futher inform job placement rate 
+ click 
+ institut s state accreditor requir calcul job placement rate program 
+ accreditor rate job placement rate student complet program 
+ xx 
+ futher inform job placement rate 
+ click 
+ state rate job placement rate student complet program 
+ xx 
+ futher inform job placement rate 
+ click 
+ institut requir calcul job placement rate program complet 
+ addit inform relat program inform 
+ click 
+ date creat 
+ call function displai program displaytempl guid displaytempl ea b f e b c f c d 

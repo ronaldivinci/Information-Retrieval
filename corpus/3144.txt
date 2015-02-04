@@ -1,0 +1,201 @@
+ univers memphi depart chemistri comput hardwar softwar faq 
+ univers memphi depart chemistri comput hardwar softwar faq 
+ p text align justifi li text align justifi 
+ function return 
+ um chemistri comput hardwar softwar faq 
+ faq 
+ item cover faq 
+ i obtain email account 
+ i obtain comput account 
+ i obtain high perform comput hpc facil comput account 
+ i comput campu network 
+ i campu softwar campu 
+ i connect campu comput campu 
+ i microsoft window microsoft product home comput 
+ i open microsoft offic document docx xlsx pptx microsoft offic 
+ i receiv copi symantec endpoint 
+ i set email client offic comput 
+ softwar campu comput 
+ comput work i work work 
+ softwar packag work i 
+ internet work i 
+ i gui linux box offic pc 
+ i run ceriu 
+ i print department copier offic pc 
+ find item faq answer contact research group s point contact poc 
+ i obtain email account 
+ i obtain comput account 
+ order obtain univers email account initi account 
+ 
+ univers util singl sign sso system access univers account sso access control multipl independ softwar system user login credenti sso system import protect integr account password sso credenti access hundr tigerlan comput lab scatter campu lab open find comput lab univers s 
+ technolog resourc locat 
+ 
+ websit detail condit strong password provid random strong password gener 
+ i obtain high perform comput hpc facil comput account 
+ advisor send email 
+ hpcadmin memphi 
+ state request hpc account full uuid 
+ i comput campu network 
+ order laptop comput campu time obtain ip address dhcp server start internet explor 
+ ask uuid password login regist comput restart comput 
+ i campu softwar campu 
+ i connect campu comput campu 
+ vpn connect access campu comput softwar campu 
+ vpn faq 
+ vpn client softwar 
+ vpn client instal 
+ vpn client instal instruct 
+ 
+ pdf 
+ univers test vmware 
+ umwar 
+ access softwar applic 
+ umwar 
+ user access softwar tigerlan comput softwar campu window pc mac work save comput print local comput internet connect uuid password 
+ microsoft window user follow 
+ direct 
+ enabl remot desktop connect offic pc 
+ host 
+ comput run window xp pro window vista home starter edit login remot remot desktop connect 
+ client 
+ comput 
+ direct direct write comput necessarili work campu collect ip address host comput 
+ collect ip address host comput 
+ start 
+ run 
+ type 
+ cmd 
+ box open 
+ hit enter 
+ type ipconfig hit enter jot ip address ip address comput box remot desktop connect program 
+ remot desktop bundl microsoft os version variant window xp 
+ find remot desktop client 
+ start 
+ program 
+ accessori 
+ commun 
+ remot desktop connect 
+ 
+ start 
+ program 
+ accessori 
+ remot desktop connect 
+ note campu machin s ip address ip address comput box remot desktop connect program 
+ troubl connect client machin offic pc check remot desktop enabl offic pc ultim check 
+ offic pc 
+ start 
+ run 
+ type 
+ cmd 
+ box open 
+ hit enter 
+ termin window type 
+ netstat find quot quot 
+ 
+ hit enter 
+ charact find call quot pipe quot access charact shift backslash shft 
+ c document set user netstat na find quot quot 
+ line appear 
+ tcp listen 
+ line offic pc remot desktop connect 
+ mac user login remot offic pc 
+ remot desktop client 
+ 
+ 
+ campu web brows campu resourc access 
+ securepoint 
+ securepoint secur access ssl vpn navig ip restrict websit databas web resourc comput internet connect uuid password 
+ i microsoft window microsoft product home comput 
+ microsoft window xp profession microsoft offic faculti staff member free charg save disk imag case reinstal program oper system download copi 
+ websit 
+ prompt uuid password 
+ i open microsoft offic document docx xlsx pptx microsoft offic 
+ instal microsoft offic file convert 
+ 
+ i receiv copi symantec endpoint 
+ download softwar packag 
+ 
+ prompt uuid password 
+ earlier version symantec antiviru program comput endpoint automat uninstal version type antiviru manual uninstal softwar instal endpoint 
+ i set email client offic comput 
+ microsoft outlook exchang support document i e i setup outlook email client exchang server univers memphi 
+ 
+ softwar campu comput 
+ softwar download instal univers memphi 
+ 
+ prompt uuid password select softwar cost softwar purchas list softwar softgrid 
+ 
+ softgrid applic virtual applic stream solut microsoft microsoft applic virtual 
+ chemistri relat softwar download instal softwar univers s high perform comput facil 
+ 
+ comput work i work work 
+ fulli power machin restart machin simpl restart comput full shutdown 
+ restart comput safe mode press 
+ f 
+ bio splash screen comput start select safe mode menu correct problem reboot 
+ repair problem submit um helpdesk ticket 
+ 
+ describ issu explicitli um helpdesk ticket 
+ softwar packag work i 
+ vendor support contact vendor softwar instal machin hpc facil contact 
+ hpcadmin memphi 
+ specif state issu 
+ internet work i 
+ check ethernet cabl reboot check network connect start set network connect check statu repair connect 
+ i gui linux box offic pc 
+ set 
+ x 
+ server 
+ puttycyg 
+ 
+ cygwin 
+ run x window pc 
+ instal usag note 
+ puttycyg cygwin 
+ i run ceriu 
+ set 
+ x 
+ server 
+ puttycyg 
+ 
+ cygwin 
+ run x window pc 
+ instal usag note 
+ puttycyg cygwin set environ 
+ ceriu 
+ i print department copier offic pc 
+ download pcl driver relev oper system 
+ printer 
+ local copi printer driver 
+ bit window 
+ download doubl click file r en ex extract content track locat 
+ download file rxxxxxen ex 
+ doubl click file rxxxxxen ex 
+ click 
+ accept term click 
+ brows locat 
+ click 
+ extract complet click 
+ instal print driver 
+ add printer control panel 
+ click 
+ local printer attach comput select click 
+ select creat port chang type port standard tcp ip port 
+ click 
+ click 
+ type ip address printer printer ip address port ad automat 
+ click click finish 
+ click disk 
+ click brows chang locat unzip driver doubl click oemsetup inf click 
+ select ricoh aficio mp pcl click 
+ select printer default printer click 
+ share printer click 
+ bother print test page 
+ click finish 
+ instal driver enter printer code set 
+ printer fax menu click ricoh printer select properti 
+ click printer prefer 
+ select valid access tab enter access code click 
+ click print test page click click 
+ depart chemistri univers memphi smith chemistri bldg memphi tennesse 
+ phone fax 

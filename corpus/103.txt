@@ -1,0 +1,50 @@
+ acad univers memphi 
+ acad univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ acad cours 
+ student resourc 
+ faculti resourc 
+ acad 
+ meet faculti 
+ meet staff 
+ contact 
+ quick link 
+ present request form 
+ 
+ 
+ acad academ strategi freshman focus teach student academ strategi need success colleg student recogn student arriv colleg level colleg prepared acad focus expos student strategi academ success model success behavior encourag student reach maximum potenti student univers memphi 
+ object 
+ result complet acad student 
+ develop skill requir academ success 
+ appli manag strategi person profession develop success 
+ understand expect contribut member scholarli commun 
+ featur link 
+ video acad colleg career 
+ acad post semest survei 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

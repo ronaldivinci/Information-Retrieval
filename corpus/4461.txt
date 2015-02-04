@@ -1,0 +1,144 @@
+ student orient explor option univers memphi 
+ student orient explor option univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ fall freshmen 
+ transfer adult 
+ parent guest program 
+ regist orient 
+ prepar orient 
+ orient guid 
+ explor option 
+ spring orient 
+ faq 
+ contact 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ recruit orient servic 
+ wilder tower 
+ memphi tn 
+ phone 
+ toll free press 
+ explor option 
+ glad chosen univers memphi start maxim experi institut tip trick true blue tiger 
+ choos major 
+ gener educ 
+ particip special opportun 
+ univers memphi tradit fight song 
+ choos major 
+ 
+ undergradu catalog 
+ detail major 
+ section catalog titl 
+ colleg degre program 
+ major interest 
+ choos major read carefulli 
+ check year plan major cours suggest semest 
+ year plan number hour list twelv hour consid full time year student hour coursework hour semest semest student graduat year 
+ major pursu option begin colleg career undecid time explor major greatest interest undecid student advis academ counsel center profession advisor assist seek major career 
+ occup outlook handbook offer valuabl inform 
+ focu 
+ program design student learn career major fit interest strength creat account instruct 
+ gener educ 
+ cours semest gener educ cours refer gen ed cours catalog inform 
+ univers gener educ program 
+ prepar advisor cours categori sound interest 
+ social behavior scienc hour requir 
+ human fine art literatur hour requir 
+ natur scienc hour requir 
+ meet advisor item pertain 
+ dual enrol 
+ colleg level cours high school 
+ 
+ colleg 
+ 
+ univers 
+ ap credit 
+ ap cours ap test check 
+ ap tabl 
+ score place cours univers memphi place earn ap credit receiv 
+ s 
+ allow subsequ cours area 
+ act profici exam program 
+ student score higher act english score higher sat verbal score award hour credit engl 
+ clep test 
+ student option test determin knowledg requir colleg cours nation recogn batteri test refer clep test test successfulli complet student receiv credit class 
+ foreign languag 
+ major degre requir student complet cours foreign languag languag skill weak level foreign languag continu foreign languag high school feel solid background placement test languag media center jone determin readi begin placement test french german japanes spanish m p m appoint test italian latin question email tanner rtanner memphi 
+ particip special opportun 
+ program design support student adjust colleg studi campu life 
+ acad 
+ academ strategi 
+ program design teach academ strategi manag skill success colleg student 
+ fresh connect 
+ learn commun consist cours ti specif theme academ major student fresh connect learn commun connect level student commun special chosen faculti teach serv mentor cours revolv theme major 
+ frosh camp 
+ frosh camp dai camp nacom confer center locat pleasantvil centervil tn exclus incom freshmen frosh camp student upper hand year teach expect class introduc univers memphi offer ton tiger spirit connect upperclassman fellow freshmen fun memori lot friend 
+ honor program 
+ high abil student elig enrol honor program univers memphi 
+ live learn commun 
+ llc advantag choic student llc resid hall requir belong learn commun order resid live learn commun includ emerg leader program honor program music scholar rotc benefit student live share classroom connect student area focu facil state art amen build abil control heat ac unit room exclus access privat practic room music student s central locat campu close univers center dine area build center campu 
+ nurs 
+ student interest undergradu major nurs advis academ counsel center 
+ pre health 
+ student interest pursu career medicin dentistri pharmaci optometri physician assist studi alli health profess includ cytotechnolog dental hygien health informat inform manag medic technolog occup therapi physic therapi advantag inform pre health websit 
+ pre law 
+ student interest law school complet year degre explor pre law websit 
+ trio classic program 
+ program support servic gener incom student student disabl need support servic univers year 
+ trio stem program 
+ program design specif elig student enrol stem scienc technolog engin mathemat major u m student meet elig requir trio stem particip 
+ univers memphi tradit fight song 
+ prepar tiger athlet game celebr victori download u m fight song 
+ 
+ learn univers memphi histori tradit alumni associ s 
+ websit 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ admiss 
+ financi aid 
+ recruit 
+ registrar 
+ scholarship 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

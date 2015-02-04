@@ -1,0 +1,137 @@
+ secur univers memphi 
+ secur univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ 
+ project 
+ servic 
+ facil 
+ support 
+ learn 
+ resourc 
+ standard 
+ secur 
+ govern 
+ z list 
+ quick link 
+ tom 
+ campu map 
+ center teach learn ctl 
+ ecoursewar 
+ elearn rodp 
+ fedex institut 
+ gartner research 
+ high perform comput hpc center 
+ helpdesk 
+ project inventori system 
+ servic notif 
+ servic catalog 
+ iam ident manag 
+ iprint 
+ learn curv 
+ e mail 
+ rocc 
+ technolog resourc locat trl 
+ umdriv 
+ umwiki 
+ umtech 
+ webdev 
+ secur 
+ relat topic 
+ technolog secur practic 
+ password 
+ maintain secur univers s system effect februari univers memphi requir annual password 
+ uuid account 
+ password access univers data network resourc 
+ guidelin addit inform s 
+ password secur 
+ websit 
+ anti viru softwar 
+ virus corrupt data slow entir comput network protect comput infect instal anti viru softwar updat prompt 
+ safeconnect 
+ univers s nac system requir anti viru softwar instal date order run univers s network safeconnect recogn 
+ approv varieti anti viru softwar 
+ univers own comput laptop anti viru softwar instal cost contact umtech servic desk request servic local support provid lsp 
+ spywar malwar 
+ spywar malwar malici softwar softwar instal comput knowledg instal download applic file share program onlin recommend 
+ approv safeconnect spywar product 
+ oper system 
+ secur concern develop frequent protect comput s oper system instal updat oper system mac microsoft updat free download 
+ window 
+ mac 
+ report technolog incid report internet secur abus 
+ fill 
+ secur incid report form 
+ contact 
+ univers memphi internet secur abus 
+ group email 
+ confidenti data practic 
+ storag 
+ encrypt confidenti data store laptop portabl media encrypt entir hard drive laptop entir usb drive ensur data view 
+ univers own laptop portabl media devic encrypt 
+ local support provid 
+ lsp depart respons assist faculti staff process 
+ detail softwar inform 
+ delet eras 
+ delet file comput portabl laptop electron storag media 
+ 
+ perman remov data data overwritten dispos 
+ instruct equip dispos 
+ secur awar train 
+ secur standard procedur 
+ secur faq 
+ copyright law peer peer p p file share 
+ data encrypt standard 
+ e mail scam 
+ epsilon data breach 
+ equip dispos inform 
+ firewal turn 
+ password secur 
+ person inform secur 
+ phish 
+ 
+ phish exampl 
+ telemarket scam 
+ web secur guidelin 
+ campu data secur 
+ univers memphi polici um campu data secur polici 
+ campu data secur polici acknowledg 
+ campu data secur tutori 
+ classif univers data 
+ univers hardwar softwar standard 
+ univers polici 
+ center inform assur 
+ microsoft secur central 
+ mac os x secur featur 
+ gartner secur privaci 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ inform technolog servic 
+ administr 
+ bldg 
+ phone 
+ email umtech memphi 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

@@ -1,0 +1,249 @@
+ cri hour oper univers memphi 
+ cri hour oper univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex sfhover function var sfel document getelementbyid nav getelementsbytagnam li var i i sfel length i sfel i onmouseov function classnam sfhover sfel i onmouseout function classnam classnam replac regexp sfhover b window attachev window attachev onload sfhover 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ program servic 
+ aquat 
+ club sport 
+ commun 
+ equip rental 
+ fit assess 
+ massag 
+ person train 
+ recreat 
+ sport fit class 
+ aquat fit 
+ adult children s swim school 
+ privat tenni lesson 
+ earli bird swim program 
+ group fit schedul 
+ registr form 
+ tigerfit 
+ facil 
+ emerg inform 
+ direct 
+ facil map 
+ procedur 
+ area rule 
+ form 
+ job 
+ membership 
+ intramur sport 
+ campu recreat 
+ faq 
+ comment 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ hour oper 
+ gener facil hour 
+ mondai thursdai pm 
+ fridai pm 
+ saturdai pm 
+ sundai pm 
+ summer session hour 
+ mondai thursdai pm 
+ fridai pm 
+ saturdai pm 
+ sundai pm 
+ whirlpool open earli swim m f clean 
+ observ 
+ modifi hour semest 
+ u m id card requir membership activ fee paid recreat center 
+ annual hour oper time date subject chang 
+ srfc p pool p 
+ srfc pm pool p 
+ srfc p pool p 
+ srfc pm pool p 
+ srfc p pool p 
+ close univers holidai 
+ srfc p pool p 
+ close 
+ januari 
+ sun 
+ mon 
+ tue 
+ wed 
+ thur 
+ fri 
+ sat 
+ mlk 
+ spring 
+ februari 
+ sun 
+ mon 
+ tue 
+ wed 
+ thur 
+ fri 
+ sat 
+ march 
+ sun 
+ mon 
+ tue 
+ wed 
+ thur 
+ fri 
+ sat 
+ sp brk 
+ april 
+ sun 
+ mon 
+ tue 
+ wed 
+ thur 
+ fri 
+ sat 
+ 
+ studi 
+ 
+ sun 
+ mon 
+ tue 
+ wed 
+ thur 
+ fri 
+ sat 
+ exam 
+ 
+ pre 
+ mem 
+ 
+ 
+ june 
+ sun 
+ mon 
+ tue 
+ wed 
+ thur 
+ fri 
+ sat 
+ sum 
+ 
+ 
+ juli 
+ sun 
+ mon 
+ tue 
+ wed 
+ thur 
+ fri 
+ sat 
+ 
+ hol 
+ hol 
+ sum ii 
+ august 
+ sun 
+ mon 
+ tue 
+ wed 
+ thur 
+ fri 
+ sat 
+ 
+ 
+ fall 
+ septemb 
+ sun 
+ mon 
+ tue 
+ wed 
+ thur 
+ fri 
+ sat 
+ lbr 
+ octob 
+ sun 
+ mon 
+ tue 
+ wed 
+ thur 
+ fri 
+ sat 
+ fb 
+ fb 
+ fb 
+ fb 
+ novemb 
+ sun 
+ mon 
+ tue 
+ wed 
+ thur 
+ fri 
+ sat 
+ thx 
+ thx 
+ decemb 
+ sun 
+ mon 
+ tue 
+ wed 
+ thur 
+ fri 
+ sat 
+ 
+ stdy 
+ 
+ 
+ 
+ 
+ 
+ close 
+ ho 
+ ho 
+ ho 
+ ho 
+ ho 
+ srfc p pool p 
+ srfc pm pool p 
+ srfc p pool p 
+ srfc pm pool p 
+ srfc p pool p 
+ close univers holidai 
+ srfc p pool p 
+ close 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

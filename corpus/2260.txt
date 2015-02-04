@@ -1,0 +1,254 @@
+ undergradu catalog muhl univers memphi 
+ undergradu catalog muhl univers memphi 
+ comment 
+ comment 
+ document readi function rel group fancybox transitionin transitionout titleposit titleformat function titl currentarrai currentindex currentopt return span id fancybox titl imag currentindex currentarrai length titl length titl span 
+ form ul li list style imag form contain input form contain textarea font famili georgia time roman time serif font size px font weight normal bottom px form contain ul li background formerror background repeat scroll ee border px solid dddddd border radiu px px px px color ffffff font famili tahoma font size px pad px px margin left px displai tabl main formerror background repeat scroll ee border px solid dddddd border radiu px px px px color ffffff font famili tahoma font size px font weight bold pad px px main formsuccess background repeat scroll aacc border px solid dddddd border radiu px px px px color ffffff font famili tahoma font size px font weight bold pad px px clear clear clearfix content displai block height clear visibl hidden 
+ document readi function directedit 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ muhl 
+ muhl music histori literatur appreci 
+ rudi e scheidt school music 
+ randal rush d m director 
+ room b music build 
+ addit cours depart offer special topic cours 
+ muhl special topic music histori 
+ topic vari announc onlin class list 
+ muhl histori music 
+ develop signific music style attent individu contribut major compos prerequisit mutc f 
+ muhl histori music 
+ continu muhl prerequisit mutc sp 
+ muhl western music histori 
+ studi major style period western music histori perform student music 
+ muhl music histori review 
+ review genr repertori major figur develop western music fulfil requir b m degre 
+ muhl piano repertori 
+ survei string keyboard repertori bach contemporari present repres work analyz histor stylist formal aesthet featur prerequisit junior stand music permiss instructor f 
+ muhl song repertori i 
+ survei solo literatur german italian school song f year 
+ muhl song repertori ii 
+ survei solo literatur french british american school song sp odd year 
+ muhl histori literatur organ 
+ literatur organ effect interact organ design 
+ muhl symphoni 
+ survei develop symphoni centuri present focu import compos work discuss orchestr form aesthet perform practic prerequisit muhl 
+ muhl choral literatur i 
+ survei choral repertori gregorian chant contemporari perform practic techniqu perform earli choral music modern mix choir 
+ muhl choral literatur ii 
+ survei choral repertori present contemporari perform practic problem modern perform 
+ muhl string quartet literatur 
+ histori string quartet survei music haydn present problem perform 
+ muhl hist chamber music wind instr 
+ histori chamber music brass woodwind instrument mediev modernist period instrument type ensembl music sourc notat repertori perform practic 
+ muhl women music 
+ investig role women plai histori western art music music compos perform inspir 
+ muhl chamber music piano 
+ studi develop work piano instrument piano trio piano quartet piano quintet stylist analys work classic romant twentieth centuri repertori f 
+ muhl guitar literatur 
+ basic repertori classic guitar predecessor middl ag present f odd year 
+ muhl jazz vocal style 
+ survei jazz vocal style s present incorpor listen lectur analysi record work import figur style period studi 
+ muhl solo brass literatur 
+ examin evalu critiqu solo repertoir brass instrument refer book materi examin develop specif cours studi instrument sp odd year 
+ muhl american amateur brass band 
+ histori circumst american amateur band movement earli centuri practic explor music repertori prerequisit muhl permiss instructor 
+ muhl earli chamber music 
+ studi repertori small group string wind middl ag 
+ muhl percuss repertori 
+ survei literatur percuss instrument sp odd year 
+ muhl studi bibliographi 
+ research techniqu music histori find evalu sourc write music prepar senior project prospectu f 
+ muhl centuri music 
+ advanc studi music histor context present 
+ muhl histori opera 
+ histori opera begin present prerequisit muhl permiss instructor 
+ muhl string repertori 
+ histori text method period orchestr studi solo ensembl literatur individu string instrument 
+ muhl world music style 
+ introduct studi ethnomusicolog tradit popular music style role music societi world f 
+ muhl american folk popular music 
+ folk popular element american music role mass media folk popular music histor develop interrelationship music style rang centuri minstrelsi rock roll hip hop emphasi southern anglo american afro american folk popular music style f 
+ muhl indiv studi music histori 
+ direct individu studi select area music histori chosen consult instructor repeat credit permiss director repeat maximum hour credit 
+ muhl blue 
+ stylist develop blue music begin relationship african american american cultur histori sp 
+ muhl histori rock roll 
+ stylist origin develop rock roll music begin present 
+ muhl histori jazz 
+ stylist origin develop jazz interact jazz western classic music style 
+ muhl memphi music 
+ distinct form folk popular music memphi begin centuri relationship histori cultur social pattern citi mid south region folk music background blue jazz countri music gospel music soul music rock roll emphas sp 
+ muhl music histori senior project 
+ prepar articl length paper origin topic music histori ethnomusicolog supervis advisor prerequisit minimum hour advanc music histori permiss instructor 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

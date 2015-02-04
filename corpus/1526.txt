@@ -1,0 +1,277 @@
+ undergradu catalog alcohol drug abus servic univers memphi 
+ undergradu catalog alcohol drug abus servic univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ alcohol drug abus servic 
+ student alcohol drug abus servic concentr select cours social public servic administr servic core cours alcohol drug abus social administr servic complet degre cours relev concentr student job experi evalu internship portfolio assess 
+ person pursu degre typic provid servic disabl alcohol drug abus includ abus famili friend colleagu associ wish build knowledg experi alcohol drug abus treatment person serv guidelin seek career alcohol drug abus d servic administr provid social public servic hospit social servic agenc employe assist program church continu educ graduat level program 
+ guidelin design person document previou paid volunt work d servic document includ applic 
+ person complet technic certif substanc abus counsel offer southwest tennesse commun colleg appli coursework guidelin applic stcc cours list bold type state licens substanc abus counselor receiv credit hour applic experienti learn internship requir submiss certif credenti 
+ program summari 
+ gener educ hour 
+ 
+ graduat univers 
+ univers gener educ program requir student complet year american histori high school exempt credit hour histori gener educ program requir student meet histori requir 
+ b coordin studi hour 
+ profession core hour 
+ choos 
+ swrk social respons human 
+ coun human interact 
+ alcohol drug core hour choos cours 
+ anth alcohol cultur biologi 
+ cju drug addict alcohol 
+ coun alcohol drug abus servic 
+ psyc alcohol drug behavior 
+ statist method hour choos 
+ edpr fundament appli statist method 
+ psyc psycholog statist 
+ soci social statist 
+ profession write hour choos 
+ engl technic profession write 
+ engl persuas write 
+ mgmt busi commun 
+ elect alcohol drug abus studi hour 
+ credit earn 
+ submit portfolio describ prior learn d servic meet internship requir 
+ addit approv cours 
+ student choos area concentr social public servic administr servic 
+ social public servic hour 
+ cours concentr stress issu relat individu develop social behavior societ respons aspect public polici 
+ group choos 
+ cju juvenil delinqu theori process 
+ coun strategi crisi intervent 
+ psyc abnorm psycholog 
+ soci sociolog deviant behavior 
+ soci sociolog mental ill 
+ group choos cours 
+ psyc child psycholog 
+ psyc social psycholog soci individu societi 
+ psyc human sexual prerequisit psyc 
+ soci sociolog gender 
+ soci marriag famili 
+ swrk human behavior social environ 
+ prerequisit swrk permiss instructor 
+ group choos cours 
+ econ econom social issu 
+ pol introduct public polici 
+ pol urban problem 
+ soci racial ethnic minor socio histor approach 
+ soci sociolog poverti 
+ soci sociolog ag 
+ soci medic sociolog 
+ internship hour 
+ student complet cours social public servic complet hour supervis therapeut experi hour earn wai 
+ univ field experi univ internship credit increment 
+ submiss state tennesse d counselor certif credit univ intermedi d servic univ advanc d servic 
+ administr servic hr 
+ cours concentr basic manag administr 
+ group choos 
+ mgmt organ manag 
+ pol public administr 
+ group choos cours 
+ acct fundament account i 
+ econ introduct macroeconom 
+ econ introduct microeconom 
+ group choos cours 
+ acct busi law 
+ econ health care econom 
+ fir principl risk insur 
+ mgmt manag human resourc 
+ mgmt organiz behavior busi 
+ mgmt employe staf develop 
+ mktg principl market 
+ pol health polit polici 
+ pol mental health polici law 
+ pol introduct nonprofit organ 
+ group choos 
+ econ econom social issu 
+ pol introduct studi public polici 
+ pol urban problem 
+ soci racial ethnic minor socio histor approach 
+ soci sociolog poverti 
+ soci sociolog ag 
+ soci medic sociolog 
+ internship hr 
+ student complet cours administr servic complet hour experi approv set hour earn wai 
+ univ internship hour credit increment 
+ univ xx advanc experienti learn hour base assess portfolio describ prior experienti learn 
+ c themat studi hour 
+ d senior project hour 
+ univ senior project hr complet final semest 
+ e 
+ elect 
+ chosen bring total number hour minimum upper divis hour 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

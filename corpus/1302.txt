@@ -1,0 +1,613 @@
+ servic catalog univers memphi 
+ servic catalog univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ 
+ project 
+ servic 
+ facil 
+ support 
+ learn 
+ resourc 
+ standard 
+ secur 
+ govern 
+ z list 
+ quick link 
+ tom 
+ campu map 
+ center teach learn ctl 
+ ecoursewar 
+ elearn rodp 
+ fedex institut 
+ gartner research 
+ high perform comput hpc center 
+ helpdesk 
+ project inventori system 
+ servic notif 
+ servic catalog 
+ iam ident manag 
+ iprint 
+ learn curv 
+ e mail 
+ rocc 
+ technolog resourc locat trl 
+ umdriv 
+ umwiki 
+ umtech 
+ webdev 
+ servic catalog 
+ tabl sftabl width margin left margin margin bottom em font size pt td affili width margin left border px solid pad px td categori width margin left margin border px solid pad px text align left td keyword width margin border px solid pad px tabl servic width margin bottom em font size pt td servicenam width font size pt color vertic align bottom td servicegroup width font size pt td servicedescr pad top px pad left pad border top px solid ccc td servicerequest pad top px pad left pad servicerequest span font weight bold color aaa p servicecategori font size pt color aaa 
+ note list servic includ activ entri june 
+ apach provid consult web server manag 
+ staff 
+ consult apach web server issu establish standard univers web server environ 
+ cost cost user 
+ averag complet time consult arrang pend staff meet space avail 
+ request 
+ campu web server administr request servic 
+ banner data warehous extract data 
+ faculti staff 
+ extract banner data warehous data 
+ cost cost user 
+ averag complet time depend project requir defin user 
+ request 
+ faculti staff request servic 
+ banner data warehous produc report 
+ faculti staff 
+ produc administr report base banner data warehous data pro c sql pl sql hyperion brio 
+ cost cost user 
+ averag complet time depend project requir defin user 
+ request 
+ faculti staff request servic 
+ banner provid tier i support special administr softwar 
+ staff 
+ consult analyz research support softwar banner applic modul appworx eprint intellecheck formfus onbas imag matrix uperform learn curv 
+ cost cost user 
+ averag complet time tier i support immedi problem resolut busi dai 
+ request 
+ staff request assist 
+ banner provid consult train 
+ faculti staff 
+ consult train introduct portal navig introduct common match gener person introduct popul select 
+ cost cost user 
+ averag complet time consult train arrang pend staff meet space avail 
+ request 
+ train session schedul semest faculti staff request consult addit train 
+ banner provid document 
+ faculti staff 
+ document banner includ special document consult user 
+ cost cost user 
+ averag complet time document pend staff avail 
+ request 
+ document onlin faculti staff request addit document 
+ banner provid support special administr softwar 
+ staff 
+ cost cost user 
+ averag complet time tier i support immedi problem resolut busi dai 
+ request 
+ staff request servic 
+ cabl tv instal connect 
+ faculti staff 
+ instal cabl tv connect 
+ cost time fee monthli fee 
+ averag complet time busi dai 
+ request 
+ faculti staff request servic 
+ cabl tv repair connect 
+ faculti staff 
+ repair cabl tv connect 
+ cost determin current equip cost call estim 
+ averag complet time busi dai 
+ request 
+ faculti staff request servic 
+ camera instal secur camera 
+ faculti staff 
+ instal secur camera 
+ cost determin current equip cost call estim 
+ averag complet time busi dai 
+ request 
+ faculti staff request servic 
+ clicker provid support train 
+ faculti 
+ support train clicker student respons tool classroom turn technolog offici clicker vendor univers memphi 
+ cost cost user 
+ averag complet time consult train arrang pend staff meet space avail receiv respons request busi dai 
+ request 
+ train session schedul semest faculti request consult addit train 
+ center teach learn 
+ contact umtech servic desk 
+ data monitor standard manag 
+ staff 
+ monitor conform busi rule agre dimens accuraci complet consist reason identifi assist etl tool extract transform load data 
+ cost cost user 
+ averag complet time depend project requir defin user 
+ request 
+ staff request servic 
+ databas design 
+ staff 
+ creat detail logic physic data model base client data model creat databas 
+ cost cost user 
+ averag complet time depend project requir defin user 
+ request 
+ staff request servic 
+ databas maintain 
+ staff 
+ complet databas mainten task involv manag databas ensur effici safeti exampl includ backup recoveri tune 
+ cost cost user 
+ averag complet time depend project requir defin user 
+ request 
+ staff request servic 
+ databas provid consult design mainten 
+ staff 
+ consult databas design mainten includ design system plan workshop seminar retreat confer relat project 
+ cost cost user 
+ averag complet time consult arrang pend staff meet space avail 
+ request 
+ staff request servic 
+ digit certif purchas 
+ lsp staff 
+ ssl certif offici univers memphi web server obtain block comodo cert purchas manag 
+ cost year certif year certif 
+ averag complet time busi dai vari vendor s valid process order cert dai expiri date 
+ request 
+ staff request servic 
+ certif csr email webservic memphi 
+ email add delet member group address 
+ staff 
+ add delet specif member exist group email address 
+ cost cost user 
+ averag complet time immedi inform sync instantli group reflect exchang ummail immedi 
+ request 
+ staff add delet user group email list 
+ group owner add delet member addit instruct 
+ asktom 
+ email creat group address 
+ faculti staff 
+ creat special group email address 
+ cost cost user 
+ averag complet time busi dai 
+ request 
+ faculti staff request special group email address submit request 
+ addit instruct 
+ asktom 
+ email creat larg scale campu email list 
+ faculti staff 
+ creat manag larg scale email distribut list list email distribut list semest group major colleg affili 
+ cost cost user 
+ averag complet time n 
+ request 
+ larg scale email distribut list creat updat automat email distribut list gener begin semest updat nightli base mymemphi enrol inform distribut list major colleg updat nightli base enrol inform mymemphi 
+ email filter spam junk email 
+ faculti staff student 
+ filter spam junk email virus spywar 
+ cost cost user 
+ averag complet time n 
+ request 
+ spam viral email filter automat addit increas amount spam junk mail filter inbox instruct 
+ asktom 
+ emerg technolog teach provid consult train 
+ faculti 
+ consult train emerg technolog teach includ web tool web base assess tool game simul 
+ cost cost user 
+ averag complet time consult train arrang pend staff meet space avail receiv respons request busi dai 
+ request 
+ train session schedul semest faculti request consult addit train 
+ center teach learn 
+ contact umtech servic desk 
+ hyperion brio sql pro c provid consult report product 
+ staff 
+ consult hyperion brio sql pro c report product banner data warehous data 
+ cost cost user 
+ averag complet time consult arrang pend staff meet space avail 
+ request 
+ staff request servic 
+ hyperion provid consult train 
+ faculti staff 
+ consult level train introduct intermedi advanc level report write 
+ cost cost user 
+ averag complet time consult train arrang pend staff meet space avail 
+ request 
+ train session schedul semest faculti staff request consult addit train 
+ hyperion provid document 
+ faculti staff 
+ document hyperion includ special document consult user 
+ cost cost user 
+ averag complet time document pend staff avail 
+ request 
+ document onlin faculti staff request addit document 
+ network data connect instal 
+ faculti staff 
+ instal network data connect 
+ cost time fee 
+ averag complet time busi dai 
+ request 
+ faculti staff request servic 
+ network data connect reloc 
+ faculti staff 
+ reloc network data connect 
+ cost determin current equip cost call estim 
+ averag complet time busi dai 
+ request 
+ faculti staff request servic 
+ network data connect repair 
+ faculti staff 
+ repair network data connect 
+ cost determin current equip cost call estim 
+ averag complet time busi dai 
+ request 
+ faculti staff request servic 
+ omniupd ou campu creat account 
+ staff 
+ ou campu web content manag account creation includ access permiss 
+ cost cost user 
+ averag complet time busi dai 
+ request 
+ staff request servic 
+ omniupd ou campu train 
+ staff 
+ train ou campu 
+ cost cost user 
+ averag complet time onlin train visit 
+ ou campu train 
+ request 
+ websit user contact market commun creat websit ou campu websit set staff request ou campu consult train 
+ oracl host databas 
+ staff 
+ oracl databas approv user campu oracl databas host share server environ locat manag data center develop test product environ manag oracl environ includ backup patch upgrad 
+ cost cost user 
+ averag complet time depend project requir defin user 
+ request 
+ staff request servic 
+ staff 
+ cost cost user 
+ averag complet time consult arrang pend staff meet space avail 
+ request 
+ campu web develop request servic 
+ phone chang displai 
+ faculti staff 
+ chang phone displai 
+ cost time fee 
+ averag complet time busi dai 
+ request 
+ faculti staff request servic 
+ phone delet extens 
+ faculti staff 
+ delet phone extens 
+ cost time fee 
+ averag complet time busi dai 
+ request 
+ faculti staff request servic 
+ phone instal extens 
+ faculti staff 
+ instal phone extens 
+ cost time fee jack present exist jack monthli fee depend phone model 
+ averag complet time busi dai 
+ request 
+ faculti staff request servic 
+ phone move extens 
+ faculti staff 
+ move phone extens 
+ cost time fee jack present exist jack 
+ averag complet time busi dai 
+ request 
+ faculti staff request servic 
+ phone program 
+ faculti staff 
+ program busi light indic autodi button bridg appear soft number phone tress call group 
+ cost determin labor cost call estim 
+ averag complet time busi dai 
+ request 
+ faculti staff request servic 
+ phone repair equip 
+ faculti staff 
+ repair phone equip 
+ cost determin current equip cost call estim 
+ averag complet time busi dai 
+ request 
+ faculti staff request servic 
+ phone upgrad downgrad equip 
+ faculti staff 
+ upgrad downgrad phone equip 
+ cost time fee current equip cost upgrad phone equip 
+ averag complet time busi dai 
+ request 
+ faculti staff request servic 
+ podcast central provid consult train 
+ faculti 
+ consult train podcast central 
+ cost cost user 
+ averag complet time consult train arrang pend staff meet space avail receiv respons request busi dai 
+ request 
+ train session schedul semest faculti request consult addit train 
+ center teach learn 
+ contact umtech servic desk 
+ podcast central provid document 
+ faculti 
+ document podcast central 
+ cost cost user 
+ averag complet time document pend staff avail receiv respons request busi dai 
+ request 
+ document onlin faculti request addit document 
+ respondu lock browser ldb studym provid consult train 
+ faculti 
+ consult train respondu ldb studym tool onlin test 
+ cost cost user 
+ averag complet time consult train arrang pend staff meet space avail receiv respons request busi dai 
+ request 
+ train session schedul semest faculti request consult addit train 
+ center teach learn 
+ contact umtech servic desk 
+ respondu lock browser ldb studym provid document 
+ faculti 
+ document respondu ldb studym 
+ cost cost user 
+ averag complet time document pend staff avail receiv respons request busi dai 
+ request 
+ document onlin faculti request addit document 
+ sql host server databas 
+ staff 
+ sql server databas approv user campu sql server databas host share server environ locat manag data center develop test product environ manag sql server environ includ backup patch upgrad 
+ cost cost user 
+ averag complet time depend project requir defin user 
+ request 
+ staff request servic 
+ sql provid consult object design 
+ staff 
+ consult sql object design includ trigger packag store procedur function 
+ cost cost user 
+ averag complet time consult arrang pend staff meet space avail 
+ request 
+ staff request servic 
+ server host mainten 
+ faculti staff 
+ server host secur manag facil addit servic os support equip mainten addit storag addit fee 
+ cost determin sla level server host free charg view price list 
+ averag complet time determin current sla 
+ request 
+ faculti staff request server host complet server level agreement server host servic 
+ smart classroom manag construct 
+ faculti staff lsp staff 
+ manag construct taf fund facil includ lab smart classroom 
+ cost cost user 
+ averag complet time dean taf committe approv fiscal year project june year client servic complet approv construct semest break project complet juli august 
+ request 
+ taf fund construct approv dean taf committe request taf fund construct smart classroom submit request dean colleg 
+ smart classroom provid consult train 
+ faculti staff 
+ consult train smart classroom equip 
+ cost cost user 
+ averag complet time consult train arrang pend staff meet space avail 
+ request 
+ train schedul begin semest request addit train faculti staff submit helpdesk ticket 
+ smart classroom repair equip 
+ faculti staff 
+ repair smart classroom equip includ comput station projector document camera dvd player 
+ cost cost user 
+ averag complet time busi dai 
+ request 
+ faculti staff request servic 
+ softwar access 
+ faculti staff student 
+ access taf licen softwar umwar 
+ cost cost user 
+ averag complet time immedi softwar remot access comput 
+ request 
+ student faculti staff special permiss access umwar request umwar report problem call umtech servic desk 
+ softwar distribut 
+ faculti staff 
+ distribut univers licens softwar cd dvd download packag 
+ cost determin softwar cost larg amount softwar faculti staff free charg view price list 
+ averag complet time determin softwar avail softwar applic download 
+ request 
+ faculti staff download current softwar request purchas softwar 
+ taf comput lab manag construct 
+ faculti staff lsp staff 
+ manag construct taf fund facilti includ lab smart classroom 
+ cost cost user 
+ averag complet time dean taf committe approv fiscal year project june year client servic complet approv construct semest break project complet juli august 
+ request 
+ taf fund construct approv dean taf committe request taf fund construct taf comput lab submit request dean colleg 
+ technolog account password chang 
+ faculti staff student 
+ synchron technolog account password enterpris platform includ activ directori exchang ummail umdriv mymemphi 
+ cost cost user 
+ averag complet time immedi inform sync instantli iam reflect enterpris system immedi 
+ request 
+ updat password 
+ chang password iam automat chang password enterpris platform includ activ directori exchang ummail umdriv mymemphi 
+ tigerlan creat standard imag deploi taf fund lab campu 
+ staff lsp staff 
+ tigerlan imag hardwar creat post prior start fall semest updat prior start spring semest requir dell optiplex latitud d e imag deploi lsp assign lab 
+ cost cost user 
+ averag complet time tigerlan imag week august st 
+ request 
+ tigerlan imag creat taf fund softwar automat year updat requir addit assist submit request 
+ tigerlan repair equip 
+ faculti staff 
+ repair tigerlan lab mcwherter learn common univers center tech hub equip includ desktop comput printer 
+ cost cost user 
+ averag complet time busi dai 
+ request 
+ faculti staff request servic 
+ student call umtech servic desk 
+ turnitin provid consult train 
+ faculti 
+ consult train turnitin academ integr tool 
+ cost cost user 
+ averag complet time consult train arrang pend staff meet space avail receiv respons request busi dai 
+ request 
+ train session schedul semest faculti request consult addit train 
+ center teach learn 
+ contact umtech servic desk 
+ umdriv creat group space 
+ faculti staff 
+ creat share group umdriv space 
+ cost cost user 
+ averag complet time busi dai 
+ request 
+ faculti staff request share umdriv space submit request 
+ umdriv increas account quota 
+ faculti staff 
+ increas umdriv account storag space 
+ cost cost user 
+ averag complet time busi dai 
+ request 
+ faculti staff request servic 
+ url creat custom 
+ lsp staff 
+ cost cost user 
+ averag complet time busi dai 
+ request 
+ staff request servic 
+ univers user identif uuid assign creat technolog account 
+ student 
+ assign uniqu uuid user link uuid enterpris platform includ activ directori exchang ummail umdriv mymemphi 
+ cost cost user 
+ averag complet time n 
+ request 
+ student submit request uuid student assign uuid automat admiss univers 
+ univers user identif uuid assign creat technolog account 
+ faculti staff 
+ assign uniqu uuid user link uuid enterpris platform includ activ directori exchang ummail umdriv mymemphi 
+ cost cost user 
+ averag complet time n 
+ request 
+ faculti staff submit request uuid faculti staff assign uuid automat employ contract process univers 
+ univers user identif uuid assign creat technolog account 
+ univers guest 
+ assign uniqu uuid user link uuid enterpris platform includ activ directori exchang ummail umdriv mymemphi 
+ cost cost user 
+ averag complet time busi dai 
+ request 
+ univers affili student faculti staff assign sponsor account sponsor account request current faculti staff member faculti staff member request account affili submit request 
+ addit instruct 
+ asktom 
+ univers technolog provid tier i support 
+ faculti staff student 
+ provid tier i support univers technolog helpdesk call center asktom 
+ cost cost user 
+ averag complet time tier i support immedi problem resolut busi dai 
+ request 
+ user contact umtech servic desk visit servic desk ad m f pm chat onlin servic desk agent m f pm 
+ univers technolog provid document 
+ faculti staff student 
+ document univers technolog 
+ cost cost user 
+ averag complet time document pend staff avail request receiv respons request busi dai 
+ request 
+ document onlin 
+ faculti staff request addit document 
+ uom white page wp memphi updat inform 
+ faculti staff 
+ synchron uom white page wp memphi inform mymemphi 
+ cost cost user 
+ averag complet time busi dai inform sync nightli mymemphi automat reflect white page dai 
+ request 
+ updat inform mymemphi portal 
+ chang inform mymemphi automat updat uom white page 
+ uom search engin provid consult 
+ staff 
+ consult topic improv searchabl web page identifi web page link web server domain ad remov specif web site search engin index u m enterpris search site 
+ host googl search servic 
+ cost cost user 
+ averag complet time consult arrang pend staff meet space avail 
+ request 
+ staff request servic 
+ virtual host creat 
+ lsp staff 
+ cost cost user 
+ averag complet time busi dai 
+ request 
+ staff request servic 
+ voicemail add 
+ faculti staff 
+ add voicemail phone line 
+ cost time fee 
+ averag complet time busi dai 
+ request 
+ faculti staff request servic 
+ voicemail delet 
+ faculti staff 
+ delet voicemail phone line 
+ cost time fee 
+ averag complet time busi dai 
+ request 
+ faculti staff request servic 
+ wimba provid consult train 
+ faculti 
+ consult train wimba voic tool onlin 
+ cost cost user 
+ averag complet time consult train arrang pend staff meet space avail receiv respons request busi dai 
+ request 
+ train session schedul semest faculti request consult addit train 
+ center teach learn 
+ contact umtech servic desk 
+ wireless access point instal 
+ faculti staff 
+ instal wireless access point 
+ cost determin current equip cost call estim 
+ averag complet time busi dai 
+ request 
+ faculti staff request servic 
+ wireless access point repair 
+ faculti staff 
+ repair wireless access point 
+ cost determin current equip cost call estim 
+ averag complet time busi dai 
+ request 
+ faculti staff request servic 
+ ecoursewar provid consult train 
+ faculti 
+ consult train ecoursewar onlin manag system 
+ cost cost user 
+ averag complet time consult train arrang pend staff meet space avail receiv respons request busi dai 
+ request 
+ train session schedul semest faculti request consult addit train 
+ center teach learn 
+ contact umtech servic desk 
+ umwiki provid consult train 
+ faculti 
+ consult train umwiki 
+ cost cost user 
+ averag complet time consult train arrang pend staff meet space avail receiv respons request busi dai 
+ request 
+ faculti request consult addit train 
+ umwiki provid consult train 
+ staff 
+ consult train umwiki 
+ cost cost user 
+ averag complet time consult train arrang pend staff meet space avail 
+ request 
+ staff request consult addit train 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ inform technolog servic 
+ administr 
+ bldg 
+ phone 
+ email umtech memphi 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

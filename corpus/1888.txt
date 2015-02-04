@@ -1,0 +1,224 @@
+ univers colleg faculti staff univers memphi 
+ univers colleg faculti staff univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ student resourc 
+ undergradu 
+ program 
+ graduat program 
+ experienti learn 
+ colleg 
+ faculti staff 
+ alumni 
+ form 
+ z list 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ cdata imag src share share rootsit imag applynow bw jpg 
+ cdata imag src share share rootsit imag default background jpg 
+ cdata imag src share share rootsit imag portal bw jpg 
+ faculti staff 
+ staff 
+ dr dan lattimor 
+ dean univers colleg 
+ dr joann gika 
+ assist dean univers colleg 
+ jgika memphi 
+ tiffani g johnson esq 
+ paraleg studi program coordin 
+ tgjohnsn memphi 
+ dr william akei 
+ associ dean 
+ wakei memphi 
+ lorrain meiner lovel 
+ senior project coordin 
+ lmnrslvl memphi 
+ dr keith d sisson 
+ graduat program coordin 
+ ksisson memphi 
+ sara william 
+ academ advisor 
+ sjwillia memphi 
+ dorothi hale 
+ academ advisor 
+ dmhale memphi 
+ jacquelyn cole 
+ graduat analyst 
+ jdcole memphi 
+ mari brignol 
+ academ advisor 
+ mbrignol memphi 
+ pat harri 
+ senior administr secretari 
+ paharr memphi 
+ mari crite 
+ rodp student affair coordin 
+ rodp onlin degre advisor 
+ mewart memphi 
+ jann may 
+ baccalaur contract advisor 
+ jmay memphi 
+ elizabeth buck 
+ offic associ 
+ ebuck memphi 
+ faculti 
+ b memphi state univers 
+ m s memphi state univers 
+ ed s memphi state univers 
+ ed d univers memphi 
+ assist professor 
+ leadership higher educ administr adult educ 
+ phone 
+ email wakei memphi 
+ dr william akei 
+ ph d st loui univers 
+ clinic assist professor 
+ child develop 
+ email klxnder memphi 
+ dr kimberli alexand 
+ b lambuth colleg 
+ m ed memphi state univers 
+ eng s univers mississippi 
+ d univers mississippi 
+ instructor 
+ english composit literatur liber studi 
+ phone 
+ email jhustin memphi 
+ dr joi hunter austin 
+ b univers pacif 
+ m univers pacif 
+ ed d univers pacif 
+ instructor 
+ develop adult 
+ email hhchun memphi 
+ dr han h chun 
+ b s lambuth univers 
+ m b union univers 
+ ed d candid univers memphi 
+ instructor 
+ human leadership market manag 
+ veteran coordin lambuth campu 
+ phone 
+ email hfreeman memphi 
+ dr hal freeman 
+ m s murrai state univers 
+ instructor 
+ famili commun american cinema basebal america 
+ phone 
+ email curthart memphi 
+ curt hart 
+ b b lambuth univers 
+ m b centenari colleg 
+ d b walden univers process 
+ instructor 
+ intern manag global profess senior project 
+ academ advisor lambuth campu 
+ phone 
+ email chill memphi 
+ cyndi hill 
+ b univers miami 
+ j d georgetown univers law center 
+ instructor 
+ legal research write legal internship tort 
+ phone 
+ email tgjohnsn memphi 
+ tiffani g johnson esq 
+ b wesleyan colleg 
+ m s nova southeastern univers 
+ ed d nova southeastern univers 
+ onlin instructor 
+ famili commun workplac divers project plan schedul 
+ email rlkrger memphi 
+ dr radi krueger 
+ m s memphi state univers 
+ ed d univers memphi 
+ instructor 
+ develop adult 
+ phone 
+ email hmccree memphi 
+ herb mccree 
+ b southeastern louisiana univers 
+ m univers memphi 
+ instructor 
+ senior project 
+ phone 
+ email lmnrslvl memphi 
+ lorrain meiner lovel 
+ m s w barri univers 
+ instructor 
+ famili commun 
+ email aanason memphi 
+ adelia nason 
+ b s univers tennesse 
+ m ed univers memphi 
+ assist professor 
+ fashion merchandis 
+ phone 
+ email maquinn memphi 
+ peggi ann quinn 
+ m univers texa 
+ m ed tarleton state univers 
+ ph d baylor univers 
+ clinic associ professor 
+ child develop 
+ phone 
+ email lrudd memphi 
+ dr loretta rudd 
+ b furman univers 
+ m div gordon conwel theolog school 
+ m vanderbilt univers 
+ ph d vanderbilt univers 
+ instructor 
+ famili commun compar christian 
+ email tarussel memphi 
+ dr thoma russel 
+ b univers memphi 
+ m univers memphi 
+ ph d univers memphi 
+ instructor 
+ research interdisciplinari studi 
+ graduat program coordin univers colleg 
+ phone 
+ email ksisson memphi 
+ dr keith d sisson 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

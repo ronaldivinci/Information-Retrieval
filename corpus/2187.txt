@@ -1,0 +1,348 @@
+ advanc placement tabl 
+ advanc placement tabl 
+ td font famili trebuchet ms arial helvetica verdana tahoma font size pt line height pt font style normal font weight normal font famili trebuchet ms arial helvetica verdana tahoma font size pt line height pt font style normal font weight bold background color ccc p font famili trebuchet ms arial helvetica verdana tahoma font size pt line height pt font style normal font weight normal 
+ univers memphi particip advanc placement program colleg entranc examin board elig credit student score 
+ ceeb advanc placement test 
+ inform univers memphi credit receiv subject area score earn view tabl 
+ subject area 
+ score 
+ 
+ subject credit 
+ gener educ 
+ semest hr 
+ art histori 
+ art 
+ n 
+ human 
+ art 
+ n 
+ human 
+ art 
+ n 
+ human 
+ art draw studio gener 
+ dept chair 
+ art unassign divis 
+ n 
+ dept chair 
+ art unassign divis 
+ n 
+ dept chair 
+ art unassign divis 
+ n 
+ biologi 
+ biologi 
+ n 
+ natur scienc sequenc 
+ biologi 
+ n 
+ natur scienc sequenc 
+ biologi 
+ n 
+ natur scienc sequenc 
+ chemistri 
+ chem 
+ n 
+ natur scienc sequenc 
+ chem 
+ n 
+ natur scienc sequenc 
+ chem 
+ n 
+ natur scienc full sequenc 
+ comput scienc seri 
+ comput unassign divis 
+ n 
+ comp 
+ comput unassign divis 
+ n 
+ comp 
+ comput unassign divis 
+ n 
+ comput scienc ab seri 
+ comp 
+ n 
+ comp 
+ comput unassign divis 
+ n 
+ comp 
+ comput unassign divis 
+ n 
+ econom macro 
+ econ 
+ n 
+ social behavior scienc 
+ econ 
+ n 
+ social behavior scienc 
+ econ 
+ n 
+ social behavior scienc 
+ subject area 
+ score 
+ 
+ subject credit 
+ gener educ 
+ semest hr 
+ econom micro 
+ econ 
+ n 
+ social behavior scienc 
+ econ 
+ n 
+ social behavior scienc 
+ econ 
+ n 
+ social behavior scienc 
+ english languag composit 
+ engl 
+ n 
+ english composit sequenc 
+ engl engl 
+ n 
+ english composit full sequenc 
+ engl engl 
+ n 
+ english composit full sequenc 
+ english literatur composit 
+ engl 
+ n 
+ english composit sequenc 
+ engl engl 
+ n 
+ english composit full sequenc 
+ intern english languag 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ n 
+ environment scienc 
+ n 
+ nasc una ld 
+ n 
+ n 
+ nasc una ld 
+ n 
+ n 
+ nasc una ld 
+ n 
+ govern pol american 
+ pol 
+ n 
+ social behavior scienc 
+ pol 
+ polit scienc unassign divis 
+ social behavior scienc 
+ pol 
+ polit scienc unassign divis 
+ social behavior scienc 
+ subject area 
+ score 
+ 
+ subject credit 
+ gener educ 
+ semest hr 
+ govern pol compar 
+ pol 
+ n 
+ social behavior scienc 
+ pol 
+ n 
+ social behavior scienc 
+ pol 
+ n 
+ social behavior scienc 
+ histori 
+ hist 
+ n 
+ histori 
+ hist hist 
+ n 
+ histori 
+ hist hist 
+ n 
+ histori 
+ histori european 
+ n 
+ histori unassign divis 
+ histori 
+ n 
+ histori unassign divis 
+ histori 
+ n 
+ histori unassign divis 
+ histori 
+ histori world 
+ hist 
+ n 
+ histori 
+ hist hist 
+ n 
+ histori 
+ hist hist 
+ n 
+ histori 
+ human geographi 
+ esci 
+ intro cultur geographi 
+ n 
+ esci 
+ intro cultur geographi 
+ n 
+ esci 
+ intro cultur geographi 
+ n 
+ french languag 
+ fren 
+ n 
+ n 
+ fren 
+ n 
+ n 
+ fren 
+ n 
+ n 
+ subject area 
+ score 
+ 
+ subject credit 
+ gener educ 
+ semest hr 
+ french literatur 
+ n 
+ french unassign divis 
+ n 
+ n 
+ french unassign divis 
+ n 
+ n 
+ french unassign divis 
+ n 
+ german languag 
+ germ 
+ n 
+ n 
+ germ 
+ n 
+ n 
+ germ 
+ n 
+ n 
+ japanes languag 
+ japn 
+ n 
+ n 
+ japn 
+ n 
+ n 
+ japn 
+ n 
+ n 
+ latin vergil 
+ n 
+ latin unassign divis 
+ n 
+ n 
+ latn una ld 
+ n 
+ n 
+ latn una ld 
+ n 
+ latin literatur 
+ n 
+ latin unassign divis 
+ n 
+ n 
+ latin unassign divis 
+ n 
+ n 
+ latin unassign divis 
+ n 
+ spanish languag 
+ span 
+ n 
+ n 
+ span 
+ n 
+ n 
+ span 
+ n 
+ n 
+ subject area 
+ score 
+ 
+ subject credit 
+ gener educ 
+ semest hr 
+ mathemat calculu ab seri 
+ math 
+ n 
+ mathemat 
+ 
+ math 
+ n 
+ mathemat 
+ mathemat calculu bc seri 
+ math 
+ n 
+ mathemat 
+ 
+ math 
+ n 
+ mathemat 
+ music theori 
+ mutc 
+ n 
+ n 
+ mutc 
+ n 
+ n 
+ mutc 
+ n 
+ n 
+ physic b seri 
+ phy 
+ n 
+ natur scienc sequenc 
+ phy 
+ n 
+ n 
+ phy 
+ n 
+ n 
+ physic c seri 
+ phy 
+ n 
+ n 
+ phy 
+ n 
+ natur scienc full sequenc 
+ phy 
+ n 
+ natur scienc full sequenc 
+ psycholog 
+ psyc uald 
+ n 
+ social behavior scienc 
+ psyc 
+ n 
+ social behavior scienc 
+ psyc 
+ n 
+ social behavior scienc 
+ statist 
+ math 
+ n 
+ mathemat 
+ math 
+ n 
+ mathemat 
+ math 
+ n 
+ mathemat 
+ updat 

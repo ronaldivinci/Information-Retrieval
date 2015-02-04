@@ -1,0 +1,56 @@
+ umdegre student univers memphi 
+ umdegre student univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ student 
+ advisor 
+ frequent ask question 
+ quick link 
+ outlook 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ student 
+ umdegre worksheet degre audit list inform current academ pursuit includ degre requir gener educ requir major requir concentr applic minor requir tool reflect student s academ record determin student successfulli complet graduat requir 
+ review worksheet semest prepar talk academ advisor list question 
+ readi advis appoint 
+ instruct find umdegre 
+ umdegre student instruct 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

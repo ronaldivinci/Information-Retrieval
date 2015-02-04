@@ -1,0 +1,273 @@
+ undergradu catalog comput engin univers memphi 
+ undergradu catalog comput engin univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ comput engin 
+ depart electr comput engin 
+ educ object comput engin program consist mision univers memphi program design provid student satisfi robust qualiti educ comput engin lead profession employ graduat level educ 
+ program educ object year graduat 
+ secur employ electr comput engin relat field 
+ advanc career measur promot salari career satisfact posit leadership award recognit entrepreneuri activ develop product process patent public 
+ continu learn knowledg acquir expertis measur post graduat educ continu educ profession registr 
+ contribut societi profess measur profession servic commun servic public servic 
+ pursuit object student enrol comput engin offer curriculum design provid background understand theoret physic principl comput hardwar softwar intent program produc graduat appli concept techniqu mathemat physic varieti analysi design applic comput engin addit graduat prepar commun idea succinctli oral written present 
+ laboratori facil wide varieti instruct research activ signific laboratori activ requir curriculum 
+ career opportun includ posit develop design research sale manag manufactur inform system technic area opportun relat comput applic inform system technolog mobil commun devic softwar develop comput hardwar design develop undergradu student approv depart chair select elect satisfi entranc requir medic school 
+ honor program student elig honor program comput engin maintain cumul gpa junior stand receiv approv department honor committe honor program comput engin requir minimum hour honor cours comput engin includ complet honor thesi eec student complet program regular b s c p e requir recogn commenc ceremoni degre confer honor comput engin student s diploma record univers memphi reflect accomplish detail program honor offer depart electr comput engin 
+ admiss 
+ admiss univers student pre comput engin major movement major requir complet cours list minimum grade c cours 
+ math chem phy eec comp eec engl 
+ monitor student s progress perform herff colleg engin academ advisor student forward academ depart advis cours satisfactorili complet 
+ pre comput engin major regist eec cours level except criteria discret depart chair 
+ graduat 
+ minimum requir degre bachelor scienc comput engin student satisfi univers colleg requir student obtain minimum grade c eec cours math chem comp phy equival cours satisfi degre requir transfer credit grade minimum grade c satisfi requir bachelor scienc comput engin waiver department graduat requir except circumst grant approv depart chair dean colleg engin designe 
+ minor 
+ student satisfi requir bachelor scienc comput engin satisfi requir minor offer depart colleg requir minor colleg depart student submit applic minor depart chair candid graduat satisfi requir minor file approv applic intent graduat card 
+ acceler b s c p e m s program comput engin 
+ program outstand undergradu coursework master scienc comput engin senior year student encourag plan enter acceler b s c p e m s program earli undergradu career consult advisor depart electr comput engin 
+ work undergradu graduat academ coordin undergradu select program carefulli tailor studi complet b s c p e degre coursework m s 
+ student appli graduat school acceler b s c p e m s program graduat cours comput engin continu program b s c p student appli full admiss graduat school electr comput engin depart s m s program 
+ abm program hour graduat work appli undergradu graduat program graduat coursework appli undergradu gpa 
+ comput engin major b s c p e 
+ gener educ hour 
+ 
+ graduat univers 
+ univers gener educ program requir note requir program commun engl comm mathemat math student math equival enrol math histori waiv b s c p e student complet unit histori high school social behavior scienc econ addit hour choic natur scienc phy 
+ b colleg degre requir hour 
+ mathemat hour math 
+ natur scienc hour chem 
+ c major hour 
+ major core hour complet eec eec comp eec comp eec 
+ elect hour comput engin breadth elect eec 
+ typic year comput engin sequenc 
+ freshman year 
+ engl 
+ engl 
+ math 
+ math 
+ eec 
+ phy 
+ chem 
+ eec comp 
+ human fine art 
+ semest total 
+ hr 
+ hr 
+ sophomor year 
+ eec 
+ comp 
+ math 
+ math 
+ phy 
+ eec 
+ comp 
+ eec 
+ c mp 
+ semest total 
+ hr 
+ hr 
+ junior year 
+ eec 
+ eec 
+ eec 
+ math 
+ eec 
+ eec 
+ eec 
+ eec 
+ math 
+ engl 
+ semest total 
+ hr 
+ hr 
+ senior year 
+ eec 
+ eec 
+ cpe breadth elect 
+ econ 
+ engl 
+ cpe breadth elect 
+ comp 
+ human fine art 
+ eec 
+ social behavior scienc 
+ semest total 
+ hr 
+ hr 
+ total hour 
+ total hour requir graduat 
+ satisfi univers gener educ program requir 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

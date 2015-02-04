@@ -1,0 +1,9 @@
+ navig form 
+ navig form 
+ function managecheck choic i deal categori box i categori box check document searchcast check true set uncheck document searchcast event check fals document searchcast credit check fals document searchcast announc check fals document searchcast research check fals categori box uncheck set check document searchcast event check true document searchcast credit check true document searchcast announc check true document searchcast research check true deal box box check uncheck categori choic check true document searchcast check fals box uncheck var otherboxescheck fals loop check categori box check document searchcast event check true otherboxescheck true document searchcast credit check true otherboxescheck true document searchcast announc check true otherboxescheck true document searchcast research check true otherboxescheck true otherboxescheck fals document searchcast check true 
+ search keyword 
+ categori 
+ heard campu 
+ featur cours 
+ new inform 
+ research 

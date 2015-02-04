@@ -1,0 +1,276 @@
+ undergradu catalog civil engin univers memphi 
+ undergradu catalog civil engin univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ civil engin 
+ depart civil engin 
+ civil engin program design equip student knowledg skill requir identifi solv technic problem societi practic ethic faculti commit teach inspir mentor student meet object graduat meet exce expect employ graduat prepar pursu obtain profession licens graduat prepar pursu advanc degre engin profession field 
+ civil engin graduat engag broad rang develop activ benefit civil engin profess commun civil engin program greatli enhanc divers student bodi span wide rang ag background nation 
+ civil engin program studi integr educ experi combin studi basic engin scienc human social scienc practic experi laboratori experiment problem solv engin design student pursu gener studi elect special water resourc concentr environment structur geotechn transport construct engin 
+ admiss 
+ admiss univers student pre civil engin major movement major requir complet cours list minimum grade c cours 
+ math chem civl civl engl 
+ monitor student s progress perform herff colleg engin academ advisor student forward academ depart advis cours satisfactorili complet 
+ pre civil engin major regist civl cours level except criteria discret depart chair 
+ graduat 
+ qualifi degre bachelor scienc civil engin student satisfi gener univers colleg requir minimum grade c engin scienc mathemat cours appli degre complet sequenc outlin credit transfer institut civil engin scienc mathemat cours minimum grade c appli degre waiver department graduat requir except circumst grant approv depart chair dean colleg engin designe 
+ honor program 
+ student elig honor program civil engin minimum gpa junior senior stand receiv approv department honor committe honor program civil engin requir hour upper divis honor cours student complet program regular b s c e requir recogn commenc ceremoni degre confer honor civil engin student s diploma record univers memphi reflect accomplish detail program honor offer depart civil engin 
+ acceler b s c e m s program civil engin 
+ program outstand undergradu earn bachelor s degre master s degre civil engin year graduat level technic elect count degre program specif student select program satisfi undergradu requir hour technic elect level cours count graduat degre program graduat coursework appli undergradu gpa 
+ student encourag plan enter acceler b s c e m s program earli undergradu career consult advisor depart civil engin student minimum gpa appli acceler program complet credit hour level civl work addit applic form student recommend undergradu academ advisor concurr depart chair graduat coordin depart civil engin order remain program student maintain gpa continu program b s c e degre student appli full admiss graduat school civil engin m s program 
+ civil engin major b s c e 
+ univers gener educ program hour 
+ 
+ graduat univers 
+ univers gener educ program requir note requir program commun engl comm mathemat math student math equival enrol math natur scienc phy histori waiv b s c e student complet unit american histori high school 
+ b colleg degre requir hour 
+ mathemat math natur scienc chem biol esci esci 
+ collater cours eec mech mech 
+ c major hour 
+ complet civl 
+ hour civil engin elect approv advisor select group group elect hour group 
+ group elect civl approv upper divis civil electr mechan engin 
+ b group elect civl 
+ student select cours concentr satisfi civil engin elect requir student declar concentr minimum hour concentr area requir 
+ construct engin civl 
+ environment engin civl 
+ geotechn engin civl 
+ structur engin civl 
+ transport engin civl 
+ typic year civil engin sequenc 
+ freshman year 
+ engl 
+ engl 
+ math 
+ math 
+ civl 
+ civl 
+ chem 
+ phy 
+ physic scienc 
+ semest total 
+ hr 
+ hr 
+ sophomor year 
+ engl 
+ civl 
+ math 
+ social behavior scienc 
+ phy 
+ human fine art 
+ civl 
+ math 
+ civl 
+ mech 
+ civl 
+ semest total 
+ hr 
+ hr 
+ junior year 
+ civl 
+ civl 
+ civl 
+ civl 
+ civl 
+ civl 
+ civl 
+ engl 
+ human fine art 
+ civl 
+ civl 
+ civl 
+ semest total 
+ hr 
+ hr 
+ senior year 
+ civl 
+ civl 
+ social behavior scienc 
+ civl 
+ civl 
+ civl elect grp 
+ civl 
+ civl elect grp 
+ civl elect grp 
+ civl elect grp 
+ semest total 
+ hr 
+ hr 
+ total hour 
+ total hour requir graduat 
+ satisfi univers gener educ program requir 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

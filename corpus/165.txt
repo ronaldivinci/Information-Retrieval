@@ -1,0 +1,68 @@
+ center partnership gi cpgi univers memphi 
+ center partnership gi cpgi univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ home 
+ servic 
+ current project 
+ gi technician 
+ cpgi staff 
+ event 
+ quick link 
+ uofm homepag 
+ engin homepag 
+ engin op 
+ outlook 
+ ebursar 
+ ecoursewar um 
+ tom 
+ campu map 
+ umdriv 
+ contact 
+ depart 
+ biomed 
+ civil 
+ electr comput 
+ engin tech 
+ mechan 
+ imag src share share rootsit imag hover background jpg 
+ cpgi 
+ center partnership gi cpgi dedic understand applic advanc gi technolog scienc manag spatial resourc system cpgi focus increas broader util gi research educ demonstr problem solv applic gi scienc real world commun project 
+ cpgi fortun hous support univers memphi univers memphi esri gi servic platform campu wide classroom instruct faculti student addit provid state art offic space technolog support univers encourag multidisciplinari integr engin earth scienc urban plan transport special disciplin cadr 
+ cpgi staff 
+ cpgi offer free technic user assist faculti graduat undergradu student instruct seminar faculti public privat practition gi research technic compon esri softwar 
+ multidisciplinari team faculti student student student mentor cpgi work model provid academ support servic advanc scientif research facilit commun orient project design complet contract work contractu 
+ servic 
+ includ gi data migrat legaci system spatial analys mobil data collect web develop interact map broad scope research contractu servic cpgi proven highli recogn partnership univers local state feder govern profit organ privat industri 
+ center partnership gi invit 
+ free seminar 
+ cpgi event page 
+ find gi seminar 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ contact herff colleg engin 
+ engin administr bldg memphi tn phone fax 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

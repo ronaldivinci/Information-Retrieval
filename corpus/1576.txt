@@ -1,0 +1,332 @@
+ undergradu catalog physic univers memphi 
+ undergradu catalog physic univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ physic 
+ depart physic 
+ physic major b s 
+ program object b s physic knowledg core principl classic mechan electromagnet thermal physic quantum mechan mathemat method optic modern physic b abil discrimin relev irrelev principl fact problem solv c understand research methodolog physic d abil effect commun scientif result oral written report e abil comput data analysi literatur search scientif write abil special research equip f abil collabor student laboratori problem solv 
+ univers gener educ program hour 
+ 
+ graduat univers 
+ univers gener educ program requir note requir physic major mathemat math natur scienc chem 
+ b colleg degre b s requir hour 
+ 
+ colleg bachelor scienc requir 
+ addit univers gener educ program requir list 
+ c major hour addit univers gener educ program b s degre requir 
+ complet phy phy accept recommend chem chem cours includ univers gener educ program requir math includ univers gener educ program requir math math equival cours 
+ concentr 
+ gener physic hour phy hour elect phy cours upper divis 
+ b materi scienc hour phy phy mech mech civl 
+ d elect 
+ elect chosen bring total number hour 
+ e dual degre program 
+ highli motiv talent student pursu undergradu degre b s physic graduat m s physic biomed engin special year program option requir commit care plan student s advisor summer research work lead master s thesi student interest pursu option contact undergradu advisor physic depart 
+ f major engin student 
+ total twenti semest hour phy phy count engin degre requir engin major biomed civil comput electr mechan engin student cours satisfi degre requir program major physic engin disciplin detail contact depart physic physic web site 
+ g major bachelor scienc degre 
+ total twenti semest hour phy phy requir primari major student b s degre grant depart cours satisfi degre requir program major physic disciplin detail contact depart physic check physic websit 
+ physic minor 
+ complet semest hour physic cours includ phy phy accept recommend addit upper divis hour 
+ honor program 
+ program open physic major maintain grade point averag physic achiev junior stand complet phy student admit honor program complet hour upper divis physic honor cours phy honor research physic student conduct origin scholarli work direct honor research advisor phy senior honor thesi student write thesi base background read experiment research complet phy phy senior honor seminar student give present base work complet phy 
+ student complet physic honor program regular colleg requir recogn commenc ceremoni degre confer honor physic student s diploma record univers memphi reflect distinct 
+ acceler b s m s program physic 
+ program outstand undergradu coursework master scienc physic senior year student encourag plan enter acceler b s m s program earli undergradu career consult advisor depart physic 
+ work undergradu graduat academ coordin undergradu select program carefulli tailor studi complet b s degre coursework m s 
+ student appli graduat school acceler b s m s program graduat cours physic continu program b s student appli full admiss graduat school physic depart s m s program 
+ abm program hour graduat work appli undergradu graduat program graduat coursework appli undergradu gpa 
+ typic year physic sequenc 
+ gener physic concentr 
+ freshman year 
+ phy 
+ phy 
+ math 
+ math 
+ foreign languag b s 
+ foreign languag b s 
+ engl 
+ engl 
+ semest total 
+ hr 
+ hr 
+ sophomor year 
+ phy 
+ phy 
+ math 
+ math 
+ chem 
+ human 
+ comm 
+ chem 
+ social behavior scienc 
+ semest total 
+ hr 
+ hr 
+ junior year 
+ phy 
+ phy 
+ phy 
+ phy 
+ phy 
+ phy 
+ histori 
+ histori 
+ social behavior scienc 
+ human 
+ engl 
+ social scienc b s 
+ semest total 
+ hr 
+ hr 
+ senior year 
+ phy 
+ ud phy 
+ ud phy 
+ ud phy 
+ ud elect 
+ elect 
+ human b 
+ elect 
+ elect 
+ elect 
+ semest total 
+ hr 
+ hr 
+ total hour 
+ total hour requir graduat 
+ satisfi univers gener educ program requir 
+ typic year physic sequenc 
+ materi scienc concentr 
+ freshman year 
+ phy 
+ phy 
+ math 
+ math 
+ foreign languag b s 
+ foreign languag b s 
+ engl 
+ engl 
+ semest total 
+ hr 
+ hr 
+ sophomor year 
+ phy 
+ phy 
+ math 
+ math 
+ chem 
+ chem 
+ comm 
+ fine art 
+ social behavior scienc 
+ semest total 
+ hr 
+ hr 
+ junior year 
+ phy 
+ phy 
+ phy 
+ phy 
+ histori 
+ phy 
+ engl 
+ histori 
+ social behavior scienc 
+ human fine art 
+ semest total 
+ hr 
+ hr 
+ senior year 
+ phy 
+ phy 
+ phy 
+ phy 
+ ud phy mech civl 
+ ud social scienc b s 
+ human b s 
+ elect 
+ elect 
+ elect 
+ semest total 
+ hr 
+ hr 
+ total hour 
+ total hour requir graduat 
+ satisfi univers gener educ program requir 
+ phy mech mech civl 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

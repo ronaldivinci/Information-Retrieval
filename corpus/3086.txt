@@ -1,0 +1,83 @@
+ commun depart depart univers memphi 
+ commun depart depart univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ undergradu student 
+ graduat student 
+ depart 
+ peopl 
+ alumni friend 
+ new 
+ event 
+ wumr 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ depart 
+ contact 
+ depart colleg commun fine art depart commun includ full time faculti member graduat student ma phd undergradu major 
+ offer undergradu 
+ commun studi 
+ concentr main campu lambuth campu onlin 
+ film video product 
+ concentr main campu 
+ 
+ graduat program 
+ main campu includ ma film video product ma phd commun emphas rhetor health commun media 
+ mission prepar place gener s scholar leader 
+ learn depart s area 
+ film video product 
+ health commun 
+ media technolog societi 
+ rhetor polit societi 
+ leroi g dorsei 
+ professor depart chair 
+ depart commun 
+ univers memphi 
+ art commun build 
+ memphi tn 
+ phone 
+ fax 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

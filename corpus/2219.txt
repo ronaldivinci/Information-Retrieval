@@ -1,0 +1,305 @@
+ undergradu catalog pol univers memphi 
+ undergradu catalog pol univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ pol 
+ pol polit scienc 
+ matthia kaelber ph d chair 
+ room clement hall 
+ addit cours depart offer special topic cours 
+ pol special topic contemporari polit 
+ topic contemporari signific polit 
+ pol special topic polit scienc 
+ intens studi select topic polit scienc 
+ pol american govern 
+ develop structur process american system govern includ frame principl u s constitut bill right structur role presid congress suprem court citizen particip govern g 
+ pol intro ancient polit thgt 
+ inquiri fundament question ancient polit thought rule justic good polit order duti citizen foundat moral g 
+ pol intro modern polit thought 
+ inquiri fundament question modern polit thought origin polit societi proper right citizen legitim purpos govern mean justic good societi g 
+ pol intro compar polit 
+ comparison institut issu process polici varieti polit system rang european asian african countri g 
+ pol intern relat 
+ consider major form polit interact conflict competit cooper global actor world arena g 
+ pol religion polit 
+ survei role religion religi belief polit emphas role religi institut intern arena nation polit effect religion behavior polit belief prerequisit pol permiss instructor 
+ pol state local govern 
+ role state govern feder system polit institut elect organ function problem state govern emphasi tennesse govern prerequisit pol permiss instructor 
+ pol intro public polici 
+ public polici formul process major substant area polici concern america emphasi framework identifi analyz substanc public problem polici make polici administr prerequisit pol permiss instructor 
+ pol interest group amer polit 
+ role impact interest group american polit system includ group theori tactic group relationship government institut prerequisit pol permiss instructor 
+ pol polit parti elect 
+ polit parti elect american polit system emphasi parti organ activ campaign strategi techniqu vote behavior parti system prerequisit pol permiss instructor 
+ pol polit media 
+ interact polit world commerci media emphas varieti method polit elit influenc polit percept prerequisit pol permiss instructor 
+ pol american presid 
+ contemporari american presid constitut root growth presidenti power role persuas reput prestig shape foreign domest polici presidenti elect conflict execut legisl judici branch prerequisit pol permiss instructor 
+ pol judici process 
+ judici select civil crimin trial procedur organ state feder court u s suprem court decis make process issu surround judici review prerequisit pol permiss instructor 
+ pol u s congress 
+ origin organ function activ u s congress prerequisit pol permiss instructor 
+ pol public opinion 
+ explor polit attitud behavior examin topic sourc polit knowledg polit attitud form chang public opinion measur peopl vote 
+ pol west europ govt polit 
+ compar studi select polit system western european state prerequisit pol 
+ pol latin american govt polit 
+ form organ function oper govern latin america emphasi develop polit institut present dai trend prerequisit pol 
+ pol govt polit mid east 
+ analysi organ function govern area domin tenet islam examin origin develop arab isra conflict prerequisit pol 
+ pol polit develop world 
+ analysi polit countri develop world emphasi histor pattern state develop structur institut pattern polit particip polici make 
+ pol human right world polit 
+ histori conceptu underpin modern concept human right human right intern law polit econom factor affect extent govern meet human right legal oblig actual human right practic condit countri specif challeng evid base human right research 
+ pol polit develop world 
+ explor polit region countri typic label develop democrat corrupt role militari polit debt poverti conflict global activ government organ 
+ pol polit global 
+ analysi major theori polit implic global order disord global system polici make govern global system 
+ pol power polit state 
+ examin major conceptu tradit analysi state 
+ pol legal pol thght classic 
+ question justic relat law polit emphas confront classic modern view prerequisit phil phil pol pol permiss instructor 
+ pol legal polit thght modern 
+ question justic relat law polit emphas confront earli modern prerequisit phil phil pol pol permiss instructor 
+ pol intro law jurisprud 
+ sourc function process law prerequisit phil phil pol pol permiss instructor 
+ pol contemporari polit thght 
+ studi polit thought st centuri 
+ pol feminist polit theori 
+ fundament question concept school thought contemporari feminist polit thought 
+ pol race polit u s 
+ examin complex contest polit race racism unit state topic includ civil right integr immigr law crimin justic system mean nativ american sovereignti 
+ pol intern organ 
+ theori concept organ intern polici focus institut formal inform intern interact occur prerequisit pol permiss instructor 
+ pol american foreign polici 
+ domest sourc implement content u s foreign polici prerequisit pol 
+ pol contmp prblm intl relat 
+ studi problem area world polit repeat credit chang content prerequisit pol permiss instructor 
+ pol civil right era vra 
+ analysi polit process involv passag vote right act implic process civil right vote right unit state 
+ pol polit statist 
+ padm introduct analysi quantit data statist hypothesi test field polit scienc public health administr 
+ pol envrnmntl law polici regulatn 
+ survei princip feder law polici regul environment protect 
+ pol const law nation power 
+ relationship control branch natur divis power nation state emphasi role suprem court arbit constitut system prerequisit pol permiss instructor 
+ pol const law civil liberti 
+ background role legitim extent civil right liberti unit state prerequisit pol permiss instructor g 
+ pol urban polit 
+ role process polit govern urban america contest global social econom influenc citi suburb 
+ pol issu urban polit 
+ select issu urban polit polici 
+ pol legisl intern 
+ supervis internship work tennesse gener assembl legisl bodi current legisl program seminar session discuss analyz problem intern work repeat total credit s u prerequisit permiss depart 
+ pol admin internship 
+ padm supervis internship work administr branch nation state local govern seminar session discuss analyz problem intern work repeat maximum hour credit prerequisit permiss depart 
+ pol govt pol communist china 
+ institut govern polit process polit elit polit group polit social communist china prerequisit pol 
+ pol revolut polit violenc 
+ compar analysi form polit violenc nation revolut ethnic conflict secessionist movement terror prerequisit pol 
+ pol democrat transit 
+ comparison transit authoritarian rule democraci latin america asia africa eastern europ consider institut design democraci impact cultur democrat transit consolid prerequisit pol 
+ pol re studi 
+ supervis field research studi select foreign countri repeat maximum hour credit prerequisit permiss depart 
+ pol origin dev amer pol thought 
+ origin develop polit thought unit state coloni present time emphasi relat polit thought polit institut practic prerequisit phil phil pol pol permiss instructor g 
+ pol african pol thght 
+ thought repres african american fundament question justic persuas power accommod prior twentieth centuri prerequisit pol 
+ pol african pol tht 
+ thought repres african american fundament question justic persuas power accommod twentieth centuri prerequisit pol 
+ pol intern law 
+ natur scope duti right evolutionari trend intern law prerequisit pol permiss instructor 
+ pol prob american foreign polici 
+ studi problem american foreign polici repeat maximum credit hour permiss instructor prerequisit pol 
+ pol theori internatl relat 
+ theoret approach studi intern polit consider school thought method substant literatur prerequisit pol permiss instructor 
+ pol polit global economi 
+ consider manner polit process affect affect econom process global level prerequisit pol permiss instructor 
+ pol intern secur 
+ explor major issu topic intern secur studi form conflict diplomaci prolifer weapon insecur human be intern system 
+ pol global environment polit 
+ explor major issu topic polit global environ includ govern global environ multilater agreement issu sustain environment justic 
+ pol polici perspect 
+ senior capston seminar requir student analyz solv seri problem public polici student draw subfield disciplin util varieti skill method address issu domest foreign compar polici prerequisit hour polit scienc cours prerequisit pol permiss instructor 
+ pol independ studi 
+ independ investig research problem direct read select area polit scienc tutori supervis member polit scienc faculti repeat maximum hour credit prerequisit permiss depart chair 
+ pol mock trial 
+ experienti learn u s legal system jurisprud trial court procedur work attornei repeat maximum hour credit prerequisit permiss instructor 
+ pol polit histori israel 
+ jdst interdisciplinari studi polit stage develop state israel mid centuri current time attent paid kei figur zionist movement 
+ pol senior thesi 
+ independ research project conduct direct faculti supervisor prerequisit permiss instructor 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

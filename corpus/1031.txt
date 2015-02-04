@@ -1,0 +1,70 @@
+ univers memphi univers librari librari catalog search 
+ univers memphi univers librari librari catalog search 
+ function mm reloadpag init reload window nav resiz init true navig appnam netscap parseint appvers document mm pgw innerwidth document mm pgh innerheight onres mm reloadpag innerwidth document mm pgw innerheight document mm pgh locat reload mm reloadpag true function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ univers librari 
+ search 
+ librarian 
+ librari account 
+ var libchat btn iid kei e aca eb f domain libansw memphi star rate fals depart id 
+ search librari catalog 
+ keyword 
+ author 
+ titl 
+ subject 
+ number 
+ advanc search 
+ articl journal 
+ articl quicksearch 
+ databas 
+ journal titl 
+ librari 
+ librari account 
+ librarian 
+ comment 
+ addit 
+ catalog 
+ reserv 
+ search 
+ instructor search 
+ univers librari 
+ univers memphi 
+ resourc 
+ databas 
+ interlibrari loan illiad 
+ librari catalog 
+ refwork 
+ worldcat version 
+ catalog classic 
+ search 
+ type number find press enter kei click submit 
+ search 
+ search 
+ function iiidosubmit getformhandleform common js var obj getformhandleform obj submit 
+ getformhandleform common js var evtobj getformhandleform document layer document captureev event keyup document onkeyup function evt evt evt window event var keycod evt keycod evt evt keycod keycod evt keycod var targ evt target targ evt target evt srcelement targ evt srcelement targ nodetyp safari bug targ targ parentnod targ form targ targ form alert targ targ evtobj evtobj keycod targ evtobj iiidosubmit 
+ type begin code 
+ e 
+ eng 
+ engl 
+ brows reserv materi librari locat click 
+ univers memphi librari 
+ mcwherter librari 
+ law librari 
+ math librari 
+ music librari 
+ materi perman reserv brows collect click 
+ 
+ print 
+ question librarian 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ imag courtesi 
+ bridg materi type icon set project 
+ 
+ nova southeastern univers 
+ var pagetrack gat gettrack ua pagetrack trackpageview catch err 
+ var linktagg olt ga js linktagg settagdownload true linktagg setdownloadextens doc docx pdf mp linktagg settagoutbound true linktagg settagmailto true linktagg tag 

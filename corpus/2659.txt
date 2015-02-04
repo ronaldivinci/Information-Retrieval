@@ -1,0 +1,91 @@
+ brand standard depart ident univers memphi 
+ brand standard depart ident univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex sfhover function var sfel document getelementbyid nav getelementsbytagnam li var i i sfel length i sfel i onmouseov function classnam sfhover sfel i onmouseout function classnam classnam replac regexp sfhover b window attachev window attachev onload sfhover 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ introduct 
+ brand 
+ signatur 
+ brand color 
+ clearanc 
+ depart ident 
+ compat typefac 
+ brand extens 
+ posit statement 
+ prohibit reproduct 
+ stationeri 
+ busi card 
+ letterhead 
+ envelop 
+ collater code system 
+ affirm action statement 
+ download logo 
+ e mail templat 
+ powerpoint templat 
+ publish templat 
+ faq 
+ quick link 
+ outlook 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ depart ident 
+ brand 
+ voic face creat vari ident counter object confus public specif colleg school depart center offic similar entiti print individu logo lieu addit univers logo publish materi previous develop logo colleg banner commenc 
+ group repres placement bodi type beneath logo shown left depart typeset formata regular flush left standard kern point size letter m posit word memphi minimum clear space 
+ department name smaller point i e wordmark department logo measur wide extend line length word memphi depart set color univers wordmark 
+ department longer singl line space line break occur lead set type size department shorter full singl line kern adjust fill line space 
+ receiv digit copi department ident call area s market manag 
+ note imag 
+ save reproduc 
+ shown inform purpos visit offici logo 
+ download page 
+ copi u m wordmark 
+ note 
+ break depart school line avoid awkward phraseolog 
+ offic commun 
+ public relat market 
+ administr build 
+ memphi tn 
+ phone 
+ fax 
+ e mail 
+ logo memphi 
+ pdf version brand standard 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

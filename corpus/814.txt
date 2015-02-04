@@ -1,0 +1,82 @@
+ iso student univers memphi 
+ iso student univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ transfer student 
+ student 
+ student organ 
+ social secur incom 
+ tax inform 
+ insur inform 
+ employ 
+ practic train 
+ tip graduat 
+ link 
+ faq 
+ iso 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ student 
+ student 
+ intern student offic part center intern program servic student passport visa work author sevi health insur inform essenti f visa holder campu 
+ enter unit state attend univers memphi form i ab assist secur f visa send e mail request sevi number advanc i s arriv book consul appoint 
+ unit state receiv i ab campu check offic 
+ intern student contact intern student offic immedi arriv univers memphi 
+ locat brister basement student f visa regist class complet mandatori check requir intern student offic 
+ arriv u s port entri student expect 
+ immigr rule pertain intern student 
+ term student 
+ resid life offic campu hous 
+ adult commut student servic offic campu hous 
+ campu map 
+ i inform 
+ featur link 
+ insur faq 
+ hous inform 
+ social secur inform 
+ student organ link 
+ websit interest 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

@@ -1,0 +1,73 @@
+ sac univers memphi 
+ sac univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ meet board 
+ sac committe 
+ join sac 
+ event 
+ homecom 
+ contact 
+ student involv 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ 
+ student activ council sac 
+ mission purpos 
+ sac program event servic univers memphi commun focus social physic intellectu emot develop promot divers strive improv qualiti student life univers memphi 
+ event 
+ view upcom sac event click 
+ event 
+ tab top left 
+ sac event 
+ free 
+ open student activ fee work bring varieti music comedi lectur cultur event movi awar week social gather opportun relax 
+ follow twitter 
+ uofmsac 
+ quot quot 
+ i sac student activ council 
+ facebook frequent updat semest student activ fee work 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

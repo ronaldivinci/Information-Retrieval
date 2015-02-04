@@ -1,0 +1,893 @@
+ umtech z list univers memphi 
+ umtech z list univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ cdata function popup helpwin var x helpwin window window close popwin window open x width height screenx screeni resiz scrollbar depend popwin focu popwin window open x width height screenx screeni resiz scrollbar depend popwin focu style tab margin left px style 
+ ident manag 
+ e mail 
+ network registr 
+ umdriv 
+ wireless print 
+ softwar 
+ hardwar 
+ find technolog 
+ ecoursewar 
+ student 
+ enter helpdesk request 
+ submit feedback 
+ view servic statu 
+ umtech 
+ train document 
+ center teach 
+ learn 
+ homepag 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ z list 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ 
+ adob connect 
+ asktom 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ b 
+ bucklei ferpa 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ c 
+ clicker person respons system 
+ cm 
+ redesign fellowship 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ d 
+ d l 
+ desir learn 
+ desir learn highlight 
+ depart aid ecoursewar 
+ downtim alert 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ e 
+ ecampu 
+ ecoursewar copi compon 
+ ecoursewar d l upgrad 
+ ecoursewar depart aid 
+ ecoursewar faculti start guid 
+ ecoursewar faculti guid 
+ ecoursewar student guid 
+ ecoursewar cours search 
+ ecoursewar role permiss chart 
+ educaus 
+ eduventur 
+ emerg text 
+ engag student seri 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ f 
+ faculti senat 
+ ferpa 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ g 
+ gartner research 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ h 
+ helpdesk 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ i 
+ iam 
+ idt studio 
+ resourc list 
+ itir 
+ itunesu 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ j 
+ entri letter j 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ 
+ entri letter 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ l 
+ learn curv 
+ live 
+ lsp contact list 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ m 
+ mcgraw hill integr ecoursewar 
+ mymemphi 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ n 
+ network servic 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ o 
+ outlook 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ p 
+ podcast central 
+ portal 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ q 
+ qualtric survei tool 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ r 
+ recommend teach learn tool list 
+ respondu lockdown browser faculti 
+ respondu lockdown browser student 
+ respondu studym 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ s 
+ smart classroom 
+ softchalk 
+ softwar request 
+ survei tool qualtric 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ t 
+ tigerlan 
+ tigertext 
+ tlac 
+ turnitin academ integr softwar 
+ turn technolog clicker 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ u 
+ umdriv 
+ ummeet 
+ umwiki 
+ user id usernam uuid 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ 
+ vpn virtual privat network 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ w 
+ wireless access 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ x 
+ entri letter x 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ y 
+ entri letter y 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ z 
+ entri letter z 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ top 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ inform technolog servic 
+ administr 
+ bldg 
+ phone 
+ email umtech memphi 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

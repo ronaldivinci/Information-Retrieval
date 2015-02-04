@@ -1,0 +1,116 @@
+ extend program bartlett campu univers memphi 
+ extend program bartlett campu univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex sfhover function var sfel document getelementbyid nav getelementsbytagnam li var i i sfel length i sfel i onmouseov function classnam sfhover sfel i onmouseout function classnam classnam replac regexp sfhover b window attachev window attachev onload sfhover 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu class 
+ gener inform 
+ bartlett 
+ colliervil 
+ covington 
+ dyersburg 
+ millington 
+ west tennesse 
+ public servic 
+ profession continu educ 
+ tennesse beauti 
+ extend program 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ bartlett campu 
+ contact inform 
+ appl road middl school 
+ appl road 
+ bartlett tn 
+ click map 
+ summer cours list 
+ fall cours list 
+ term 
+ 
+ titl 
+ crn 
+ dai 
+ time 
+ instructor 
+ cla 
+ mytholog 
+ t 
+ pm 
+ pm 
+ patrick 
+ mcfadden 
+ coun 
+ human interact 
+ m 
+ pm 
+ pm 
+ kellei 
+ barnett 
+ engl 
+ literari heritag 
+ r 
+ pm 
+ pm 
+ eileen 
+ hinder 
+ engl 
+ practic english grammar 
+ m 
+ pm 
+ pm 
+ eileen 
+ hinder 
+ math 
+ foundat mathemat 
+ t 
+ pm 
+ pm 
+ marko 
+ puljic 
+ math 
+ colleg algebra 
+ m 
+ pm 
+ pm 
+ meenakshi 
+ rajagopalan 
+ nutr 
+ nutrit 
+ w 
+ pm 
+ pm 
+ toni 
+ woodson 
+ soci 
+ racial ethnc minor 
+ w 
+ pm 
+ pm 
+ earnest 
+ field 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

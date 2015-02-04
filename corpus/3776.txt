@@ -1,0 +1,94 @@
+ registrar enrol verif request univers memphi 
+ registrar enrol verif request univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ regist class 
+ student info 
+ veteran info 
+ faculti staff info 
+ parent info 
+ form 
+ registrar z list 
+ contact 
+ admiss 
+ financi aid 
+ scholarship 
+ pai fee bursar 
+ tom 
+ univers memphi 
+ quick link 
+ campu map 
+ class search 
+ data standard 
+ ferpa tutori 
+ grade 
+ iam 
+ semest calendar 
+ servic faculti 
+ servic student 
+ um event calendar 
+ veteran educ benefit 
+ withdraw um 
+ enrol verif request 
+ servic request enrol verif current term enrol histori 
+ check statu request 
+ click student tab login portal 
+ locat banner servic channel expand banner servic student student record folder click folder icon request enrol verif link click link 
+ initi enrol verif screen appear definit verif type top screen enter basic select 
+ term 
+ select term drop box 
+ verif type 
+ select 
+ pre term 
+ current enrol 
+ enrol histori 
+ 
+ term grade report 
+ number copi 
+ number 
+ click 
+ continu 
+ enrol verif deliveri screen appear select deliveri method verif click continu 
+ address screen appear address fax number 
+ address earlier request mail hold pick option select address file enter address 
+ note 
+ address need hold pick registrar s offic mail verif case fail pick 
+ fax number earlier request fax option 
+ click continu button 
+ summari enrol verif request appear previou screen correct click submit request 
+ confirm request signatur screen appear 
+ logout click logout icon upper hand corner screen finish portal 
+ student servic guid 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ admiss 
+ financi aid 
+ registrar 
+ scholarship 
+ offic registrar wilder tower memphi 
+ tn 
+ ph fx 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

@@ -1,0 +1,119 @@
+ univers memphi depart chemistri faculti 
+ univers memphi depart chemistri faculti 
+ function return 
+ um chemistri 
+ faculti 
+ william alexand 
+ assist professor 
+ offic sm phone 
+ e mail 
+ wlxnder memphi 
+ daniel l baker 
+ associ professor 
+ offic sm phone 
+ e mail 
+ dlbaker memphi 
+ peter bridson 
+ associ professor 
+ offic sm phone 
+ e mail 
+ pbridson memphi 
+ theodor ted j burkei 
+ professor 
+ offic sm phone 
+ e mail 
+ tburkei memphi 
+ randi buddington 
+ professor 
+ offic fh phone 
+ e mail 
+ rbddngtn memphi 
+ chhabil dass 
+ emeritu professor 
+ offic phone 
+ e mail 
+ cdass memphi 
+ gari l emmert 
+ interim chair 
+ professor 
+ offic sm phone 
+ e mail 
+ gemmert memphi 
+ donald r franceschetti 
+ univers professor 
+ offic mn phone 
+ e mail 
+ dfrncsch memphi 
+ mark b freilich 
+ associ professor 
+ offic sm phone 
+ e mail 
+ mfreilch memphi 
+ tomoko fujiwara 
+ associ professor 
+ offic sm phone 
+ e mail 
+ tfjiwara memphi 
+ larri w houk 
+ emeritu professor 
+ offic sm phone 
+ e mail 
+ lhouk memphi 
+ xiaohua huang 
+ assist professor 
+ offic sm phone 
+ e mail 
+ xhuang memphi 
+ henri kurtz 
+ professor 
+ offic sm phone 
+ e mail 
+ hkurtz memphi 
+ ying sing li 
+ professor 
+ offic sm phone 
+ e mail 
+ yingli memphi 
+ erno lindner 
+ professor 
+ offic d phone 
+ e mail 
+ elindn memphi 
+ abbi l parril 
+ professor associ dean 
+ offic sm sc phone 
+ e mail 
+ aparril memphi 
+ richard l petersen 
+ associ professor 
+ offic sm phone 
+ e mail 
+ rlpetrsn memphi 
+ paul simon 
+ assist professor 
+ offic sm phone 
+ e mail 
+ psimon memphi 
+ thoma sutter 
+ professor 
+ offic ls phone 
+ e mail 
+ tsutter memphi 
+ yongmei wang 
+ professor 
+ offic sm phone 
+ e mail 
+ ywang memphi 
+ jeremi wessel 
+ instructor 
+ offic sm phone 
+ e mail 
+ jjwessel memphi 
+ xuan zhao 
+ associ professor 
+ offic sm phone 
+ e mail 
+ xzhao memphi 
+ department phone number e g xxxx 
+ depart chemistri univers memphi smith chemistri bldg memphi tennesse 
+ phone fax 

@@ -1,0 +1,124 @@
+ bioinformat univers memphi 
+ bioinformat univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ home 
+ admiss 
+ degre plan 
+ alumni 
+ faculti 
+ research area 
+ staff 
+ student 
+ link tool 
+ job opportun 
+ meet seminar 
+ art scienc 
+ univers memphi 
+ campu map 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ degre plan fall spring 
+ candid enter bachelor s degre satisfactori complet credit hour graduat cours approv program director 
+ major field core hour requir 
+ binf current lit bioinformat 
+ binf research seminar bioinformat 
+ comp introduct algorithm comp algorithm implement problem solv 
+ comp introduct bioinformat 
+ math introduct probabl theori 
+ math sq regr analysi 
+ b biologi credit hour chosen 
+ biol cell molecular biologi 
+ biol molecular biologi cancer 
+ biol advanc bacteri genet 
+ binf introduct genom bioinformat 
+ biom life scienc i 
+ c elect credit hour chosen 
+ biol cellular molecular pharmacolog 
+ biol problem genom scienc 
+ biom biostatist 
+ chem comput chemistri 
+ chem approxim chemic model method 
+ comp intro java program 
+ comp softwar engin 
+ comp program unix 
+ comp model comput 
+ comp foundat softwar eng 
+ comp databas system 
+ comp advanc databas system 
+ comp topic databas manag system 
+ comp data mine 
+ comp oper distribut system 
+ comp evolutionari comput 
+ comp molecular comput 
+ comp foundat comput 
+ comp topic algorithm 
+ comp neural network 
+ comp natur lang process 
+ math introduct sa program 
+ math intro statist theori 
+ math stat gene express 
+ math adv prog sa 
+ math statist program r 
+ math analysi varianc 
+ math design experi 
+ math nonparametr method 
+ math multivari method 
+ math appli time seri analysi 
+ math bayesian infer 
+ math statist comput simul 
+ math bootstrap resampl method 
+ mi bu databas sy 
+ candid choos focu statist comput scienc select larg number graduat class offer respect depart approv program director refer graduat catalog 
+ degre plan specif 
+ minimum requir master s degre 
+ d thesi project 
+ candid choos write defend thesi project candid complet class 
+ binf thesi binf bioinformat project 
+ inform visit 
+ contact bioinformat director dr ramin homayouni 
+ bioinformat memphi 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

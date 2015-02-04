@@ -1,0 +1,283 @@
+ depart physic spring seminar abstract univers memphi 
+ depart physic spring seminar abstract univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ home 
+ undergradu 
+ prospect student 
+ admiss requir 
+ inform 
+ current student 
+ program requir 
+ requir 
+ program timelin 
+ major physic 
+ minor physic 
+ permit 
+ contact advisor 
+ scholarship 
+ financi aid 
+ graduat 
+ program requir 
+ program timelin 
+ thesi plan certif form 
+ financi aid 
+ uofm graduat school 
+ peopl 
+ faculti 
+ staff 
+ graduat student 
+ alumni 
+ research 
+ theoret comput 
+ applic fraction calculu 
+ biomembran 
+ nanoparticl interfac composit 
+ polym polym blend 
+ experiment 
+ bioamplifi 
+ biomateri research 
+ magnet nano particl composit 
+ astronomi 
+ solar physic 
+ physic educ outreach 
+ solar physic 
+ commun involv 
+ starlight program 
+ faculti public 
+ facil 
+ resourc 
+ faculti 
+ laptop 
+ demo equip 
+ student 
+ introductori 
+ physic lab manual 
+ physic lab manual 
+ astronomi lab manual 
+ seminar 
+ fall 
+ fall 
+ fall 
+ spring 
+ fall 
+ spring 
+ fall 
+ spring 
+ fall 
+ spring 
+ fall 
+ spring 
+ fall 
+ spring 
+ fall 
+ spring 
+ fall 
+ contact 
+ colleg art scienc 
+ univers memphi 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ spring seminar abstract 
+ spring seminar held note wednesdai p m man refresh 
+ seminar free open public 
+ jan 
+ dr moham laradji uom 
+ bleb balloon shape membran protrus occur physiolog process eukaryot cell includ cytokinesi cell motil apoptosi necrosi format bleb investig numer larg scale simul implicit solvent model develop group assembl lipid bilay coupl explicit elast meshwork simul spectrin base cytoskeleton red blood cell i show bleb form result interplai cytoskeleton tension membran tension 
+ bleb membran excess area cytoskelet tension equilibrium phase diagram system shown kinet bleb nucleat coarsen discuss context cytoskeleton manipul includ global contract cytoskeleton local detach cytoskeleton lipid bilay local ruptur cytoskeleton 
+ feb 
+ dr chester alexand alabama 
+ present collect sculptur scientist fourteen sculptur scientif model scientist includ faradai copernicu brahe kepler galileo newton einstein da vinci model includ magnet field spin charg wave packet maxwel s demon black hole space time cone fermi surfac calcium structur graphit higg boson potenti doubl helix spiral galaxi string theori charg particl magnet field einstein s curv space de brogli wavelength 
+ includ demonstr hollow face illus discuss sculptur creat media sculptur includ wood bronz brass copper aluminum graphit plaster plexigla light sourc requir sculptur present interest scientist artist pictur show fermi surfac calcium wave packet michael faradai 
+ feb 
+ due univers memphi close inclement weather seminar todai 
+ dr donald franceschetti uom 
+ truism student s emot state plai import role determin efficaci instruct experienc teacher tutor pick verbal verbal bodi languag clue student engag bore anxiou preoccupi respond adapt effect intellig tutor system determin extent base measur student sit comput present review relev literatur connect affect learn includ rich literatur math anxieti discuss measur affect promis aid human machin teacher 
+ feb 
+ dr santosh kumar uom 
+ titl 
+ address stress addict behavior natur environ autosens 
+ abstract 
+ stress addict behavior smoke lead worsen diseas slow accumul heart diseas cancer tradit diseas caus malnutrit poor hygien rarer stress addict behavior continu widespread reliabl infer stress addict behavior unobtrus wearabl invas sensor natur environ individu remain formid challeng due specif measur sensor collect 
+ autosens project develop comprehens suit wearabl sensor worn mobil environ collect multipl physiolog indic stress ecg respir puls transit time develop softwar framework mobil phone call fieldstream collect physiolog measur autosens sensor process deriv ten featur appli machin learn base algorithm deriv behavior infer event solicit report phone real time entir system work real life worn human volunt hour natur environ part scientif user studi talk i introduc autosens fieldstream system discuss advanc make infer stress smoke drink drug usag crave convers sensori measur collect natur environ 
+ bio 
+ santosh kumar assist professor comput scienc univers memphi receiv earli career research award colleg art scienc receiv ph d comput scienc engin ohio state univers dissert work won sbc presidenti fellowship award popular scienc magazin name america s top ten brilliant scientist ag lead develop autowit burglar track system autosens wearabl sensor system theori side establish model coverag wireless sensor barrier coverag intrus detect trap coverag target track 
+ websit autosens fieldstream project read 
+ autosens 
+ fieldstream 
+ feb 
+ dr robert kozma uom 
+ titl 
+ phase transit cortex experiment evid theoret model 
+ abstract 
+ higher cognit granul seemingli continu tempor sequenc perceptu experi meaning comprehend chunk concept complex behavior schema access futur action select decis activ spatio tempor pattern emerg dynam landscap provid altern notori symbol ground problem mathemat process successfulli 
+ od distribut paramet pde deriv cortic tissu altern approach introduc neuropercol model base random graph theori neuropercol link pattern base spatio tempor encod gener local percol phase transit random graph scale free behavior small world effect cortic tissu import properti analyz neuropercol phase transit physic system neuropercol mesoscop charact intermitt long rang correl nois drive sourc dynam produc random process appar determinist characterist repres kei substrat high level cognit 
+ biographi 
+ robert kozma dunav univers professor mathemat scienc director 
+ center larg scale integr optim network clion 
+ univers memphi tn recipi award includ 
+ gabor award 
+ intern neural network societi revolutionari work neural network applic 
+ alumni associ distinguish research achiev award 
+ univers memphi hold degre physic phd delft mathemat engin msc budapest moscow faculti dept 
+ quantum scienc engin tohoku japan inform scienc otago u nz held visit posit uc berkelei nasa jet propuls laboratori pasadena ca sarnoff princeton nj afrl hafb ma decad research experi intellig system design analysi comput brain research knowledg acquisit autonom decis make anim animat research lab fund nasa nsf jpl afrl afosr nrc grant publish book articl intern journal book peer review confer proceed dr kozma serv adcom ieee comput intellig societi board governor intern neural network societi chair distinguish lectur program ieee ci program chair chair gener chair ijcnn meet associ editor neural network neurocomput cognit system research comput neurodynam j appli function analysi mathemat natur comput 
+ mar st 
+ dr xiahou huang uom 
+ titl 
+ gold nanoparticl cancer diagnosi phototherm therapi 
+ abstract 
+ nanotechnolog 
+ burgeon field 
+ anticip bring 
+ breakthrough cancer nanomedicin 
+ gener investig tool diagnost product therapeut agent virtu reduc size n 
+ anoscal materi exhibit except physic chemic properti bulk solid individu molecul unusu properti small size function abil target ligand nano size particl gener nm cellular imag molecular detect target therapi year work develop applic gold nanoparticl gold nanorod cancer diagnosi treatment 
+ gold nanoparticl capabl confin reson photon manner induc coher collect oscil conduct band electron phenomenon lead import properti strongli enhanc radi absorpt scatter nonradi phototherm properti chang shape nanoparticl sphere rod properti tune visibl infrar region optic window signific vivo implic link anti epiderm growth factor receptor antibodi nanorod specif bind cancer cell enabl surfac plasmon reson light imag noninvas infrar phototherm therapi nanorod assembl surfac cancer cell induc strongli enhanc raman scatter make surfac enhanc raman scatter cancer diagnost tool coat nanorod biocompat polym preferenti accumul tumor subsequ irradi infrar laser lead signific inhibit tumor growth research shown gold nanorod specif target tumor distinct region i e tumor neovessel stromal cell tumor cell ligand design 
+ activ molecular target significantli influenc tumor nanoparticl uptak 
+ result suggest mass transport tumor vasculatur rate limit step larg nanoparticl kinet step larg unaffect receptor bind 
+ biographi 
+ i receiv phd chemistri georgia institut technolog advisor prof mostafa el sai i stai mostafa el sai s lab postdoctor fellow i work depart biomed engin 
+ emori univers georgia tech 
+ distinguish ccne 
+ center cancer nanotechnolog excel postdoctor fellow 
+ supervis prof shume nie prof mostafa el sai year doctor postdoctor research i work gold nanoparticl cancer detect treatment 
+ i publish paper citat groundbreak work develop infrar absorb gold nanorod light scatter cancer imag phototherm therapi work open genr nanotechnolog highlight scienc watch nanomedicin underscor high citat public citat date i join depart chemistri tenur track assist professor august secondari appoint depart biomed engin research interest develop nanomateri cancer imag spectroscop detect gene drug deliveri phototherm photodynam therapi 
+ mar 
+ physic seminar week 
+ mar 
+ dr charl blaha uom 
+ titl 
+ neurosurg approach treat neuropsychiatr disord 
+ abstract 
+ deep brain stimul db demonstr effect neurosurg treatment patholog includ parkinson s diseas tremor epilepsi depress chronic pain 
+ collabor mayo clinic depart function stereotact neurosurgeri w 
+ e develop intraop neurochem monitor system wireless instantan neurotransmitt concentr sensor winc system combin digit telemetri amperometri fast scan cyclic voltammetri fscv real time chemic resolv measur implant microelectrod neurotransmitt includ dopamin adenosin serotonin glutam histamin 
+ seminar i 
+ describ applic winc system human parkinson s diseas essenti tremor patient db neurosurgeri 
+ result suggest gener db system coupl digit telemetri fscv sens compon smart db devic provid enhanc util human patient 
+ biographi 
+ professor charl d blaha 
+ director divis experiment psycholog u memphi 
+ director deep brain stimul consortium mayo clinic 
+ univers memphi 
+ depart psycholog 
+ ph d 
+ psychopharmacolog neurochemistri 
+ institut neurosci depart psycholog biologi chemistri univers oregon 
+ postdoctor research fellow 
+ depart psycholog psychiatri univers british columbia vancouv b c canada 
+ medic research council canada research scholar 
+ depart psychiatri psycholog univers british columbia vancouv b c canada 
+ associ professor 
+ depart psycholog macquari univers sydnei australia 
+ professor 
+ pre 
+ depart psycholog univers memphi tennesse usa 
+ current nih ro fund 
+ mous model development cerebellar damag relat autism 
+ gene phenotyp network alcohol drug addict 
+ career total 
+ million 
+ pub 
+ peer review paper 
+ book chapter 
+ 
+ confer proceed 
+ mar 
+ dr lewi o kelli dr robert marchini uom 
+ titl 
+ physic phun 
+ abstract 
+ professsor o kelli marchini perform demonstr hurt uniqu wai demonstr involv electr fluid optic mechan attempt accompani varieti excus fail fault waiver requir attende 
+ mar 
+ dr jon russ dept chemistri rhode colleg 
+ titl 
+ inroad detect i extract isol detect explos residu air 
+ abstract 
+ improvis explos devic i respons casualti iraq account casualti afghanistan present 
+ part collabor project research group rhode join colleagu arkansa state univers radianc technolog huntsvil al armi space strateg defens command studi method detect i field part student i focus air sampl includ method isol concentr explos residu dust laden air emploi virtual impact stage isol explos vapor concentr molecul solid phase micro extractor detect measur ga chromatographi electron captur detector talk i present experiment methodolog evalu sampl system concentr rhode 
+ biographi 
+ jon russ associ professor chemistri rhode colleg faculti year previous arkansa state univers jonesboro arkansa 
+ dr russ receiv b s chemistri corpu christi state univers ph d chemistri texa m univers research interest vari focu appli analyt method interdisciplinari question 
+ ongo research project includ analys prehistor rock paint laser ablat icp ms geostatist map lead contamin memphi 
+ talk focu isol explos air solid phase micro extractor spme 
+ april 
+ dr stephani ivei uom 
+ present abstract 
+ transform undergradu civil engin curriculum u m 
+ address chang accredit requir vision engin futur 
+ role civil engin evolv technic profession recognit civil engin plai critic role plan manag develop infrastructur commun 
+ present describ project underwai u m depart civil engin nsf due address chang requir educ civil engin futur 
+ project collabor year curriculum transform effort design integr gi enabl design approach sequenc requir civil engin cours level 
+ develop c 
+ urricular compon involv faculti member collect respons teach target cours 
+ collabor develop model select curricular link cours explicit 
+ clear path student skill progress term technic compet data synthesi analysi problem solv articul materi develop 
+ ultim goal project student develop improv abil 
+ analyz engin problem multipl context gi platform i 
+ t expect project identifi practic term curriculum transform achiev goal enhanc student skill level technic content societ global context identifi accredit board engin technolog abet american societi civil engin asc nation academi engin nae critic engin futur project rational methodolog progress date assess challeng 
+ link current transport polici research complet street context sensit design project goal present 
+ bio 
+ dr stephani s ivei assist professor depart civil engin univers memphi 
+ primari research interest transport polici freight model undergradu stem educ 
+ program director herff colleg engin s target outreach program girl experienc engin incept serv program faculti educ outreach program dr ivei faculti advisor student chapter institut transport engin univers part it transport educ council serv presid west tennesse branch american societi civil engin 
+ member tennesse safe rout school state network complet street subcommitte memphi complet street partnership 
+ april 
+ dr don franceschetti uom 
+ titl godzilla teenag mutant zombi electron 
+ abstract 
+ discuss wake sendai earthquak tsunami threat nuclear power plant region highlight lack gener understand nuclear process electr gener distribut system gener 
+ addit dispel common misconcept radioact radiat electr power gener pai mlgw i provid outlin basic physic electr power world discuss risk benefit form electr power gener 
+ seminar refresh room mn 
+ stephen spiegelberg ph d galvin braithwait ph d 
+ cambridg polym group 
+ titl biomed test research develop 
+ abstract 
+ cambridg polym group contract research organ focus provid materi test engin solut client worldwid headquart boston ma research expert broad rang scientif field includ chemic electr biomed mechan engin materi scienc biologi combin expertis materi properti analyt test formul develop instrument engin provid client stop problem solv cpg s core compet includ properti enhanc test methodolog develop radiat chemistri rheologi failur analysi materi formul work rang industri includ limit biomed resin manufactur processor consum product gel adhes food product ink offer line analyt instrument polym character design custom instrument client client servic develop materi prototyp design proof concept studi experiment design data collect patent capit invest fund sourc research exist product line 
+ present discuss project carri client entir product lifecycl initi concept support product market place 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ depart physic 
+ phone fax man hall memphi tennesse 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

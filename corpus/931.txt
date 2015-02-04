@@ -1,0 +1,612 @@
+ registrar registrar z list univers memphi 
+ registrar registrar z list univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ cdata function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ regist class 
+ student info 
+ veteran info 
+ faculti staff info 
+ parent info 
+ form 
+ registrar z list 
+ contact 
+ admiss 
+ financi aid 
+ scholarship 
+ pai fee bursar 
+ tom 
+ univers memphi 
+ quick link 
+ campu map 
+ class search 
+ data standard 
+ ferpa tutori 
+ grade 
+ iam 
+ semest calendar 
+ servic faculti 
+ servic student 
+ um event calendar 
+ veteran educ benefit 
+ withdraw um 
+ registrar z list 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ 
+ academ advis inform 
+ academ year calendar 
+ academ polici student 
+ academ regul faculti 
+ address chang 
+ advisor find advisor 
+ attend report faculti 
+ attend statu student 
+ audit class 
+ author signatur depart 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ b 
+ banner guid 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ c 
+ calendar academ year 
+ calendar registrar offic 
+ calendar semest 
+ catalog graduat 
+ catalog undergradu 
+ channel add restor portal channel 
+ class offer 
+ class schedul person class schedul 
+ clearinghous nation student clearinghous 
+ contact inform registrar 
+ credit examin graduat 
+ credit examin undergradu 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ d 
+ data standard staff 
+ date deadlin student 
+ degre verif 
+ diploma commenc offic 
+ directori inform 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ e 
+ e mail 
+ e print 
+ enrol verif request 
+ error messag problem student servic 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ f 
+ faculti servic guid 
+ faq asktom 
+ ferpa annual notif student right ferpa um notic 
+ ferpa um complianc polici 
+ ferpa um tutori faculti staff 
+ ferpa code 
+ final exam 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ g 
+ gener educ program 
+ grade point averag gpa 
+ grade 
+ grade 
+ grade mailer term grade report request enrol verif 
+ graduat school 
+ graduat ceremoni commenc offic 
+ graduat file deadlin 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ h 
+ hold common hold 
+ hold view hold 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ i 
+ immun 
+ incomplet deadlin remov date deadlin 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ l 
+ dai date deadlin 
+ law school 
+ letter recommend 
+ loan defer 
+ locat registrar 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ m 
+ mailer term grade report request enrol verif 
+ major minor concentr graduat 
+ major minor concentr undergradu 
+ mission registrar 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ n 
+ chang 
+ nation student clearinghous 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ o 
+ offic hour registrar 
+ onlin registr guid 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ p 
+ parent inform 
+ permit 
+ placement exam 
+ privaci right 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ q 
+ question 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ r 
+ readmiss univers 
+ regist class 
+ reinstat petit 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ s 
+ schedul delet payment 
+ schedul 
+ servic staff registrar s offic 
+ social secur number chang 
+ student inform access releas 
+ student inform 
+ student servic guid 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ t 
+ term grade report request enrol verif 
+ tuition estim 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ u 
+ u number 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ 
+ veteran educ benefit certif 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ w 
+ withdraw univers 
+ univers z list 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ admiss 
+ financi aid 
+ registrar 
+ scholarship 
+ offic registrar wilder tower memphi 
+ tn 
+ ph fx 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

@@ -1,0 +1,253 @@
+ undergradu catalog univers gener educ program univers memphi 
+ undergradu catalog univers gener educ program univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ univers gener educ program 
+ room wilder tower 
+ univers gener educ program promot share core learn experi undergradu student univers memphi framework colleg major build major purpos program provid student opportun acquir tool develop skill awar complet colleg career assum role lifelong learner activ inform particip contemporari societi 
+ univers memphi gener educ program consist hour coursework varieti disciplin student consult advisor specif gener educ program cours requir major gener educ program categori approv cours number parenthes 
+ commun 
+ hour 
+ engl 
+ english composit expositori write emphas content organ style 
+ engl 
+ english composit analysi expositori write emphas synthesi includ librari work document paper 
+ candid graduat univers memphi requir complet english equival grade c enrol english student act english score sat verbal score satisfactori complet placement test administ univers memphi test center meet requir successfulli complet dspw grade c proceed english english sequenc credit allow english complet successfulli 
+ comm 
+ oral commun basic oral commun includ speak critic listen decis make 
+ b mathemat 
+ hour 
+ math 
+ foundat mathemat algebra review applic 
+ math 
+ introduct statist reason applic 
+ math 
+ colleg algebra analysi function partial fraction equat applic 
+ math 
+ pre calculu expon radic quatradat function law sine cosin 
+ math 
+ elementari calculu introductori calculu 
+ math 
+ calculu i calculu major math comput scienc scienc engin 
+ c human fine art 
+ hour 
+ engl 
+ literari heritag major literari text exemplifi narr lyric dramat mode discours 
+ 
+ engl 
+ literari heritag african american emphasi 
+ cours 
+ art 
+ introduct art fundament principl visual artist express basi understand western western tradit 
+ arth 
+ world art i develop visual art prehistor time mediev period 
+ arth 
+ world art ii continu world art i develop visual art mediev period renaiss present 
+ cla 
+ mytholog themat studi ancient myth 
+ comm 
+ introduct film film cultur artist social phenomenon 
+ danc 
+ introduct danc danc express art form symbol languag integr aspect world cultur 
+ jdst 
+ religion abraham judaism christian islam religi tradit aris ancient east 
+ mu 
+ muhl 
+ music appreci music western western cultur 
+ mu 
+ music america music histori sourc current style american music 
+ phil 
+ fundament issu philosophi critic explor issu knowledg realiti good life 
+ phil 
+ valu modern world introduct social ethic issu good evil scienc religion sex race 
+ pol 
+ introduct ancient polit thought fundament question ancient polit thought 
+ pol 
+ introduct modern polit thought fundament question modern polit thought 
+ rlgn 
+ introduct religion world s major spiritu tradit ancient time present 
+ thea 
+ introduct theatr experienti conceptu histor cultur studi theatr 
+ univ 
+ hebrew greek legaci interdisciplinari examin major tradit ancient hebraic greek cultur 
+ univ 
+ faith reason imagin interdisciplinari examin religi rationalist aesthet viewpoint distinct wai understand 
+ d histori hour 
+ anth 
+ cultur histori american commun 
+ hist 
+ develop world civil i trace civil ancient time circa 
+ hist 
+ develop world civil ii form civil present 
+ hist 
+ unit state unit state discoveri polit reconstruct 
+ hist 
+ unit state 
+ hist 
+ histori tennesse 
+ hist 
+ social intellectu histori unit state 
+ hist 
+ african american histori 
+ hist 
+ histori women america 
+ pol 
+ constitut law origin evolut civil liberti unit state 
+ pol 
+ origin develop american polit thought 
+ soci 
+ racial ethnic minor 
+ student complet year american histori high school complet credit hour american histori credit hour american histori credit hour tennesse histori order satisfi histori gener educ requir 
+ e social behavior scienc 
+ s hour 
+ anth 
+ biolog anthropolog prehistori origin human human societi behavior cultur 
+ anth 
+ cultur anthropolog origin develop human cultur world 
+ csed 
+ famili global perspect interdisciplinari overview famili primari global social institut 
+ econ 
+ macroeconom natur function nation economi global context 
+ econ 
+ microeconom oper market economi individu firm level 
+ esci 
+ geog 
+ survei world region survei econom cultur physic trait characterist develop industri nation 
+ esci 
+ geog 
+ introduct cultur geographi geograph aspect human behavior 
+ jour 
+ survei mass commun histori cultur role major form mass commun 
+ pol 
+ american govern develop structur process american system govern 
+ pol 
+ intro compar polit comparison polit issu system varieti european asian african countri 
+ pol 
+ intern relat conflict competit cooper global factor world arena 
+ psyc 
+ gener psycholog introduct social aspect psycholog scienc behavior 
+ psyc 
+ devianc role histori cultur defam glorif concept devianc cultur 
+ soci 
+ introduct sociolog concept method sociolog social structur social institut 
+ soci 
+ sociolog intern develop social chang increasingli interdepend world 
+ univ 
+ gender societi interdisciplinari studi gender social experi racial ethnic class cross cultur group 
+ f natur scienc 
+ hour 
+ biol 
+ introduct biologi i lab gener overview cellular structur function gene biodivers 
+ biol 
+ introduct biologi ii lab studi biospher structur function plant anim 
+ biol 
+ gener biologi i lab unifi principl biologi cell structur cell function hered origin develop life 
+ biol 
+ gener biologi ii lab continu biol emphasi origin divers life structur function ecolog organ 
+ chem 
+ chemistri materi lab fundament law chemistri impact modern societi 
+ chem 
+ chemistri life lab basic organ biolog chemistri 
+ chem 
+ gener chemistri i gener chemistri i lab law chemistri 
+ chem 
+ gener chemistri ii gener chemistri ii lab continu chem 
+ esci 
+ esci geog 
+ weather climat atmospher process geograph distribut radiat moistur pressur circul interact creat weather system storm 
+ esci 
+ esci geog 
+ landform agent process landform develop geograph relationship landscap 
+ esci geol 
+ physic geologi introduct miner rock earth s intern forc mountain build volcano erupt earthquak 
+ esci geol 
+ human environment earth scienc archaeolog geolog studi human environment interact 
+ esci geol 
+ histor geologi overview histori earth life 
+ phy 
+ introduct physic lab physic technic student natur law motion heat sound light 
+ phy 
+ survei astronomi lab astronomi technic student earth moon star planet 
+ phy 
+ physic i scienc engin calculu physic i lab 
+ phy 
+ physic ii scienc engin calculu physic ii lab 
+ grade point averag 
+ receiv bachelor s degre colleg univers student grade point averag 
+ summer gpa reflect colleg level coursework u m transfer begin summer gpa reflect colleg level work u m transfer coursework process 
+ prior 
+ summer gpa reflect u m coursework student transfer credit process summer 
+ note begin summer tennesse board regent state wide polici transfer credit gpa calcul take effect begin summer transfer credit reflect earn hour longer appli gpa determin undergradu graduat graduat distinct athlet elig combin gpa determin academ stand financi aid scholarship elig hope 
+ transfer student admit summer transfer credit count combin gpa 
+ readmit student readmit summer transfer credit attend u m count combin gpa transfer work previous process continu reflect gpa 
+ continu student transfer credit submit receiv u m summer count combin gpa transfer work previous process continu reflect gpa 
+ test prerequisit graduat 
+ student requir test design measur gener educ achiev achiev major prerequisit graduat purpos evalu academ program individu program minimum score level achiev requir graduat particip test requir student student select program student select sampl basi detail regul date examin onlin class list semest 
+ appli graduat 
+ student requir appli graduat semest preced semest graduat deadlin applic graduat includ registrar s websit respons student insur deadlin met 
+ univers gener educ program 
+ requir teacher licensur 
+ catalog applic 
+ bachelor s degre 
+ major 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

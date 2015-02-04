@@ -1,0 +1,104 @@
+ wumr new event univers memphi 
+ wumr new event univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ wumr 
+ air 
+ dj profil 
+ new event 
+ friend support 
+ underwrit inform 
+ depart 
+ commun 
+ ccfa 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ new event 
+ univers memphi jazz student plai combo 
+ sax sundai jazz seri held east memphi 
+ jazz pianist compos joe sampl di 
+ gpac s master guitar seri present jodi fisher 
+ gpac present shelli berg jazz box 
+ tiger prepar upcom men s basketbal season 
+ gpac present cyril aime quintet 
+ jazz box present stephen lee 
+ tiger women basketbal season start novemb 
+ arturo sandov perform gpac earli 
+ memphi guitarist plai live king s palac cafe 
+ univers memphi releas footbal schedul 
+ prime cut band perform jazz r b maramald 
+ sundai brunch joyc cobb midtown 
+ blue foundat campaign blue hall fame 
+ stax museum present fresh trax st thursdai 
+ jazz thursdai jeremi shrader friend cove 
+ jazz artist radio person pass 
+ memphi sound loung featur soul sundai 
+ duel piano provid late night music beal 
+ memphi jazz orchestra perform sundai beal 
+ lanni mcmillan plai regalia sundai 
+ brennan villin plai thursdai grawemey s 
+ kaleidoscop perform wednesdai newbi s 
+ tucker band stage weekend beal 
+ wumr air radio show health 
+ daili planet host live jazz music thursdai 
+ contribut wumr onlin anytim 
+ jam jazzi tune earnestin hazel s 
+ fridai night jazz beam main street 
+ enjoi even live jazz fino villa 
+ tunein u smartphon 
+ wumr 
+ jazz love 
+ r u fm 
+ central avenu 
+ g theatr commun build 
+ phone 
+ fax 
+ wumr memphi 
+ request line 
+ jazz connect jazz 
+ underwrit 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ wumr 
+ contact wumr 
+ depart commun 
+ contact commun 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

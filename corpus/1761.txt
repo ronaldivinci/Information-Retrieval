@@ -1,0 +1,84 @@
+ colleg educ health human scienc room grow univers memphi 
+ colleg educ health human scienc room grow univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ cehh 
+ u m 
+ peopl 
+ futur student 
+ alumni friend 
+ cehh 
+ depart 
+ grant research 
+ current student 
+ faculti staff 
+ z list 
+ quick link 
+ outlook 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ donat campu school train annex room grow fund 
+ onlin donat campu school train annex fund 
+ click 
+ wai give 
+ credit card 
+ click 
+ onlin give site 
+ mail 
+ click 
+ pledg form mail complet form check payabl univers memphi foundat 
+ depart u m foundat p o box memphi tn 
+ phone 
+ call lisa mayn 
+ person deliv check alumni center normal street offic hour mondai fridai m p m 
+ room grow 
+ adequ space materi requir prepar campu school s student colleg success career scienc technolog engin math stem bright futur global inform economi colleg educ seek convert exist univers auxiliari build addit campu school classroom state art learn lab space serv advanc train ground continu prepar student elementari colleg level specif train annex expand learn opportun limit space logist offer student enhanc stem skill greater appreci global languag divers cultur achiev train annex hous classroom opportun 
+ scienc math 
+ expand student opportun advanc scienc math technolog literaci 
+ strengthen student stem skill promot success appli cours middl high school ultim encourag interest scienc math technolog career 
+ promot greater awar world environment scienc 
+ social studi global learn 
+ enhanc social studi program includ integr tran global classroom partnership 
+ provid open space experienti activ student learn 
+ encourag appreci languag divers cultur 
+ literaci 
+ expand goal literaci integr technolog 
+ increas write profici opportun multi media format present publish opportun 
+ expand opportun virtual learn system 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

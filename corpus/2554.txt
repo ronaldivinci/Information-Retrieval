@@ -1,0 +1,244 @@
+ graduat catalog physic univers memphi 
+ graduat catalog physic univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ introduct 
+ graduat school 
+ academ servic 
+ admiss regul 
+ academ regul 
+ appeal procedur 
+ degre program 
+ cours 
+ expens 
+ graduat assistantship 
+ fellowship 
+ graduat faculti 
+ member 
+ research facil 
+ minimum degre 
+ requir 
+ resid classif 
+ catalog archiv 
+ univers 
+ administr 
+ univers calendar 
+ quick link 
+ outlook 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ physic 
+ jingbiao cui phd 
+ professor chair 
+ room man hall 
+ email 
+ jcui memphi 
+ sanjai mishra phd 
+ coordin graduat studi 
+ e mail 
+ smishra memphi 
+ i 
+ depart physic 
+ offer major physic master scienc degre concentr gener physic comput physic materi scienc program object develop depth special knowledg physic phenomena abil successfulli demonstr analyt cognit knowledg physic commun skill close interact student physic faculti prepar continu studi phd program enter profession school enter workforc technic profession 
+ graduat student compli gener requir graduat school 
+ admiss regul 
+ academ regul 
+ 
+ minimum degre requir 
+ program requir degre pursu 
+ ii 
+ ms degre program 
+ program admiss requir 
+ admiss graduat program bachelor s degre physic close relat area requir minimum undergradu gpa student requir present prerequisit semest hour undergradu physic cours includ upper divis mechan electr magnet approv mathemat cours calculu differenti equat 
+ gre gener test recommend enhanc applic s likelihood admiss gre subject test requir 
+ student english speak countri requir demonstr profici english toefl examin minimum accept score 
+ b program requir 
+ meet gener degre requir admiss graduat school student select physic major assign physic depart graduat committe approv direct studi 
+ core requir credit hour 
+ phy phy phy 
+ satisfactori complet comprehens written examin typic year graduat studi 
+ concentr requir student elect thesi thesi program 
+ gener physic concentr thesi option credit hour 
+ physic program core requir credit hour concentr requir credit hour thesi credit hour addit cours credit hour 
+ gener physic concentr requir phy phy 
+ suffici addit cours includ semest hour phy thesi satisfi minimum semest hour semest hour collater field studi number cours approv graduat advisor semest hour cours number 
+ student present research propos graduat thesi committe semest studi thesi approv 
+ student complet research project submit written thesi describ research oral present defend thesi faculti committe student familiar 
+ thesi dissert prepar guid 
+ begin write 
+ b 
+ gener physic concentr thesi option credit hour 
+ physic program core requir credit hour concentr requir credit hour addit cours credit hour 
+ gener physic concentr requir credit hour phy phy 
+ suffici addit cours satisfi minimum semest hour collater field studi cours approv graduat advisor semest hour cours number 
+ complet survei area current research fundament appli physic oral written present base survei faculti committe subject survei approv department graduat committe semest prior graduat 
+ c 
+ comput physic thesi program credit hour 
+ physic program core requir credit hour concentr requir credit hour thesi credit hour addit cours credit hour 
+ phy math 
+ phy thesi strong comput physic compon student familiar 
+ thesi dissert prepar guid 
+ begin write 
+ student present research propos graduat thesi committe semest studi thesi approv 
+ addit cours list chem comp math math math math cours approv graduat advisor 
+ d 
+ comput physic thesi program credit hour 
+ physic program requir credit hour concentr requir credit hour addit cours credit hour 
+ phy math 
+ suffici addit cours number includ phy phy satisfi minimum semest hour cours collater field studi chem comp math math math math math 
+ e 
+ materi scienc concentr thesi program credit hour 
+ physic program requir credit hour concentr requir credit hour thesi credit hour addit cours credit hour 
+ materi scienc concentr requir phy phy mec phy phy 
+ suffici addit cours collater field studi number includ semest hour phy thesi satisfi minimum semest hour cours approv graduat advisor 
+ student present research propos graduat thesi committe semest studi thesi approv 
+ student complet research project submit written thesi describ research oral present defend thesi faculti committe student familiar 
+ thesi dissert prepar guid 
+ begin write 
+ f 
+ materi scienc concentr thesi program credit hour 
+ physic program requir credit hour concentr requir credit hour addit cours credit hour 
+ materi scienc concentr requir phy phy mec phy 
+ suffici addit cours credit hour collater field studi number satisfi minimum semest hour cours approv graduat advisor 
+ complet survei area current research fundament appli materi physic oral written present base survei faculti committe subject survei approv department graduat committe semest prior graduat 
+ iii dual degre bs ms acceler program 
+ highli motiv talent student pursu undergradu degre b s physic graduat m s physic special year program option requir commit care plan student s advisor summer research work lead master s thesi carefulli tailor studi student program complet b s degre coursework m s student interest pursu option contact undergradu graduat advisor depart physic earli undergradu career 
+ except minimum gpa consid case case basi 
+ applic complet interview graduat coordin physic depart 
+ student appli graduat school combin senior statu graduat cours physic continu program b s student appli admiss graduat school 
+ hour graduat work appli undergradu graduat program 
+ physic phy 
+ addit cours depart offer special topic cours 
+ phy special topic physic 
+ select topic current interest physic topic vari announc onlin class list 
+ phy special topic advanc physic 
+ select topic advanc physic topic vari announc onlin class list 
+ phy soft matter biolog physic 
+ random walk diffus entrop forc colloid suspens polym assembl lipid membran transit biomolecul molecular machin biomembran prerequisit phy chem 
+ phy app radiat physic 
+ appli radiat radioact type radiat radiat manag interact matter biolog effect radiat safeti aspect emphas prerequisit phy math 
+ phy medic physic 
+ physic sensori respiratori circulatori system physic basi radiolog nuclear medicin prerequisit phy phy math 
+ phy astrophys i 
+ principl physic appli object univers e g planet sun star includ introduct electromagnet radiat telescop recommend scienc engin major interest astronomi prerequisit phy phy 
+ phy astrophys ii 
+ principl physic appli star birth death black hole neutron star galaxi quasar begin evolut univers prerequisit phy 
+ phy nuclear physic 
+ properti atom nuclei radioact transit alpha beta gamma decai bind energi nuclear forc nuclear model prerequisit phy 
+ phy wave optic 
+ phy intro quantum theori 
+ histor background quantum theori mathemat formal quantum mechan solut schroding equat bound scatter state dimens harmon oscil angular momentum introduct atom molecular structur prerequisit phy phy phy 
+ phy thermal statist phy 
+ introduct thermodynam statist mechan includ topic temperatur work heat entropi thermodynam potenti ideal gase phase transit classic quantum ensembl partit function prerequisit phy phy 
+ phy solid state physic 
+ crystal structur crystal bond x rai diffract lattic vibrat phonon free free electron model energi band insul metal semiconductor prerequisit phy 
+ phy materi physic 
+ basic concept materi scienc emphas relationship microscop structur properti crystallographi symmetri thermodynam materi phase equilibria structur ceram polym mechan properti materi kinet phase transform materi prerequisit phy 
+ phy materi physic lab 
+ synthesi materi character structur properti varieti experiment tool relationship structur materi properti emphas prerequisit phy 
+ phy fund cncpt class phy 
+ basic concept newtonian mechan heat sound emphasi increas understand classic physic provid demonstr physic principl suitabl classroom design perform laboratori experi credit appli major minor chemistri physic 
+ phy physic practicum i 
+ practicum laboratori experi laboratori techniqu laboratori manag supervis experi present demonstr emphasi concept cover physic laboratori hour week corequisit phy grade f ip 
+ phy physic practicum ii 
+ practicum laboratori emphasi concept electr magnet laboratori hour week prerequisit phy grade f ip 
+ phy physic practicum iii 
+ practicum laboratori emphasi concept modern physic laboratori hour week prerequisit phy grade f ip 
+ phy indiv studi adv physic 
+ independ investig area advanc physic supervis physic faculti member written report requir repeat maximum hour credit prerequisit permiss chair grade f ip 
+ phy teach skill ga 
+ overview teach techniqu classroom manag physic laboratori instructor includ practic demonstr laboratori physic repeat maximum credit hour note physic major fulfil degre requir prerequisit limit physic major permiss graduat coordin grade s u ip 
+ phy prof develop wkshp 
+ present physic faculti student current research topic oral present requir base research perform supervis faculti member note physic major fulfil degre requir prerequisit limit physic major permiss graduat coordin grade s u ip 
+ phy classic mechan 
+ analyt studi mechan particl rigid bodi lagrang s hamilton s hamilton jacobi method special theori rel canon transform poisson bracket concept emphas 
+ phy quantum mechan i 
+ physic principl mathemat formal quantum theori emphasi applic atom molecular solid state physic scatter theori absorpt emiss electromagnet radiat prerequisit phy equival 
+ phy quantum mechan ii 
+ continu phy scatter theori quantum dynam spin perturb method hartre fock prerequisit phy 
+ phy relativist quantum mech 
+ quantum mechan relativist particl includ dirac equat relativist covari solut free particl particl electromagnet field particl central field method approxim massless particl prerequisit phy permiss instructor 
+ phy relativ quantum field 
+ gener formal field klein gordon field quantiz dirac field quantiz electromagnet field interact field scatter matrix perturb theori dispers relat renorm prerequisit phy permiss instructor 
+ phy elementari particl 
+ introduct elementari particl elementari particl dynam relativist kinemat symmetri bound state feynman calculu quantum electrodynam electrodynam quark hadron quantum chromodynam weak interact gaug theori prerequisit phy permiss instructor 
+ phy electrodynam 
+ advanc electr magnet topic includ field potenti energi method steadi current magnet materi maxwel s equat electromagnet wave 
+ phy method comput physic 
+ math finit dimension vector space matric tensor vector field function space differenti integr oper transform theori partial differenti equat prerequisit background ordinari differenti equat linear algebra 
+ phy method math physic ii 
+ math esci continu phy complex variabl theori asymptot expans special function calculu variat addit topic matric oper topic linear analysi prerequisit phy 
+ phy method comput physic 
+ solut problem macroscop atom level problem physic numer analysi comput simul emphasi accuraci effici larg scale comput physic interpret result 
+ phy method theoret phy 
+ orthogon function solv problem continuum mechan electrodynam quantum mechan algebra commut appli angular momentum introduct group theori symmetri group physic 
+ phy polym physic 
+ introduc student concept phenomena polym phase behavior dynam includ singl polym chain conform dilut simi dilut polym solut polyelectrolyt solut effect confin polym blend diblock copolym kinet polym dilut concentr polym solut spinod decomposit polym blend prerequisit phy 
+ phy statist mechan 
+ element kinet theori applic gase specif heat magnet partit function introduct boltzmann statist quantum statist 
+ phy adv top spectroscopi 
+ advanc topic atom molecular spectroscopi includ interact radiat matter transit probabl hyperfin structur applic group theori spectroscop problem 
+ phy seminar 
+ select topic physic research includ area medic physic student requir give oral present base librari origin research grade s u ip 
+ phy thesi 
+ origin investig assign problem area graduat studi carri supervis qualifi member staff investig furnish materi thesi scientif articl progress report special problem interest review discuss student seminar semest maximum semest hour credit allow master s degre grade s u ip 
+ phy classic mechan 
+ analyt studi mechan particl rigid bodi lagrang s hamilton s hamilton jacobi method special theori rel canon transform poisson bracket concept emphas 
+ phy quantum mechan i 
+ physic principl mathemat formal quantum theori emphasi applic atom molecular solid state physic scatter theori absorpt emiss electromagnet radiat prerequisit phy equival 
+ phy quantum mechan ii 
+ continu phy scatter theori quantum dynam spin perturb method hartre fock prerequisit phy 
+ phy statist mechan 
+ element kinet theori applic gase specif heat magnet partit function introduct boltzmann statist quantum statist 
+ graduat school 
+ administr build 
+ memphi tn 
+ phone 
+ fax 
+ graduat admiss 
+ wilder tower 
+ memphi tn 
+ phone 
+ fax 
+ u m white page 
+ campu map 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

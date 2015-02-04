@@ -1,0 +1,323 @@
+ undergradu catalog esci univers memphi 
+ undergradu catalog esci univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ esci 
+ esci earth scienc 
+ depart earth scienc 
+ dan larsen ph d chair 
+ room johnson hall 
+ addit fee charg earth scienc lectur laboratori cours onlin class list expens section catalog 
+ addit cours depart offer special topic cours 
+ esci special topic region geographi 
+ geograph analysi physic cultur econom characterist select world geograph region includ europ unit state canada central america south america repeat maximum hour credit chang topic 
+ esci special topic archaeolog 
+ repeat maximum hour credit chang topic 
+ esci special topic geographi 
+ geog topic vari onlin class list 
+ esci earth 
+ geog examin earth complex system atmospher biospher geospher interact human action affect environ format rock shape surfac earth weather climat natur hazard hour lectur hour laboratori week prerequisit introductori natur scienc permiss instructor 
+ esci weather climat 
+ geog atmospher process geograph distribut radiat moistur pressur circul interact creat weather system storm ocean influenc earth sun relationship global climat pattern human interact atmospher laboratori exercis observ experi design appli scientif method hour lectur hour laboratori week prerequisit year high school algebra g 
+ esci landform 
+ geog agent process landform develop geograph relationship landscap includ volcan fluvial glacial coastal environ soil develop veget associ environment hazard human map aerial photo interpret sourc environment inform laboratori exercis observ experi design appli scientif method subject hour lectur hour laboratori week prerequisit year high school algebra g 
+ esci physic geologi 
+ geol introduct process form rock earth s crust earth s intern forc mountain volcano special emphasi topic impact mid south earthquak lectur hour laboratori hour week g 
+ esci histor geologi 
+ geol overview histori earth life interpret rock fossil record origin contin mountain rang ocean basin nation park lectur hour laboratori hour week prerequisit esci g 
+ esci biol anth prehistori 
+ anth evolutionari basi human origin contemporari biocultur variat fossil record primat hominid evolut begin human societi discoveri agricultur emerg complex societi controversi search human origin 
+ esci human planet 
+ geol applic physic geologi understand evalu solv problem encount environ human popul studi manag util preserv archaeolog resourc lectur hour laboratori hour week g 
+ esci survei world region 
+ geog tbr geog survei econom cultur physic trait characterist develop industri nation g 
+ esci intro cultur geographi 
+ geog tbr geog geograph aspect human behavior distribut pattern interact cultur characterist languag religion polit econom g 
+ esci fundament archaeolog 
+ anth hand experi archaeolog method survei civil critic evalu modern archaeolog method theori appli prerequisit anth recommend 
+ esci seminar emerg mgmt 
+ emgt padm synthes integr element emerg manag 
+ esci sever weather 
+ esci peopl cultur world 
+ major ethnograph area select cultur world 
+ esci invertebr paleontolog 
+ geol fossil invertebr anim import interpret ancient environ evolut geolog time lectur hour laboratori hour week prerequisit esci permiss instructor 
+ esci principl conserv 
+ geog develop conserv ethic wilder concept survei environment problem land energi resourc util soil eros crop product relationship 
+ esci mineralog petrolog 
+ geol classif identif miner igneou rock metamorph rock hand specimen geolog occurr miner genesi occurr igneou metamorph rock lectur hour laboratori hour week prerequisit esci permiss instructor 
+ esci histor geographi u s 
+ geog evolut cultur landscap unit state emphasi interact environ peopl develop nation 
+ esci econom geographi 
+ geog spatial characterist distribut econom activ 
+ esci intro urban plan 
+ geog introduct region urban plan emphas spatial relationship physic econom cultur phenomena plan process 
+ esci sedimentolog stratighi 
+ geol origin classif sedimentari rock mutual relationship sedimentari rock bodi geograph geolog time lectur emphas comparison modern deposit system ancient counterpart laboratori emphas hand specimen analysi prepar geolog map lectur hour laboratori hour week prerequisit esci 
+ esci oceanographi 
+ geol origin chemistri water circul shorelin deep water characterist ocean role evolut histori earth marin life ecolog 
+ esci global geophys 
+ geop origin evolut structur planet earth geophys perspect accret composit earth isotop determin ag differenti ocean continent crust mechan plate tecton seismic structur graviti magnet field earth prerequisit permiss instructor 
+ esci soil soil process 
+ geog process dynam soil profil develop major model soil develop examin appli soil genesi tennesse applic soil techniqu archaeolog plan earth scienc soil conserv eros problem emphasi field laboratori techniqu field work soil map soil taxonomi lectur hour laboratori hour week 
+ esci urban environ 
+ geog wai man chang natur environ urban physic featur process influenc develop function citi 
+ esci geomorpholog 
+ esci environment geophys 
+ geop survei shallow geophys prospect method seismic reflect refract techniqu electr magnet graviti field measur practic measur fundament principl govern acquisit interpret geophys data shallow subsurfac investig lectur laboratori hour week prerequisit permiss instructor 
+ esci physic hydrolog 
+ geol movement storag develop groundwat groundwat hydrolog cycl aquif characterist test lectur hour laboratori hour week prerequisit esci math equival 
+ esci field method hydrolog 
+ geol practic field method solv hydrolog problem prerequisit esci permiss instructor 
+ esci climatolog 
+ geog climat element method data analysi applic climatolog agricultur health econom architectur prerequisit esci phy 
+ esci physic climatolog 
+ geog compon earth s energi balanc emphasi solar radiat heat transfer evapotranspir prerequisit esci phy 
+ esci synopt meteorolog 
+ physic process atmospher appli analysi interpret synopt region scale system weather map upper air sound satellit radar imageri comput model output introduct techniqu weather forecast prerequisit esci phy 
+ esci geol hazard earthquak 
+ geop estim geolog aspect hazard individu earthquak earthquak specif fault earthquak ruptur pattern topograph express estim ag prehistor earthquak trigger landslid debri flow prerequisit permiss instructor 
+ esci water resourc 
+ geog hydrolog process applic citi industri agricultur recreat 
+ esci biogeog gi analys ecolog 
+ geog biol basic principl interact geographi organ divers evolut physic factor limit speci distribut theori island biogeographi geograph mode speciat laboratori introduc principl gi basic function arcgi program relev ecolog studi lectur hour laboratori hour week prerequisit biol permiss instructor 
+ esci environment hazard 
+ geog environment hazard disast experi investig natur impact social respons environment hazard focu relationship natur societi technolog peopl place perceiv experi cope environment hazard 
+ esci global environment chang 
+ geop characterist natur system magnitud human alter environment system histori natur climat landscap impact prerequisit permiss instructor 
+ esci plan sustain citi region 
+ multidisciplinari multi scale approach understand sustain natur built environ plan citi region method measur sustain emerg develop concept practic technolog effici social equiti public health implic sustain sustain urban region form futur 
+ esci archaeolog north america 
+ anth intens studi prehistor cultur earliest time histor contact prerequisit anth permiss instructor 
+ esci themat studi china 
+ geograph analysi physic cultur econom characterist china neighbor region 
+ esci advanc mineralog petrolog 
+ crystal chemistri optic mineralog igneou metamorph rock microscop genesi occurr igneou metamorph rock lectur hour laboratori hour week prerequisit esci prerequisit corequisit chem permiss instructor 
+ esci archaeol fld lab techn 
+ anth field excav specimen prepar survei instrument photographi map make archaeolog record keep method techniqu archaeolog laboratori analysi emphasi organ supervis laboratori procedur prerequisit permiss instructor 
+ esci intro geochemistri 
+ geol geolog chemic process govern control migrat distribut element atom speci earth space time lectur hour week prerequisit esci permiss instructor 
+ esci aqueou geochemistri 
+ geol physic chemistri aqueou solut appli geochem process earth s surfac prerequisit chem 
+ esci archaeolog collaps 
+ anth emphasi archaeolog region polit archaic state world overview social polit collaps complex societi 
+ esci world archaeolog 
+ anth world cultur human earli civil 
+ esci seismolog 
+ geop seismic wave propag earth histor context earthquak earthquak sourc common seismolog techniqu understand earth structur sourc paramet lectur hour laboratori hour week prerequisit calculu vector calculu permiss instructor 
+ esci urban geographi 
+ geog geographi urban process form cultur social econom polit aspect contemporari citi 
+ esci transport plan 
+ geog plan transport mode network impact land contemporari develop problem 
+ esci comput cartographi 
+ geog comput map program effect techniqu visual present wide varieti data lectur hour laboratori hour week 
+ esci remot sens environ 
+ geog survei theori applic color infrar thermal radar imag gener satellit aerial photograph geograph geolog environment plan purpos lectur hour laboratori hour week prerequisit colleg level math permiss instructor 
+ esci structur geologi 
+ geol structur crust geometri fold fault rock deform criteria recogn structur solut geometr problem lectur hour laboratori hour week prerequisit esci math permiss instructor 
+ esci geograph info scienc 
+ geog theoret practic understand fundament gi concept capabl applic natur geograph data issu data input data model databas design spatial analysi data output arcgi softwar lectur hour laboratori hour week prerequisit esci permiss instructor 
+ esci quantit method 
+ geog introduct quantit method spatial analysi 
+ esci gi busi social scien 
+ geog introduct applic interact comput map geograph inform system softwar busi social scienc decis make 
+ esci adv geograph info scienc 
+ geog design implement spatial analysi approach context gi technolog develop sound understand oper basi modern gi technolog prerequisit geog permiss instructor 
+ esci field method geographi 
+ geog basic method geograph analysi classifi analyz report field gener data includ field map sampl procedur questionnair archiv public document research lectur hour laboratori hour week 
+ esci geographi field studi 
+ geog faculti conduct field trip emphas studi geograph phenomena locat vari topic includ physic landscap landau pattern cross cultur analysi micro region econom geograph process credit hour base length time field requir field journal report receiv credit repeat maximum hour credit chang content prerequisit permiss instructor complet special registr 
+ esci urban plan studio 
+ geog applic plan process urban problem prepar plan urban area prerequisit geog permiss instructor 
+ esci autom process gi 
+ lab orient advanc level techniqu geograph inform system gi provid solid foundat programmat interact proprietari gi platform user autom python 
+ esci investig geog 
+ geog student faculti supervis studi depth geograph topic repeat maximum hour credit chang content prerequisit approv instructor 
+ esci geologi field camp 
+ geol prepar structur litholog map prescrib geolog area topograph map aerial photograph instrument alidad brunton compass offer summer school prerequisit esci 
+ esci appli archaeolog museum 
+ anth represent cultur heritag broad arrai public venu repatri cultur patrimoni cultur resourc manag civic engag right respons stakehold public involv museum represent perform educ cultur memori 
+ esci earth scienc internshp 
+ geog experi work agenc knowledg earth scienc util repeat maximum hour credit credit allow accept report prerequisit approv instructor depart chair s u 
+ esci esci field excurs 
+ geol conduct field trip spring vacat hour field work follow hour lectur open nonmajor area includ ouachita arbuckl wichita mountain oklahoma ouachita ozark dome adjac miner district central southern appalachian gulf coastal plain death vallei ca grand canyon az check onlin class list specif locat note repeat maximum hour credit date hour credit arrang prerequisit permiss instructor 
+ esci investig esci 
+ geop individu group work topic current interest broad field earth scienc repeat maximum hour credit prerequisit permiss instructor 
+ esci senior thesi 
+ geol origin studi subject signific earth scienc carri independ student faculti supervis prerequisit senior stand geologi 
+ esci seminar appli geographi 
+ geog perspect techniqu geographi appli contemporari topic seminar format base review literatur current issu written oral present student work prerequisit esci addit upper divis cours select area human econom environment earth techniqu registr permit 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

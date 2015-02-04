@@ -1,0 +1,93 @@
+ depart comput scienc univers memphi 
+ depart comput scienc univers memphi 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ home 
+ chair s 
+ peopl 
+ degre program 
+ financi aid admiss 
+ list 
+ research group 
+ public 
+ student research 
+ colloquium talk 
+ inform assur 
+ student resourc 
+ acm student chapter 
+ internship 
+ job post 
+ newslett 
+ accolad 
+ sponsor 
+ contact 
+ u m quick link 
+ outlook 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ degre program 
+ select program 
+ b s comput scienc 
+ acceler b s m s program 
+ m s comput scienc 
+ m s bioinformat 
+ ph d comput scienc 
+ graduat certif inform assur 
+ depart comput scienc offer degre rang b s ph d addit interdisciplinari program studi link inform 
+ detail degre program inform univers memphi 
+ undergradu catalog 
+ 
+ graduat catalog 
+ current comput scienc student 
+ form document 
+ page curriculum advis materi 
+ b s comput scienc 
+ b s degre program accredit comput accredit commiss accredit board engin technolog cac abet spring student enrol b s program graduat data semest 
+ fall student 
+ summer student 
+ spring student 
+ program object 
+ program educ object bachelor s degre comput scienc year graduat graduat expect 
+ demonstr abil solv complex problem comput scienc evidenc success entranc advanc comput scienc profess 
+ demonstr appreci lifelong learn continu profession develop pursu graduat educ profession educ continu educ opportun attain profession licensur membership profession societi 
+ expect student outcom 
+ graduat b s comput scienc obtain 
+ abil appli knowledg comput mathemat disciplin 
+ abil analyz problem identifi defin comput requir solut 
+ abil design implement evalu comput base system process compon program meet desir 
+ abil function effect team accomplish common goal 
+ understand profession ethic legal secur social issu respons 
+ abil commun effect rang audienc 
+ abil analyz local global impact comput individu organ societi 
+ recognit abil engag continu profession develop 
+ abil current techniqu skill tool comput practic 
+ abil appli mathemat foundat algorithm principl comput scienc theori model design comput base system demonstr comprehens tradeoff involv design choic 
+ abil appli design develop principl construct softwar system vari complex 
+ honor program minor major 
+ addit tradit b s degre offer option honor design comput scienc minor student major engin mathemat scienc opt pursu major comput scienc fall minor tradit doubl major 
+ inform 
+ refer univers s 
+ undergradu catalog 
+ detail b s degre inform includ requir suggest year plan 
+ depart comput scienc middot dunn hall memphi tn middot phone middot fax middot 
+ info cs memphi 
+ copi 
+ univers memphi 
+ middot 
+ colleg art scienc 
+ middot 
+ privaci notic 
+ middot 
+ contact webmast 

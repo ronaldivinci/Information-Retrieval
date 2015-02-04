@@ -1,0 +1,102 @@
+#!/usr/bin/perl
+
+# The CALENDAR Program  -  answer3.pl
+
+# This includes a library module written by Steven Brenner
+# that allows the use of a nice function called "ReadParse"
+# that is now part of the CGI Perl Module.
+
+uses CGI qw(:cgi-lib :standard);
+
+# The function returns a hash of the input from a "CGI form".  The
+# hash keys are the variable names identified in that original form.
+# The hash values contain the information submitted by the user.
+
+&ReadParse(%in);  
+
+# The following will make a listing of JPEG images in a parallel
+# directory.  The function "srand" will set a seed for a pseudorandom
+# number generator that will be used later.  The web page will 
+# display a random graphic from that directory.
+
+srand;   # Initialize random number seed
+$i = 0;
+while (<../images/*.jpg >)  # Loop through all files in other directory
+{
+  $pictures[$i++] = $_;     # Make an array of JPEG image names
+}  
+$image = $pictures[int(rand($i))];  # Select random file name from set
+
+# The next routine attempts to solve a serious security problem 
+# in this program.  If the user enters the year, followed by a 
+# semi-colon, another UNIX command can be put on the same line.
+# After the server finishes running "cal", it will run that other
+# command also. Potentially evil things could happen!  The next 
+# "if" clause scans through the user's input, and if there is a
+# pattern match for a semi-colon, an alternative page is printed.
+
+if ( $in{"year"} =~ ";") 
+{
+print <<ERR;
+Content-type: text/html
+
+<HTML>
+<BODY BGCOLOR=WHITE TEXT=BLACK>
+<H3>Hello, $in{"name"}! &nbsp &nbsp No Calendar today...<br>
+<IMG SRC= "$image">
+</BODY>
+</HTML>
+
+ERR
+}
+
+# If the input is "OK", then the "else" clause is executed.  This
+# will run the UNIX command "cal" for the specific month, as well
+# as the full year, and will display the web page.
+
+else{
+
+# The next few lines concatenates month and year into a single string
+# and use "cal" to generate both monthly and yearly calendars.
+
+$date = $in{"month"}." ".$in{"year"};  
+@calendar = `cal $date`;    
+@year = `cal $in{"year"}`;
+
+# From this point forward, the standard HTML code is printed.
+
+print<<EOF;
+Content-type: text/html
+
+<HTML>
+<BODY BGCOLOR=WHITE TEXT=BLACK>
+<H3>Hello, $in{"name"}! &nbsp &nbsp Here's your monthly calendar...<br>
+</H3>
+<TABLE>
+<TR>
+<TD>
+<B>
+<PRE>
+<FONT COLOR = "#FF0000" SIZE=5>
+@calendar
+</FONT>
+</PRE>
+</B>
+</TD>
+<TD>
+<IMG SRC = "$image">
+</TD>
+</TR>
+</TABLE>
+<BR>
+<FONT SIZE = 4>The Full Year $in{"year"} </FONT>
+<PRE>
+@year
+</PRE>
+
+
+</BODY>
+</HTML>
+EOF
+}
+

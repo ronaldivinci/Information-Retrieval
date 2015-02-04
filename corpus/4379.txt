@@ -1,0 +1,76 @@
+ memphistem staf univers memphi 
+ memphistem staf univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ memphistem 
+ memphistem staff 
+ research student 
+ stem opportun 
+ stem club 
+ travel award 
+ tutor network 
+ math bootcamp 
+ fresh connect learn commun 
+ project quick fact 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ staf 
+ featur 
+ project pi dr stephani ivei 
+ stephani ivei h fellow associ professor civil engin univers memphi manag network stem club program memphistem receiv b s c e m s civil engin ph d engin univers memphi primari research interest intermod freight model truck safeti transport polici engin educ 
+ pi dr john haddock 
+ john r haddock professor mathemat scienc vice provost academ affair univers memphi manag math bootcamp program memphistem receiv b s ph d degre mathemat southern illinoi univers carbondal research interest includ dynam system qualit behavior solut differenti integr equat issu relat mathemat scienc educ 
+ pi ms regina hairston 
+ regina j hairston director tennesse loui stoke allianc minor particip program univers memphi fund nsf gain earli awar readi undergradu program gear memphi fund depart educ profession counsel student major stem field program memphistem nsf sponsor s stem csem program receiv b cleveland state univers m s counsel psycholog mba univers memphi 
+ data manag dr rachel arthur 
+ rachel arthur manag data project evalu strategi memphistem receiv b sc social psycholog sociolog univers ulster northern ireland m sc research method psycholog strathclyd univers scotland ph d psycholog south bank univers london research interest includ lexic acquisit read comprehens strategi process stem educ 
+ memphistem link 
+ cristal 
+ herff colleg engin hcoe 
+ hcoe multimedia 
+ s stem grant 
+ trio stem project 
+ tlsamp 
+ memphistem spotlight 
+ involv memphistem wonder experi help forg relationship professor student invalu memphistem help prepar job i graduat allow leadership posit work team i t lucki i involv memphistem lorri 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

@@ -1,0 +1,103 @@
+ bioinformat ramin homayouni univers memphi 
+ bioinformat ramin homayouni univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ home 
+ admiss 
+ degre plan 
+ alumni 
+ faculti 
+ research area 
+ staff 
+ student 
+ link tool 
+ job opportun 
+ meet seminar 
+ art scienc 
+ univers memphi 
+ campu map 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ ramin homayouni 
+ ramin homayouni 
+ ramin homayouni 
+ professor biologi 
+ director bioinformat 
+ phone 
+ fax 
+ e mail 
+ rhomayon memphi 
+ offic smith hall 
+ person websit 
+ curriculum vita 
+ educ 
+ b s 
+ biologi univers houston 
+ ph d 
+ biochemistri univers houston 
+ profession experi 
+ post doctor associ dept development neurobiolog st jude children s research hospit memphi tn 
+ assist professor dept neurolog univers tennesse health scienc center memphi tn 
+ present 
+ adjunct assist professor dept anatomi neurobiolog univers tennesse health scienc center memphi tn 
+ present 
+ associ professor dept biologi univers memphi memphi tn 
+ present 
+ adjunct associ professor dept neurolog univers tennesse health scienc center memphi tn 
+ research interest 
+ neurobiolog 
+ text mine 
+ gene express analysi 
+ gene regulatori network 
+ autom gene annot function analysi 
+ gener sequenc analysi 
+ mail address 
+ walker av 
+ room life scienc 
+ depart biologi 
+ univers memphi 
+ memphi tn 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

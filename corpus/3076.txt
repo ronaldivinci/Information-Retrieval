@@ -1,0 +1,108 @@
+ commenc offic faculti inform univers memphi 
+ commenc offic faculti inform univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ prerequisit 
+ appli graduat 
+ undergradu student 
+ graduat student 
+ graduat dai 
+ program proof 
+ faculti 
+ diploma 
+ commenc 
+ futur commenc 
+ commenc staff 
+ quick link 
+ outlook 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ faculti inform 
+ upcom commenc date time 
+ sundai decemb 
+ p m 
+ colleg art scienc colleg commun fine art univers colleg law doctor hood colleg 
+ arriv noon 
+ fedexforum 
+ p m 
+ fogelman colleg busi econom colleg educ health human scienc herff colleg engin loewenberg school nurs school public health doctor hood colleg school 
+ arriv p m 
+ fedexforum 
+ arriv minut hour prior ceremoni line 
+ depart chairman notifi offic particip summer ceremoni commenc review instruct contact commenc offic question commenc crew assist lineup question 
+ arriv hour min prior event lineup 
+ locat 
+ fedex forum 
+ beal street 
+ memphi tn 
+ direct 
+ printabl direct 
+ park 
+ park fedexforum garag charg vehicl event ampl time find arena wait line enter park garag inform park option click 
+ 
+ enter fedexforum front entranc turn main hallwai stair elev event level follow 
+ faculti 
+ sign faculti room event level beverag faculti room faculti member gather readi procession crew member answer question 
+ suffici time place procession line 
+ process begin promptli faculti seat event floor side student ceremoni approxim hour long 
+ conclus ceremoni leav floor exit side stage platform parti recess head straight 
+ follow platform parti 
+ cap gown distribut date time inform 
+ thursdai decemb 
+ m p m 
+ univers center ballroom 
+ 
+ floor 
+ fridai decemb 
+ m p m 
+ univers center ballroom 
+ 
+ floor 
+ interest purchas regalia inform 
+ hendrick graduat suppli hous ext 
+ regalia inform 
+ ceremoni time 
+ special assist 
+ seat 
+ locat direct park 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ commenc offic brister hall phone fax email 
+ commenc memphi 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

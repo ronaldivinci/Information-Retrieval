@@ -1,0 +1,13 @@
+ page requir secur connect url 
+ podcast uofm podcast univers memphi 
+ function mm reloadpag init reload window nav resiz init true navig appnam netscap parseint appvers document mm pgw innerwidth document mm pgh innerheight onres mm reloadpag innerwidth document mm pgw innerheight document mm pgh locat reload mm reloadpag true 
+ uuid 
+ password 
+ navig page 
+ event list 
+ assist 
+ check tom solut 
+ click 
+ submit desk request 
+ click 
+ call desk 

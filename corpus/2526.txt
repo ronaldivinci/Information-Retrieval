@@ -1,0 +1,115 @@
+ bioinformat univers memphi 
+ bioinformat univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ home 
+ admiss 
+ degre plan 
+ alumni 
+ faculti 
+ research area 
+ staff 
+ student 
+ link tool 
+ job opportun 
+ meet seminar 
+ art scienc 
+ univers memphi 
+ campu map 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ bioinformat tool resourc 
+ gene express tool 
+ bioconductor 
+ bioconductor team 
+ primarili base r program languag aim provid access wide rang power statist graphic method analysi genom data analysi packag pre process affymetrix cdna arrai data 
+ gene cluster 
+ 
+ whitehead institut centr genom research 
+ filter preprocess data varieti wai organ map unsupervis classif weight vote wv nearest neighbor knn algorithm gene select permut test method 
+ pam predict analysi microarrai 
+ 
+ tibshirani lab 
+ depart statist 
+ stanford univers 
+ perform sampl classif gene express data estim predict error cross valid list signific gene express character diagnost class 
+ sam signific analysi microarrai 
+ 
+ tibshirani lab 
+ depart statist 
+ stanford univers 
+ correl gene express data wide varieti clinic paramet includ treatment diagnosi categori surviv time time trend estim fals discoveri rate multipl test 
+ genespr 
+ genemath 
+ webgestalt 
+ text mine tool 
+ semant gene organ 
+ geneset cohes analysi tool 
+ geneindex 
+ chilibot 
+ arrowsmith 
+ gopubm 
+ ihop 
+ string 
+ visual tool 
+ cytoscap 
+ databas 
+ genenetwork 
+ gemma 
+ biogp 
+ allen brain atla 
+ onlin cours tutori 
+ statist genom rafael irizarri 
+ websit 
+ python biologist 
+ tutori 
+ problem solv bioinformat rosalind 
+ websit 
+ python code academi 
+ websit 
+ plo open access book translat bioinformat 
+ websit 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

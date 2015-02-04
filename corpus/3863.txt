@@ -1,0 +1,110 @@
+ ground water institut faculti staff univers memphi 
+ ground water institut faculti staff univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ home 
+ gwi 
+ research 
+ commun involv 
+ public inform 
+ support 
+ faculti staff 
+ give gwi 
+ quick link 
+ uofm homepag 
+ e mail 
+ bursar s offic 
+ ecoursewar um 
+ tom 
+ campu map 
+ umdriv 
+ contact 
+ imag src share share rootsit imag hover background jpg 
+ faculti staff 
+ contact 
+ dr brian waldron 
+ interim director 
+ phone 
+ e mail 
+ bwaldron memphi 
+ websit 
+ dr dan larsen 
+ interim associ director 
+ professor earth scienc 
+ phone 
+ e mail 
+ dlarsen memphi 
+ websit 
+ scott schoefernack 
+ senior research scientist 
+ phone 
+ e mail 
+ sschfrnc memphi 
+ michel dry 
+ educ outreach director 
+ phone 
+ e mail 
+ mdry memphi 
+ jame eason 
+ research assist 
+ phone 
+ e mail 
+ jeason memphi 
+ john bursi 
+ earth scienc graduat student 
+ e mail 
+ jmbursi memphi 
+ mari dubos 
+ research assist 
+ e mail 
+ medubos memphi 
+ halei gallo 
+ earth scienc graduat student 
+ e mail 
+ hggallo memphi 
+ sarah girdner 
+ civil engin graduat student 
+ e mail 
+ sgirdner memphi 
+ jack koban 
+ earth scienc graduat student 
+ e mail 
+ jkoban memphi 
+ alison lang 
+ earth scienc graduat student 
+ e mail 
+ aplang memphi 
+ univers memphi 
+ ground water institut 
+ engin administr build 
+ memphi tn 
+ email 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ contact ground water institut 
+ engin administr build memphi tn phone e mail 
+ gwimail memphi 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

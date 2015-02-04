@@ -1,0 +1,140 @@
+ umpar i univers memphi 
+ umpar i univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ 
+ parent commun 
+ parent fund 
+ parent famili weekend 
+ parent famili council 
+ oct faq 
+ parent futur student 
+ parent freshman 
+ parent transfer 
+ parent commut 
+ parent state 
+ parent senior 
+ parent handbook 
+ i 
+ visit campu 
+ contact inform 
+ z list 
+ quick link 
+ outlook 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ i 
+ list topic parent inform topic link proper web page question feel free contact 
+ parent memphi 
+ i 
+ academ 
+ studi option student 
+ student regist class 
+ book student class 
+ purchas book 
+ graduat 
+ univers librari 
+ student find tutor 
+ admiss 
+ child transfer univers memphi 
+ student major 
+ athlet 
+ purchas ticket univers memphi footbal game basketbal game athlet event 
+ career servic internship 
+ internship 
+ career plan student 
+ student employ campu 
+ interview univers 
+ dine servic 
+ purchas dine plan student 
+ student eat 
+ student chang upgrad cancel meal plan 
+ disabl servic 
+ find disabl servic student 
+ financ 
+ view student s balanc 
+ add monei student s tiger fund account 
+ learn financi aid option 
+ health servic insur 
+ certif enrol student 
+ health care offer campu 
+ recreat work facil campu 
+ student psychologist counselor person issu 
+ gener 
+ learn univers memphi 
+ read univers student newspap 
+ daili helsman 
+ onlin 
+ map campu 
+ import date 
+ univers holidai 
+ final exam 
+ class start 
+ class ad drop 
+ resid hall move move 
+ homecom 
+ incom student 
+ admiss 
+ student orient 
+ frosh camp 
+ mail servic 
+ student mailbox campu 
+ student address 
+ park 
+ park campu 
+ student prioriti park 
+ polic servic 
+ learn campu safeti 
+ contact emerg crisi 
+ resid life hous 
+ find campu hous 
+ find campu hous 
+ student involv campu 
+ student join fratern soror 
+ student organ campu 
+ student activ 
+ parent famili servic 
+ administr build 
+ phone 
+ e mail 
+ parent memphi 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack trackpageview catch err 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

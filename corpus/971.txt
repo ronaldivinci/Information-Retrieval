@@ -1,0 +1,128 @@
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ regist class 
+ student info 
+ veteran info 
+ faculti staff info 
+ parent info 
+ form 
+ registrar z list 
+ contact 
+ admiss 
+ financi aid 
+ scholarship 
+ pai fee bursar 
+ tom 
+ univers memphi 
+ quick link 
+ campu map 
+ class search 
+ data standard 
+ ferpa tutori 
+ grade 
+ iam 
+ semest calendar 
+ servic faculti 
+ servic student 
+ um event calendar 
+ veteran educ benefit 
+ withdraw um 
+ basic consider 
+ view hold 
+ requir inform 
+ make request method prepar provid 
+ complet name attend 
+ 
+ u number 
+ digit social secur number u number tod provid complet ssn 
+ birth date 
+ year attend univers memphi um 
+ number copi address 
+ enclosur 
+ attach enclosur includ inform identifi record prevent process request 
+ issu student 
+ issu student 
+ process time 
+ univers holidai 
+ request method 
+ select method question 
+ cours pre date fall 
+ 
+ 
+ current student login mymemphi student tab 
+ channel 
+ student visit 
+ websit 
+ ferpa 
+ cost 
+ deliveri method 
+ 
+ request hard copi mail postal mail 
+ consider 
+ rapid deliveri electron document offic process time busi dai 
+ select electron transmiss check statu request receiv deliveri confirm messag 
+ payment visa mastercard american express discov requir 
+ person 
+ 
+ registrar s offic 
+ wilder tower 
+ pictur id 
+ cost 
+ copi free 
+ deliveri method 
+ consider 
+ registrar staff member answer question assist 
+ electron order format 
+ fax postal mail 
+ 
+ complet sign submit 
+ sign request 
+ process request handwritten signatur form 
+ fax number 
+ mail address 
+ univers memphi 
+ wilder tower 
+ memphi tn 
+ cost 
+ copi free 
+ deliveri method 
+ consider 
+ submit request main campu onlin 
+ electron order format 
+ faq 
+ relat link 
+ lambuth univers student 
+ grade scale gpa 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ admiss 
+ financi aid 
+ registrar 
+ scholarship 
+ offic registrar wilder tower memphi 
+ tn 
+ ph fx 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

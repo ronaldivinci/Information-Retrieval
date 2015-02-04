@@ -1,0 +1,3316 @@
+ depart comput scienc univers memphi 
+ depart comput scienc univers memphi 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ home 
+ chair s 
+ peopl 
+ degre program 
+ financi aid admiss 
+ list 
+ research group 
+ public 
+ student research 
+ colloquium talk 
+ inform assur 
+ student resourc 
+ acm student chapter 
+ internship 
+ job post 
+ newslett 
+ accolad 
+ sponsor 
+ contact 
+ u m quick link 
+ outlook 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ public databas 
+ databas process popul faculti 
+ log 
+ add edit public 
+ brows public 
+ year 
+ year 
+ year 
+ 
+ author editor 
+ baggett william 
+ baggett william 
+ bartz michael j 
+ campbel julia 
+ dasgupta dipankar 
+ deng lih yuan 
+ drumwright evan 
+ fisher ii marc 
+ fleme scott 
+ garzon max h 
+ georg e olusegun 
+ hernandez german 
+ hnat timothi 
+ imsand eric 
+ jin victor 
+ keshtkar fazel 
+ kozma robert 
+ kumar santosh 
+ li jiang 
+ lin king ip 
+ lu zhuo 
+ mahadevan lakshman 
+ malasri kriangsiri 
+ mathew jerri 
+ mccaulei t lee 
+ mccracken ernest 
+ mcnamara daniel s 
+ montgomeri brad 
+ neel andrew j 
+ negatu aregahegn 
+ patterson f g pat 
+ phan vinhthui 
+ quall jake 
+ ramamurthi uma 
+ rodriguez henrri 
+ ru vasil 
+ sheldon frederick 
+ shiva sajjan g 
+ song hongjun 
+ strang elena 
+ stuart brian 
+ sweenei daniel 
+ wang lan 
+ wang yan 
+ wu chase qishi 
+ group public 
+ public type 
+ year 
+ public author editor 
+ book 
+ max h cs ed garzon 
+ encyclopedia scienc religion 
+ ed ann runehow llui oviedo st ed refer work springer verlag isbn 
+ detail 
+ dan tufi corina forascu vasil ru 
+ multilingu europ romanian perspect 
+ ed dan tufi corina forascu vasil ru romanian academi publish hous bucharest romania 
+ detail 
+ book chapter section 
+ dan jen michael meisel lan wang beichuan zhang lixia zhang 
+ apt practic tunnel architectur rout scalabl 
+ ed m boucadair d binet solut sustain scalabl internet growth pp igi global juli releas juli 
+ detail 
+ yaoq liu xin zhao lan wang beichuan zhang 
+ aggregat router forward tabl 
+ ed m boucadair d binet solut sustain scalabl internet growth pp igi global juli releas juli 
+ detail 
+ christoph simmon sajjan g shiva harkeerat bedi vivek shandilya 
+ adapt game inspir attack defens perform metric taxonomi 
+ secur privaci protect inform process system pp springer berlin heidelberg 
+ detail 
+ full text 
+ vasil ru nobal niraula mihai lintean art graesser 
+ overview dialogu semant process educ technolog 
+ ed dan tufi corina forascu vasil ru multilingu europ romanian perspect romanian academi publish hous 
+ detail 
+ santosh kumar mustafa al absi j gayl beck emr ertin marcia scott 
+ behavior monitor assess mobil sens technolog 
+ ed jass dalleri sarah lord lisa marsch leverag technolog transform behavior healthcar oxford press 
+ detail 
+ vasil ru william baggett elizabeth gire don franceschetti mark conlei art graesser 
+ learner model base learn progress deeptutor learner model 
+ ed robert sottilar learner model armi research lab 
+ detail 
+ stan franklin 
+ histori motiv core theme ai 
+ ed keith frankish william ramsei cambridg handbook artifici intellig cambridg univers press 
+ detail 
+ kriangsiri malasri lan wang 
+ secur wireless implant health care devic 
+ mcgraw hill yearbook scienc technolog pp mcgraw hill 
+ detail 
+ andrew j neel max h garzon 
+ semant method textual entail 
+ ed phil mccarthi c boonthum appli natur languag process identif investig resolut st ed research appli natur languag process chap pp igi global 
+ detail 
+ vasil ru 
+ challeng solutin intellig tutor system natur languag interact 
+ ed corina forascu dan tufi multilingu interoper languag process isbn romanian academi press 
+ detail 
+ art graesser king ip lin sidnei d mello 
+ comput learn environ agent support deep comprehens collabor reason 
+ gener knowledg multidiciplinari perspect psycholog press 
+ detail 
+ bernard j baar stan franklin 
+ spontan rememb norm integr model human conscious memori 
+ ed john h mace act rememb understand recal oxford 
+ detail 
+ full text 
+ stan franklin bernard j baar 
+ varieti unconsci process 
+ ed e perri d collerton h ashton f lebeau horizon conscious research boundari brain john benjamin 
+ detail 
+ full text 
+ journal magazin articl 
+ harkeerat bedi sankarda roi sajjan g shiva 
+ mitig congest base do attack enhanc aqm techniqu 
+ elsevi comput commun 
+ public pend 
+ detail 
+ vivek shandilya christoph simmon sajjan g shiva 
+ attack graph secur system 
+ journal comput network commun 
+ public pend 
+ detail 
+ santosh kumar wendi nilsen abernethi atienza kevin patrick misha pavel w t rilei shar b spring d spruijt metz d hedek honavar r l kravitz r c lefebvr d c mohr s murphi c quinn shusterman d swendeman 
+ mhealth evid workshop explor innov method evalu efficaci safeti mobil health 
+ american journal prevent medicin oct 
+ detail 
+ muhammad khan ernest mccracken islam s r bhurtel lan wang robert kozma iftekharuddin 
+ autonom wireless radar sensor mote target materi classif 
+ elsevi digit signal process vol pp 
+ detail 
+ c yi afanasyev i moiseenko lan wang beichuan zhang lixia zhang 
+ case state forward plane 
+ elsevi comput commun vol pp apr 
+ detail 
+ santosh kumar m nakajima mustafa al absi lorentz wittmer marcia scott 
+ psychophysiolog respons stress alcohol intak social drinker risk hazard drink 
+ biolog psycholog pp apr 
+ detail 
+ scott fleme christoph scaffidi david piorkowski margaret burnett rachel e bellami joseph lawranc irwin kwan 
+ inform forag theori perspect tool debug refactor reus task 
+ acm transact softwar engin methodolog vol pp mar 
+ detail 
+ joseph lawranc christoph bogart margaret burnett rachel e bellami kyle rector scott fleme 
+ programm debug revisit inform forag theori perspect 
+ ieee transact softwar engin vol pp feb 
+ detail 
+ santosh kumar wendi nilsen misha pavel mani b srivastava 
+ mobil health revolution health transdisciplinari research 
+ ieee comput magazin cover featur vol pp jan 
+ detail 
+ nam sy vo quang tran nobal niraula vinhthui phan 
+ random algorithm align dna sequenc refer genom 
+ ieee intern confer comput advanc bio medic scienc iccab 
+ detail 
+ andrew j neel max h garzon 
+ comput memori 
+ encyclopedia scienc religion encyclopedia articl 
+ detail 
+ tyler moor russel j deaton max h garzon 
+ direct percol dna tile assembl 
+ soft matter 
+ public pend 
+ detail 
+ max h garzon 
+ dna codeword design theori applic 
+ parallel process letter 
+ public pend 
+ detail 
+ yaoq liu sy obaid amin lan wang 
+ effici fib cach minim overlap prefix 
+ acm sigcomm comput commun review ccr vol pp 
+ detail 
+ nam sy vo vinhthui phan 
+ exploit depend pattern gene express analysi pairwis comparison 
+ proceed intern symposium bioinformat research applic isbra pp 
+ detail 
+ max h garzon kiran c bobba 
+ geometr approach gibb energi landscap dna oligonucleotid design 
+ int journal nanotechnolog natur comput vol pp invit expand dna paper 
+ detail 
+ nam sy vo thoma sutter vinhthui phan 
+ infer direct graph pattern gene respons treatment 
+ proceed intern confer bioinformat comput biologi bicob pp 
+ detail 
+ nam sy vo thoma sutter vinhthui phan 
+ mdag web tool analyz visual interpret respons pattern gene express data multipl treatment 
+ advanc bioscienc biotechnolog vol pp 
+ detail 
+ danilo rairan max h garzon 
+ period estim adapt reconstruct quasi period signal 
+ int j adapt control theori signal process vol 
+ detail 
+ vasil ru sidnei d mello xiangen hu art graesser 
+ advanc convers intellig tutor system 
+ ai magazin vol 
+ detail 
+ ramya dharam sajjan g shiva 
+ runtim monitor techniqu handl tautolog base sql inject attack 
+ intern journal cyber secur digit forens vol nov 
+ detail 
+ max h garzon 
+ role evolutionari model comput 
+ detail 
+ santosh kumar santanu guha kurt plarr daniel lissner somnath mitra bhagavathi krishna prabal dutta 
+ autowit locat track stolen properti toler gp radio outag 
+ acm transact sensor network tosn vol pp sept 
+ detail 
+ santosh kumar bruce schatz clai marsh kevin patrick david gustafson jerri krishnan noshir contractor 
+ research challeng measur data popul health enabl predict model improv healthcar 
+ acm sighit record pp sept 
+ detail 
+ afanasyev c yi lan wang beichuan zhang lixia zhang 
+ adapt forward name data network 
+ acm sigcomm comput commun review editori note vol pp juli 
+ detail 
+ kriangsiri malasri linda sherrel 
+ motiv student practic problem 
+ journal comput scienc colleg vol pp 
+ detail 
+ robert kozma lan wang iftekharuddin ernest mccracken muhammad khan islam s r bhurtel r m demir 
+ multi modal radar enabl sensor system integr cot technolog surveil track 
+ sensor vol pp jan 
+ detail 
+ vasil ru 
+ ru wyse b piwek p lintean m stoyanchev s moldovan c detail account question gener share task evalu challeng 
+ journal dialogu discours vol pp 
+ detail 
+ santosh kumar wendi nilsen shar c varoqui t wilei w t rilei misha pavel atienza 
+ advanc scienc mhealth 
+ journal health commun vol pp 
+ detail 
+ vasil ru mihai lintean 
+ automat detect student mental model prior knowledg activ metatutor 
+ intern journal artifici intellig educ vol pp 
+ detail 
+ vasil ru 
+ g ask intellig automat gener system academ write support 
+ journal dialogu discours vol pp 
+ detail 
+ zizhan zheng santosh kumar prasun sinha 
+ spars wifi deploy vehicular internet access bound interconnect gap 
+ ieee acm transact network ton vol pp 
+ detail 
+ linda sherrel kriangsiri malasri david mill allen thoma jame greer 
+ tri p let chang face high school comput scienc 
+ journal comput mathemat scienc teach vol pp 
+ detail 
+ margaret burnett laura beckwith susan wiedenbeck scott fleme jill cao thoma h park kyle rector 
+ gender plural problem solv softwar 
+ interact comput vol pp sept 
+ detail 
+ full text 
+ jake quall michael grant linda sherrel 
+ cs student understand comput think concept 
+ journal comput scienc colleg vol pp 
+ detail 
+ max h garzon tit yee wong 
+ dna chip speci identif biolog phylogeni 
+ j natur comput vol pp jan 
+ detail 
+ sidnei d mello stan franklin 
+ cognit model s view anim cognit 
+ current zoologi vol pp 
+ detail 
+ sidnei d mello stan franklin 
+ comput model cognit robot complement function model experiment psycholog 
+ idea psycholog vol pp 
+ detail 
+ wendel wallach colin allen stan franklin 
+ conscious ethic artifici consciou moral agent 
+ intern journal machin conscious vol pp 
+ detail 
+ stan franklin 
+ global workspac theori shanahan lida 
+ intern journal machin conscious vol pp doi s 
+ detail 
+ sujoi roi kevin heinrich vinhthui phan michael berri ramin homayouni 
+ bmc bioinformat vol pp s 
+ detail 
+ vinhthui phan nam sy vo thoma sutter 
+ mdag web base tool analyz microarrai data multipl treatment 
+ bmc bioinformat vol pp 
+ detail 
+ s strain stan franklin 
+ model medic diagnosi comprehens cognit architectur 
+ journal healthcar engin vol pp 
+ detail 
+ daniela lopez de luis gabriel barrera stan franklin 
+ robot local conscious 
+ journal pattern recognit research vol pp 
+ detail 
+ tama madl bernard j baar stan franklin 
+ time cognit cycl 
+ plo vol e 
+ detail 
+ varun khare dan jen xin zhao yaoq liu daniel massei lan wang beichuan zhang lixia zhang 
+ evolut global rout scalabl 
+ ieee journal select area commun jsac vol pp oct 
+ detail 
+ dipankar dasgupta s felix wu fernando nino 
+ advanc artifici immun system 
+ appli soft comput journal oct 
+ detail 
+ max h garzon kiran c bobba andrew j neel vinhthui phan 
+ dna base index 
+ j nanotechnolog molecular comput vol pp sept 
+ detail 
+ jake quall linda sherrel 
+ comput think ad curriculum 
+ journal comput scienc colleg vol pp 
+ detail 
+ stan franklin wendel wallach colin allen 
+ conceptu comput model moral decis make human artifici agent 
+ topic cognit scienc pp 
+ detail 
+ full text 
+ lubna shala vasil ru art graesser 
+ automat speech act classif arab 
+ subjetividad y proceso cognitivo journal vol pp 
+ detail 
+ sidnei d mello stan franklin 
+ comput model cognit robot compliment function model experiment psycholog 
+ idea psycholog 
+ detail 
+ full text 
+ linda sherrel bhagavathi krishna n velaga p vejandla 
+ experi extrem program 
+ journal comput mathemat scienc teach vol pp invit paper 
+ detail 
+ ai chen ten h lai santosh kumar 
+ local barrier coverag wireless sensor network 
+ ieee transact mobil comput tmc vol pp 
+ detail 
+ ten h lai marc e posner prasun sinha santosh kumar 
+ maxim lifetim barrier wireless sensor 
+ ieee transact mobil comput tmc vol pp 
+ detail 
+ mihai lintean vasil ru 
+ paraphras identif weight depend lexic semant 
+ informatica intern journal comput vol pp pp 
+ detail 
+ vinhthui phan allen thoma kriangsiri malasri carri hay sutter 
+ stabil rna structur motif influenc edit effici adenosin deaminas 
+ int journal bioinformat research applic vol pp 
+ detail 
+ vinhthui phan tit yee wong 
+ synthet gene design larg number hidden stop codon 
+ intern journal data mine bioinformat vol pp 
+ detail 
+ confer workshop paper 
+ timothi hnat kazi zaman anthoni white sami yli piipari 
+ sens kinemat approach measur human energi expenditur 
+ european confer wireless sensor network springer european confer wireless sensor network ewsn feb 
+ detail 
+ full text 
+ christoph simmon sajjan g shiva lakisha simmon 
+ qualit analysi ontolog base issu resolut system cyber attack manag 
+ ieee cyber ieee 
+ public pend 
+ detail 
+ santosh kumar sy monowar hossain amin ali emr ertin david epstein kenzi preston umbricht y chen 
+ identifi drug cocain intak event acut physiolog respons presenc free live physic activ 
+ acm ipsn pp 
+ detail 
+ austin henlei scott fleme 
+ patchwork code editor faster navig code arrang navig mistak 
+ chi acm sigchi confer human factor comput system acm 
+ public pend 
+ detail 
+ harkeerat bedi sajjan g shiva 
+ mitig congest base denial servic attack activ queue manag 
+ globecom atlanta dec 
+ detail 
+ timothi hnat sean beach 
+ safetysens automat classifi safe unsaf locat distract peopl smartphon 
+ sensemin intern workshop sens big data mine nov 
+ submiss 
+ detail 
+ m mahmudul hoqu sy obaid amin adam alyyan beichuan zhang lixia zhang lan wang 
+ nlsr name data link state rout protocol 
+ acm sigcomm icn workshop aug 
+ detail 
+ ramya dharam sajjan g shiva 
+ essenti cloud secur featur window azur 
+ gca la vega juli 
+ detail 
+ full text 
+ abdullah eid abu hussein harkeerat bedi sajjan g shiva 
+ stakehold orient taxonom approach secur cloud comput 
+ ieee int conf cloud comput santa clara ca juli 
+ detail 
+ full text 
+ abdullah eid abu hussein harkeerat bedi sajjan g shiva 
+ taxonom approach secur cloud comput 
+ ieee int conf cloud comput santa clara ca juli 
+ detail 
+ full text 
+ yaoq liu beichuan zhang lan wang 
+ fifa fast increment fib aggreg 
+ ieee infocom apr 
+ detail 
+ ramya dharam sajjan g shiva 
+ runtim monitor detect prevent union queri base sql inject attack 
+ itng la vega apr 
+ detail 
+ full text 
+ vasil ru nobal niraula rajendra banjad 
+ studi probabilist algebra method semant similar 
+ intern confer florida artifici intellig research societi flair aaai press 
+ detail 
+ borhan samei fazel keshtkar vasil ru art graesser 
+ tool speech act classif interact machin learn 
+ intern confer educ data mine edm 
+ detail 
+ michael c nolen king ip lin 
+ approxim high dimension nearest neighbor queri r forest 
+ intern databas engin applic symposioum 
+ detail 
+ soujanya medapati king ip lin linda sherrel 
+ autom paramet estim process cluster algorithm softwar mainten 
+ acm southeast confer 
+ detail 
+ j gao emr ertin mustafa al absi santosh kumar 
+ contactless sens physiolog signal wideband rf probe 
+ asilomar confer signal system comput 
+ detail 
+ nobal niraula vasil ru dan stefanescu 
+ deep anaphora resolut engin 
+ intern confer educ data mine edm 
+ detail 
+ jun xie xudong huang henri hua jin wang quan tang scotti craig art graesser king ip lin xiangen hu 
+ discov relationship student effort abil predict perform technolog assist learn mathemat school program 
+ intern confer educ data mine edm 
+ detail 
+ jill cao irwin kwan faezeh bahmani margaret burnett joshua jordhal amber horvath scott fleme sherri yang 
+ user programm troubl idea garden 
+ vl hcc ieee symposium visual languag human centric comput pp ieee 
+ detail 
+ nobal niraula rajendra banjad vasil ru 
+ experi semant similar measur base lda lsa 
+ st intern confer statist speech languag process slsp 
+ detail 
+ max h garzon christoph simmon jason knislei 
+ knowledg dissemin resourc elicit softwar engin 
+ sky int workshop softwar knowledg scitepress digit librari 
+ detail 
+ vasil ru rajendra banjad nobal niraula 
+ latent concept latent topic 
+ proceed meet societi text discours 
+ detail 
+ vasil ru nobal niraula mihai lintean rajendra banjad dan stefanescu william baggett 
+ recommend gener intellig framework tutor base develop deeptutor tutor servic 
+ workshop gener intellig framework tutor gift intern confer artifici intellig educ ai 
+ detail 
+ kuldeep sharma king ip lin 
+ review spam detector rate consist check 
+ acm southeast confer 
+ detail 
+ vasil ru rajendra banjad mihai lintean nobal niraula dan stefanescu 
+ semilar semant similar toolkit assess student natur languag input 
+ intern confer educ data mine edm juli memphi tn 
+ detail 
+ vasil ru mihai lintean rajendra banjad nobal niraula dan stefanescu 
+ semilar semant similar toolkit 
+ st annual meet associ comput linguist acl associ comput linguist 
+ detail 
+ vasil ru nobal niraula rajendra banjad 
+ similar measur base latent dirichlet alloc 
+ intern confer intellig text process comput linguist cicl lnc springer verlag 
+ detail 
+ donald morrison vasil ru 
+ scholar legaci afford semant network convers agent 
+ workshop gener intellig framework tutor gift 
+ detail 
+ david piorkowski scott fleme irwin kwan margaret burnett christoph scaffidi rachel e bellami joshua jordhal 
+ what how programm forag diet 
+ chi acm sigchi confer human factor comput system pp acm 
+ detail 
+ daniel jone scott fleme 
+ backseat driver ground theori investig pair program 
+ vl hcc ieee symposium visual languag human centric comput pp ieee 
+ detail 
+ abdullah eid abu hussein harkeerat bedi sajjan g shiva 
+ evalu secur privaci cloud comput servic stakehold s perspect 
+ intern confer internet technolog secur transact icitst london dec 
+ detail 
+ full text 
+ harkeerat bedi sajjan g shiva christoph simmon vivek shandilya 
+ game inspir defens architectur 
+ conf decis game theori secur poster session budapest nov 
+ detail 
+ full text 
+ vivek datla king ip lin max louwers 
+ captur diseas symptom relat higher order occurr algorithm 
+ intern workshop biomed health informat bhi oct 
+ detail 
+ harkeerat bedi sajjan g shiva 
+ secur cloud infrastructur resid do attack game theoret defens mechan 
+ intl workshop servic orient architectur cloud comput soac part icacci chennai india aug 
+ detail 
+ full text 
+ max h garzon kiran c bobba 
+ theori applic dna codeword design 
+ ed adrian dediu carlon martin vide bianca truth intl confer tpnc theori practic natur comput vol lnc lectur note comput scienc springer verlag springer verlag aug 
+ detail 
+ niklesh kumar katta scott fleme linda sherrel 
+ evalu usabl test tool case studi 
+ sixth intern workshop advanc innov system test pp page juli 
+ detail 
+ christoph simmon sajjan g shiva vinhthui phan vivek shandilya lakisha simmon 
+ ir issu resolut system cyber attack classif manag 
+ intern confer secur manag sam la vega juli 
+ detail 
+ full text 
+ ramya dharam sajjan g shiva 
+ runtim monitor post deploy secur test techniqu 
+ sixth intern research workshop advanc innov softwar test memphi tn juli 
+ detail 
+ full text 
+ vivek shandilya sajjan g shiva 
+ secur cloud stakehold s perspect 
+ intern confer secur manag sam la vega juli 
+ detail 
+ full text 
+ sajjan g shiva 
+ secur test statu report 
+ sixth intern research workshop advanc innov softwar test memphi tn juli 
+ detail 
+ full text 
+ vasil ru nobal niraula rajendra banjad art graesser 
+ automat discoveri speech act categori educ game 
+ intern confer educ data mine edm chania greec june 
+ detail 
+ ramya dharam sajjan g shiva 
+ framework develop runtim monitor 
+ intern confer comput inform scienc kuala lumpur malaysia june 
+ detail 
+ full text 
+ max h garzon kiran c bobba 
+ geometr approach gibb energi landscap optim dna codeword design 
+ ed andrew turberfield darko stefanov dna dna comput molecular program vol lnc lectur note comput scienc springer verlag springer verlag june 
+ detail 
+ ramya dharam sajjan g shiva 
+ analysi monitor tool java applic 
+ intern confer softwar comput applic singapor june 
+ detail 
+ full text 
+ ramya dharam sajjan g shiva 
+ runtim monitor tautolog base sql inject attack 
+ intern confer cyber secur cyber warfar digit forens kuala lumpur malaysia june 
+ detail 
+ full text 
+ mihai lintean vasil ru 
+ measur semant similar short text greedi pair word semant 
+ proceed intern florida artifici intellig research societi confer aaai confer 
+ detail 
+ vasil ru nobal niraula mihai lintean cristian moldovan william baggett 
+ similar corpu resourc foster qualit understand semant similar text 
+ semant relat ii enhanc resourc applic languag resourc evalu confer lrec instanbul turkei 
+ detail 
+ archana bhattarai nobal niraula vasil ru king ip lin 
+ domain independ framework extract aggreg analog featur review 
+ intern confer comput linguist cicl cicl iit delhi india mar 
+ detail 
+ archana bhattarai nobal niraula vasil ru king ip lin 
+ domain independ framework extract aggreg analog featur review 
+ intern confer intellig text process comput linguisitc mar 
+ public pend 
+ detail 
+ vasil ru nobal niraula 
+ autom detect local coher short essai base center theori 
+ intern confer comput linguist cicl springer verlag intern confer comput linguist cicl iit delhi india mar paper award 
+ detail 
+ neva smith king ip lin 
+ automat inform extract web case studi recip 
+ acm southeast confer pp mar 
+ detail 
+ megan bailei king ip lin linda sherrel 
+ cluster sourc code file predict chang propag softwar mainten 
+ acm southeast pp 
+ detail 
+ timothi hnat kamin whitehous raymond dawson erin griffith 
+ doorjamb unobtrus room level track ofpeopl home doorwai sensor 
+ acm confer embed network sensor system sensi acm 
+ detail 
+ full text 
+ jill cao irwin kwan rachel white scott fleme margaret burnett christoph scaffidi 
+ barrier learn idea garden empir studi 
+ vl hcc ieee symposium visual languag human centric comput 
+ detail 
+ vasil ru rafael calvo liu ming 
+ hybrid question gener approach critic review write support 
+ proceed intern confer comput educ singapor asia pacif societi comput educ singapor 
+ detail 
+ irwin kwan scott fleme david piorkowski 
+ inform forag theori collabor softwar develop 
+ futurecsd cscw workshop futur collabor softwar develop 
+ detail 
+ full text 
+ santosh kumar amin ali sy monowar hossain md mahbubur rahman karen hovsepian kurt plarr 
+ mpuff autom detect cigarett smoke puff respir measur 
+ ieee acm inform process sensor network ipsn pp 
+ detail 
+ eric struming max h garzon sunghcul ji 
+ identifi metabol function noncod rna s cerevisia 
+ biocomp intl confer bioinformat comput biologi pp 
+ detail 
+ david piorkowski scott fleme christoph scaffidi christoph bogart margaret burnett bonni e john rachel e bellami calvin swart 
+ reactiv inform forag empir investig theori base recommend system programm 
+ chi int l confer human factor comput system 
+ detail 
+ full text 
+ sajjan g shiva ramya dharam vivek shandilya 
+ runtim monitor sensor secur system 
+ iast conf parallel distribut comput system dalla tx dec 
+ detail 
+ full text 
+ timothi hnat vijai srinivasan jiakang lu tamim sookoor raymond dawson john stankov kamin whitehous 
+ hitchhik s guid success residenti sens deploy 
+ acm sensi seattl wa nov 
+ detail 
+ full text 
+ king ip lin vivek datla max louwers linda morrison 
+ feedback system enhanc chart note qualiti electron health record 
+ intern workshop biomed health informat nov 
+ detail 
+ christoph simmon daniel jone lakisha simmon 
+ framework demo prevent anti comput forens 
+ st annual iaci confer mobil al oct 
+ detail 
+ full text 
+ jill cao scott fleme margaret burnett 
+ explor design opportun garden user programm idea 
+ ieee symposium visual languag human centric comput vl hcc pp sept paper award 
+ detail 
+ full text 
+ david piorkowski scott fleme liza john christoph bogart bonni e john margaret burnett rachel e bellami 
+ model programm navig head head empir evalu predict model 
+ ieee symposium visual languag human centric comput vl hcc pp sept 
+ detail 
+ full text 
+ iftekharuddin muhammad khan ernest mccracken lan wang robert kozma 
+ autonom wireless radar sensor mote integr doppler radar sensor mote applic surveil target materi classif 
+ spie annual meet vol aug 
+ detail 
+ daniel massei c papadopoulo lan wang beichuan zhang lixia zhang 
+ teach network architectur case studi 
+ sigcomm educ workshop aug 
+ detail 
+ danilo rairan max h garzon 
+ green approach process control thermal room 
+ intern confer control applic ca iast s acta press iast june 
+ detail 
+ sajjan g shiva 
+ secur test 
+ int research workshop advanc innov system test memphi tn 
+ detail 
+ full text 
+ harkeerat bedi sankarda roi sajjan g shiva 
+ game theori base defens mechan ddo attack tcp tcp friendli flow 
+ ieee symposium comput intellig cyber secur cic part ssci pari franc apr 
+ detail 
+ full text 
+ sajjan g shiva harkeerat bedi christoph simmon marc fisher ii ramya dharam 
+ holist game inspir defens architectur 
+ int conf data engin internet technolog mar 
+ detail 
+ full text 
+ nam sy vo vinhthui phan thoma sutter 
+ analysi microarrai data direct graph 
+ annual ut ornl kbrin bioinformat summit 
+ detail 
+ naga saladi linda sherrel 
+ auto autom usabl test tool web applic 
+ intern workshop advanc innov system test 
+ detail 
+ kurt plarr andrew raij sy monowar hossain amin ali mustafa al absi emr ertin tom kamarck marcia scott asim smailag dan siewiorek santosh kumar 
+ continu infer psycholog stress sensori measur collect natur environ 
+ acm inform process sensor network ipsn pp nomin paper award 
+ detail 
+ amin ali andrew raij mustafa al absi emr ertin santosh kumar 
+ demo abstract onlin detect speak respiratori measur collect natur environ 
+ acm inform process sensor network ipsn pp 
+ detail 
+ swetha addala linda sherrel 
+ evalu effect test driven develop 
+ intern workshop advanc innov system test 
+ detail 
+ mustang mohammad ganesan deepak shiffman saul santosh kumar 
+ explor micro incent strategi particip compens high burden studi 
+ acm intern confer ubiquit comput ubicomp pp beij china 
+ detail 
+ javier snaider stan franklin 
+ extend spars distribut memori 
+ biolog inspir cognit architectur washington d c 
+ detail 
+ swathi bavanaka linda sherrel 
+ jrutt java remot usabl test tool 
+ intern workshop advanc innov system test 
+ detail 
+ santosh kumar amin ali kurt plarr mustafa al absi emr ertin 
+ mconvers infer convers episod respiratori measur collect field 
+ acm wireless health pp san diego ca 
+ detail 
+ uma ramamurthi stan franklin 
+ memori system cognit agent 
+ proc human memori artifici agent symposium artifici intellig simul behavior convent aisb pp univers york uk 
+ detail 
+ andrew raij animikh ghosh mani b srivastava santosh kumar 
+ privaci risk emerg adopt innocu wearabl sensor mobil environ 
+ acm confer human factor comput chi pp 
+ detail 
+ max h garzon tit yee wong 
+ search valid short genom wide biomark bacteri phylogeni 
+ dna int confer dna comput molecular program vol lectur note comput scienc pp springer verlag 
+ detail 
+ uma ramamurthi stan franklin 
+ system model cognit 
+ proc machin conscious symposium artifici intellig simul behavior convent aisb pp univers york uk 
+ detail 
+ emr ertin nathan stoh siddharth shah somnath mitra taewoo kwon mustafa al absi santosh kumar 
+ stresswar unobtrus wearabl sensor suit inferenc onset causal consequ stress natur environ 
+ acm confer embed network sensor system sensi pp 
+ detail 
+ javier snaider ryan mccall stan franklin 
+ lida framework gener tool agi 
+ fourth confer artifici gener intellig 
+ detail 
+ dipankar dasgupta 
+ configur secur system architectur 
+ ieee vaagdevi int conf vcon warang india dec 
+ detail 
+ yaoq liu xin zhao lan wang beichuan zhang 
+ increment forward tabl aggreg 
+ ieee globecom gener network ngn symposium dec 
+ detail 
+ dipankar dasgupta koyel chaudhuri 
+ multi object evolutionari algorithm solv coverag lifetim optim problem wireless sensor network 
+ int conf swarm evolutionari memet comput semcco chennai india dec 
+ detail 
+ marc fisher ii luke marr barbara g ryder 
+ c diagnos object churn framework base applic 
+ intern symposium foundat softwar engin tool demo abstract nov 
+ detail 
+ full text 
+ marc fisher ii bruno dufour shrutarshi basu barbara g ryder 
+ explor impact context sensit blend analysi 
+ intern confer softwar mainten sept 
+ detail 
+ full text 
+ dipankar dasgupta sudip saha 
+ password secur neg filter 
+ int conf emerg secur technolog est canterburi uk sept 
+ detail 
+ dipankar dasgupta p vejandla aishwarya kaushal fernando nino 
+ evolv attack defend game strategi simul network 
+ ieee int conf inform privaci secur risk trust passat minneapoli mn aug 
+ detail 
+ dipankar dasgupta david becerra alex banceanu fernando nino jame simien 
+ parallel framework multi object evolutionari optim 
+ ieee congress evolutionari comput barcelona spain juli 
+ detail 
+ christoph simmon linda sherrel 
+ set scrum secur enhanc metric taxonomi scrum 
+ worldcomp pp juli 
+ detail 
+ dipankar dasgupta sudip saha aregahegn negatu 
+ techniqu valid control execut process code data survei 
+ int conf secur cryptographi secrypt athen greec juli 
+ detail 
+ vasil ru brendan wyse paul piwek mihai lintean svetlana stoyanchev cristian moldovan 
+ question gener share task evalu challeng 
+ intern natur languag gener confer proceed intern natur languag gener confer inlg dublin ireland juli 
+ detail 
+ vasil ru brendan wyse paul piwek mihai lintean svetlana stoyanchev 
+ overview question gener share task evalu challeng 
+ ed paul piwek proceed question gener workshop pittsburgh pa june 
+ detail 
+ ming liu vasil ru rafael calvo 
+ question gener literatur review write support 
+ intern confer intellig tutor system proceed intellig tutor system confer pittsburgh pa june 
+ detail 
+ vasil ru sajjan g shiva 
+ model simul duplic identif method cost effect 
+ int research workshop advanc innov system test pp memphi tn 
+ detail 
+ full text 
+ robert kozma lan wang iftekharuddin ernest mccracken muhammad khan islam r m demir 
+ multi modal sensor system integr cot technolog surveil track 
+ ieee intern radar confer 
+ detail 
+ ahm owian linda sherrel 
+ test driven develop corpor workplac 
+ h int research workshop advanc innov system test 
+ detail 
+ dipankar dasgupta harkeerat bedi deon garrett 
+ conceptu model monitor multi core system 
+ cyber secur inform intellig research workshop oak ridg tn apr 
+ detail 
+ sajjan g shiva sankarda roi harkeerat bedi dipankar dasgupta chase qishi wu 
+ stochast game model imperfect inform cyber secur 
+ int conf inform warfar secur iciw ohio apr 
+ detail 
+ full text 
+ denis ferebe dipankar dasgupta michael schmidt 
+ cyber secur visual similar strom map 
+ cyber secur inform intellig research workshop oak ridg tn apr 
+ detail 
+ sajjan g shiva sankarda roi dipankar dasgupta 
+ game theori cyber secur 
+ cyber secur inform intellig research workshop oak ridg tn apr 
+ detail 
+ full text 
+ chase qishi wu sajjan g shiva sankarda roi charl elli vivek datla 
+ model simul game theori base defens mechan do ddo attack 
+ spring simul multiconfer springsim florida apr 
+ detail 
+ full text 
+ ramya dharam sankarda roi sajjan g shiva 
+ check softwar compon 
+ myrtl beach comput secur confer myrtl beach sc apr 
+ detail 
+ full text 
+ sajjan g shiva sankarda roi charl elli vivek datla dipankar dasgupta chase qishi wu 
+ static dynam game model do ddo attack potenti defens mechan 
+ spring simul multiconfer springsim florida apr 
+ detail 
+ xin zhao yaoq liu lan wang beichuan zhang 
+ aggregat router forward tabl 
+ ieee infocom mar 
+ detail 
+ lubna shala vasil ru art graesser 
+ speech act classif arab 
+ georgetown univers tabl gurt mar 
+ detail 
+ sankarda roi charl elli sajjan g shiva dipankar dasgupta vivek shandilya chase qishi wu 
+ survei game theori appli network secur 
+ hawaii int conf system scienc hicss hawaii jan 
+ detail 
+ full text 
+ max h garzon buvan sivakumar 
+ neurocontrol automat reconstruct facial displai 
+ ieee wcci world congress comput intellig barcelona ieee 
+ detail 
+ sarah b lee sajjan g shiva 
+ approach overcom knowledg share challeng corpor environ 
+ ieee int conf global softwar engin pp princeton nj 
+ detail 
+ full text 
+ vasil ru lubna shala art graesser john kaltner carl cai 
+ analysi leader languag discours 
+ intern confer societi text discours chicago il 
+ detail 
+ kurt plarr andrew raij santanu guha santosh kumar 
+ autom detect sensor detach physiolog sensor wild 
+ acm wireless health pp san diego ca 
+ detail 
+ santanu guha kurt plarr daniel lissner somnath mitra bhagavathi krishna prabal dutta santosh kumar 
+ autowit locat track stolen properti toler gp radio outag 
+ acm confer embed network sensor system sensi pp nomin paper award 
+ detail 
+ santosh kumar mani b srivastava mustafa al absi j gayl beck anind dei david epstein emr ertin deepak ganesan greg potti kenzi preston justin romberg jun xu 
+ challeng person sensor network scientif behavior studi wild 
+ technic report cs pp univers memphi 
+ detail 
+ vasil ru mihai lintean 
+ comput aspect intellig tutor system metatutor 
+ proceed st intern florida artifici intellig research societi confer aaai press 
+ detail 
+ ryan mccall stan franklin david friedland 
+ ground event base modal represent object relat belief 
+ flair flair 
+ detail 
+ full text 
+ d m wilk stan franklin e erdemir s gordon s strain s miller kawamura 
+ heterogen artifici agent triag nurs assist 
+ ed d m wilk stan franklin e erdemir s gordon s strain s miller kawamura ieee ra intern confer humanoid robot ieee 
+ detail 
+ full text 
+ max louwers king ip lin linda morrison amenda drescher 
+ languag featur explain medic record 
+ annual meet societi text discours 
+ detail 
+ n hua lall justin romberg jun xu mustafa al absi emr ertin s suri santosh kumar 
+ time sampl pre filter wearabl physiolog sensor dai week oper singl charg 
+ acm wireless health pp san diego ca 
+ detail 
+ sarah b lee s braunsdorf sajjan g shiva 
+ knowledg engin visual complex legaci modern plan 
+ int conf softwar engin knowledg engin pp san francisco bai ca 
+ detail 
+ full text 
+ max louwers king ip lin amenda drescher g semin 
+ linguist cue predict fraudul event corpor social network 
+ proceed annual confer cognit scienc societi cognit scienc societi 
+ detail 
+ zizhan zheng zhixu lu prasun sinha santosh kumar 
+ maxim contact opportun vehicular internet access 
+ ieee infocom pp san diego ca 
+ detail 
+ y shi m h nguyen p blitz b french s frisk f torr asim smailag dan siewiorek mustafa al absi tom kamarck santosh kumar 
+ person stress detect physiolog measur 
+ intern symposium qualiti life technolog pp la vaga nv 
+ detail 
+ stan franklin javier snaider ryan mccall 
+ present train model time product represent cognit agent 
+ aaai spring symposium s time 
+ detail 
+ full text 
+ mihai lintean cristian moldovan vasil ru daniel s mcnamara 
+ role local global weight assess semant similar text latent semant analysi 
+ proceed st intern florida artifici intellig research societi confer aaai press aaai 
+ detail 
+ confer proceed 
+ pattern analysi web base tool analyz respons pattern replic treatment gene express data 
+ ed nam sy vo vinhthui phan acm confer bioinformat comput biologi biomedicin 
+ detail 
+ nam sy vo vinhthui phan thoma sutter 
+ predict direct graph pattern gene express studi involv multipl treatment 
+ ed nam sy vo vinhthui phan thoma sutter acm confer bioinformat comput biologi biomedicin 
+ detail 
+ explor micro incent strategi particip compens high burden studi 
+ oct 
+ detail 
+ mconvers infer convers episod respiratori measur collect field 
+ acm wireless health oct nomin paper award 
+ detail 
+ privaci risk emerg adopt inoccu wearabl sensor mobil environ 
+ 
+ detail 
+ continu infer psycholog stress sensori measur collect natur environ 
+ acm ipsn apr nomin paper award 
+ detail 
+ demo abstract onlin detect speak respiratori measur collect natur environ 
+ acm ipsn apr 
+ detail 
+ autosens unobtrus wearabl sensor suit inferenc onset causal consequ stress field 
+ acm sensi 
+ detail 
+ technic report 
+ dipankar dasgupta denis ferebe abhijit kumar nag sanjib kumar saha kul subedi alvaro madero abel sanchez john r william 
+ design implement neg authent system 
+ technic report cs univers memphi feb 
+ detail 
+ full text 
+ dipankar dasgupta denis ferebe sanjib kumar saha abhijit kumar nag kul subedi 
+ determinist grid base approach neg authent system g na 
+ technic report cs univers memphi aug 
+ detail 
+ full text 
+ yaoq liu beichuan zhang lan wang 
+ fifa fast increment fib aggreg 
+ technic report cs univers memphi juli 
+ detail 
+ full text 
+ dipankar dasgupta denis ferebe 
+ appli puzzl base learn cyber secur educ 
+ technic report cs univers memphi mar 
+ detail 
+ full text 
+ sudip vhaduri sy monowar hossain amin ali hillol sarker md mahbubur rahman santanu guha karen hovsepian paul balist mustafa al absi emr ertin santosh kumar 
+ relaxrout mobil phone reduc stress commut 
+ technic report cs univers memphi feb 
+ detail 
+ full text 
+ dipankar dasgupta owen mccusker 
+ immunolog comput research head 
+ technic report cs univers memphi jan 
+ detail 
+ full text 
+ md mahbubur rahman sy monowar hossain amin ali andrew raij karen hovsepian mustafa al absi j gayl beck emr ertin satish kedia marcia scott linda tempelman kenneth d ward santosh kumar 
+ bring lab field week long wireless mhealth field studi addict popul 
+ technic report cs univers memphi aug 
+ detail 
+ full text 
+ c yi afanasyev i moiseenko lan wang beichuan zhang lixia zhang 
+ case state forward plane 
+ technic report ndn ndn juli 
+ detail 
+ lan wang m mahmudul hoqu c yi adam alyyan beichuan zhang 
+ ospfn ospf base rout protocol name data network 
+ technic report ndn ndn juli 
+ detail 
+ christoph simmon harkeerat bedi sajjan g shiva vivek shandilya 
+ adapt game inspir attack defens perform taxonomi 
+ technic report cs univers memphi june 
+ detail 
+ dipankar dasgupta md moshiur rahman 
+ meghnad secur coverag estim cloud servic 
+ technic report cs univers memphi 
+ detail 
+ andrew raij p blitz amin ali s fisk y shi n stoh mustafa al absi emr ertin tom kamarck santosh kumar marcia scott dan siewiorek 
+ mstress support continu collect object subject measur psychosoci stress mobil devic 
+ technic report cs univers memphi juli 
+ detail 
+ santosh kumar mani b srivastava mustafa al absi j gayl beck anind dei david epstein emr ertin deepak ganesan greg potti kenzi preston justin romberg jun xu 
+ person sensor network scientif behavior studi wild 
+ technic report cs univers memphi juli 
+ detail 
+ sajjan g shiva dipankar dasgupta chase qishi wu charl elli harkeerat bedi beata kubiak christoph simmon vivek datla nisrin ait khayi enyinda sankarda roi 
+ game theoret approach protect cyberspac 
+ technic report cs univers memphi apr 
+ detail 
+ dipankar dasgupta 
+ build monitor multi core system 
+ technic report cs univers memphi mar 
+ detail 
+ record s 
+ bibtex citat 
+ includ public websit 
+ book umemphisc 
+ author max h cs ed garzon 
+ titl encyclopedia scienc religion 
+ editor ann runehow llui oviedo 
+ edit 
+ seri refer work 
+ publish springer verlag 
+ address isbn 
+ month 
+ year 
+ book umemphisc 
+ author dan tufi corina forascu vasil ru 
+ titl multilingu europ romanian perspect 
+ editor dan tufi corina forascu vasil ru 
+ publish romanian academi publish hous 
+ address bucharest romania 
+ year 
+ incollect umemphisc 
+ author dan jen michael meisel lan wang beichuan zhang lixia zhang 
+ titl apt practic tunnel architectur rout scalabl 
+ editor m boucadair d binet 
+ booktitl solut sustain scalabl internet growth 
+ page 
+ publish igi global 
+ month jul 
+ year 
+ note releas juli 
+ incollect umemphisc 
+ author yaoq liu xin zhao lan wang beichuan zhang 
+ titl aggregat router forward tabl 
+ editor m boucadair d binet 
+ booktitl solut sustain scalabl internet growth 
+ page 
+ publish igi global 
+ month jul 
+ year 
+ note releas juli 
+ incollect umemphisc 
+ author christoph simmon sajjan g shiva harkeerat bedi vivek shandilya 
+ titl adapt game inspir attack defens perform metric taxonomi 
+ booktitl secur privaci protect inform process system 
+ page 
+ publish springer berlin heidelberg 
+ year 
+ incollect umemphisc 
+ author vasil ru nobal niraula mihai lintean art graesser 
+ titl overview dialogu semant process educ technolog 
+ editor dan tufi corina forascu vasil ru 
+ booktitl multilingu europ romanian perspect 
+ publish romanian academi publish hous 
+ year 
+ incollect umemphisc 
+ author santosh kumar mustafa al absi j gayl beck emr ertin marcia scott 
+ titl behavior monitor assess mobil sens technolog 
+ editor jass dalleri sarah lord lisa marsch 
+ booktitl leverag technolog transform behavior healthcar 
+ publish oxford press 
+ year 
+ incollect umemphisc 
+ author vasil ru william baggett elizabeth gire don franceschetti mark conlei art graesser 
+ titl learner model base learn progress deeptutor learner model 
+ editor robert sottilar 
+ booktitl learner model 
+ publish armi research lab 
+ year 
+ incollect umemphisc 
+ author stan franklin 
+ titl histori motiv core theme ai 
+ editor keith frankish william ramsei 
+ booktitl cambridg handbook artifici intellig 
+ publish cambridg univers press 
+ year 
+ incollect umemphisc 
+ author kriangsiri malasri lan wang 
+ titl secur wireless implant health care devic 
+ booktitl mcgraw hill yearbook scienc technolog 
+ page 
+ publish mcgraw hill 
+ year 
+ incollect umemphisc 
+ author andrew j neel max h garzon 
+ titl semant method textual entail 
+ editor phil mccarthi c boonthum 
+ booktitl appli natur languag process identif investig resolut 
+ edit 
+ seri research appli natur languag process 
+ chapter 
+ page 
+ publish igi global 
+ year 
+ incollect umemphisc 
+ author vasil ru 
+ titl challeng solutin intellig tutor system natur languag interact 
+ editor corina forascu dan tufi 
+ booktitl multilingu interoper languag process 
+ seri isbn 
+ publish romanian academi press 
+ year 
+ incollect umemphisc 
+ author art graesser king ip lin sidnei d mello 
+ titl comput learn environ agent support deep comprehens collabor reason 
+ booktitl gener knowledg multidiciplinari perspect 
+ publish psycholog press 
+ year 
+ incollect umemphisc 
+ author bernard j baar stan franklin 
+ titl spontan rememb norm integr model human conscious memori 
+ editor john h mace 
+ booktitl act rememb understand recal 
+ publish oxford 
+ year 
+ incollect umemphisc 
+ author stan franklin bernard j baar 
+ titl varieti unconsci process 
+ editor e perri d collerton h ashton f lebeau 
+ booktitl horizon conscious research boundari brain 
+ publish john benjamin 
+ year 
+ articl umemphisc 
+ author harkeerat bedi sankarda roi sajjan g shiva 
+ titl mitig congest base do attack enhanc aqm techniqu 
+ journal elsevi comput commun 
+ year 
+ articl umemphisc 
+ author vivek shandilya christoph simmon sajjan g shiva 
+ titl attack graph secur system 
+ journal journal comput network commun 
+ year 
+ articl umemphisc 
+ author santosh kumar wendi nilsen abernethi atienza kevin patrick misha pavel w t rilei shar b spring d spruijt metz d hedek honavar r l kravitz r c lefebvr d c mohr s murphi c quinn shusterman d swendeman 
+ titl mhealth evid workshop explor innov method evalu efficaci safeti mobil health 
+ journal american journal prevent medicin 
+ month oct 
+ year 
+ articl umemphisc 
+ author muhammad khan ernest mccracken islam s r bhurtel lan wang robert kozma iftekharuddin 
+ titl autonom wireless radar sensor mote target materi classif 
+ journal elsevi digit signal process 
+ volum 
+ number 
+ page 
+ month 
+ year 
+ articl umemphisc 
+ author c yi afanasyev i moiseenko lan wang beichuan zhang lixia zhang 
+ titl case state forward plane 
+ journal elsevi comput commun 
+ volum 
+ number 
+ page 
+ month apr 
+ year 
+ articl umemphisc 
+ author santosh kumar m nakajima mustafa al absi lorentz wittmer marcia scott 
+ titl psychophysiolog respons stress alcohol intak social drinker risk hazard drink 
+ journal biolog psycholog 
+ page 
+ month apr 
+ year 
+ articl umemphisc 
+ author scott fleme christoph scaffidi david piorkowski margaret burnett rachel e bellami joseph lawranc irwin kwan 
+ titl inform forag theori perspect tool debug refactor reus task 
+ journal acm transact softwar engin methodolog 
+ volum 
+ number 
+ page 
+ month mar 
+ year 
+ articl umemphisc 
+ author joseph lawranc christoph bogart margaret burnett rachel e bellami kyle rector scott fleme 
+ titl programm debug revisit inform forag theori perspect 
+ journal ieee transact softwar engin 
+ volum 
+ number 
+ page 
+ month feb 
+ year 
+ articl umemphisc 
+ author santosh kumar wendi nilsen misha pavel mani b srivastava 
+ titl mobil health revolution health transdisciplinari research 
+ journal ieee comput magazin cover featur 
+ volum 
+ page 
+ month jan 
+ year 
+ articl umemphisc 
+ author nam sy vo quang tran nobal niraula vinhthui phan 
+ titl random algorithm align dna sequenc refer genom 
+ journal ieee intern confer comput advanc bio medic scienc iccab 
+ year 
+ articl umemphisc 
+ author andrew j neel max h garzon 
+ titl comput memori 
+ journal encyclopedia scienc religion 
+ year 
+ note encyclopedia articl 
+ articl umemphisc 
+ author tyler moor russel j deaton max h garzon 
+ titl direct percol dna tile assembl 
+ journal soft matter 
+ year 
+ articl umemphisc 
+ author max h garzon 
+ titl dna codeword design theori applic 
+ journal parallel process letter 
+ year 
+ articl umemphisc 
+ author yaoq liu sy obaid amin lan wang 
+ titl effici fib cach minim overlap prefix 
+ journal acm sigcomm comput commun review ccr 
+ volum 
+ number 
+ page 
+ year 
+ articl umemphisc 
+ author nam sy vo vinhthui phan 
+ titl exploit depend pattern gene express analysi pairwis comparison 
+ journal proceed intern symposium bioinformat research applic isbra 
+ page 
+ year 
+ articl umemphisc 
+ author max h garzon kiran c bobba 
+ titl geometr approach gibb energi landscap dna oligonucleotid design 
+ journal int journal nanotechnolog natur comput 
+ volum 
+ number 
+ page 
+ year 
+ note invit expand dna paper 
+ articl umemphisc 
+ author nam sy vo thoma sutter vinhthui phan 
+ titl infer direct graph pattern gene respons treatment 
+ journal proceed intern confer bioinformat comput biologi bicob 
+ page 
+ year 
+ articl umemphisc 
+ author nam sy vo thoma sutter vinhthui phan 
+ titl mdag web tool analyz visual interpret respons pattern gene express data multipl treatment 
+ journal advanc bioscienc biotechnolog 
+ volum 
+ number 
+ page 
+ year 
+ articl umemphisc 
+ author danilo rairan max h garzon 
+ titl period estim adapt reconstruct quasi period signal 
+ journal int j adapt control theori signal process 
+ volum 
+ year 
+ articl umemphisc 
+ author vasil ru sidnei d mello xiangen hu art graesser 
+ titl advanc convers intellig tutor system 
+ journal ai magazin 
+ volum 
+ number 
+ year 
+ articl umemphisc 
+ author ramya dharam sajjan g shiva 
+ titl runtim monitor techniqu handl tautolog base sql inject attack 
+ journal intern journal cyber secur digit forens 
+ volum 
+ number 
+ month nov 
+ year 
+ articl umemphisc 
+ author max h garzon 
+ titl role evolutionari model comput 
+ journal acm ubiqu 
+ month oct 
+ year 
+ articl umemphisc 
+ author santosh kumar santanu guha kurt plarr daniel lissner somnath mitra bhagavathi krishna prabal dutta 
+ titl autowit locat track stolen properti toler gp radio outag 
+ journal acm transact sensor network tosn 
+ volum 
+ number 
+ page 
+ month sep 
+ year 
+ articl umemphisc 
+ author santosh kumar bruce schatz clai marsh kevin patrick david gustafson jerri krishnan noshir contractor 
+ titl research challeng measur data popul health enabl predict model improv healthcar 
+ journal acm sighit record 
+ page 
+ month sep 
+ year 
+ articl umemphisc 
+ author afanasyev c yi lan wang beichuan zhang lixia zhang 
+ titl adapt forward name data network 
+ journal acm sigcomm comput commun review editori note 
+ volum 
+ number 
+ page 
+ month jul 
+ year 
+ articl umemphisc 
+ author kriangsiri malasri linda sherrel 
+ titl motiv student practic problem 
+ journal journal comput scienc colleg 
+ volum 
+ number 
+ page 
+ month 
+ year 
+ articl umemphisc 
+ author robert kozma lan wang iftekharuddin ernest mccracken muhammad khan islam s r bhurtel r m demir 
+ titl multi modal radar enabl sensor system integr cot technolog surveil track 
+ journal sensor 
+ volum 
+ number 
+ page 
+ month jan 
+ year 
+ articl umemphisc 
+ author vasil ru 
+ titl ru wyse b piwek p lintean m stoyanchev s moldovan c detail account question gener share task evalu challeng 
+ journal journal dialogu discours 
+ volum 
+ number 
+ page 
+ year 
+ articl umemphisc 
+ author santosh kumar wendi nilsen shar c varoqui t wilei w t rilei misha pavel atienza 
+ titl advanc scienc mhealth 
+ journal journal health commun 
+ volum 
+ page 
+ year 
+ articl umemphisc 
+ author vasil ru mihai lintean 
+ titl automat detect student mental model prior knowledg activ metatutor 
+ journal intern journal artifici intellig educ 
+ volum 
+ number 
+ page 
+ year 
+ articl umemphisc 
+ author vasil ru 
+ titl g ask intellig automat gener system academ write support 
+ journal journal dialogu discours 
+ volum 
+ number 
+ page 
+ year 
+ articl umemphisc 
+ author zizhan zheng santosh kumar prasun sinha 
+ titl spars wifi deploy vehicular internet access bound interconnect gap 
+ journal ieee acm transact network ton 
+ volum 
+ number 
+ page 
+ year 
+ articl umemphisc 
+ author linda sherrel kriangsiri malasri david mill allen thoma jame greer 
+ titl tri p let chang face high school comput scienc 
+ journal journal comput mathemat scienc teach 
+ volum 
+ number 
+ page 
+ year 
+ articl umemphisc 
+ author margaret burnett laura beckwith susan wiedenbeck scott fleme jill cao thoma h park kyle rector 
+ titl gender plural problem solv softwar 
+ journal interact comput 
+ volum 
+ number 
+ page 
+ month sep 
+ year 
+ articl umemphisc 
+ author jake quall michael grant linda sherrel 
+ titl cs student understand comput think concept 
+ journal journal comput scienc colleg 
+ volum 
+ number 
+ page 
+ month 
+ year 
+ articl umemphisc 
+ author max h garzon tit yee wong 
+ titl dna chip speci identif biolog phylogeni 
+ journal j natur comput 
+ volum 
+ number 
+ page 
+ month jan 
+ year 
+ articl umemphisc 
+ author sidnei d mello stan franklin 
+ titl cognit model s view anim cognit 
+ journal current zoologi 
+ volum 
+ number 
+ page 
+ year 
+ articl umemphisc 
+ author sidnei d mello stan franklin 
+ titl comput model cognit robot complement function model experiment psycholog 
+ journal idea psycholog 
+ volum 
+ number 
+ page 
+ year 
+ articl umemphisc 
+ author wendel wallach colin allen stan franklin 
+ titl conscious ethic artifici consciou moral agent 
+ journal intern journal machin conscious 
+ volum 
+ number 
+ page 
+ year 
+ articl umemphisc 
+ author stan franklin 
+ titl global workspac theori shanahan lida 
+ journal intern journal machin conscious 
+ volum 
+ number 
+ page 
+ year 
+ note doi s 
+ articl umemphisc 
+ author sujoi roi kevin heinrich vinhthui phan michael berri ramin homayouni 
+ journal bmc bioinformat 
+ volum 
+ number 
+ page s 
+ year 
+ articl umemphisc 
+ author vinhthui phan nam sy vo thoma sutter 
+ titl mdag web base tool analyz microarrai data multipl treatment 
+ journal bmc bioinformat 
+ volum 
+ number 
+ page 
+ year 
+ articl umemphisc 
+ author s strain stan franklin 
+ titl model medic diagnosi comprehens cognit architectur 
+ journal journal healthcar engin 
+ volum 
+ number 
+ page 
+ year 
+ articl umemphisc 
+ author daniela lopez de luis gabriel barrera stan franklin 
+ titl robot local conscious 
+ journal journal pattern recognit research 
+ volum 
+ page 
+ year 
+ articl umemphisc 
+ author tama madl bernard j baar stan franklin 
+ titl time cognit cycl 
+ journal plo 
+ volum 
+ number 
+ year 
+ note e 
+ articl umemphisc 
+ author varun khare dan jen xin zhao yaoq liu daniel massei lan wang beichuan zhang lixia zhang 
+ titl evolut global rout scalabl 
+ journal ieee journal select area commun jsac 
+ volum 
+ number 
+ page 
+ month oct 
+ year 
+ articl umemphisc 
+ author dipankar dasgupta s felix wu fernando nino 
+ titl advanc artifici immun system 
+ journal appli soft comput journal 
+ month oct 
+ year 
+ articl umemphisc 
+ author max h garzon kiran c bobba andrew j neel vinhthui phan 
+ titl dna base index 
+ journal j nanotechnolog molecular comput 
+ volum 
+ number 
+ page 
+ month sep 
+ year 
+ articl umemphisc 
+ author jake quall linda sherrel 
+ titl comput think ad curriculum 
+ journal journal comput scienc colleg 
+ volum 
+ number 
+ page 
+ month 
+ year 
+ articl umemphisc 
+ author stan franklin wendel wallach colin allen 
+ titl conceptu comput model moral decis make human artifici agent 
+ journal topic cognit scienc 
+ page 
+ year 
+ articl umemphisc 
+ author lubna shala vasil ru art graesser 
+ titl automat speech act classif arab 
+ journal subjetividad y proceso cognitivo journal 
+ volum 
+ number 
+ page 
+ year 
+ articl umemphisc 
+ author sidnei d mello stan franklin 
+ titl comput model cognit robot compliment function model experiment psycholog 
+ journal idea psycholog 
+ year 
+ articl umemphisc 
+ author linda sherrel bhagavathi krishna n velaga p vejandla 
+ titl experi extrem program 
+ journal journal comput mathemat scienc teach 
+ volum 
+ number 
+ page 
+ year 
+ note invit paper 
+ articl umemphisc 
+ author ai chen ten h lai santosh kumar 
+ titl local barrier coverag wireless sensor network 
+ journal ieee transact mobil comput tmc 
+ volum 
+ number 
+ page 
+ year 
+ articl umemphisc 
+ author ten h lai marc e posner prasun sinha santosh kumar 
+ titl maxim lifetim barrier wireless sensor 
+ journal ieee transact mobil comput tmc 
+ volum 
+ number 
+ page 
+ year 
+ articl umemphisc 
+ author mihai lintean vasil ru 
+ titl paraphras identif weight depend lexic semant 
+ journal informatica intern journal comput 
+ volum 
+ number 
+ page 
+ year 
+ note pp 
+ articl umemphisc 
+ author vinhthui phan allen thoma kriangsiri malasri carri hay sutter 
+ titl stabil rna structur motif influenc edit effici adenosin deaminas 
+ journal int journal bioinformat research applic 
+ volum 
+ number 
+ page 
+ year 
+ articl umemphisc 
+ author vinhthui phan tit yee wong 
+ titl synthet gene design larg number hidden stop codon 
+ journal intern journal data mine bioinformat 
+ volum 
+ number 
+ page 
+ year 
+ inproceed umemphisc 
+ author timothi hnat kazi zaman anthoni white sami yli piipari 
+ titl sens kinemat approach measur human energi expenditur 
+ booktitl european confer wireless sensor network 
+ publish springer 
+ organ european confer wireless sensor network ewsn 
+ month feb 
+ year 
+ inproceed umemphisc 
+ author christoph simmon sajjan g shiva lakisha simmon 
+ titl qualit analysi ontolog base issu resolut system cyber attack manag 
+ booktitl ieee cyber 
+ publish ieee 
+ year 
+ inproceed umemphisc 
+ author santosh kumar sy monowar hossain amin ali emr ertin david epstein kenzi preston umbricht y chen 
+ titl identifi drug cocain intak event acut physiolog respons presenc free live physic activ 
+ booktitl acm ipsn 
+ page 
+ year 
+ inproceed umemphisc 
+ author austin henlei scott fleme 
+ titl patchwork code editor faster navig code arrang navig mistak 
+ booktitl chi acm sigchi confer human factor comput system 
+ publish acm 
+ year 
+ inproceed umemphisc 
+ author harkeerat bedi sajjan g shiva 
+ titl mitig congest base denial servic attack activ queue manag 
+ booktitl globecom 
+ address atlanta 
+ month dec 
+ year 
+ inproceed umemphisc 
+ author timothi hnat sean beach 
+ titl safetysens automat classifi safe unsaf locat distract peopl smartphon 
+ booktitl sensemin intern workshop sens big data mine 
+ month nov 
+ year 
+ inproceed umemphisc 
+ author m mahmudul hoqu sy obaid amin adam alyyan beichuan zhang lixia zhang lan wang 
+ titl nlsr name data link state rout protocol 
+ booktitl acm sigcomm icn workshop 
+ month aug 
+ year 
+ inproceed umemphisc 
+ author ramya dharam sajjan g shiva 
+ titl essenti cloud secur featur window azur 
+ booktitl gca 
+ address la vega 
+ month jul 
+ year 
+ inproceed umemphisc 
+ author abdullah eid abu hussein harkeerat bedi sajjan g shiva 
+ titl stakehold orient taxonom approach secur cloud comput 
+ booktitl ieee int conf cloud comput 
+ address santa clara ca 
+ month jul 
+ year 
+ inproceed umemphisc 
+ author abdullah eid abu hussein harkeerat bedi sajjan g shiva 
+ titl taxonom approach secur cloud comput 
+ booktitl ieee int conf cloud comput 
+ address santa clara ca 
+ month jul 
+ year 
+ inproceed umemphisc 
+ author yaoq liu beichuan zhang lan wang 
+ titl fifa fast increment fib aggreg 
+ booktitl ieee infocom 
+ month apr 
+ year 
+ inproceed umemphisc 
+ author ramya dharam sajjan g shiva 
+ titl runtim monitor detect prevent union queri base sql inject attack 
+ booktitl itng 
+ address la vega 
+ month apr 
+ year 
+ inproceed umemphisc 
+ author vasil ru nobal niraula rajendra banjad 
+ titl studi probabilist algebra method semant similar 
+ booktitl intern confer florida artifici intellig research societi flair 
+ publish aaai press 
+ year 
+ inproceed umemphisc 
+ author borhan samei fazel keshtkar vasil ru art graesser 
+ titl tool speech act classif interact machin learn 
+ booktitl intern confer educ data mine edm 
+ year 
+ inproceed umemphisc 
+ author michael c nolen king ip lin 
+ titl approxim high dimension nearest neighbor queri r forest 
+ booktitl intern databas engin applic symposioum 
+ year 
+ inproceed umemphisc 
+ author soujanya medapati king ip lin linda sherrel 
+ titl autom paramet estim process cluster algorithm softwar mainten 
+ booktitl acm southeast confer 
+ year 
+ inproceed umemphisc 
+ author j gao emr ertin mustafa al absi santosh kumar 
+ titl contactless sens physiolog signal wideband rf probe 
+ booktitl asilomar confer signal system comput 
+ year 
+ inproceed umemphisc 
+ author nobal niraula vasil ru dan stefanescu 
+ titl deep anaphora resolut engin 
+ booktitl intern confer educ data mine edm 
+ year 
+ inproceed umemphisc 
+ author jun xie xudong huang henri hua jin wang quan tang scotti craig art graesser king ip lin xiangen hu 
+ titl discov relationship student effort abil predict perform technolog assist learn mathemat school program 
+ booktitl intern confer educ data mine edm 
+ year 
+ inproceed umemphisc 
+ author jill cao irwin kwan faezeh bahmani margaret burnett joshua jordhal amber horvath scott fleme sherri yang 
+ titl user programm troubl idea garden 
+ booktitl vl hcc ieee symposium visual languag human centric comput 
+ page 
+ publish ieee 
+ year 
+ inproceed umemphisc 
+ author nobal niraula rajendra banjad vasil ru 
+ titl experi semant similar measur base lda lsa 
+ booktitl st intern confer statist speech languag process slsp 
+ year 
+ inproceed umemphisc 
+ author max h garzon christoph simmon jason knislei 
+ titl knowledg dissemin resourc elicit softwar engin 
+ booktitl sky int workshop softwar knowledg 
+ publish scitepress digit librari 
+ year 
+ inproceed umemphisc 
+ author vasil ru rajendra banjad nobal niraula 
+ titl latent concept latent topic 
+ booktitl proceed meet societi text discours 
+ year 
+ inproceed umemphisc 
+ author vasil ru nobal niraula mihai lintean rajendra banjad dan stefanescu william baggett 
+ titl recommend gener intellig framework tutor base develop deeptutor tutor servic 
+ booktitl workshop gener intellig framework tutor gift intern confer artifici intellig educ ai 
+ year 
+ inproceed umemphisc 
+ author kuldeep sharma king ip lin 
+ titl review spam detector rate consist check 
+ booktitl acm southeast confer 
+ year 
+ inproceed umemphisc 
+ author vasil ru rajendra banjad mihai lintean nobal niraula dan stefanescu 
+ titl semilar semant similar toolkit assess student natur languag input 
+ booktitl intern confer educ data mine edm juli memphi tn 
+ year 
+ inproceed umemphisc 
+ author vasil ru mihai lintean rajendra banjad nobal niraula dan stefanescu 
+ titl semilar semant similar toolkit 
+ booktitl st annual meet associ comput linguist acl 
+ publish associ comput linguist 
+ year 
+ inproceed umemphisc 
+ author vasil ru nobal niraula rajendra banjad 
+ titl similar measur base latent dirichlet alloc 
+ booktitl intern confer intellig text process comput linguist cicl 
+ seri lnc 
+ publish springer verlag 
+ year 
+ inproceed umemphisc 
+ author donald morrison vasil ru 
+ titl scholar legaci afford semant network convers agent 
+ booktitl workshop gener intellig framework tutor gift 
+ year 
+ inproceed umemphisc 
+ author david piorkowski scott fleme irwin kwan margaret burnett christoph scaffidi rachel e bellami joshua jordhal 
+ titl what how programm forag diet 
+ booktitl chi acm sigchi confer human factor comput system 
+ page 
+ publish acm 
+ year 
+ inproceed umemphisc 
+ author daniel jone scott fleme 
+ titl backseat driver ground theori investig pair program 
+ booktitl vl hcc ieee symposium visual languag human centric comput 
+ page 
+ publish ieee 
+ year 
+ inproceed umemphisc 
+ author abdullah eid abu hussein harkeerat bedi sajjan g shiva 
+ titl evalu secur privaci cloud comput servic stakehold s perspect 
+ booktitl intern confer internet technolog secur transact icitst 
+ address london 
+ month dec 
+ year 
+ inproceed umemphisc 
+ author harkeerat bedi sajjan g shiva christoph simmon vivek shandilya 
+ titl game inspir defens architectur 
+ booktitl conf decis game theori secur poster session 
+ address budapest 
+ month nov 
+ year 
+ inproceed umemphisc 
+ author vivek datla king ip lin max louwers 
+ titl captur diseas symptom relat higher order occurr algorithm 
+ booktitl intern workshop biomed health informat bhi 
+ month oct 
+ year 
+ inproceed umemphisc 
+ author harkeerat bedi sajjan g shiva 
+ titl secur cloud infrastructur resid do attack game theoret defens mechan 
+ booktitl intl workshop servic orient architectur cloud comput soac part icacci 
+ address chennai india 
+ month aug 
+ year 
+ inproceed umemphisc 
+ author max h garzon kiran c bobba 
+ titl theori applic dna codeword design 
+ editor adrian dediu carlon martin vide bianca truth 
+ booktitl intl confer tpnc theori practic natur comput 
+ volum 
+ seri lnc lectur note comput scienc 
+ publish springer verlag 
+ organ springer verlag 
+ month aug 
+ year 
+ inproceed umemphisc 
+ author niklesh kumar katta scott fleme linda sherrel 
+ titl evalu usabl test tool case studi 
+ booktitl sixth intern workshop advanc innov system test 
+ page page 
+ month jul 
+ year 
+ inproceed umemphisc 
+ author christoph simmon sajjan g shiva vinhthui phan vivek shandilya lakisha simmon 
+ titl ir issu resolut system cyber attack classif manag 
+ booktitl intern confer secur manag sam 
+ address la vega 
+ month jul 
+ year 
+ inproceed umemphisc 
+ author ramya dharam sajjan g shiva 
+ titl runtim monitor post deploy secur test techniqu 
+ booktitl sixth intern research workshop advanc innov softwar test 
+ address memphi tn 
+ month jul 
+ year 
+ inproceed umemphisc 
+ author vivek shandilya sajjan g shiva 
+ titl secur cloud stakehold s perspect 
+ booktitl intern confer secur manag sam 
+ address la vega 
+ month jul 
+ year 
+ inproceed umemphisc 
+ author sajjan g shiva 
+ titl secur test statu report 
+ booktitl sixth intern research workshop advanc innov softwar test 
+ address memphi tn 
+ month jul 
+ year 
+ inproceed umemphisc 
+ author vasil ru nobal niraula rajendra banjad art graesser 
+ titl automat discoveri speech act categori educ game 
+ booktitl intern confer educ data mine edm 
+ address chania greec 
+ month jun 
+ year 
+ inproceed umemphisc 
+ author ramya dharam sajjan g shiva 
+ titl framework develop runtim monitor 
+ booktitl intern confer comput inform scienc 
+ address kuala lumpur malaysia 
+ month jun 
+ year 
+ inproceed umemphisc 
+ author max h garzon kiran c bobba 
+ titl geometr approach gibb energi landscap optim dna codeword design 
+ editor andrew turberfield darko stefanov 
+ booktitl dna dna comput molecular program 
+ volum 
+ seri lnc lectur note comput scienc 
+ publish springer verlag 
+ organ springer verlag 
+ month jun 
+ year 
+ inproceed umemphisc 
+ author ramya dharam sajjan g shiva 
+ titl analysi monitor tool java applic 
+ booktitl intern confer softwar comput applic 
+ address singapor 
+ month jun 
+ year 
+ inproceed umemphisc 
+ author ramya dharam sajjan g shiva 
+ titl runtim monitor tautolog base sql inject attack 
+ booktitl intern confer cyber secur cyber warfar digit forens 
+ address kuala lumpur malaysia 
+ month jun 
+ year 
+ inproceed umemphisc 
+ author mihai lintean vasil ru 
+ titl measur semant similar short text greedi pair word semant 
+ booktitl proceed intern florida artifici intellig research societi confer aaai confer 
+ month 
+ year 
+ inproceed umemphisc 
+ author vasil ru nobal niraula mihai lintean cristian moldovan william baggett 
+ titl similar corpu resourc foster qualit understand semant similar text 
+ booktitl semant relat ii enhanc resourc applic languag resourc evalu confer lrec 
+ address instanbul turkei 
+ month 
+ year 
+ inproceed umemphisc 
+ author archana bhattarai nobal niraula vasil ru king ip lin 
+ titl domain independ framework extract aggreg analog featur review 
+ booktitl intern confer comput linguist cicl 
+ publish cicl iit delhi india 
+ month mar 
+ year 
+ inproceed umemphisc 
+ author archana bhattarai nobal niraula vasil ru king ip lin 
+ titl domain independ framework extract aggreg analog featur review 
+ booktitl intern confer intellig text process comput linguisitc 
+ month mar 
+ year 
+ inproceed umemphisc 
+ author vasil ru nobal niraula 
+ titl autom detect local coher short essai base center theori 
+ booktitl intern confer comput linguist cicl 
+ publish springer verlag 
+ organ intern confer comput linguist cicl iit delhi india 
+ month mar 
+ year 
+ note paper award 
+ inproceed umemphisc 
+ author neva smith king ip lin 
+ titl automat inform extract web case studi recip 
+ booktitl acm southeast confer 
+ page 
+ month mar 
+ year 
+ inproceed umemphisc 
+ author megan bailei king ip lin linda sherrel 
+ titl cluster sourc code file predict chang propag softwar mainten 
+ booktitl acm southeast 
+ page 
+ year 
+ inproceed umemphisc 
+ author timothi hnat kamin whitehous raymond dawson erin griffith 
+ titl doorjamb unobtrus room level track ofpeopl home doorwai sensor 
+ booktitl acm confer embed network sensor system sensi 
+ organ acm 
+ year 
+ inproceed umemphisc 
+ author jill cao irwin kwan rachel white scott fleme margaret burnett christoph scaffidi 
+ titl barrier learn idea garden empir studi 
+ booktitl vl hcc ieee symposium visual languag human centric comput 
+ year 
+ inproceed umemphisc 
+ author vasil ru rafael calvo liu ming 
+ titl hybrid question gener approach critic review write support 
+ booktitl proceed intern confer comput educ singapor asia pacif societi comput educ 
+ address singapor 
+ year 
+ inproceed umemphisc 
+ author irwin kwan scott fleme david piorkowski 
+ titl inform forag theori collabor softwar develop 
+ booktitl futurecsd cscw workshop futur collabor softwar develop 
+ year 
+ inproceed umemphisc 
+ author santosh kumar amin ali sy monowar hossain md mahbubur rahman karen hovsepian kurt plarr 
+ titl mpuff autom detect cigarett smoke puff respir measur 
+ booktitl ieee acm inform process sensor network ipsn 
+ page 
+ year 
+ inproceed umemphisc 
+ author eric struming max h garzon sunghcul ji 
+ titl identifi metabol function noncod rna s cerevisia 
+ booktitl biocomp intl confer bioinformat comput biologi 
+ page 
+ year 
+ inproceed umemphisc 
+ author david piorkowski scott fleme christoph scaffidi christoph bogart margaret burnett bonni e john rachel e bellami calvin swart 
+ titl reactiv inform forag empir investig theori base recommend system programm 
+ booktitl chi int l confer human factor comput system 
+ year 
+ inproceed umemphisc 
+ author sajjan g shiva ramya dharam vivek shandilya 
+ titl runtim monitor sensor secur system 
+ booktitl iast conf parallel distribut comput system 
+ address dalla tx 
+ month dec 
+ year 
+ inproceed umemphisc 
+ author timothi hnat vijai srinivasan jiakang lu tamim sookoor raymond dawson john stankov kamin whitehous 
+ titl hitchhik s guid success residenti sens deploy 
+ booktitl acm sensi 
+ address seattl wa 
+ month nov 
+ year 
+ inproceed umemphisc 
+ author king ip lin vivek datla max louwers linda morrison 
+ titl feedback system enhanc chart note qualiti electron health record 
+ booktitl intern workshop biomed health informat 
+ month nov 
+ year 
+ inproceed umemphisc 
+ author christoph simmon daniel jone lakisha simmon 
+ titl framework demo prevent anti comput forens 
+ booktitl st annual iaci confer 
+ address mobil al 
+ month oct 
+ year 
+ inproceed umemphisc 
+ author jill cao scott fleme margaret burnett 
+ titl explor design opportun garden user programm idea 
+ booktitl ieee symposium visual languag human centric comput vl hcc 
+ page 
+ month sep 
+ year 
+ note paper award 
+ inproceed umemphisc 
+ author david piorkowski scott fleme liza john christoph bogart bonni e john margaret burnett rachel e bellami 
+ titl model programm navig head head empir evalu predict model 
+ booktitl ieee symposium visual languag human centric comput vl hcc 
+ page 
+ month sep 
+ year 
+ inproceed umemphisc 
+ author iftekharuddin muhammad khan ernest mccracken lan wang robert kozma 
+ titl autonom wireless radar sensor mote integr doppler radar sensor mote applic surveil target materi classif 
+ booktitl spie annual meet 
+ volum 
+ month aug 
+ year 
+ inproceed umemphisc 
+ author daniel massei c papadopoulo lan wang beichuan zhang lixia zhang 
+ titl teach network architectur case studi 
+ booktitl sigcomm educ workshop 
+ month aug 
+ year 
+ inproceed umemphisc 
+ author danilo rairan max h garzon 
+ titl green approach process control thermal room 
+ booktitl intern confer control applic ca 
+ publish iast s acta press 
+ organ iast 
+ month jun 
+ year 
+ inproceed umemphisc 
+ author sajjan g shiva 
+ titl secur test 
+ booktitl int research workshop advanc innov system test 
+ address memphi tn 
+ month 
+ year 
+ inproceed umemphisc 
+ author harkeerat bedi sankarda roi sajjan g shiva 
+ titl game theori base defens mechan ddo attack tcp tcp friendli flow 
+ booktitl ieee symposium comput intellig cyber secur cic part ssci 
+ address pari franc 
+ month apr 
+ year 
+ inproceed umemphisc 
+ author sajjan g shiva harkeerat bedi christoph simmon marc fisher ii ramya dharam 
+ titl holist game inspir defens architectur 
+ booktitl int conf data engin internet technolog 
+ month mar 
+ year 
+ inproceed umemphisc 
+ author nam sy vo vinhthui phan thoma sutter 
+ titl analysi microarrai data direct graph 
+ booktitl annual ut ornl kbrin bioinformat summit 
+ year 
+ inproceed umemphisc 
+ author naga saladi linda sherrel 
+ titl auto autom usabl test tool web applic 
+ booktitl intern workshop advanc innov system test 
+ year 
+ inproceed umemphisc 
+ author kurt plarr andrew raij sy monowar hossain amin ali mustafa al absi emr ertin tom kamarck marcia scott asim smailag dan siewiorek santosh kumar 
+ titl continu infer psycholog stress sensori measur collect natur environ 
+ booktitl acm inform process sensor network ipsn 
+ page 
+ year 
+ note nomin paper award 
+ inproceed umemphisc 
+ author amin ali andrew raij mustafa al absi emr ertin santosh kumar 
+ titl demo abstract onlin detect speak respiratori measur collect natur environ 
+ booktitl acm inform process sensor network ipsn 
+ page 
+ year 
+ inproceed umemphisc 
+ author swetha addala linda sherrel 
+ titl evalu effect test driven develop 
+ booktitl intern workshop advanc innov system test 
+ year 
+ inproceed umemphisc 
+ author mustang mohammad ganesan deepak shiffman saul santosh kumar 
+ titl explor micro incent strategi particip compens high burden studi 
+ booktitl acm intern confer ubiquit comput ubicomp 
+ page 
+ address beij china 
+ year 
+ inproceed umemphisc 
+ author javier snaider stan franklin 
+ titl extend spars distribut memori 
+ booktitl biolog inspir cognit architectur 
+ address washington d c 
+ year 
+ inproceed umemphisc 
+ author swathi bavanaka linda sherrel 
+ titl jrutt java remot usabl test tool 
+ booktitl intern workshop advanc innov system test 
+ year 
+ inproceed umemphisc 
+ author santosh kumar amin ali kurt plarr mustafa al absi emr ertin 
+ titl mconvers infer convers episod respiratori measur collect field 
+ booktitl acm wireless health 
+ page 
+ address san diego ca 
+ year 
+ inproceed umemphisc 
+ author uma ramamurthi stan franklin 
+ titl memori system cognit agent 
+ booktitl proc human memori artifici agent symposium artifici intellig simul behavior convent aisb 
+ page 
+ address univers york uk 
+ year 
+ inproceed umemphisc 
+ author andrew raij animikh ghosh mani b srivastava santosh kumar 
+ titl privaci risk emerg adopt innocu wearabl sensor mobil environ 
+ booktitl acm confer human factor comput chi 
+ page 
+ year 
+ inproceed umemphisc 
+ author max h garzon tit yee wong 
+ titl search valid short genom wide biomark bacteri phylogeni 
+ booktitl dna int confer dna comput molecular program 
+ volum 
+ seri lectur note comput scienc 
+ page 
+ publish springer verlag 
+ year 
+ inproceed umemphisc 
+ author uma ramamurthi stan franklin 
+ titl system model cognit 
+ booktitl proc machin conscious symposium artifici intellig simul behavior convent aisb 
+ page 
+ address univers york uk 
+ year 
+ inproceed umemphisc 
+ author emr ertin nathan stoh siddharth shah somnath mitra taewoo kwon mustafa al absi santosh kumar 
+ titl stresswar unobtrus wearabl sensor suit inferenc onset causal consequ stress natur environ 
+ booktitl acm confer embed network sensor system sensi 
+ page 
+ year 
+ inproceed umemphisc 
+ author javier snaider ryan mccall stan franklin 
+ titl lida framework gener tool agi 
+ booktitl fourth confer artifici gener intellig 
+ year 
+ inproceed umemphisc 
+ author dipankar dasgupta 
+ titl configur secur system architectur 
+ booktitl ieee vaagdevi int conf vcon 
+ address warang india 
+ month dec 
+ year 
+ inproceed umemphisc 
+ author yaoq liu xin zhao lan wang beichuan zhang 
+ titl increment forward tabl aggreg 
+ booktitl ieee globecom gener network ngn symposium 
+ month dec 
+ year 
+ inproceed umemphisc 
+ author dipankar dasgupta koyel chaudhuri 
+ titl multi object evolutionari algorithm solv coverag lifetim optim problem wireless sensor network 
+ booktitl int conf swarm evolutionari memet comput semcco 
+ address chennai india 
+ month dec 
+ year 
+ inproceed umemphisc 
+ author marc fisher ii luke marr barbara g ryder 
+ titl c diagnos object churn framework base applic 
+ booktitl intern symposium foundat softwar engin tool demo abstract 
+ month nov 
+ year 
+ inproceed umemphisc 
+ author marc fisher ii bruno dufour shrutarshi basu barbara g ryder 
+ titl explor impact context sensit blend analysi 
+ booktitl intern confer softwar mainten 
+ month sep 
+ year 
+ inproceed umemphisc 
+ author dipankar dasgupta sudip saha 
+ titl password secur neg filter 
+ booktitl int conf emerg secur technolog est 
+ address canterburi uk 
+ month sep 
+ year 
+ inproceed umemphisc 
+ author dipankar dasgupta p vejandla aishwarya kaushal fernando nino 
+ titl evolv attack defend game strategi simul network 
+ booktitl ieee int conf inform privaci secur risk trust passat 
+ address minneapoli mn 
+ month aug 
+ year 
+ inproceed umemphisc 
+ author dipankar dasgupta david becerra alex banceanu fernando nino jame simien 
+ titl parallel framework multi object evolutionari optim 
+ booktitl ieee congress evolutionari comput 
+ address barcelona spain 
+ month jul 
+ year 
+ inproceed umemphisc 
+ author christoph simmon linda sherrel 
+ titl set scrum secur enhanc metric taxonomi scrum 
+ booktitl worldcomp 
+ page 
+ month jul 
+ year 
+ inproceed umemphisc 
+ author dipankar dasgupta sudip saha aregahegn negatu 
+ titl techniqu valid control execut process code data survei 
+ booktitl int conf secur cryptographi secrypt 
+ address athen greec 
+ month jul 
+ year 
+ inproceed umemphisc 
+ author vasil ru brendan wyse paul piwek mihai lintean svetlana stoyanchev cristian moldovan 
+ titl question gener share task evalu challeng 
+ booktitl intern natur languag gener confer 
+ seri proceed intern natur languag gener confer 
+ publish inlg 
+ address dublin ireland 
+ month jul 
+ year 
+ inproceed umemphisc 
+ author vasil ru brendan wyse paul piwek mihai lintean svetlana stoyanchev 
+ titl overview question gener share task evalu challeng 
+ editor paul piwek 
+ booktitl proceed question gener workshop 
+ address pittsburgh pa 
+ month jun 
+ year 
+ inproceed umemphisc 
+ author ming liu vasil ru rafael calvo 
+ titl question gener literatur review write support 
+ booktitl intern confer intellig tutor system 
+ seri proceed intellig tutor system confer 
+ publish 
+ address pittsburgh pa 
+ month jun 
+ year 
+ inproceed umemphisc 
+ author vasil ru sajjan g shiva 
+ titl model simul duplic identif method cost effect 
+ booktitl int research workshop advanc innov system test 
+ page 
+ address memphi tn 
+ month 
+ year 
+ inproceed umemphisc 
+ author robert kozma lan wang iftekharuddin ernest mccracken muhammad khan islam r m demir 
+ titl multi modal sensor system integr cot technolog surveil track 
+ booktitl ieee intern radar confer 
+ month 
+ year 
+ inproceed umemphisc 
+ author ahm owian linda sherrel 
+ titl test driven develop corpor workplac 
+ booktitl h int research workshop advanc innov system test 
+ month 
+ year 
+ inproceed umemphisc 
+ author dipankar dasgupta harkeerat bedi deon garrett 
+ titl conceptu model monitor multi core system 
+ booktitl cyber secur inform intellig research workshop 
+ address oak ridg tn 
+ month apr 
+ year 
+ inproceed umemphisc 
+ author sajjan g shiva sankarda roi harkeerat bedi dipankar dasgupta chase qishi wu 
+ titl stochast game model imperfect inform cyber secur 
+ booktitl int conf inform warfar secur iciw 
+ address ohio 
+ month apr 
+ year 
+ inproceed umemphisc 
+ author denis ferebe dipankar dasgupta michael schmidt 
+ titl cyber secur visual similar strom map 
+ booktitl cyber secur inform intellig research workshop 
+ address oak ridg tn 
+ month apr 
+ year 
+ inproceed umemphisc 
+ author sajjan g shiva sankarda roi dipankar dasgupta 
+ titl game theori cyber secur 
+ booktitl cyber secur inform intellig research workshop 
+ address oak ridg tn 
+ month apr 
+ year 
+ inproceed umemphisc 
+ author chase qishi wu sajjan g shiva sankarda roi charl elli vivek datla 
+ titl model simul game theori base defens mechan do ddo attack 
+ booktitl spring simul multiconfer springsim 
+ address florida 
+ month apr 
+ year 
+ inproceed umemphisc 
+ author ramya dharam sankarda roi sajjan g shiva 
+ titl check softwar compon 
+ booktitl myrtl beach comput secur confer 
+ address myrtl beach sc 
+ month apr 
+ year 
+ inproceed umemphisc 
+ author sajjan g shiva sankarda roi charl elli vivek datla dipankar dasgupta chase qishi wu 
+ titl static dynam game model do ddo attack potenti defens mechan 
+ booktitl spring simul multiconfer springsim 
+ address florida 
+ month apr 
+ year 
+ inproceed umemphisc 
+ author xin zhao yaoq liu lan wang beichuan zhang 
+ titl aggregat router forward tabl 
+ booktitl ieee infocom 
+ month mar 
+ year 
+ inproceed umemphisc 
+ author lubna shala vasil ru art graesser 
+ titl speech act classif arab 
+ booktitl georgetown univers tabl gurt 
+ month mar 
+ year 
+ inproceed umemphisc 
+ author sankarda roi charl elli sajjan g shiva dipankar dasgupta vivek shandilya chase qishi wu 
+ titl survei game theori appli network secur 
+ booktitl hawaii int conf system scienc hicss 
+ address hawaii 
+ month jan 
+ year 
+ inproceed umemphisc 
+ author max h garzon buvan sivakumar 
+ titl neurocontrol automat reconstruct facial displai 
+ booktitl ieee wcci world congress comput intellig barcelona 
+ publish ieee 
+ year 
+ inproceed umemphisc 
+ author sarah b lee sajjan g shiva 
+ titl approach overcom knowledg share challeng corpor environ 
+ booktitl ieee int conf global softwar engin 
+ page 
+ address princeton nj 
+ year 
+ inproceed umemphisc 
+ author vasil ru lubna shala art graesser john kaltner carl cai 
+ titl analysi leader languag discours 
+ booktitl intern confer societi text discours 
+ address chicago il 
+ year 
+ inproceed umemphisc 
+ author kurt plarr andrew raij santanu guha santosh kumar 
+ titl autom detect sensor detach physiolog sensor wild 
+ booktitl acm wireless health 
+ page 
+ address san diego ca 
+ year 
+ inproceed umemphisc 
+ author santanu guha kurt plarr daniel lissner somnath mitra bhagavathi krishna prabal dutta santosh kumar 
+ titl autowit locat track stolen properti toler gp radio outag 
+ booktitl acm confer embed network sensor system sensi 
+ page 
+ year 
+ note nomin paper award 
+ inproceed umemphisc 
+ author santosh kumar mani b srivastava mustafa al absi j gayl beck anind dei david epstein emr ertin deepak ganesan greg potti kenzi preston justin romberg jun xu 
+ titl challeng person sensor network scientif behavior studi wild 
+ booktitl technic report cs 
+ page 
+ address univers memphi 
+ year 
+ inproceed umemphisc 
+ author vasil ru mihai lintean 
+ titl comput aspect intellig tutor system metatutor 
+ booktitl proceed st intern florida artifici intellig research societi confer 
+ publish aaai press 
+ year 
+ inproceed umemphisc 
+ author ryan mccall stan franklin david friedland 
+ titl ground event base modal represent object relat belief 
+ booktitl flair 
+ publish flair 
+ year 
+ inproceed umemphisc 
+ author d m wilk stan franklin e erdemir s gordon s strain s miller kawamura 
+ titl heterogen artifici agent triag nurs assist 
+ editor d m wilk stan franklin e erdemir s gordon s strain s miller kawamura 
+ booktitl ieee ra intern confer humanoid robot 
+ publish ieee 
+ year 
+ inproceed umemphisc 
+ author max louwers king ip lin linda morrison amenda drescher 
+ titl languag featur explain medic record 
+ booktitl annual meet societi text discours 
+ year 
+ inproceed umemphisc 
+ author n hua lall justin romberg jun xu mustafa al absi emr ertin s suri santosh kumar 
+ titl time sampl pre filter wearabl physiolog sensor dai week oper singl charg 
+ booktitl acm wireless health 
+ page 
+ address san diego ca 
+ year 
+ inproceed umemphisc 
+ author sarah b lee s braunsdorf sajjan g shiva 
+ titl knowledg engin visual complex legaci modern plan 
+ booktitl int conf softwar engin knowledg engin 
+ page 
+ address san francisco bai ca 
+ year 
+ inproceed umemphisc 
+ author max louwers king ip lin amenda drescher g semin 
+ titl linguist cue predict fraudul event corpor social network 
+ booktitl proceed annual confer cognit scienc societi 
+ publish cognit scienc societi 
+ year 
+ inproceed umemphisc 
+ author zizhan zheng zhixu lu prasun sinha santosh kumar 
+ titl maxim contact opportun vehicular internet access 
+ booktitl ieee infocom 
+ page 
+ address san diego ca 
+ year 
+ inproceed umemphisc 
+ author y shi m h nguyen p blitz b french s frisk f torr asim smailag dan siewiorek mustafa al absi tom kamarck santosh kumar 
+ titl person stress detect physiolog measur 
+ booktitl intern symposium qualiti life technolog 
+ page 
+ address la vaga nv 
+ year 
+ inproceed umemphisc 
+ author stan franklin javier snaider ryan mccall 
+ titl present train model time product represent cognit agent 
+ booktitl aaai spring symposium s time 
+ year 
+ inproceed umemphisc 
+ author mihai lintean cristian moldovan vasil ru daniel s mcnamara 
+ titl role local global weight assess semant similar text latent semant analysi 
+ booktitl proceed st intern florida artifici intellig research societi confer 
+ publish aaai press 
+ organ aaai 
+ year 
+ proceed umemphisc 
+ titl pattern analysi web base tool analyz respons pattern replic treatment gene express data 
+ editor nam sy vo vinhthui phan 
+ organ acm confer bioinformat comput biologi biomedicin 
+ year 
+ proceed umemphisc 
+ author nam sy vo vinhthui phan thoma sutter 
+ titl predict direct graph pattern gene express studi involv multipl treatment 
+ editor nam sy vo vinhthui phan thoma sutter 
+ organ acm confer bioinformat comput biologi biomedicin 
+ year 
+ proceed umemphisc 
+ titl explor micro incent strategi particip compens high burden studi 
+ month oct 
+ year 
+ proceed umemphisc 
+ titl mconvers infer convers episod respiratori measur collect field 
+ publish acm wireless health 
+ month oct 
+ year 
+ note nomin paper award 
+ proceed umemphisc 
+ titl privaci risk emerg adopt inoccu wearabl sensor mobil environ 
+ month 
+ year 
+ proceed umemphisc 
+ titl continu infer psycholog stress sensori measur collect natur environ 
+ publish acm ipsn 
+ month apr 
+ year 
+ note nomin paper award 
+ proceed umemphisc 
+ titl demo abstract onlin detect speak respiratori measur collect natur environ 
+ publish acm ipsn 
+ month apr 
+ year 
+ proceed umemphisc 
+ titl autosens unobtrus wearabl sensor suit inferenc onset causal consequ stress field 
+ publish acm sensi 
+ year 
+ techreport umemphisc 
+ author dipankar dasgupta denis ferebe abhijit kumar nag sanjib kumar saha kul subedi alvaro madero abel sanchez john r william 
+ titl design implement neg authent system 
+ number cs 
+ institut univers memphi 
+ month feb 
+ year 
+ techreport umemphisc 
+ author dipankar dasgupta denis ferebe sanjib kumar saha abhijit kumar nag kul subedi 
+ titl determinist grid base approach neg authent system g na 
+ number cs 
+ institut univers memphi 
+ month aug 
+ year 
+ techreport umemphisc 
+ author yaoq liu beichuan zhang lan wang 
+ titl fifa fast increment fib aggreg 
+ number cs 
+ institut univers memphi 
+ month jul 
+ year 
+ techreport umemphisc 
+ author dipankar dasgupta denis ferebe 
+ titl appli puzzl base learn cyber secur educ 
+ number cs 
+ institut univers memphi 
+ month mar 
+ year 
+ techreport umemphisc 
+ author sudip vhaduri sy monowar hossain amin ali hillol sarker md mahbubur rahman santanu guha karen hovsepian paul balist mustafa al absi emr ertin santosh kumar 
+ titl relaxrout mobil phone reduc stress commut 
+ number cs 
+ institut univers memphi 
+ month feb 
+ year 
+ techreport umemphisc 
+ author dipankar dasgupta owen mccusker 
+ titl immunolog comput research head 
+ number cs 
+ institut univers memphi 
+ month jan 
+ year 
+ techreport umemphisc 
+ author md mahbubur rahman sy monowar hossain amin ali andrew raij karen hovsepian mustafa al absi j gayl beck emr ertin satish kedia marcia scott linda tempelman kenneth d ward santosh kumar 
+ titl bring lab field week long wireless mhealth field studi addict popul 
+ number cs 
+ institut univers memphi 
+ month aug 
+ year 
+ techreport umemphisc 
+ author c yi afanasyev i moiseenko lan wang beichuan zhang lixia zhang 
+ titl case state forward plane 
+ institut ndn 
+ address ndn 
+ month jul 
+ year 
+ techreport umemphisc 
+ author lan wang m mahmudul hoqu c yi adam alyyan beichuan zhang 
+ titl ospfn ospf base rout protocol name data network 
+ institut ndn 
+ address ndn 
+ month jul 
+ year 
+ techreport umemphisc 
+ author christoph simmon harkeerat bedi sajjan g shiva vivek shandilya 
+ titl adapt game inspir attack defens perform taxonomi 
+ number cs 
+ institut univers memphi 
+ month jun 
+ year 
+ techreport umemphisc 
+ author dipankar dasgupta md moshiur rahman 
+ titl meghnad secur coverag estim cloud servic 
+ number cs 
+ institut univers memphi 
+ month 
+ year 
+ techreport umemphisc 
+ author andrew raij p blitz amin ali s fisk y shi n stoh mustafa al absi emr ertin tom kamarck santosh kumar marcia scott dan siewiorek 
+ titl mstress support continu collect object subject measur psychosoci stress mobil devic 
+ number cs 
+ institut univers memphi 
+ month jul 
+ year 
+ techreport umemphisc 
+ author santosh kumar mani b srivastava mustafa al absi j gayl beck anind dei david epstein emr ertin deepak ganesan greg potti kenzi preston justin romberg jun xu 
+ titl person sensor network scientif behavior studi wild 
+ number cs 
+ institut univers memphi 
+ month jul 
+ year 
+ techreport umemphisc 
+ author sajjan g shiva dipankar dasgupta chase qishi wu charl elli harkeerat bedi beata kubiak christoph simmon vivek datla nisrin ait khayi enyinda sankarda roi 
+ titl game theoret approach protect cyberspac 
+ number cs 
+ institut univers memphi 
+ month apr 
+ year 
+ techreport umemphisc 
+ author dipankar dasgupta 
+ titl build monitor multi core system 
+ number cs 
+ institut univers memphi 
+ month mar 
+ year 
+ lt li 
+ max h cs ed garzon encyclopedia scienc religion ed ann runehow llui oviedo st ed refer work springer verlag isbn 
+ lt li 
+ lt li 
+ dan tufi corina forascu vasil ru multilingu europ romanian perspect ed dan tufi corina forascu vasil ru romanian academi publish hous bucharest romania 
+ lt li 
+ lt li 
+ dan jen michael meisel lan wang beichuan zhang lixia zhang apt practic tunnel architectur rout scalabl ed m boucadair d binet solut sustain scalabl internet growth pp igi global juli releas juli 
+ lt li 
+ lt li 
+ yaoq liu xin zhao lan wang beichuan zhang aggregat router forward tabl ed m boucadair d binet solut sustain scalabl internet growth pp igi global juli releas juli 
+ lt li 
+ lt li 
+ christoph simmon sajjan g shiva harkeerat bedi vivek shandilya adapt game inspir attack defens perform metric taxonomi secur privaci protect inform process system pp springer berlin heidelberg lt br 
+ lt li 
+ lt li 
+ vasil ru nobal niraula mihai lintean art graesser overview dialogu semant process educ technolog ed dan tufi corina forascu vasil ru multilingu europ romanian perspect romanian academi publish hous 
+ lt li 
+ lt li 
+ santosh kumar mustafa al absi j gayl beck emr ertin marcia scott behavior monitor assess mobil sens technolog ed jass dalleri sarah lord lisa marsch leverag technolog transform behavior healthcar oxford press 
+ lt li 
+ lt li 
+ vasil ru william baggett elizabeth gire don franceschetti mark conlei art graesser learner model base learn progress deeptutor learner model ed robert sottilar learner model armi research lab 
+ lt li 
+ lt li 
+ stan franklin histori motiv core theme ai ed keith frankish william ramsei cambridg handbook artifici intellig cambridg univers press 
+ lt li 
+ lt li 
+ kriangsiri malasri lan wang secur wireless implant health care devic mcgraw hill yearbook scienc technolog pp mcgraw hill 
+ lt li 
+ lt li 
+ andrew j neel max h garzon semant method textual entail ed phil mccarthi c boonthum appli natur languag process identif investig resolut st ed research appli natur languag process chap pp igi global 
+ lt li 
+ lt li 
+ vasil ru challeng solutin intellig tutor system natur languag interact ed corina forascu dan tufi multilingu interoper languag process isbn romanian academi press 
+ lt li 
+ lt li 
+ art graesser king ip lin sidnei d mello comput learn environ agent support deep comprehens collabor reason gener knowledg multidiciplinari perspect psycholog press 
+ lt li 
+ lt li 
+ bernard j baar stan franklin spontan rememb norm integr model human conscious memori ed john h mace act rememb understand recal oxford lt br 
+ lt li 
+ lt li 
+ stan franklin bernard j baar varieti unconsci process ed e perri d collerton h ashton f lebeau horizon conscious research boundari brain john benjamin lt br 
+ lt li 
+ lt li 
+ harkeerat bedi sankarda roi sajjan g shiva mitig congest base do attack enhanc aqm techniqu elsevi comput commun lt i public pend lt i 
+ lt li 
+ lt li 
+ vivek shandilya christoph simmon sajjan g shiva attack graph secur system journal comput network commun lt i public pend lt i 
+ lt li 
+ lt li 
+ santosh kumar wendi nilsen abernethi atienza kevin patrick misha pavel w t rilei shar b spring d spruijt metz d hedek honavar r l kravitz r c lefebvr d c mohr s murphi c quinn shusterman d swendeman mhealth evid workshop explor innov method evalu efficaci safeti mobil health american journal prevent medicin oct 
+ lt li 
+ lt li 
+ muhammad khan ernest mccracken islam s r bhurtel lan wang robert kozma iftekharuddin autonom wireless radar sensor mote target materi classif elsevi digit signal process vol pp 
+ lt li 
+ lt li 
+ c yi afanasyev i moiseenko lan wang beichuan zhang lixia zhang case state forward plane elsevi comput commun vol pp apr 
+ lt li 
+ lt li 
+ santosh kumar m nakajima mustafa al absi lorentz wittmer marcia scott psychophysiolog respons stress alcohol intak social drinker risk hazard drink biolog psycholog pp apr 
+ lt li 
+ lt li 
+ scott fleme christoph scaffidi david piorkowski margaret burnett rachel e bellami joseph lawranc irwin kwan inform forag theori perspect tool debug refactor reus task acm transact softwar engin methodolog vol pp mar 
+ lt li 
+ lt li 
+ joseph lawranc christoph bogart margaret burnett rachel e bellami kyle rector scott fleme programm debug revisit inform forag theori perspect ieee transact softwar engin vol pp feb 
+ lt li 
+ lt li 
+ santosh kumar wendi nilsen misha pavel mani b srivastava mobil health revolution health transdisciplinari research ieee comput magazin cover featur vol pp jan 
+ lt li 
+ lt li 
+ nam sy vo quang tran nobal niraula vinhthui phan random algorithm align dna sequenc refer genom ieee intern confer comput advanc bio medic scienc iccab 
+ lt li 
+ lt li 
+ andrew j neel max h garzon comput memori encyclopedia scienc religion encyclopedia articl 
+ lt li 
+ lt li 
+ tyler moor russel j deaton max h garzon direct percol dna tile assembl soft matter lt i public pend lt i 
+ lt li 
+ lt li 
+ max h garzon dna codeword design theori applic parallel process letter lt i public pend lt i 
+ lt li 
+ lt li 
+ yaoq liu sy obaid amin lan wang effici fib cach minim overlap prefix acm sigcomm comput commun review ccr vol pp 
+ lt li 
+ lt li 
+ nam sy vo vinhthui phan exploit depend pattern gene express analysi pairwis comparison proceed intern symposium bioinformat research applic isbra pp 
+ lt li 
+ lt li 
+ max h garzon kiran c bobba geometr approach gibb energi landscap dna oligonucleotid design int journal nanotechnolog natur comput vol pp invit expand dna paper 
+ lt li 
+ lt li 
+ nam sy vo thoma sutter vinhthui phan infer direct graph pattern gene respons treatment proceed intern confer bioinformat comput biologi bicob pp 
+ lt li 
+ lt li 
+ nam sy vo thoma sutter vinhthui phan mdag web tool analyz visual interpret respons pattern gene express data multipl treatment advanc bioscienc biotechnolog vol pp 
+ lt li 
+ lt li 
+ danilo rairan max h garzon period estim adapt reconstruct quasi period signal int j adapt control theori signal process vol 
+ lt li 
+ lt li 
+ vasil ru sidnei d mello xiangen hu art graesser advanc convers intellig tutor system ai magazin vol 
+ lt li 
+ lt li 
+ ramya dharam sajjan g shiva runtim monitor techniqu handl tautolog base sql inject attack intern journal cyber secur digit forens vol nov 
+ lt li 
+ lt li 
+ lt li 
+ lt li 
+ santosh kumar santanu guha kurt plarr daniel lissner somnath mitra bhagavathi krishna prabal dutta autowit locat track stolen properti toler gp radio outag acm transact sensor network tosn vol pp sept 
+ lt li 
+ lt li 
+ santosh kumar bruce schatz clai marsh kevin patrick david gustafson jerri krishnan noshir contractor research challeng measur data popul health enabl predict model improv healthcar acm sighit record pp sept 
+ lt li 
+ lt li 
+ afanasyev c yi lan wang beichuan zhang lixia zhang adapt forward name data network acm sigcomm comput commun review editori note vol pp juli 
+ lt li 
+ lt li 
+ kriangsiri malasri linda sherrel motiv student practic problem journal comput scienc colleg vol pp 
+ lt li 
+ lt li 
+ robert kozma lan wang iftekharuddin ernest mccracken muhammad khan islam s r bhurtel r m demir multi modal radar enabl sensor system integr cot technolog surveil track sensor vol pp jan 
+ lt li 
+ lt li 
+ vasil ru ru wyse b piwek p lintean m stoyanchev s moldovan c detail account question gener share task evalu challeng journal dialogu discours vol pp 
+ lt li 
+ lt li 
+ santosh kumar wendi nilsen shar c varoqui t wilei w t rilei misha pavel atienza advanc scienc mhealth journal health commun vol pp 
+ lt li 
+ lt li 
+ vasil ru mihai lintean automat detect student mental model prior knowledg activ metatutor intern journal artifici intellig educ vol pp 
+ lt li 
+ lt li 
+ vasil ru g ask intellig automat gener system academ write support journal dialogu discours vol pp 
+ lt li 
+ lt li 
+ zizhan zheng santosh kumar prasun sinha spars wifi deploy vehicular internet access bound interconnect gap ieee acm transact network ton vol pp 
+ lt li 
+ lt li 
+ linda sherrel kriangsiri malasri david mill allen thoma jame greer tri p let chang face high school comput scienc journal comput mathemat scienc teach vol pp 
+ lt li 
+ lt li 
+ margaret burnett laura beckwith susan wiedenbeck scott fleme jill cao thoma h park kyle rector gender plural problem solv softwar interact comput vol pp sept lt br 
+ lt li 
+ lt li 
+ jake quall michael grant linda sherrel cs student understand comput think concept journal comput scienc colleg vol pp 
+ lt li 
+ lt li 
+ max h garzon tit yee wong dna chip speci identif biolog phylogeni j natur comput vol pp jan 
+ lt li 
+ lt li 
+ sidnei d mello stan franklin cognit model s view anim cognit current zoologi vol pp 
+ lt li 
+ lt li 
+ sidnei d mello stan franklin comput model cognit robot complement function model experiment psycholog idea psycholog vol pp 
+ lt li 
+ lt li 
+ wendel wallach colin allen stan franklin conscious ethic artifici consciou moral agent intern journal machin conscious vol pp 
+ lt li 
+ lt li 
+ stan franklin global workspac theori shanahan lida intern journal machin conscious vol pp doi s 
+ lt li 
+ lt li 
+ lt li 
+ lt li 
+ vinhthui phan nam sy vo thoma sutter mdag web base tool analyz microarrai data multipl treatment bmc bioinformat vol pp 
+ lt li 
+ lt li 
+ s strain stan franklin model medic diagnosi comprehens cognit architectur journal healthcar engin vol pp 
+ lt li 
+ lt li 
+ daniela lopez de luis gabriel barrera stan franklin robot local conscious journal pattern recognit research vol pp 
+ lt li 
+ lt li 
+ tama madl bernard j baar stan franklin time cognit cycl plo vol e 
+ lt li 
+ lt li 
+ varun khare dan jen xin zhao yaoq liu daniel massei lan wang beichuan zhang lixia zhang evolut global rout scalabl ieee journal select area commun jsac vol pp oct 
+ lt li 
+ lt li 
+ dipankar dasgupta s felix wu fernando nino advanc artifici immun system appli soft comput journal oct 
+ lt li 
+ lt li 
+ max h garzon kiran c bobba andrew j neel vinhthui phan dna base index j nanotechnolog molecular comput vol pp sept 
+ lt li 
+ lt li 
+ jake quall linda sherrel comput think ad curriculum journal comput scienc colleg vol pp 
+ lt li 
+ lt li 
+ stan franklin wendel wallach colin allen conceptu comput model moral decis make human artifici agent topic cognit scienc pp lt br 
+ lt li 
+ lt li 
+ lubna shala vasil ru art graesser automat speech act classif arab subjetividad y proceso cognitivo journal vol pp 
+ lt li 
+ lt li 
+ sidnei d mello stan franklin comput model cognit robot compliment function model experiment psycholog idea psycholog lt br 
+ lt li 
+ lt li 
+ linda sherrel bhagavathi krishna n velaga p vejandla experi extrem program journal comput mathemat scienc teach vol pp invit paper 
+ lt li 
+ lt li 
+ ai chen ten h lai santosh kumar local barrier coverag wireless sensor network ieee transact mobil comput tmc vol pp 
+ lt li 
+ lt li 
+ ten h lai marc e posner prasun sinha santosh kumar maxim lifetim barrier wireless sensor ieee transact mobil comput tmc vol pp 
+ lt li 
+ lt li 
+ mihai lintean vasil ru paraphras identif weight depend lexic semant informatica intern journal comput vol pp pp 
+ lt li 
+ lt li 
+ vinhthui phan allen thoma kriangsiri malasri carri hay sutter stabil rna structur motif influenc edit effici adenosin deaminas int journal bioinformat research applic vol pp 
+ lt li 
+ lt li 
+ vinhthui phan tit yee wong synthet gene design larg number hidden stop codon intern journal data mine bioinformat vol pp 
+ lt li 
+ lt li 
+ timothi hnat kazi zaman anthoni white sami yli piipari sens kinemat approach measur human energi expenditur european confer wireless sensor network springer european confer wireless sensor network ewsn feb lt br 
+ lt li 
+ lt li 
+ christoph simmon sajjan g shiva lakisha simmon qualit analysi ontolog base issu resolut system cyber attack manag ieee cyber ieee lt i public pend lt i 
+ lt li 
+ lt li 
+ santosh kumar sy monowar hossain amin ali emr ertin david epstein kenzi preston umbricht y chen identifi drug cocain intak event acut physiolog respons presenc free live physic activ acm ipsn pp 
+ lt li 
+ lt li 
+ austin henlei scott fleme patchwork code editor faster navig code arrang navig mistak chi acm sigchi confer human factor comput system acm lt i public pend lt i 
+ lt li 
+ lt li 
+ harkeerat bedi sajjan g shiva mitig congest base denial servic attack activ queue manag globecom atlanta dec 
+ lt li 
+ lt li 
+ timothi hnat sean beach safetysens automat classifi safe unsaf locat distract peopl smartphon sensemin intern workshop sens big data mine nov lt i submiss lt i 
+ lt li 
+ lt li 
+ m mahmudul hoqu sy obaid amin adam alyyan beichuan zhang lixia zhang lan wang nlsr name data link state rout protocol acm sigcomm icn workshop aug 
+ lt li 
+ lt li 
+ ramya dharam sajjan g shiva essenti cloud secur featur window azur gca la vega juli lt br 
+ lt li 
+ lt li 
+ abdullah eid abu hussein harkeerat bedi sajjan g shiva stakehold orient taxonom approach secur cloud comput ieee int conf cloud comput santa clara ca juli lt br 
+ lt li 
+ lt li 
+ abdullah eid abu hussein harkeerat bedi sajjan g shiva taxonom approach secur cloud comput ieee int conf cloud comput santa clara ca juli lt br 
+ lt li 
+ lt li 
+ yaoq liu beichuan zhang lan wang fifa fast increment fib aggreg ieee infocom apr 
+ lt li 
+ lt li 
+ ramya dharam sajjan g shiva runtim monitor detect prevent union queri base sql inject attack itng la vega apr lt br 
+ lt li 
+ lt li 
+ vasil ru nobal niraula rajendra banjad studi probabilist algebra method semant similar intern confer florida artifici intellig research societi flair aaai press 
+ lt li 
+ lt li 
+ borhan samei fazel keshtkar vasil ru art graesser tool speech act classif interact machin learn intern confer educ data mine edm 
+ lt li 
+ lt li 
+ michael c nolen king ip lin approxim high dimension nearest neighbor queri r forest intern databas engin applic symposioum 
+ lt li 
+ lt li 
+ soujanya medapati king ip lin linda sherrel autom paramet estim process cluster algorithm softwar mainten acm southeast confer 
+ lt li 
+ lt li 
+ j gao emr ertin mustafa al absi santosh kumar contactless sens physiolog signal wideband rf probe asilomar confer signal system comput 
+ lt li 
+ lt li 
+ nobal niraula vasil ru dan stefanescu deep anaphora resolut engin intern confer educ data mine edm 
+ lt li 
+ lt li 
+ jun xie xudong huang henri hua jin wang quan tang scotti craig art graesser king ip lin xiangen hu discov relationship student effort abil predict perform technolog assist learn mathemat school program intern confer educ data mine edm 
+ lt li 
+ lt li 
+ jill cao irwin kwan faezeh bahmani margaret burnett joshua jordhal amber horvath scott fleme sherri yang user programm troubl idea garden vl hcc ieee symposium visual languag human centric comput pp ieee 
+ lt li 
+ lt li 
+ nobal niraula rajendra banjad vasil ru experi semant similar measur base lda lsa st intern confer statist speech languag process slsp 
+ lt li 
+ lt li 
+ max h garzon christoph simmon jason knislei knowledg dissemin resourc elicit softwar engin sky int workshop softwar knowledg scitepress digit librari 
+ lt li 
+ lt li 
+ vasil ru rajendra banjad nobal niraula latent concept latent topic proceed meet societi text discours 
+ lt li 
+ lt li 
+ vasil ru nobal niraula mihai lintean rajendra banjad dan stefanescu william baggett recommend gener intellig framework tutor base develop deeptutor tutor servic workshop gener intellig framework tutor gift intern confer artifici intellig educ ai 
+ lt li 
+ lt li 
+ kuldeep sharma king ip lin review spam detector rate consist check acm southeast confer 
+ lt li 
+ lt li 
+ vasil ru rajendra banjad mihai lintean nobal niraula dan stefanescu semilar semant similar toolkit assess student natur languag input intern confer educ data mine edm juli memphi tn 
+ lt li 
+ lt li 
+ vasil ru mihai lintean rajendra banjad nobal niraula dan stefanescu semilar semant similar toolkit st annual meet associ comput linguist acl associ comput linguist 
+ lt li 
+ lt li 
+ vasil ru nobal niraula rajendra banjad similar measur base latent dirichlet alloc intern confer intellig text process comput linguist cicl lnc springer verlag 
+ lt li 
+ lt li 
+ donald morrison vasil ru scholar legaci afford semant network convers agent workshop gener intellig framework tutor gift 
+ lt li 
+ lt li 
+ david piorkowski scott fleme irwin kwan margaret burnett christoph scaffidi rachel e bellami joshua jordhal what how programm forag diet chi acm sigchi confer human factor comput system pp acm 
+ lt li 
+ lt li 
+ daniel jone scott fleme backseat driver ground theori investig pair program vl hcc ieee symposium visual languag human centric comput pp ieee 
+ lt li 
+ lt li 
+ abdullah eid abu hussein harkeerat bedi sajjan g shiva evalu secur privaci cloud comput servic stakehold s perspect intern confer internet technolog secur transact icitst london dec lt br 
+ lt li 
+ lt li 
+ harkeerat bedi sajjan g shiva christoph simmon vivek shandilya game inspir defens architectur conf decis game theori secur poster session budapest nov lt br 
+ lt li 
+ lt li 
+ vivek datla king ip lin max louwers captur diseas symptom relat higher order occurr algorithm intern workshop biomed health informat bhi oct 
+ lt li 
+ lt li 
+ harkeerat bedi sajjan g shiva secur cloud infrastructur resid do attack game theoret defens mechan intl workshop servic orient architectur cloud comput soac part icacci chennai india aug lt br 
+ lt li 
+ lt li 
+ max h garzon kiran c bobba theori applic dna codeword design ed adrian dediu carlon martin vide bianca truth intl confer tpnc theori practic natur comput vol lnc lectur note comput scienc springer verlag springer verlag aug 
+ lt li 
+ lt li 
+ niklesh kumar katta scott fleme linda sherrel evalu usabl test tool case studi sixth intern workshop advanc innov system test pp page juli 
+ lt li 
+ lt li 
+ christoph simmon sajjan g shiva vinhthui phan vivek shandilya lakisha simmon ir issu resolut system cyber attack classif manag intern confer secur manag sam la vega juli lt br 
+ lt li 
+ lt li 
+ ramya dharam sajjan g shiva runtim monitor post deploy secur test techniqu sixth intern research workshop advanc innov softwar test memphi tn juli lt br 
+ lt li 
+ lt li 
+ vivek shandilya sajjan g shiva secur cloud stakehold s perspect intern confer secur manag sam la vega juli lt br 
+ lt li 
+ lt li 
+ sajjan g shiva secur test statu report sixth intern research workshop advanc innov softwar test memphi tn juli lt br 
+ lt li 
+ lt li 
+ vasil ru nobal niraula rajendra banjad art graesser automat discoveri speech act categori educ game intern confer educ data mine edm chania greec june 
+ lt li 
+ lt li 
+ ramya dharam sajjan g shiva framework develop runtim monitor intern confer comput inform scienc kuala lumpur malaysia june lt br 
+ lt li 
+ lt li 
+ max h garzon kiran c bobba geometr approach gibb energi landscap optim dna codeword design ed andrew turberfield darko stefanov dna dna comput molecular program vol lnc lectur note comput scienc springer verlag springer verlag june 
+ lt li 
+ lt li 
+ ramya dharam sajjan g shiva analysi monitor tool java applic intern confer softwar comput applic singapor june lt br 
+ lt li 
+ lt li 
+ ramya dharam sajjan g shiva runtim monitor tautolog base sql inject attack intern confer cyber secur cyber warfar digit forens kuala lumpur malaysia june lt br 
+ lt li 
+ lt li 
+ mihai lintean vasil ru measur semant similar short text greedi pair word semant proceed intern florida artifici intellig research societi confer aaai confer 
+ lt li 
+ lt li 
+ vasil ru nobal niraula mihai lintean cristian moldovan william baggett similar corpu resourc foster qualit understand semant similar text semant relat ii enhanc resourc applic languag resourc evalu confer lrec instanbul turkei 
+ lt li 
+ lt li 
+ archana bhattarai nobal niraula vasil ru king ip lin domain independ framework extract aggreg analog featur review intern confer comput linguist cicl cicl iit delhi india mar 
+ lt li 
+ lt li 
+ archana bhattarai nobal niraula vasil ru king ip lin domain independ framework extract aggreg analog featur review intern confer intellig text process comput linguisitc mar lt i public pend lt i 
+ lt li 
+ lt li 
+ vasil ru nobal niraula autom detect local coher short essai base center theori intern confer comput linguist cicl springer verlag intern confer comput linguist cicl iit delhi india mar paper award 
+ lt li 
+ lt li 
+ neva smith king ip lin automat inform extract web case studi recip acm southeast confer pp mar 
+ lt li 
+ lt li 
+ megan bailei king ip lin linda sherrel cluster sourc code file predict chang propag softwar mainten acm southeast pp 
+ lt li 
+ lt li 
+ timothi hnat kamin whitehous raymond dawson erin griffith doorjamb unobtrus room level track ofpeopl home doorwai sensor acm confer embed network sensor system sensi acm lt br 
+ lt li 
+ lt li 
+ jill cao irwin kwan rachel white scott fleme margaret burnett christoph scaffidi barrier learn idea garden empir studi vl hcc ieee symposium visual languag human centric comput 
+ lt li 
+ lt li 
+ vasil ru rafael calvo liu ming hybrid question gener approach critic review write support proceed intern confer comput educ singapor asia pacif societi comput educ singapor 
+ lt li 
+ lt li 
+ irwin kwan scott fleme david piorkowski inform forag theori collabor softwar develop futurecsd cscw workshop futur collabor softwar develop lt br 
+ lt li 
+ lt li 
+ santosh kumar amin ali sy monowar hossain md mahbubur rahman karen hovsepian kurt plarr mpuff autom detect cigarett smoke puff respir measur ieee acm inform process sensor network ipsn pp 
+ lt li 
+ lt li 
+ eric struming max h garzon sunghcul ji identifi metabol function noncod rna s cerevisia biocomp intl confer bioinformat comput biologi pp 
+ lt li 
+ lt li 
+ david piorkowski scott fleme christoph scaffidi christoph bogart margaret burnett bonni e john rachel e bellami calvin swart reactiv inform forag empir investig theori base recommend system programm chi int l confer human factor comput system lt br 
+ lt li 
+ lt li 
+ sajjan g shiva ramya dharam vivek shandilya runtim monitor sensor secur system iast conf parallel distribut comput system dalla tx dec lt br 
+ lt li 
+ lt li 
+ timothi hnat vijai srinivasan jiakang lu tamim sookoor raymond dawson john stankov kamin whitehous hitchhik s guid success residenti sens deploy acm sensi seattl wa nov lt br 
+ lt li 
+ lt li 
+ king ip lin vivek datla max louwers linda morrison feedback system enhanc chart note qualiti electron health record intern workshop biomed health informat nov 
+ lt li 
+ lt li 
+ christoph simmon daniel jone lakisha simmon framework demo prevent anti comput forens st annual iaci confer mobil al oct lt br 
+ lt li 
+ lt li 
+ jill cao scott fleme margaret burnett explor design opportun garden user programm idea ieee symposium visual languag human centric comput vl hcc pp sept paper award lt br 
+ lt li 
+ lt li 
+ david piorkowski scott fleme liza john christoph bogart bonni e john margaret burnett rachel e bellami model programm navig head head empir evalu predict model ieee symposium visual languag human centric comput vl hcc pp sept lt br 
+ lt li 
+ lt li 
+ iftekharuddin muhammad khan ernest mccracken lan wang robert kozma autonom wireless radar sensor mote integr doppler radar sensor mote applic surveil target materi classif spie annual meet vol aug 
+ lt li 
+ lt li 
+ daniel massei c papadopoulo lan wang beichuan zhang lixia zhang teach network architectur case studi sigcomm educ workshop aug 
+ lt li 
+ lt li 
+ danilo rairan max h garzon green approach process control thermal room intern confer control applic ca iast s acta press iast june 
+ lt li 
+ lt li 
+ sajjan g shiva secur test int research workshop advanc innov system test memphi tn lt br 
+ lt li 
+ lt li 
+ harkeerat bedi sankarda roi sajjan g shiva game theori base defens mechan ddo attack tcp tcp friendli flow ieee symposium comput intellig cyber secur cic part ssci pari franc apr lt br 
+ lt li 
+ lt li 
+ sajjan g shiva harkeerat bedi christoph simmon marc fisher ii ramya dharam holist game inspir defens architectur int conf data engin internet technolog mar lt br 
+ lt li 
+ lt li 
+ nam sy vo vinhthui phan thoma sutter analysi microarrai data direct graph annual ut ornl kbrin bioinformat summit 
+ lt li 
+ lt li 
+ naga saladi linda sherrel auto autom usabl test tool web applic intern workshop advanc innov system test 
+ lt li 
+ lt li 
+ kurt plarr andrew raij sy monowar hossain amin ali mustafa al absi emr ertin tom kamarck marcia scott asim smailag dan siewiorek santosh kumar continu infer psycholog stress sensori measur collect natur environ acm inform process sensor network ipsn pp nomin paper award 
+ lt li 
+ lt li 
+ amin ali andrew raij mustafa al absi emr ertin santosh kumar demo abstract onlin detect speak respiratori measur collect natur environ acm inform process sensor network ipsn pp 
+ lt li 
+ lt li 
+ swetha addala linda sherrel evalu effect test driven develop intern workshop advanc innov system test 
+ lt li 
+ lt li 
+ mustang mohammad ganesan deepak shiffman saul santosh kumar explor micro incent strategi particip compens high burden studi acm intern confer ubiquit comput ubicomp pp beij china 
+ lt li 
+ lt li 
+ javier snaider stan franklin extend spars distribut memori biolog inspir cognit architectur washington d c 
+ lt li 
+ lt li 
+ swathi bavanaka linda sherrel jrutt java remot usabl test tool intern workshop advanc innov system test 
+ lt li 
+ lt li 
+ santosh kumar amin ali kurt plarr mustafa al absi emr ertin mconvers infer convers episod respiratori measur collect field acm wireless health pp san diego ca 
+ lt li 
+ lt li 
+ uma ramamurthi stan franklin memori system cognit agent proc human memori artifici agent symposium artifici intellig simul behavior convent aisb pp univers york uk 
+ lt li 
+ lt li 
+ andrew raij animikh ghosh mani b srivastava santosh kumar privaci risk emerg adopt innocu wearabl sensor mobil environ acm confer human factor comput chi pp 
+ lt li 
+ lt li 
+ max h garzon tit yee wong search valid short genom wide biomark bacteri phylogeni dna int confer dna comput molecular program vol lectur note comput scienc pp springer verlag 
+ lt li 
+ lt li 
+ uma ramamurthi stan franklin system model cognit proc machin conscious symposium artifici intellig simul behavior convent aisb pp univers york uk 
+ lt li 
+ lt li 
+ emr ertin nathan stoh siddharth shah somnath mitra taewoo kwon mustafa al absi santosh kumar stresswar unobtrus wearabl sensor suit inferenc onset causal consequ stress natur environ acm confer embed network sensor system sensi pp 
+ lt li 
+ lt li 
+ javier snaider ryan mccall stan franklin lida framework gener tool agi fourth confer artifici gener intellig 
+ lt li 
+ lt li 
+ dipankar dasgupta configur secur system architectur ieee vaagdevi int conf vcon warang india dec 
+ lt li 
+ lt li 
+ yaoq liu xin zhao lan wang beichuan zhang increment forward tabl aggreg ieee globecom gener network ngn symposium dec 
+ lt li 
+ lt li 
+ dipankar dasgupta koyel chaudhuri multi object evolutionari algorithm solv coverag lifetim optim problem wireless sensor network int conf swarm evolutionari memet comput semcco chennai india dec 
+ lt li 
+ lt li 
+ marc fisher ii luke marr barbara g ryder c diagnos object churn framework base applic intern symposium foundat softwar engin tool demo abstract nov lt br 
+ lt li 
+ lt li 
+ marc fisher ii bruno dufour shrutarshi basu barbara g ryder explor impact context sensit blend analysi intern confer softwar mainten sept lt br 
+ lt li 
+ lt li 
+ dipankar dasgupta sudip saha password secur neg filter int conf emerg secur technolog est canterburi uk sept 
+ lt li 
+ lt li 
+ dipankar dasgupta p vejandla aishwarya kaushal fernando nino evolv attack defend game strategi simul network ieee int conf inform privaci secur risk trust passat minneapoli mn aug 
+ lt li 
+ lt li 
+ dipankar dasgupta david becerra alex banceanu fernando nino jame simien parallel framework multi object evolutionari optim ieee congress evolutionari comput barcelona spain juli 
+ lt li 
+ lt li 
+ christoph simmon linda sherrel set scrum secur enhanc metric taxonomi scrum worldcomp pp juli 
+ lt li 
+ lt li 
+ dipankar dasgupta sudip saha aregahegn negatu techniqu valid control execut process code data survei int conf secur cryptographi secrypt athen greec juli 
+ lt li 
+ lt li 
+ vasil ru brendan wyse paul piwek mihai lintean svetlana stoyanchev cristian moldovan question gener share task evalu challeng intern natur languag gener confer proceed intern natur languag gener confer inlg dublin ireland juli 
+ lt li 
+ lt li 
+ vasil ru brendan wyse paul piwek mihai lintean svetlana stoyanchev overview question gener share task evalu challeng ed paul piwek proceed question gener workshop pittsburgh pa june 
+ lt li 
+ lt li 
+ ming liu vasil ru rafael calvo question gener literatur review write support intern confer intellig tutor system proceed intellig tutor system confer pittsburgh pa june 
+ lt li 
+ lt li 
+ vasil ru sajjan g shiva model simul duplic identif method cost effect int research workshop advanc innov system test pp memphi tn lt br 
+ lt li 
+ lt li 
+ robert kozma lan wang iftekharuddin ernest mccracken muhammad khan islam r m demir multi modal sensor system integr cot technolog surveil track ieee intern radar confer 
+ lt li 
+ lt li 
+ ahm owian linda sherrel test driven develop corpor workplac h int research workshop advanc innov system test 
+ lt li 
+ lt li 
+ dipankar dasgupta harkeerat bedi deon garrett conceptu model monitor multi core system cyber secur inform intellig research workshop oak ridg tn apr 
+ lt li 
+ lt li 
+ sajjan g shiva sankarda roi harkeerat bedi dipankar dasgupta chase qishi wu stochast game model imperfect inform cyber secur int conf inform warfar secur iciw ohio apr lt br 
+ lt li 
+ lt li 
+ denis ferebe dipankar dasgupta michael schmidt cyber secur visual similar strom map cyber secur inform intellig research workshop oak ridg tn apr 
+ lt li 
+ lt li 
+ sajjan g shiva sankarda roi dipankar dasgupta game theori cyber secur cyber secur inform intellig research workshop oak ridg tn apr lt br 
+ lt li 
+ lt li 
+ chase qishi wu sajjan g shiva sankarda roi charl elli vivek datla model simul game theori base defens mechan do ddo attack spring simul multiconfer springsim florida apr lt br 
+ lt li 
+ lt li 
+ ramya dharam sankarda roi sajjan g shiva check softwar compon myrtl beach comput secur confer myrtl beach sc apr lt br 
+ lt li 
+ lt li 
+ sajjan g shiva sankarda roi charl elli vivek datla dipankar dasgupta chase qishi wu static dynam game model do ddo attack potenti defens mechan spring simul multiconfer springsim florida apr 
+ lt li 
+ lt li 
+ xin zhao yaoq liu lan wang beichuan zhang aggregat router forward tabl ieee infocom mar 
+ lt li 
+ lt li 
+ lubna shala vasil ru art graesser speech act classif arab georgetown univers tabl gurt mar 
+ lt li 
+ lt li 
+ sankarda roi charl elli sajjan g shiva dipankar dasgupta vivek shandilya chase qishi wu survei game theori appli network secur hawaii int conf system scienc hicss hawaii jan lt br 
+ lt li 
+ lt li 
+ max h garzon buvan sivakumar neurocontrol automat reconstruct facial displai ieee wcci world congress comput intellig barcelona ieee 
+ lt li 
+ lt li 
+ sarah b lee sajjan g shiva approach overcom knowledg share challeng corpor environ ieee int conf global softwar engin pp princeton nj lt br 
+ lt li 
+ lt li 
+ vasil ru lubna shala art graesser john kaltner carl cai analysi leader languag discours intern confer societi text discours chicago il 
+ lt li 
+ lt li 
+ kurt plarr andrew raij santanu guha santosh kumar autom detect sensor detach physiolog sensor wild acm wireless health pp san diego ca 
+ lt li 
+ lt li 
+ santanu guha kurt plarr daniel lissner somnath mitra bhagavathi krishna prabal dutta santosh kumar autowit locat track stolen properti toler gp radio outag acm confer embed network sensor system sensi pp nomin paper award 
+ lt li 
+ lt li 
+ santosh kumar mani b srivastava mustafa al absi j gayl beck anind dei david epstein emr ertin deepak ganesan greg potti kenzi preston justin romberg jun xu challeng person sensor network scientif behavior studi wild technic report cs pp univers memphi 
+ lt li 
+ lt li 
+ vasil ru mihai lintean comput aspect intellig tutor system metatutor proceed st intern florida artifici intellig research societi confer aaai press 
+ lt li 
+ lt li 
+ ryan mccall stan franklin david friedland ground event base modal represent object relat belief flair flair lt br 
+ lt li 
+ lt li 
+ d m wilk stan franklin e erdemir s gordon s strain s miller kawamura heterogen artifici agent triag nurs assist ed d m wilk stan franklin e erdemir s gordon s strain s miller kawamura ieee ra intern confer humanoid robot ieee lt br 
+ lt li 
+ lt li 
+ max louwers king ip lin linda morrison amenda drescher languag featur explain medic record annual meet societi text discours 
+ lt li 
+ lt li 
+ n hua lall justin romberg jun xu mustafa al absi emr ertin s suri santosh kumar time sampl pre filter wearabl physiolog sensor dai week oper singl charg acm wireless health pp san diego ca 
+ lt li 
+ lt li 
+ sarah b lee s braunsdorf sajjan g shiva knowledg engin visual complex legaci modern plan int conf softwar engin knowledg engin pp san francisco bai ca lt br 
+ lt li 
+ lt li 
+ max louwers king ip lin amenda drescher g semin linguist cue predict fraudul event corpor social network proceed annual confer cognit scienc societi cognit scienc societi 
+ lt li 
+ lt li 
+ zizhan zheng zhixu lu prasun sinha santosh kumar maxim contact opportun vehicular internet access ieee infocom pp san diego ca 
+ lt li 
+ lt li 
+ y shi m h nguyen p blitz b french s frisk f torr asim smailag dan siewiorek mustafa al absi tom kamarck santosh kumar person stress detect physiolog measur intern symposium qualiti life technolog pp la vaga nv 
+ lt li 
+ lt li 
+ stan franklin javier snaider ryan mccall present train model time product represent cognit agent aaai spring symposium s time lt br 
+ lt li 
+ lt li 
+ mihai lintean cristian moldovan vasil ru daniel s mcnamara role local global weight assess semant similar text latent semant analysi proceed st intern florida artifici intellig research societi confer aaai press aaai 
+ lt li 
+ lt li 
+ pattern analysi web base tool analyz respons pattern replic treatment gene express data ed nam sy vo vinhthui phan acm confer bioinformat comput biologi biomedicin 
+ lt li 
+ lt li 
+ nam sy vo vinhthui phan thoma sutter predict direct graph pattern gene express studi involv multipl treatment ed nam sy vo vinhthui phan thoma sutter acm confer bioinformat comput biologi biomedicin 
+ lt li 
+ lt li 
+ explor micro incent strategi particip compens high burden studi oct 
+ lt li 
+ lt li 
+ mconvers infer convers episod respiratori measur collect field acm wireless health oct nomin paper award 
+ lt li 
+ lt li 
+ privaci risk emerg adopt inoccu wearabl sensor mobil environ 
+ lt li 
+ lt li 
+ continu infer psycholog stress sensori measur collect natur environ acm ipsn apr nomin paper award 
+ lt li 
+ lt li 
+ demo abstract onlin detect speak respiratori measur collect natur environ acm ipsn apr 
+ lt li 
+ lt li 
+ autosens unobtrus wearabl sensor suit inferenc onset causal consequ stress field acm sensi 
+ lt li 
+ lt li 
+ dipankar dasgupta denis ferebe abhijit kumar nag sanjib kumar saha kul subedi alvaro madero abel sanchez john r william design implement neg authent system technic report cs univers memphi feb lt br 
+ lt li 
+ lt li 
+ dipankar dasgupta denis ferebe sanjib kumar saha abhijit kumar nag kul subedi determinist grid base approach neg authent system g na technic report cs univers memphi aug lt br 
+ lt li 
+ lt li 
+ yaoq liu beichuan zhang lan wang fifa fast increment fib aggreg technic report cs univers memphi juli lt br 
+ lt li 
+ lt li 
+ dipankar dasgupta denis ferebe appli puzzl base learn cyber secur educ technic report cs univers memphi mar lt br 
+ lt li 
+ lt li 
+ sudip vhaduri sy monowar hossain amin ali hillol sarker md mahbubur rahman santanu guha karen hovsepian paul balist mustafa al absi emr ertin santosh kumar relaxrout mobil phone reduc stress commut technic report cs univers memphi feb lt br 
+ lt li 
+ lt li 
+ dipankar dasgupta owen mccusker immunolog comput research head technic report cs univers memphi jan lt br 
+ lt li 
+ lt li 
+ md mahbubur rahman sy monowar hossain amin ali andrew raij karen hovsepian mustafa al absi j gayl beck emr ertin satish kedia marcia scott linda tempelman kenneth d ward santosh kumar bring lab field week long wireless mhealth field studi addict popul technic report cs univers memphi aug lt br 
+ lt li 
+ lt li 
+ c yi afanasyev i moiseenko lan wang beichuan zhang lixia zhang case state forward plane technic report ndn ndn juli 
+ lt li 
+ lt li 
+ lan wang m mahmudul hoqu c yi adam alyyan beichuan zhang ospfn ospf base rout protocol name data network technic report ndn ndn juli 
+ lt li 
+ lt li 
+ christoph simmon harkeerat bedi sajjan g shiva vivek shandilya adapt game inspir attack defens perform taxonomi technic report cs univers memphi june 
+ lt li 
+ lt li 
+ dipankar dasgupta md moshiur rahman meghnad secur coverag estim cloud servic technic report cs univers memphi 
+ lt li 
+ lt li 
+ andrew raij p blitz amin ali s fisk y shi n stoh mustafa al absi emr ertin tom kamarck santosh kumar marcia scott dan siewiorek mstress support continu collect object subject measur psychosoci stress mobil devic technic report cs univers memphi juli 
+ lt li 
+ lt li 
+ santosh kumar mani b srivastava mustafa al absi j gayl beck anind dei david epstein emr ertin deepak ganesan greg potti kenzi preston justin romberg jun xu person sensor network scientif behavior studi wild technic report cs univers memphi juli 
+ lt li 
+ lt li 
+ sajjan g shiva dipankar dasgupta chase qishi wu charl elli harkeerat bedi beata kubiak christoph simmon vivek datla nisrin ait khayi enyinda sankarda roi game theoret approach protect cyberspac technic report cs univers memphi apr 
+ lt li 
+ lt li 
+ dipankar dasgupta build monitor multi core system technic report cs univers memphi mar 
+ lt li 
+ option includ list public websit 
+ creat inlin frame page point page form font font color font size d public displai click 
+ gener 
+ font 
+ color 
+ hex 
+ size 
+ px 
+ preview 
+ author b author c author 
+ public titl 
+ public venu 
+ depart comput scienc middot dunn hall memphi tn middot phone middot fax middot 
+ info cs memphi 
+ copi 
+ univers memphi 
+ middot 
+ colleg art scienc 
+ middot 
+ privaci notic 
+ middot 
+ contact webmast 

@@ -1,0 +1,153 @@
+#!/usr/bin/perl
+
+# The Processes Query Program  -  engine.cgi
+
+# This includes a library module written by Steven Brenner
+# that allows the use of a nice function called "ReadParse"
+# that is now part of the CGI Perl Module.
+
+use CGI qw(:cgi-lib :standard);
+
+# The function returns a hash of the input from a "CGI form".  The
+# hash keys are the variable names identified in that original form.
+# The hash values contain the information submitted by the user.
+
+&ReadParse(%in);  
+
+
+
+# The next routine attempts to solve a serious security problem in this program.  If the user enters the year, followed by a 
+# semi-colon, another UNIX command can be put on the same line. Potentially evil things could happen!  So we scan to see if 
+# there is a semi colon if there is we display another page.
+
+if ( $in{"query"} =~ ";") 
+{
+	print <<ERR;
+Content-type: text/html
+
+<HTML>
+<BODY BGCOLOR=WHITE TEXT=BLACK>
+<H3>Hello, Your query includes semi colon SORRY!! go back.<br>
+</BODY>
+</HTML>
+
+ERR
+}
+
+# If the input is "OK", then the "else" 
+else{
+
+# The next few lines concatenates month and year into a single string
+# and use "cal" to generate both monthly and yearly calendars.
+
+use English;
+use List::MoreUtils qw(uniq);
+use PDF::API2;
+use CAM::PDF;
+use CAM::PDF::PageText;
+
+
+my @docs;  
+my $dir = '/home/vince/Documents/IRHW/crawled_docs';
+
+#-------------------Push the list of all our documents into this array @docs------#
+foreach my $FP (glob("$dir/*.txt")) {	
+	push @docs, $FP; 		 
+}
+
+#We will use this Hash to create a hash map
+my %counts;
+
+
+#traverse through all documents, manifest the hash to store frequency of words for each documents 
+#------------------------------------------------------------------------------------------------
+for my $document (@docs) {
+	open(INPUT,"<$document") or die "Could not open document $document: $!";
+	
+	while(<INPUT>) {
+		for my $word (split(' ', lc $_)) {
+			$counts{$document}{$word}++;
+		}
+	}
+	close(INPUT);
+}
+
+
+#-----------split user input into array and pass to function-----------------# 
+my @wordsToQuery = split(' ', $in{"query"}); 
+&RetrieveInvertedIndex(@wordsToQuery); 
+
+
+
+#remove duplicates. I am using a built in method within the perl library List::MoreUtils qw(uniq)
+#my frequency WAS generating duplicated results for duplicate words
+@allWords = uniq(sort(@allWords));
+
+
+sub RetrieveInvertedIndex{
+	#print counts for each document, and total
+	my @words = @_; 
+
+
+print<<EOF;
+Content-type: text/html
+
+
+<!DOCTYPE html>
+<head>
+<style>
+body{
+    text-align: center;
+    background: url("http://i.imgur.com/MVCOmnP.jpg");
+    background-size: cover; 
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    color: black;
+    font-family: Helvetica; 
+}
+p{
+    font-size: 18px;
+}
+h6{
+    color: black
+    font-size: 24px
+}
+input{
+    border:0;
+    padding: 12px;
+    font-size: 18px; 
+}
+input[type="submit"]{
+    background: limegreen;
+    color:black; 
+}
+</style>
+</head>
+<body>
+<img src="http://i.imgur.com/sAe6mGP.jpg" height="250" width="250">
+<h1>Vincent Nkawu</h1>
+EOF
+
+	foreach my $word (@words) {
+		print "<p> $word \n";
+		
+		my $totPerWord = 0;
+		foreach my $document (sort keys %counts){
+			if($counts{$document}{$word} > 0){
+				
+				print "$document, $counts{$document}{$word}\n";
+				
+				$totPerWord += $counts{$document}{$word};
+			}
+		}
+		print "DF: $totPerWord</p>\n\n";
+	}
+
+print "</BODY>\n";
+print "</HTML>\n";
+
+}	
+
+}
+

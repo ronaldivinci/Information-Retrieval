@@ -1,0 +1,72 @@
+ colleg educ health human scienc cehh univers memphi 
+ colleg educ health human scienc cehh univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ cehh 
+ u m 
+ peopl 
+ futur student 
+ alumni friend 
+ cehh 
+ depart 
+ grant research 
+ current student 
+ faculti staff 
+ z list 
+ quick link 
+ outlook 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ inform 
+ cehh 
+ cehh faculti staff directori 
+ fact glanc 
+ dean s offic 
+ give cehh 
+ job 
+ accredit 
+ mission 
+ vision 
+ ncate document 
+ cehh 
+ colleg educ health human scienc 
+ found program univers memphi colleg date west tennesse state normal school open door student colleg enrol undergradu graduat student nation accredit profession program fifti degre program prepar student vari career path offer depart colleg educ health human scienc 
+ pride home research center institut divers focu faculti depart colleg build partnership dynam commun serv 
+ colleg home barbara lipman earli childhood school research institut campu elementari school univers colleg laboratori school u s colleg take pride demonstr practic student prepar leader educ health human scienc 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

@@ -1,0 +1,50 @@
+ acad contact univers memphi 
+ acad contact univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ acad cours 
+ student resourc 
+ faculti resourc 
+ acad 
+ meet faculti 
+ meet staff 
+ contact 
+ quick link 
+ present request form 
+ contact 
+ acad academ strategi 
+ colton cockrum ed d 
+ assist director care 
+ wilder tower 
+ memphi tn 
+ ccockrum memphi 
+ colton spent ten year work higher educ experi student affair academ affair work student affair colton gain experi greek life student activ resid life well year experi academ affair work hardin honor program univers memphi assist director center academ retent enrich servic care current posit work acad fresh connect learn commun live learn commun 
+ featur link 
+ video acad colleg career 
+ acad post semest survei 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

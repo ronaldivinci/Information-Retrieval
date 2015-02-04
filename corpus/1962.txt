@@ -1,0 +1,58 @@
+ academ program assess univers memphi 
+ academ program assess univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ curricular procedur 
+ handbook 
+ accredit 
+ graduat total 
+ major 
+ assess data 
+ graduat senior survei 
+ survei graduat 
+ master doctor 
+ program 
+ sacscoc 
+ voluntari system 
+ account 
+ procedur student 
+ complaint 
+ 
+ offic academ program assess coordin curriculum develop review process univers memphi major activ includ administr state tennesse s higher educ assess program perform fund coordin senior test gener educ major survei alumni student program peer review 
+ academ assess offic locat administr build 
+ phone 
+ fax 
+ dr dan poje assist vice provost academ program effect 
+ dpoje memphi 
+ dr cathi serex director curriculum plan 
+ cpserex memphi 
+ april reupk graduat assist academ program assess 
+ agreupk memphi 
+ kenya sander administr associ 
+ klsander memphi 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

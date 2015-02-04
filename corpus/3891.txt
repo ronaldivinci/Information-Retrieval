@@ -1,0 +1,173 @@
+ health sport scienc faculti staff health sport scienc univers memphi 
+ health sport scienc faculti staff health sport scienc univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ cehh 
+ u m 
+ peopl 
+ futur student 
+ current student 
+ admiss advis 
+ degre program 
+ faculti staff 
+ research 
+ internship 
+ studi 
+ z list 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ cdata imag src share share rootsit imag applynow bw jpg 
+ cdata imag src share share rootsit imag default background jpg 
+ cdata imag src share share rootsit imag portal bw jpg 
+ faculti staff offic directori 
+ faculti staff form document 
+ dietet nutrit 
+ randal buddington 
+ beth egan 
+ robin roach 
+ mari catherin schallert 
+ terra smith 
+ mari van der merw 
+ ruth william hooker 
+ exercis sport scienc 
+ richard bloomer 
+ yuhua li 
+ max paquett 
+ brian schill 
+ chad touchberri 
+ robert townsend 
+ lawrenc weiss 
+ health promot 
+ heather chambliss 
+ barbara mcclanahan 
+ jebos okwumabua 
+ shelli stockton 
+ healthcar leadership 
+ shirlei brown 
+ pat travi 
+ physic educ teacher educ 
+ dian coleman 
+ carol irwin 
+ harriett lavenu 
+ todd layn 
+ larri lile 
+ susan wagner 
+ debra wyatt 
+ sami yli piipari 
+ sport leisur 
+ brennan berg 
+ richard bune 
+ wayn gutch 
+ codi havard 
+ michael g huffman 
+ michael hutchinson 
+ timothi d ryan 
+ stanlei n wall 
+ faculti staff health sport scienc 
+ brennan berg 
+ phd univers texa austin 
+ richard bloomer 
+ phd univers north carolina greensboro 
+ shirlei brown 
+ phd union univers 
+ randal buddington 
+ phd univers california davi 
+ heather chambliss 
+ phd univers georgia 
+ dian coleman 
+ med univers memphi 
+ beth egan 
+ ms univers memphi 
+ codi havard 
+ phd univers northern colorado 
+ michael g huffman 
+ phd univers utah 
+ michael hutchinson 
+ phd texa m univers 
+ yuhei inou 
+ phd templ univers 
+ carol c irwin 
+ phd kent state univers 
+ harriett lavenu 
+ phd univers mississippi 
+ todd layn 
+ phd auburn univers 
+ sang rok lee 
+ phd florida state univers 
+ yuhua li 
+ phd texa m univers 
+ larri lile 
+ ms memphi state univers 
+ barbara mcclanahan 
+ phd univers mississippi 
+ jebos okwumabua 
+ phd univers mexico 
+ max paquett 
+ phd univers tennesse knoxvil 
+ robin roach 
+ edd vanderbilt univers 
+ timothi d ryan 
+ phd texa m univers 
+ mari catherin schallert 
+ ms univers memphi 
+ brian schill 
+ phd univers memphi 
+ terra smith 
+ phd oklahoma state univers 
+ shelli stockton 
+ phd univers memphi 
+ robert townsend 
+ ms benedictin univers 
+ william travi 
+ phd univers alabama 
+ mari van der merw 
+ ph d univers tennesse health scienc center 
+ susan wagner 
+ med univers cincinnati 
+ stanlei n wall 
+ edd univers memphi 
+ lawrenc weiss 
+ edd univers georgia 
+ ruth william hooker 
+ edd univers memphi 
+ sami yli piipari 
+ phd univers jyvaskyla 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

@@ -1,0 +1,238 @@
+ graduat catalog econom univers memphi 
+ graduat catalog econom univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ introduct 
+ graduat school 
+ academ servic 
+ admiss regul 
+ academ regul 
+ appeal procedur 
+ degre program 
+ cours 
+ expens 
+ graduat assistantship 
+ fellowship 
+ graduat faculti 
+ member 
+ research facil 
+ minimum degre 
+ requir 
+ resid classif 
+ catalog archiv 
+ univers 
+ administr 
+ univers calendar 
+ quick link 
+ outlook 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ econom 
+ william t smith phd 
+ chair 
+ room busi build 
+ albert okunad phd 
+ phd program coordin 
+ room busi build 
+ aokunad memphi 
+ andrew hussei phd 
+ master s program coordin 
+ room busi build 
+ ajhussei memphi 
+ i 
+ depart econom 
+ qualifi student work ma degre major econom phd degre busi administr concentr econom 
+ note graduat student compli gener requir graduat school 
+ admiss regul 
+ academ regul 
+ 
+ minimum degre requir 
+ program requir degre pursu 
+ ii ma degre program 
+ program object achiev solid foundat knowledg econom theori econom analysi acquisit advanc level knowledg appli econom academ econom acquisit quantit skill effect address research problem abil signific profession contribut profession economist function area busi abil compet effect profession posit privat public sector 
+ program admiss 
+ satisfactori perform graduat record examin satisfactori perform graduat manag admiss test accept approv coordin master s program 
+ satisfactori undergradu grade point averag 
+ b program prerequisit 
+ student successfulli complet complet econ microeconom theori econ macroeconom theori scm busi statist i ii scm accept substitut scm econ equival 
+ c program requir 
+ candid choic written comprehens examin write thesi work option chosen hour student s work devot econ 
+ examin option candid complet minimum semest hour graduat work exclus ma program prerequisit cours mba essenti foundat cours hour includ minimum hour approv work econom remain hour approv depart graduat advisor collater cours hour cours design graduat student level candid pass written examin microeconom theori macroeconom theori maximum attempt year attempt permit 
+ thesi option candid complet minimum semest hour graduat work exclus ma program prerequisit cours mba essenti foundat cours thesi hour hour includ minimum hour approv work econom remain hour approv depart graduat advisor collater cours hour cours design graduat student level student regist hour hour write defend thesi guidanc faculti committe student fail complet thesi regist maximum degre credit allow regist thesi credit academ semest thesi complet note student elect write thesi familiar 
+ thesi dissert prepar guid 
+ start write 
+ d 
+ acceler m program econom 
+ program permit outstand undergradu major busi econom b b econom b coursework m econom senior year student interest acceler program encourag plan earli undergradu career consult undergradu advisor m coordin depart econom 
+ accept program student work close undergradu advisor m coordin order develop carefulli tailor program studi work m complet undergradu degre 
+ student appli graduat school combin statu graduat cours econom continu program complet b b b student appli full admiss graduat school m program econom 
+ hour graduat coursework appli bachelor s m degre econom 
+ iii phd program 
+ object phd busi administr concentr econom prepar candid success academ profession career econom busi intens advanc level train econom theori quantit method student learn conduct independ research prepar respons profession career econom depart outstand faculti strong orient appli theoret research admiss program content financi aid inform department websit 
+ econom econ 
+ note student busi cours charg addit credit hour 
+ addit cours depart offer special topic cours 
+ econ 
+ special topic econom 
+ topic vari repeat topic chang prerequisit permiss depart chair 
+ econ special topic econom 
+ special area econom includ curriculum consult onlin class list 
+ econ develop econ thght 
+ integr macro microeconom examin contribut select school writer modern econom theori includ preclass classic marxian neoclass post contribut focus theori monei interest inflat 
+ econ quant econom analysi 
+ introduct applic mathemat tool busi econom review matrix algebra differenti integr calculu optim constraint compar statist 
+ econ econ global execut 
+ concept tool econom theori applic busi social issu context global economi decis firm consum govern interact determin market outcom market structur impact intern trade currenc market firm compet global economi 
+ econ manageri econom 
+ econom rational underli kei manag decis manageri problem identifi examin light relev econom concept remedi action plot basi econom logic prerequisit econ equival permiss instructor 
+ econ adv quant econ analysi 
+ advanc mathemat method econom financ account manag scienc specif applic micro macroeconom topic includ constrain unconstrain dynam optim compar statist optim control prerequisit econ permiss instructor 
+ econ appl stat mthd bu econ 
+ probabl statist techniqu econom financ account manag scienc 
+ econ econom forecast 
+ statist model forecast measur risk growth cyclic season pattern busi econom time seri prerequisit econ permiss instructor 
+ econ industri organ 
+ type market work natur firm monopoli monopolist competit product differenti oligopoli repeat game tacit collus entri accommod exit prerequisit econ permiss instructor 
+ econ intnl trade investmt 
+ introductori survei trade theori intern macroeconom tradit issu intern trade theori includ countri trade distribut effect polici basic concept issu intern macroeconom includ balanc payment intern capit flow exchang rate effect macroeconom polici altern exchang rate regim prerequisit econ permiss instructor 
+ econ intrnatnl competitv 
+ mean measur intern competit microeconom macroeconom aspect govern polici implic strateg intervent prerequisit econ permiss instructor 
+ econ intnl trade theori pol 
+ advanc treatment theori intern trade theori compar advantag hecksher ohlin model specif factor return scale product life cycl hypothes applic tariff commerci polici intern factor movement select topic intern econom develop prerequisit econ permiss instructor 
+ econ intnl monetari thry pol 
+ advanc treatment open economi macroeconom determin intern extern balanc balanc payment account model balanc payment adjust foreign exchang rate determin intern capit flow stabil mechan polici prerequisit econ permiss instructor 
+ econ labor econom 
+ theori statist techniqu analyz determin wage rate employ work condit labor market condit competit collect bargain prerequisit econ permiss instructor 
+ econ econ theori decis 
+ basic exposit decis make theori consum firm market structur inform set prerequisit econ equival 
+ econ adv microeconom i 
+ econom model consum firm market basic theori firm consum choic uncertainti market structur tradit model imperfect competit prerequisit econ econ permiss instructor 
+ econ econ behavior org 
+ model real world econom behavior institut analysi natur modern corpor econom organ focu role plai incomplet inform transact cost legal structur evolut differ capabl shape hierarchi contractu arrang aspect organiz relationship prerequisit econ 
+ econ econ risk uncertainti 
+ econom risk inform individu choic uncertainti varianc model relat expect util stochast domin applic insur asset demand capit budget market equilibrium inform advers select signal moral hazard incent prerequisit econ permiss instructor 
+ econ adv macroeconom i 
+ microeconom foundat macroeconom model comparison contrast macroeconom model neoclass keynesian neoclass neo keynesian prerequisit econ econ permiss instructor 
+ econ monetari theori pol 
+ role monei macroeconomi includ theori financi structur monei creation monetari control theori monei demand gener equilibrium financi model static analysi short run dynam monetari growth rule discret debat optim monetari polici histor conduct monetari polici prerequisit econ permiss instructor 
+ econ health care econom 
+ appli basic econom concept analyz health care market evalu health polici includ distinct econom characterist health health care industri health care profession american system health care current health care polici issu health care reform manag care manpow plan prerequisit econ equival permiss instructor 
+ econ appl health care econ 
+ econom theori relat methodolog illumin arrai health health care issu evalu theoret empir problem health medic care cover structur conduct perform market physician hospit pharmaceut long term care cover health health care polici local state feder select countri prerequisit econ permiss instructor 
+ econ pharmaceut econ 
+ methodolog case studi pharmaceut econom qualiti life aspect medicin intervent emphasi compar pharmaceut care system payment mechan develop develop countri prerequisit econ permiss instructor 
+ econ global healthcar econom 
+ appli basic econom concept understand market econom regulatori apparatu strateg complex biomed industri relat market analysi global healthcar issu system prerequisit econ permiss instructor 
+ econ econ public sector 
+ emphasi product public good financ public good problem creat feder fiscal system current problem polici decis public financ theori polici analyz 
+ econ econometr i 
+ classic multivari regress analysi statist infer ideal ideal condit theoret foundat emphasi empir implement estim model categor data linear simpl dynam panel data prerequisit econ permiss instructor 
+ econ econometr ii 
+ estim statist infer focu microeconometr techniqu instrument variabl simultan equat model estim treatment effect binomi multinomi choic model truncat censor data sampl select regress discontinu design quantil regress prerequisit econ permiss instructor 
+ econ research practicum 
+ practic demonstr experi design practic methodolog research field econom requir phd student recommend graduat assist repeat maximum credit hour grade s u ip 
+ econ teach practicum 
+ practic demonstr experi art teach econom topic requir phd student recommend graduat assist repeat maximum credit hour grade s u ip 
+ econ prob econom 
+ direct independ read research area select student approv supervis faculti member faculti director propos plan studi approv prior enrol grade f ip 
+ econ thesi 
+ independ research master s degre grade s u ip 
+ econ adv quant econ analysi 
+ advanc mathemat method econom financ account manag scienc specif applic micro macroeconom topic includ constrain unconstrain dynam optim compar statist optim control prerequisit econ permiss instructor 
+ econ appl stat mthd bu econ 
+ probabl statist techniqu econom financ account manag scienc 
+ econ econom forecast 
+ statist model forecast measur risk growth cyclic season pattern busi econom time seri prerequisit econ permiss instructor 
+ econ industri organ 
+ type market work natur firm monopoli monopolist competit product differenti oligopoli repeat game tacit collus entri accommod exit prerequisit econ permiss instructor 
+ econ intnl trade theori pol 
+ advanc treatment theori intern trade theori compar advantag hecksher ohlin model specif factor return scale product life cycl hypothes applic tariff commerci polici intern factor movement select topic intern econom develop prerequisit econ permiss instructor 
+ econ intnl monetari thry pol 
+ advanc treatment open economi macroeconom determin intern extern balanc balanc payment account model balanc payment adjust foreign exchang rate determin intern capit flow stabil mechan polici prerequisit econ permiss instructor 
+ econ labor econom 
+ theori statist techniqu analyz determin wage rate employ work condit labor market condit competit collect bargain prerequisit econ permiss instructor 
+ econ adv microeconom i 
+ econom model consum firm market basic theori firm consum choic uncertainti market structur tradit model imperfect competit prerequisit econ econ permiss instructor 
+ econ adv microecon ii 
+ continu econ advanc develop theori consum firm gener equilibrium analysi welfar econom game theori applic imperfect competit prerequisit econ permiss instructor 
+ econ econ behavior org 
+ model real world econom behavior institut analysi natur modern corpor econom organ focu role plai incomplet inform transact cost legal structur evolut differ capabl shape hierarchi contractu arrang aspect organiz relationship prerequisit econ 
+ econ econ risk uncertainti 
+ econom risk inform individu choic uncertainti varianc model relat expect util stochast domin applic insur asset demand capit budget market equilibrium inform advers select signal moral hazard incent prerequisit econ permiss instructor 
+ econ adv macroeconom i 
+ microeconom foundat macroeconom model comparison contrast macroeconom model neoclass keynesian neoclass neo keynesian prerequisit econ econ permiss instructor 
+ econ adv macroecon ii 
+ seminar focus advanc macroeconom theori topic includ ration expect polici effect debat econom dynam growth theori asset price model neo keynesian model imperfect competit coordin failur prerequisit econ permiss instructor 
+ econ monetari theori pol 
+ role monei macroeconomi includ theori financi structur monei creation monetari control theori monei demand gener equilibrium financi model static analysi short run dynam monetari growth rule discret debat optim monetari polici histor conduct monetari polici prerequisit econ permiss instructor 
+ econ health care econom 
+ appli basic econom concept analyz health care market evalu health polici includ distinct econom characterist health health care industri health care profession american system health care current health care polici issu health care reform manag care manpow plan prerequisit econ equival permiss instructor 
+ econ appl health care econ 
+ econom theori relat methodolog illumin arrai health health care issu evalu theoret empir problem health medic care cover structur conduct perform market physician hospit pharmaceut long term care cover health health care polici local state feder select countri prerequisit econ permiss instructor 
+ econ pharmaceut econ 
+ methodolog case studi pharmaceut econom qualiti life aspect medicin intervent emphasi compar pharmaceut care system payment mechan develop develop countri prerequisit econ permiss instructor 
+ econ econ public sector 
+ emphasi product public good financ public good problem creat feder fiscal system current problem polici decis public financ theori polici analyz 
+ econ econometr i 
+ classic multivari regress analysi statist infer ideal ideal condit theoret foundat emphasi empir implement estim model categor data linear simpl dynam panel data prerequisit econ permiss instructor 
+ econ econometr ii 
+ estim statist infer focu microeconometr techniqu instrument variabl simultan equat model estim treatment effect binomi multinomi choic model truncat censor data sampl select regress discontinu design quantil regress prerequisit econ permiss instructor 
+ econ econometr iii 
+ econ research practicum 
+ practic demonstr experi design practic methodolog research field econom requir phd student recommend graduat assist repeat maximum credit hour grade s u ip 
+ econ teach practicum 
+ practic demonstr experi art teach econom topic requir phd student recommend graduat assist repeat maximum credit hour grade s u ip 
+ econ prob econom 
+ direct independ read research area select student approv supervis faculti member faculti director propos plan studi approv prior enrol grade f ip 
+ graduat school 
+ administr build 
+ memphi tn 
+ phone 
+ fax 
+ graduat admiss 
+ wilder tower 
+ memphi tn 
+ phone 
+ fax 
+ u m white page 
+ campu map 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

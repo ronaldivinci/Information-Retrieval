@@ -1,0 +1,225 @@
+ undergradu catalog acct univers memphi 
+ undergradu catalog acct univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ acct 
+ acct account 
+ john malloi ph d interim director 
+ room fcbe administr build 
+ student earn minimum credit hour met specif prerequisit minimum grade c elig level cours addit requir student seek degre fogelman colleg busi econom complet requir divis busi cours minimum grade c minimum gpa account major requir divis busi cours math hour work includ math comm hour english b b degre requir gener requir 
+ surcharg credit hour level cours credit hour level cours approv tennesse board regent purpos surcharg busi cours guarante continu improv colleg complianc standard associ advanc collegi school busi intern aacsb intern 
+ addit cours depart offer special topic cours 
+ acct special topic account 
+ vari topic repeat chang topic prerequisit permiss director 
+ acct fundament acct i 
+ tbr acct introduct measur realiz classif disclosur concept busi financi statement emphasi manag creditor investor analyz financi account inform invest financ oper decis 
+ acct fundament acct ii 
+ tbr acct introduct measur disclosur concept cost profit product servic organiz unit emphasi manag intern extern inform resourc alloc decis plan control invest oper decis prerequisit acct math 
+ acct busi law 
+ element law legal principl encount busi emphasi basic law contract sale secur transact negoti instrument real person properti agenc form busi organ suretyship insur contract tort 
+ acct intermedi account i 
+ review account process financi statement cash receiv short term invest inventori invest equiti secur incom recognit oper asset intang prerequisit acct permiss director 
+ acct intermedi account ii 
+ long term debt corpor format format retain earn invest debt instrument statement cash flow pension leas e p s defer incom tax account financi report chang price prerequisit acct 
+ acct legal social polit environ 
+ emphasi legal social polit environ busi execut exist legal social polit forc affect busi oper lectur case discuss 
+ acct cost account 
+ cost system includ job order process standard manag inform system plan control alloc indirect cost prepar variabl budget determin standard cost varianc mean prerequisit acct 
+ acct feder incom tax i 
+ introduct feder incom taxat individu prerequisit acct 
+ acct account system 
+ account system analysi design emphas account cycl approach theori system control organiz set holist approach synthes account financ oper product function applic prerequisit acct 
+ acct adv financi report 
+ busi combin account method consolid financi statement foreign transact account foreign subsidiari partnership account state local govern account prerequisit acct 
+ acct audit assur servic 
+ ethic account practic intern control audit standard procedur program audit account report client prerequisit acct 
+ acct advanc audit 
+ audit comput base account system emphasi audit softwar comput audit techniqu evalu account system control test account data integr natur expert system account emphasi audit tool prerequisit acct 
+ acct fin stmnt analysi hospit 
+ comprehens date treatment analysi financi statement assess organ s risk decis make prerequisit acct 
+ acct taxat bu entiti 
+ introduct feder incom taxat corpor partnership estat trust prerequisit acct 
+ acct govt health profit 
+ basic account report procedur government unit univers profit entiti prerequisit acct permiss instructor 
+ acct internl acct ifr gaap 
+ major similar differ gaap intern financi report standard ifr intern issu relat taxat financi statement analysi prerequisit corequisit acct 
+ acct problem account 
+ student conduct approv project major area supervis faculti prerequisit permiss director 
+ acct internship account 
+ internship busi organ gain job experi project approv supervis department faculti member credit allow accept report vari complex duti prerequisit gpa complet hour upper divis core 
+ acct senior honor thesi 
+ independ research open student enrol honor program thesi supervis faculti member approv director school prerequisit senior stand permiss director colleg honor program 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

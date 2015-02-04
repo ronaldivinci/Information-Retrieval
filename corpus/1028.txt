@@ -1,0 +1,16 @@
+ univers memphi librari quick search univers memphi 
+ univers memphi librari quick search univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip main content 
+ quicksearch 
+ search option 
+ catalog classic 
+ databas 
+ journal titl 
+ articl quicksearch 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

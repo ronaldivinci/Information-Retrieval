@@ -1,0 +1,76 @@
+ mid south survei research center staff univers memphi 
+ mid south survei research center staff univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ home 
+ staff 
+ project 
+ contact 
+ criminolog crimin justic 
+ school urban affair public polici 
+ univers memphi 
+ colleg art scienc 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ staff 
+ director 
+ angela d gilmor ph d 
+ send e mail 
+ mccord hall 
+ phone 
+ fax 
+ director 
+ dr gilmor year teach research experi specif area survei research ph d criminolog indiana univers pennsylvania specif prepar problem solv theori data work crimin justic agenc countri internation prepar solv real world problem applic theori data public deal aspect justic primarili focu polici program measur concept relat justic practic implic polici program applic potenti solut agenc social problem 
+ staff 
+ interview extens experi work local region nation survei organ interview object profession conduct survei obtain accur data interview extens background train survei project addit msrc bilingu interview capac happi work address access grow latino popul 
+ survei 
+ teach univers hire highli qualifi train graduat student interest research small group hand select highli qualifi train undergradu student import purpos msrc provid opportun student interest pursu advanc degre interest assist agenc intern research obtain real experi work real agenc solv real problem undergradu student hire student worker paid hourli rate graduat student hourli rate tuition waiver depend rate structur agreement msrc client 
+ mission 
+ expertis 
+ resourc 
+ qualiti servic 
+ procedur 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

@@ -1,0 +1,118 @@
+ univ memphi jscc lemoyn owen librari um 
+ hide js starttimeout 
+ univers librari 
+ search 
+ librarian 
+ librari account 
+ var libchat btn iid kei e aca eb f domain libansw memphi star rate fals depart id 
+ search librari catalog 
+ keyword 
+ author 
+ titl 
+ subject 
+ number 
+ advanc search 
+ articl journal 
+ articl quicksearch 
+ databas 
+ journal titl 
+ librari 
+ librari account 
+ librarian 
+ comment 
+ addit 
+ catalog 
+ reserv 
+ search 
+ instructor search 
+ univers librari 
+ univers memphi 
+ resourc 
+ databas 
+ interlibrari loan illiad 
+ librari catalog 
+ refwork 
+ worldcat version 
+ catalog classic 
+ var bodi document getelementsbytagnam bodi bodi id iiigeneratedbodycustombib 
+ bodi id iiigeneratedbodybib 
+ hide js var savedscop var savedtag var savedsearch var sortbuttontext null var savedexactsearch null var sortbuttonev null var sortexactbrowseurl null var sorttyp arrai var sortlabel arrai sorttyp t sortlabel titl sorttyp sortlabel author sorttyp r sortlabel revers year sorttyp c sortlabel year sorttyp n sortlabel call number sorttyp m sortlabel materi type sortlabel system sort sorttyp var sortselectedvalu var nonsorttag xyzprww unhid js 
+ searchtyp 
+ keyword 
+ author 
+ titl 
+ subject 
+ lc call 
+ dewei local call 
+ gov t doc 
+ isbn issn music pub 
+ control 
+ prof ta 
+ 
+ record 
+ search 
+ search scope 
+ view librari um jscc lemoyn owen 
+ book includ um jscc lemoyn owen 
+ e book titl access vari institut 
+ journal period titl menu left 
+ univers memphi librari 
+ mcwherter librari 
+ govern public depart 
+ juvenil librari scienc collect 
+ special collect depart 
+ refer 
+ commun scienc librari 
+ lambuth campu librari 
+ law librari 
+ mathemat branch librari 
+ music branch librari 
+ jackson state commun colleg librari 
+ jscc hardin counti learn resourc center 
+ jscc humboldt learn resourc center 
+ jscc lexington henderson learn resourc center 
+ lemoyn owen colleg librari 
+ center african african american studi 
+ lemoyn owen curriculum lab 
+ hide js initsort unhid js 
+ limit search item 
+ wrap hide error failur user milharvest catch e close catch error 
+ connect 
+ journal visual experi 
+ databas 
+ journal visual experi 
+ altern 
+ jove biologi 
+ databas type 
+ full text databas 
+ e journal 
+ databas format 
+ stream video 
+ multimedia 
+ journal visual experi jove world s peer review scientif video journal establish jove devot publish scientif research visual format research overcom biggest challeng face scientif research commun todai poor reproduc time labor intens natur learn experiment techniqu 
+ access biologi modul journal 
+ databas subject 
+ biologi 
+ access inform 
+ 
+ 
+ current um faculti student staff librari user 
+ access note 
+ ip address authent 
+ catalog tool 
+ print 
+ question librarian 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ imag courtesi 
+ bridg materi type icon set project 
+ 
+ nova southeastern univers 
+ var pagetrack gat gettrack ua pagetrack trackpageview catch err 
+ var linktagg olt ga js linktagg settagdownload true linktagg setdownloadextens doc docx pdf mp linktagg settagoutbound true linktagg settagmailto true linktagg tag 
+ milmanipul catch e 

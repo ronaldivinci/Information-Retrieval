@@ -1,0 +1,228 @@
+ undergradu catalog exss univers memphi 
+ undergradu catalog exss univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ exss 
+ exss exercis sport scienc 
+ depart health sport scienc 
+ richard bloomer ph d chair 
+ room elma neal roan fieldhous 
+ addit cours depart offer special topic cours 
+ exss special topic workshop exercis sport scienc 
+ select phase exercis sport scienc group studi depth studi area interest exercis sport scientist repeat chang topic 
+ exss special topic exercis sport scienc 
+ current topic exercis sport scienc repeat chang topic content topic vari onlin class list 
+ exss intro exercis scienc 
+ introduct educ profession practic histori exss technolog employ opportun certif profession organ 
+ exss resist train applicatn 
+ basic theori practic multipl resist train modal resist train tool sport rehabilit physic condit free weight bodi weight machin exercis modal basic resist exercis program instruct method 
+ exss aerob train applic 
+ multipl aerob train modal aerob train tool sport rehabilit physic condit 
+ exss exercis sport mechan 
+ biomechan condit human movement knowledg skill need analyz evalu human motor perform order prescrib intervent optim prerequisit biol exss hpro corequisit exss sp su 
+ exss adv life supp exer cond test 
+ develop knowledg skill relat anatom physiolog result exercis condit test sign symptom acut health relat problem aid measur cpr a prerequisit biol f su 
+ exss anatom kinesiolog 
+ anatom system relat purpos movement human bodi structur function musculoskelet system prerequisit exss prerequisit corequisit exss biol sp su 
+ exss psych aspect exercis 
+ emphasi applic psycholog principl foster motiv individu exercis physic activ set prerequisit biol exss prerequisit corequisit exss sp su 
+ exss prev care athlet injuri 
+ practic theoret aspect treatment athlet injuri athlet train program suppli train tabl therapeut equip techniqu condit bandag prerequisit hmse consent instructor prerequisit exss biol corequisit hpro 
+ exss exercis physiolog i 
+ anatom physiolog base express develop maintain muscular endur strength power joint flexibl bodi composit factor affect prerequisit exss biol sp su 
+ exss exer physiolog introduct 
+ acut chronic physiolog adapt muscular activ physiolog base train program maxim physic perform prerequisit exss biol sp su 
+ exss exercis physiolog ii 
+ exercis perform includ energi metabol regul cardiovascular physiolog environment physiolog principl physiolog biochem assess interpret physiolog biochem data develop train program maxim perform effici prerequisit exss biol prerequisit corequisit exss f su 
+ exss motor learn 
+ theori research behavior neurolog base understand process involv motor skill learn perform prerequisit exss biol sp su 
+ exss motor behavior 
+ basic theori principl motor learn perform development aspect human motor behavior lifespan biol sp su 
+ exss exer test interpret lab 
+ acquisit practic laboratori clinic skill pertain measur techniqu tool interpret physic perform fit introduc theoret function techniqu grade exercis test function diagnost assess lectur hour laboratori hour week prerequisit biol exss hpro permiss instructor f su 
+ exss supplement food drug health 
+ role nutrit optim perform train adapt macro micro nutrient intak proper time amount intak analysi valid propos ergogen perform structur adapt prerequisit permiss instructor 
+ exss exer prog spec popul 
+ principl cardiovascular medicin relat therapeut manag diseas state exercis medic consequ diseas state develop comprehens rehabilit program decreas physic disabl variabl hour supervis laboratori field experi requir prerequisit biol exss hpro f su 
+ exss exercis test ecg interpret 
+ introduct method conduct ecg cardiopulmonari exercis test asymptomat symptomat popul acsm principl exercis test method ecg interpret cover variabl hour supervis laboratori field experi requir 
+ exss adv prv care athlet injuri 
+ advanc practic theoret aspect treatment athlet relat injuri athlet train program suppli manag organ injuri recognit evalu assess therapeut modal bandag techniqu condit rehabilit prerequisit exss 
+ exss adv meth strength condit 
+ advanc studi train principl strength condit program underli physiolog base prerequisit biol exss hpro permiss instructor f su 
+ exss internship exer sport scienc 
+ culmin experi allow student opportun demonstr knowledg skill profession set prerequisit complet work major concentr complet senior test s u 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

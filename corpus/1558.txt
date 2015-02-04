@@ -1,0 +1,287 @@
+ undergradu catalog engin technolog univers memphi 
+ undergradu catalog engin technolog univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ engin technolog 
+ depart engin technolog 
+ engin technolog profess knowledg mathemat natur scienc gain higher educ experi practic devot primarili implement extens exist technolog benefit human engin technolog educ focus primarili appli aspect scienc portion technolog spectrum closest product improv industri practic engin oper function 
+ educ object engin technolog program produc graduat prepar 
+ attain gain employ relat technic field provid person profession growth 
+ pursu profession develop addit formal educ certif workshop 
+ attain increas level respons leadership chosen field 
+ appli depth knowledg abil manag design develop analyz implement technic project demonstr qualiti perform succe engin technolog career 
+ graduat refer engin technologist work member engin team focus primarili implement technolog student select field studi provid depth subject interest technic elect provid breadth studi support gener knowledg base core cours prepar student manag peopl project grow career graduat program emploi area qualiti assur product softwar support appli design develop manufactur support plant manag computer process control system plan process plan supervis technic sale 
+ admiss 
+ student declar engin technolog major student earn grade c cours equival cumul gpa cours 
+ math calculu i 
+ phy gener physic i trig 
+ phy gener physic i lab 
+ tech introduct technolog 
+ tech comput applic technolog 
+ tech eeth electron circuit technolog 
+ tech ceth comput program 
+ tech meth manufactur process i 
+ criteria satisfi student admit univers wish declar engin technolog major code pre engin technolog 
+ transfer student code pre engin technolog minimum semest admiss univers memphi declar engin technolog major complet admiss requir 
+ student regist upper divis cours tech ceth eeth meth level declar engin technolog major except admiss criteria discret depart chair 
+ graduat 
+ qualifi degre bachelor scienc engin technolog student satisfi univers colleg requir obtain grade point averag work complet obtain minimum grade c engin technolog mathemat cours satisfi degre requir grade c requir engl 
+ engin technolog b s e t 
+ univers gener educ program hour 
+ graduat univers link univers gener educ program requir note depart program mathemat math natur scienc phy 
+ b colleg degre requir hour 
+ engin technolog core engl chem math tech 
+ c major hour 
+ complet hour technic elect includ minimum field studi select consult academ advisor 
+ autom control system tech tech 
+ b electron commun system tech 
+ c mechan system design tech 
+ d microprocessor system tech 
+ e oper strategi lean principl tech 
+ f product realiz tech 
+ g softwar design tech 
+ h system network administr tech 
+ core requir satisfi prerequisit field studi observ prerequisit enrol cours field studi note substitut approv undergradu program coordin 
+ d engin technolog minor 
+ student complet hour engin technolog coursework observ prerequisit upper divis select consult department advisor understood prerequisit satisfi coursework depart program 
+ acceler b s e t m s program engin technolog 
+ program outstand undergradu coursework master scienc engin technolog senior year student encourag plan enter acceler b s e t m s program earli undergradu career consult advisor depart engin technolog 
+ work undergradu graduat academ coordin undergradu select program carefulli tailor studi complet b s e t degre coursework m s 
+ student appli graduat school acceler b s e t m s program graduat cours engin technolog continu program b s e t student appli full admiss graduat school engin technolog depart s m s program 
+ abm program hour graduat work appli undergradu graduat program graduat coursework appli undergradu gpa 
+ typic year engin technolog sequenc 
+ freshman year 
+ engl 
+ engl 
+ math 
+ math 
+ tech 
+ tech 
+ tech 
+ tech 
+ tech 
+ tech 
+ semest total 
+ hr 
+ hr 
+ sophomor year 
+ engl 
+ comm 
+ phy 
+ phy 
+ histori 
+ chem 
+ tech 
+ tech 
+ tech 
+ technic elect 
+ semest total 
+ hr 
+ hr 
+ junior year 
+ human 
+ social behavior scienc 
+ histori 
+ technic elect 
+ engl 
+ technic elect 
+ technic elect 
+ tech 
+ technic elect 
+ tech 
+ tech 
+ semest total 
+ hr 
+ hr 
+ senior year 
+ social behavior scienc 
+ human 
+ technic elect 
+ technic elect 
+ technic elect 
+ technic elect 
+ technic elect 
+ technic elect 
+ tech 
+ tech 
+ tech 
+ semest total 
+ hr 
+ hr 
+ total hour 
+ total hour requir graduat 
+ satisfi univers gener educ program requir 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

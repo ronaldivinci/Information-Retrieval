@@ -1,0 +1,84 @@
+ depart comput scienc univers memphi 
+ depart comput scienc univers memphi 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ home 
+ chair s 
+ peopl 
+ degre program 
+ financi aid admiss 
+ list 
+ research group 
+ public 
+ student research 
+ colloquium talk 
+ inform assur 
+ student resourc 
+ acm student chapter 
+ internship 
+ job post 
+ newslett 
+ accolad 
+ sponsor 
+ contact 
+ u m quick link 
+ outlook 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ list 
+ view cours level 
+ undergradu 
+ graduat 
+ undergradu catalog 
+ 
+ graduat catalog 
+ undergradu cours 
+ comp problem solv comput 
+ comp cs introduct comput scienc 
+ comp cs data structur 
+ comp discret structur 
+ comp discret structur laboratori 
+ comp cs advanc data structur algorithm 
+ comp comput organ assembl languag 
+ comp data inform knowledg 
+ comp network inform assur 
+ comp comput program 
+ comp web design develop 
+ comp introduct java program 
+ comp design analysi algorithm 
+ comp program languag 
+ comp softwar engin 
+ comp databas process design 
+ comp introduct comput graphic 
+ comp program unix 
+ comp oper system 
+ comp system administr 
+ comp web servic internet 
+ comp comput network wireless mobil comput 
+ comp comput secur 
+ comp model comput 
+ comp introduct artifici intellig 
+ comp data visual 
+ comp capston softwar project 
+ depart comput scienc middot dunn hall memphi tn middot phone middot fax middot 
+ info cs memphi 
+ copi 
+ univers memphi 
+ middot 
+ colleg art scienc 
+ middot 
+ privaci notic 
+ middot 
+ contact webmast 

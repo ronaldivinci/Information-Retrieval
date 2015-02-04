@@ -1,0 +1,387 @@
+ z list univers memphi 
+ z list univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ cdata function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ 
+ project 
+ servic 
+ facil 
+ support 
+ learn 
+ resourc 
+ standard 
+ secur 
+ govern 
+ z list 
+ quick link 
+ tom 
+ campu map 
+ center teach learn ctl 
+ ecoursewar 
+ elearn rodp 
+ fedex institut 
+ gartner research 
+ high perform comput hpc center 
+ helpdesk 
+ project inventori system 
+ servic notif 
+ servic catalog 
+ iam ident manag 
+ iprint 
+ learn curv 
+ e mail 
+ rocc 
+ technolog resourc locat trl 
+ umdriv 
+ umwiki 
+ umtech 
+ webdev 
+ z list 
+ relat topic 
+ inform technolog z list 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ 
+ 
+ accept technic resourc polici 
+ account request intens english intern iei 
+ account request adjunct faculti 
+ account request retire 
+ account request univers guest 
+ account user 
+ adjunct faculti account request 
+ alert downtim 
+ appl volum licens program 
+ asktom 
+ b 
+ bucklei ferpa inform 
+ c 
+ cabl tv list 
+ campu data secur 
+ center teach learn 
+ client support servic css 
+ committe 
+ comput lab locat hour 
+ comput recommend faculti staff 
+ comput recommend student 
+ comput secur inform 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ top 
+ d 
+ d l 
+ data warehous 
+ data warehous data dictionari 
+ data warehous login 
+ data network telephon inform 
+ dean s taf committe 
+ desir learn 
+ digit certif purchas 
+ directori 
+ downtim alert 
+ e 
+ e mail inform 
+ ecoursewar 
+ emerg alert text messag servic 
+ enterpris applic servic itea 
+ enterpris infrastructur servic itei 
+ enterpris system advisori committe esac 
+ f 
+ ferpa bucklei inform 
+ facil 
+ faculti staff e mail system 
+ g 
+ gartner research global research analysi 
+ govern 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ top 
+ h 
+ hardwar discount faculti staff 
+ hardwar discount student 
+ hardwar recommend student 
+ hardwar standard faculti staff 
+ helpdesk servic center 
+ helpdesk umtech 
+ high perform comput hpc 
+ i 
+ iam ident manag 
+ iprint tigerlan print 
+ govern 
+ impact report itir inform 
+ impact report 
+ polici plan council 
+ servic notif 
+ standard 
+ work committe 
+ extend govern structur 
+ govern structur 
+ govern technic team work group 
+ organiz chart pdf 
+ project 
+ servic catalog 
+ strateg plan 
+ impact report 
+ inform technolog polici procedur 
+ intens english intern account request 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ top 
+ l 
+ ldap directori 
+ learn 
+ learn curv 
+ local support provid lsp list 
+ m 
+ major system 
+ mymemphi portal channel list 
+ n 
+ network servic telecommun 
+ network statist 
+ network usag graph 
+ network telephon data inform 
+ notif 
+ o 
+ ou campu train 
+ offic email 
+ p 
+ password secur 
+ phish inform 
+ podcast central 
+ portal mymemphi 
+ portal servic 
+ portal channel 
+ portal channel group request 
+ portal channel list 
+ print 
+ project 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ top 
+ r 
+ recommend teach learn tool 
+ research advisori committe 
+ research comput 
+ resourc 
+ respons print initi rpi 
+ retire account request 
+ rite award nomin form 
+ s 
+ safari technic book 
+ search tip 
+ search engin inform 
+ secur 
+ secur campu data 
+ servic level agreement server host 
+ servic notif 
+ servic catalog 
+ smart classroom 
+ softwar inform 
+ softwar tigerlan 
+ sponsor account 
+ standard 
+ strateg plan 
+ student advisori committe 
+ suggest box 
+ support 
+ system alert downtim 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ top 
+ t 
+ taf rollout 
+ teach learn advisori committe tlac 
+ technolog inform gener 
+ telecommun servic 
+ tigerlan 
+ tigerlan lab locat hour 
+ tigerlan lab usag guidelin 
+ tigerlan softwar 
+ tigerlan softwar request 
+ tigertext 
+ tip trick 
+ u 
+ umwiki 
+ umwiki inform 
+ umdriv 
+ ummail 
+ uuid univers user id 
+ umreport 
+ umtech 
+ umwar 
+ univers guest account request 
+ univers memphi major system 
+ usag guidelin tigerlan lab 
+ userid 
+ usernam 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ l 
+ m 
+ n 
+ o 
+ p 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ top 
+ 
+ virtual privat network vpn 
+ viru inform 
+ w 
+ web portal 
+ web govern 
+ webdev web develop 
+ wireless 
+ worm inform 
+ find definit wikipedia org 
+ download adob reader 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ inform technolog servic 
+ administr 
+ bldg 
+ phone 
+ email umtech memphi 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

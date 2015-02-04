@@ -1,0 +1,74 @@
+ confer hous amen univers memphi 
+ confer hous amen univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ gener inform 
+ food servic 
+ amen 
+ meet space 
+ confer hous staff 
+ internet servic 
+ recreat 
+ quick link 
+ outlook 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ amen 
+ resid hall room air condit 
+ resid hall room equip basic cabl 
+ local telephon servic room live learn complex guest provid telephon 
+ ethernet access richardson tower south hall 
+ wireless access carpent complex rawl smith hall 
+ wireless ethernet access live learn complex 
+ linen request addit charg 
+ vend machin locat breezewai richardson tower lobbi rawl hall room desk smith hall main social area south hall 
+ inform internet access 
+ click 
+ rate locat 
+ richardson tower 
+ carpent complex 
+ live learn complex 
+ rawl hall 
+ smith hall 
+ south hall 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ resid life dine servic richardson tower phone fax 
+ email reslif memphi 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

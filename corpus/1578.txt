@@ -1,0 +1,288 @@
+ undergradu catalog mechan engin univers memphi 
+ undergradu catalog mechan engin univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ mechan engin 
+ depart mechan engin 
+ mechan engin broad field area student offer wide varieti topic touch area balanc year program curriculum design prepar graduat profession practic provid foundat lifelong learn profession growth 
+ studi begin strong foundat mathemat physic scienc engin scienc culmin seri synthesi design cours requir student appli materi learn foundat cours practic design problem area tradit classroom instruct supplement laboratori experi area laboratori cours design develop student s knowledg base hand learn experi 
+ program educ object express expect program graduat abil year successfulli complet comprehens curriculum graduat emploi mechan engin profession field benefit mechnic engin educ graduat pursu advanc studi engag life long learn activ 
+ divers encount profess requir success mechan engin technic technic skill cours human social scienc enhanc technic skill explor engin s relationship respons societi student learn profession identifi engin welfar public prime concern technic cours student interact commun effect wide varieti individu student strongli encourag fundament engin examin prior graduat student requir pass simul fundament engin examin administ compon mech 
+ admiss 
+ admiss univers student pre mechan engin major movement major requir cumul gpa univers level cours complet grade c cours equival cumul gpa cours 
+ math calculu i 
+ chem gener chemistri i 
+ phy scienc engin physic i 
+ mech introduct mechan engin 
+ mech mechan engin comput i 
+ mech mechan engin comput ii 
+ pre mechan engin major regist mech cours level except criteria discret depart chair undergradu program coordin 
+ graduat 
+ earn bachelor scienc mechan engin degre student satisfi univers colleg requir obtain minimum grade point averag work complet obtain minimum grade c engin mathemat physic chemistri cours satisfi degre requir 
+ acceler b s m e m s program mechan engin 
+ program outstand undergradu coursework master scienc mechan engin senior year student encourag plan enter acceler b s m e m s program earli undergradu career consult advisor depart mechan engin 
+ work undergradu graduat academ coordin undergradu select program carefulli tailor studi complet b s m e degre coursework m s 
+ student appli graduat school acceler b s m e m s program graduat cours mechan engin continu program b s m e student appli full admiss graduat school mechan engin depart s m s program 
+ abm program hour graduat work appli undergradu graduat program graduat coursework appli undergradu gpa 
+ mechan engin b s m e 
+ univers gener educ program hour 
+ 
+ graduat univers 
+ univers gener educ program requir note requir program commun engl comm mathemat math student math equival enrol math social behavior scienc econ addit hour choic natur scienc phy american heritag waiv b s m e student complet unit american histori high school 
+ b colleg degre requir hour 
+ mathemat hour math 
+ natur scienc hour chem chem biol 
+ collater cours hour civl eec eec 
+ c major hour 
+ complet mech 
+ hour elect approv student s academ advisor 
+ typic year mechan engin sequenc 
+ freshman year 
+ engl 
+ engl 
+ chem 
+ natur scienc 
+ math 
+ math 
+ mech 
+ mech 
+ mech 
+ phy 
+ semest total 
+ hr 
+ hr 
+ sophomor year 
+ engl 
+ math 
+ math 
+ mech 
+ phy 
+ mech 
+ civl 
+ eec 
+ mech 
+ social behavior scienc 
+ semest total 
+ hr 
+ hr 
+ junior year 
+ mech 
+ mech 
+ mech 
+ mech 
+ mech 
+ mech 
+ mech 
+ mech 
+ mech 
+ mech 
+ mech 
+ engl 
+ mech 
+ semest total 
+ hr 
+ hr 
+ senior year 
+ mech 
+ mech 
+ mech 
+ mech 
+ mech 
+ technic elect 
+ human fine art 
+ mech elect 
+ mech 
+ human fine art 
+ mech elect 
+ econ 
+ semest total 
+ hr 
+ hr 
+ total hour 
+ total hour requir graduat 
+ satisfi univers gener educ program requir 
+ upper divis engin mathemat physic chemistri advisor s approv requir 
+ honor program 
+ honor mechan engin program except educ opportun highli motiv student develop talent interest abil curriculum design encourag independ creativ 
+ admiss honor program 
+ incom freshmen score minimum act equival invit particip transfer student student previous enrol univers memphi elig program grade point averag grade point averag work herff colleg engin department honor committe admit elig student program approv applic admiss mechan engin honor program student academ record fall short requir appli provision accept 
+ retent honor program 
+ particip maintain minimum grade point averag minimum grade point averag work colleg continu program department honor committe grant particip fail meet requir semest probationari period dismiss program 
+ requir 
+ qualifi design honor mechan engin student successfulli complet minimum semest hour mech hour mechan engin honor cours 
+ qualifi design honor mechan engin univers honor thesi student successfulli complet minimum semest hour mech hour mechan engin honor cours hour fo unhp hour gener educ honor cours enrol mechan engin honor section student request department approv minimum grade b requir honor count fulfil honor requir regular credit earn grade b particip select major advisor begin semest junior year enrol mech honor thesi propos success complet requir accept thesi propos department honor committe semest senior year particip enrol mech honor thesi success complet requir accept thesi department honor committe 
+ design honor mechan engin 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

@@ -1,0 +1,301 @@
+ undergradu catalog math univers memphi 
+ undergradu catalog math univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ math 
+ math mathemat 
+ depart mathemat scienc 
+ iren lasiecka ph d chair 
+ room dunn hall 
+ addit cours depart offer special topic cours 
+ math special topic mathemat 
+ topic vari onlin class list prerequisit permiss instructor 
+ math special topic mathemat statist 
+ topic vari announc onlin class list prerequisit permiss instructor 
+ math basic algebra 
+ review real number system expon ration root graph graph calcul partial fraction synthet divis theori equat inequ applic note satisfi part mathemat requir degre prerequisit minimum score alek math assess 
+ math foundat mathemat 
+ algebra review applic function graph permut combin introduct probabl statist problem solv prerequisit math math minimum grade c minimum score alek math assess special section math meet dai week requir minimum score alek math assess g 
+ math honor calculu i 
+ concept differenti calculu emphasi theori limit continu function applic deriv note student receiv credit math math prerequisit permiss instructor 
+ math math elem school teacher 
+ examin mathemat taught grade focus common core domain count cardin oper algebra think number oper base number oper fraction express equat prerequisit math math math minimum grade c minimum score alek math assess 
+ math math elem school teacher ii 
+ examin mathemat taught grade focus common core domain ratio proport reason number system measur data express equat geometri statist probabl prerequist math minimum grade c 
+ math prob statist calculu 
+ math colleg algebra 
+ analysi function linear quadrat polynomi root ration exponenti logarithm graph calcul partial fraction synthet divis conic section theori equat inequ applic note math math satisfi degre requir prerequisit minimum score alek math assess special section math meet dai week requir minimum score alek math assess g 
+ math trigonometri 
+ circular function invers circular function graph circular invers function ident equat angl trigonometr function solut triangl elementari applic vector trigonometr form complex number note math math satisfi semest hour degre requir prerequisit math minimum grade c minimum score alek math assess 
+ math pre calculu 
+ expon radic quadrat function inequ relat function invers exponenti logarithm function solut algebra system trigonometr function ident equat graph angl measur sum differ angl doubl angl formula solut triangl law sine cosin note math satisfi semest hour degre requir prerequisit math minimum grade c minimum score alek math assess g 
+ math elementari calculu 
+ introduct concept method elementari calculu real variabl relat ration exponenti logarithm function natur deriv differenti applic deriv natur integr definit integr applic definit integr note math satisfi degre requir prerequisit math math minimum grade c minimum score alek math assess g 
+ math experi calculu 
+ depth studi concept introduc math focu transcendent function student complet math fulfil requir prerequisit math prerequisit math grade permiss instructor 
+ math calculu i 
+ introduct calculu real variabl limit continu deriv applic deriv includ newton s method graph techniqu optim indetermin form l hospit s rule antideriv includ transcendent function note math math satisfi degre requir student receiv credit math math prerequisit math math minimum grade c minimum score alek math assess g 
+ math calculu ii 
+ integr applic definit integr techniqu integr improp integr curv defin parametr equat arc length surfac area polar coordin infinit seri taylor mclaurin seri note student receiv credit math math prerequisit math math 
+ math calculu iii 
+ multivari calculu includ dimension analyt geometri vector quadrat surfac arc length curvatur limit continu partial deriv applic tangent plane optim problem lagrang multipli multipl integr vector field line surfac integr green s theorem stoke theorem diverg theorem prerequisit math 
+ math honor calculu ii 
+ differenti integr calculu emphasi theori anti deriv definit integr techniqu integr sequenc seri note student receiv credit math prerequisit math math permiss instructor 
+ math honor calculu iii 
+ multivari calculu vector matric partial deriv applic multipl integr line surfac integr green s stoke theorem note student receiv credit math prerequisit math 
+ math intro proof fundament math 
+ logic algebra set form proof includ mathemat induct elementari combinator binomi theorem paradox basic number theori cardin prerequisit math 
+ math differenti equat 
+ introduct ordinari differenti equat order differenti equat linear differenti equat order seri method linear equat lapalc transform system differenti equat applic prerequisit math math math 
+ math elementari number theori 
+ divis properti integ prime number congruenc diophantin equat quadrat residu number theoret function fermat s theorem euler s gener applic cryptographi quadrat reciproc law prerequisit math math comp minimum grade c permiss instructor 
+ math intro linear algebra 
+ system linear equat matric elementari row column oper determin vector space subspac linear transform prerequisit math math math comp minimum grade c permiss instructor 
+ math honor mathemat iv 
+ linear algebra differenti equat vector space base linear transform matric order ordinari differenti equat system phase plane method note student credit receiv credit math math prerequisit math 
+ math honor seminar math i 
+ explor origin evolut import mathemat idea examin live work famou mathematician prerequisit corequisit enrol honor calculu cours math admiss department univers honor program permiss instructor 
+ math honor seminar math ii 
+ investig major topic field mathemat fundament theorem arithmet prime number theorem van der waerden s theorem differenti function prerequisit corequisit enrol honor calculu cours math admiss department univers honor program permiss instructor 
+ math colleg geometri 
+ axiomat system major result plane geometri affin project ellipt hyperbol geometri applic differenti calculu prerequisit math math comp minimum grade c 
+ math math connect function model 
+ mathemat aid understand problem social life scienc insight understand power mathemat model techniqu prerequisit enrol limit student tiger teach program math 
+ math intro math quantum mechan 
+ hilbert space spectral theorem function calculu newtonian hamiltonian classic mechan exampl schroeding s equat simpl harmon motion simpl relativist version dirac equat quantum chemistri prerequisit permiss instructor 
+ math actuari mathemat 
+ prepar soa exam p ca exam condit probabl depend combinatori principl random variabl discret continu probabl distribut expect margin distribut risk manag concept corequisit math 
+ math fin math i theori interest 
+ prepar soa exam fm ca exam interest rate time monei annuiti valuat loan repay bond valuat amort intern rate return term structur interest rate asset liabil manag durat immun prerequisit math 
+ math fin math ii deriv 
+ prepar soa exam fm ca exam financi risk concept deriv forward futur short long posit call put option spread collar hedg arbitrag swap definit evalu basic deriv contract trade strategi prerequisit math 
+ math model fin econ option 
+ aspect theori practic option price relat topic put call pariti binomi tree arbitrag risk neutral price random walk model lognorm binomi model estim volatil black schole formula option greek market make delta hedg asian barrier compound gap exchang option prerequisit math 
+ math model fin econ adv pre thry 
+ continu math lognorm model stock price distribut asset price risk neutral valuat true valuat simul stock price mont carlo valuat geometr brownian motion sharp ratio ito s lemma black schole equat option measur behavior volatil bond price model black derman toi model prerequisit math 
+ math math mid school teacher 
+ capston consist studi fundament concept involv number oper function spatial relationship data analysi excel graph calcul modern softwar prerequisit permiss instructor 
+ math dynam system chao 
+ exampl dynam system dimension map period point stabil fix point sensit depend initi condit dimension map sink sourc saddl linear nonlinear map julia mandelbrot set chao lyapunov expon chaotic orbit basin attract fractal probabilist determinist construct fractal dimens differenti equat higher dimension linear equat period orbit limit set corequisit math math 
+ math introduct graph theori 
+ applic connect tree path cycl factor match cover vertex edg color planar graph direct graph max flow min cut theorem basic algorithm prerequisit math comp minimum grade c math math permiss instructor 
+ math combinatori geometri 
+ convex fundament theorem radon s theorem helli s theorem geometr incid geometr graph planar graph proxim graph pick s theorem distanc problem plane geometr transvers cover prerequisit math comp minimum grade c math math 
+ math analyt number theori 
+ partial summat euler maclaurin summat formula basic arithmet function valu dirichlet seri euler product meilin function prime number theorem charact prime arithmet progress basic siev method prerequisit math corequisit math 
+ math histori mathemat 
+ develop mathemat earliest time present problem studi parallel read class report prerequisit hour math cours includ math math comp permiss instructor 
+ math special problem math 
+ direct individu studi select area mathemat chosen consult instructor repeat permiss depart chair prerequisit permiss instructor 
+ math linear algebra 
+ linear transform polynomi determin direct sum decomposit diagonaliz oper ration jordan form product space spectral theorem prerequisit math 
+ math abstract algebra 
+ group homomorph ring integr domain polynomi field prerequisit math permiss instructor 
+ math intro real analysi i 
+ real number system function sequenc limit continu differenti riemann stieltj integr seri function prerequisit math 
+ math intro real analysi ii 
+ integr theori riemann lebesgu integr partial differenti implicit function theorem prerequisit math permiss instructor 
+ math complex variabl 
+ complex number analyt function cauchi riemann condit taylor laurent seri integr prerequisit math 
+ math partial diffrntl equat i 
+ laplac transform fourier seri introduct partial differenti equat prerequisit math 
+ math partial diffrntl equat ii 
+ method characterist green s function exist regular solut boundari cauchi problem prerequisit math 
+ math perturb method 
+ asymptot approxim boundari layer match asymptot expans multipl scale geometr optic approxim wkb homogen applic differenti equat prerequisit math math 
+ math senior honor seminar 
+ depth studi topic mathemat scienc emphasi individu research problem solv techniqu student write present honor thesi prerequisit open senior honor student mathemat scienc permiss instructor 
+ math topolog 
+ introductori set theori metric space topolog space continu function separ axiom separ countabl axiom connected compact prerequisit math 
+ math intro sa program 
+ sa program statement syntax flow control select summar observ comb divid updat sa dataset input tailor output custom sa built function sa macro languag program sa packag sa graph sa iml prerequisit introductori statist 
+ math intro appli statist 
+ binomi hypergeometr poisson multinomi normal distribut test hypothes chi squar test t test f test nonparametr test correl analysi credit earn appli requir mathemat scienc major student calculu background encourag math prerequisit hour mathemat level math 
+ math probabl statist 
+ probabl distribut statist method paramet estim hypothesi test comparison popul mean proport varianc analysi varianc linear model multipl regress student receiv credit math math prerequisit math math comp minimum grade c 
+ math intro probabl theori 
+ basic probabl theori random variabl expect varianc covari moment gener function binomi hypergeometr poisson geometr neg binomi uniform normal exponenti cauchi chi squar t f distribut central limit theorem function random variabl bivari margin condit distribut note student receiv credit math math prerequisit math 
+ math intro statist theori 
+ function random variabl gamma beta multinomi bivari normal distribut bay estim maximum likelihood method moment estim suffici statist unbiased confid interv hypothesi test prerequisit math 
+ math intro stat model analysi 
+ basic concept statist model analysi extens r topic includ hypothesi test mean proport varianc analysi varianc complet random design random block design latin squar design multipl comparison simpl linear model multipl regress analysi covari prerequisit math math 
+ math intro probabl model 
+ basic concept discret markov chain branch process poisson process applic model popul growth applic model spread infecti diseas prerequisit math 
+ math intro regress time ser anyl 
+ hypothesi test confid interv linear regress model examin residu calcul elast partial correl heteroscedast serial correl multicolinear linear determinist stochast time seri model stationari time seri autocorrel function diagnost check forecast arima model prerequisit math 
+ math numer analysi 
+ deriv applic comput orient numer method function approxim differenti quadratur solut ordinari differenti equat prerequisit math knowledg structur program languag 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

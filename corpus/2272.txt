@@ -1,0 +1,231 @@
+ undergradu catalog pete univers memphi 
+ undergradu catalog pete univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ pete 
+ pete physic educ teacher educ 
+ depart health sport scienc 
+ richard bloomer ph d chair 
+ room elma neal roan fieldhous 
+ pete introduct pete 
+ explor disciplin physic educ histor philosoph sociolog scientif base 
+ pete individu fit teach 
+ knowledg skill techniqu teach fit individu skill develop compet instruct techniqu teach fit school set 
+ pete ed game team sport skill 
+ knowledg skill techniqu teach educ game team sport individu skill develop compet instruct techniqu teach educ game school set 
+ pete skill comp individu sport 
+ knowledg skill techniqu teach individu sport skill individu skill develop compet instruct techniqu teach individu sport skill school set student select varieti individu sport includ limit badminton tenni golf 
+ pete ed gym movement concept 
+ knowledg skill techniqu teach educ gymnast individu skill develop compet instruct techniqu teach educ gymnast school set 
+ pete ed danc movement concept 
+ knowledg skill techniqu teach educ danc individu skill develop compet instruct techniqu teach educ danc school set 
+ pete method techniqu coach 
+ examin research practic coach individu team sport school base commun set high qualiti coach strategi skill activ resourc basic aid 
+ pete psychosoci aspect sport 
+ exss design student develop understand psycholog aspect particip sport emphasi research theoret framework relat perform enhanc enjoy sport 
+ pete except learner phy ed 
+ exss natur etiolog disabl preval children knowledg technic skill pertin design adapt physic activ program teach physic activ specif disabl 
+ pete teach phy ed health middl 
+ exss skill activ resourc materi teach element movement educ game educ gymnast physic fit youth corequisit exss 
+ pete instr strategi phy ed 
+ emphasi develop applic development instruct strategi school base physic activ set student initi profession develop portfolio pdf accept teacher educ program enrol 
+ pete hist phil aspect phy activ 
+ develop disciplin physic educ histor philosoph sociolog scientif base prerequisit upper divis stand satisfactori complet english composit requir 
+ pete curr integr learn elem pe 
+ emphasi develop implement development curriculum earli childhood elementari school physic activ set part pete instruct block fall senior year block cours taught local profession develop school corequisit pete 
+ pete curr integ learn ei pe 
+ emphasi develop implement curriculum earli childhood elementari school physic activ well set prerequisit admiss tep corequisit pete pete 
+ pete curr aspect lrng secondari ed 
+ teach strategi manag techniqu curricula plan evalu research effect physic educ teach grade part pete instruct block fall senior year block taught local profession develop school student accept teacher educ program enrol corequisit pete 
+ pete curr integ learn sec pe 
+ teach strategi manag techniqu curricula plan evalu research effect physic educ well instruct grade prerequisit admiss tep corequisit pete pete 
+ pete learner assessmnt pe 
+ emphasi assess techniqu tool resourc applic assess school base physic activ program part pete instruct block fall senior year block cours taught local profession develop school student accept teacher educ program enrol corequisit pete 
+ pete learner assess pe 
+ assess techniqu tool resourc applic assess evalu school base physic activ well program prerequisit admiss tep corequisit pete pete 
+ pete resid i practicum pe 
+ clinic teach experi physic educ well assign resid i school fall semest senior year prerequisit admiss tep coursework requir program complet corequisit pete 
+ pete resid ii seminar pe 
+ senior semest concurr resid ii requir student analyz seek solut problem encount current practic issu educ specif physic educ prerequisit pete pete corequisit pete 
+ pete intern pete commun pe 
+ culmin experi allow student opportun demonstr knowledg skill profession set prerequisit senior statu permiss advisor coordin internship aid cpr certif 
+ pete resid ii practicum pe 
+ full time plan supervis experi set student s area special synthes knowledg skill demonstr profession compet educ set prerequisit pete pete corequisit pete 
+ pete prof seminar leader pe 
+ senior seminar concurr student teach requir student analyz seek solut problem encount current practic issu educ specif physic educ integr synthes knowledg experi develop role profession educ leader student s profession develop portfolio pdp assess part student accept teacher educ program enrol corequisit student teach 
+ pete student teach pete 
+ full time plan supervis experi set student s area special synthes knowledg skill demonstr profession compet educ set prerequisit approv teacher educ director corequisit pete 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

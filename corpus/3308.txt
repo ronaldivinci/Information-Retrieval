@@ -1,0 +1,104 @@
+ ecampu ecampu staff univers memphi 
+ ecampu ecampu staff univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex sfhover function var sfel document getelementbyid nav getelementsbytagnam li var i i sfel length i sfel i onmouseov function classnam sfhover sfel i onmouseout function classnam classnam replac regexp sfhover b window attachev window attachev onload sfhover 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ ecampu 
+ announc 
+ faculti develop 
+ meet ecampu staff 
+ peopl 
+ undergradu program 
+ um onlin 
+ rodp 
+ graduat program 
+ um onlin 
+ rodp 
+ onlin student resourc 
+ step enrol 
+ onlin student orient 
+ rodp resourc 
+ start 
+ access 
+ exam proctor 
+ issu grade appeal 
+ permit 
+ format 
+ technolog requir 
+ faq 
+ onlin faculti resourc 
+ teach onlin 
+ faculti workshop 
+ format 
+ technolog requir 
+ degre program onlin 
+ form 
+ faq 
+ z list 
+ quick link 
+ ecampu home 
+ onlin degre program 
+ rodp inform 
+ rodp permit request 
+ student resourc 
+ faculti resourc 
+ uofm ecoursewar login 
+ rodp ecoursewar login 
+ featur program 
+ altern i ii licensur program 
+ hire teach altern transit licens secondari educ program offer flexibl complet educ coursework 
+ read 
+ link interest 
+ appli 
+ academ calendar 
+ fee inform 
+ financi aid 
+ graduat catalog 
+ undergradu catalog 
+ registr quick guid 
+ student affair 
+ uofm bookstor 
+ contact 
+ ecampu staff 
+ roi boweri 
+ director distanc learn 
+ innov teach learn 
+ phone 
+ rboweri memphi 
+ leonia houston 
+ instruct design 
+ innov teach learn 
+ ldfowler memphi 
+ fair josei 
+ instruct design 
+ innov teach learn 
+ kfwicker memphi 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ ecampu 
+ brister hall phone fax 
+ email 
+ particip southern region educ board rsquo s electron campu 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

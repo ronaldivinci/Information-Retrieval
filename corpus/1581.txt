@@ -1,0 +1,297 @@
+ undergradu catalog profit develop administr univers memphi 
+ undergradu catalog profit develop administr univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ profit develop administr 
+ goal guidelin person understand role nonprofit organ societi prepar organ develop administ nonprofit organ nonprofit organ includ educ scientif religi charit organ privat foundat commun base organ profession fratern associ civic social organ guidelin design serv person work work nonprofit sector employe serv commun volunt graduat enter career commun director volunt director program director nonprofit agenc 
+ object program includ studi histor cultur context nonprofit organ specif place market economi characterist person commun serv nonprofit organ legal ethic polici issu shape govern develop oper nonprofit relev skill includ manag personnel inform financ interperson commun program evalu market special topic includ fundrais philanthropi volunteer 
+ program summari 
+ gener educ hour 
+ 
+ graduat univers 
+ univers gener educ program requir student complet year american histori high school exempt credit hour histori gener educ program requir student meet histori requir 
+ b 
+ coordin studi 
+ hour 
+ core cours 
+ hour 
+ anth neighborhood develop poverti 
+ 
+ anth cultur histori american commun 
+ econ econom social issu 
+ mgmt organ manag 
+ padm public administr 
+ padm introduct nonprofit organ 
+ context cours 
+ histor context 
+ 
+ hist modern islam world 
+ hist histori jewish peopl 
+ hist african american histori 
+ hist histori american famili 
+ hist histori women america 
+ hist histori childhood america 
+ hist unit state urban histori 
+ social polit econom context 
+ cours disciplin 
+ anth urban anthropolog 
+ cju introduct crimin justic 
+ comm rhetor public controversi 
+ coun introduct counsel 
+ coun strategi crisi intervent 
+ coun alcohol drug abus counsel 
+ econ introduct macroeconom 
+ phil ethic 
+ pol state local govern 
+ pol introduct studi public polici 
+ pol urban polit 
+ pol issu urban polit 
+ soci social inequ 
+ soci racial ethnic minor soci histor approach 
+ soci sociolog poverti 
+ soci sociolog ag 
+ nonprofit work set 
+ 
+ anth anthropolog religion 
+ arth profession practic museum 
+ arth museum societi 
+ esci introduct urban plan 
+ pol urban administr 
+ sl outdoor recreat educ urban america 
+ sl area facil manag 
+ sl leisur recreat peopl disabl 
+ soci sociolog religion 
+ skill administr commun develop 
+ hour categori 
+ market fund rais 
+ 
+ fir estat plan law taxat 
+ jour public relat 
+ mktg principl market 
+ mktg servic market 
+ human resourc 
+ 
+ coun human interact 
+ mgmt human resourc manag 
+ sl organiz analysi sport leisur 
+ program evalu 
+ 
+ anth anthropolog method field research 
+ comm commun research method 
+ padm polit statist 
+ sl leisur recreat program develop 
+ soci social statist 
+ soci method social research 
+ account 
+ 
+ acct fundament account i 
+ acct fundament account ii 
+ acct cost account 
+ acct government health care profit account 
+ padm issu nonprofit administr 
+ sl financi manag sport leisur 
+ legal environ 
+ 
+ acct busi law 
+ legl legal ethic 
+ pol introduct law jurisprud 
+ sl legal ethic aspect sport leisur 
+ commun 
+ 
+ comm commun organ 
+ comm small group commun 
+ comm interraci commun 
+ comm intercultur commun 
+ engl technic profession write 
+ engl persuas write 
+ mgmt busi commun 
+ comput technolog 
+ 
+ jour visual journal 
+ mi foundat inform system 
+ sl comput applic sport leisur 
+ experienti learn internship 
+ hour hour 
+ padm administr internship 
+ univ advanc experienti learn 
+ 
+ univ internship 
+ c themat studi hour 
+ d senior project hour 
+ univ senior project complet final semest 
+ e elect 
+ chosen bring total number hour minimum upper divis hour 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

@@ -1,0 +1,223 @@
+ oir z list univers memphi 
+ oir z list univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex sfhover function var sfel document getelementbyid nav getelementsbytagnam li var i i sfel length i sfel i onmouseov function classnam sfhover sfel i onmouseout function classnam classnam replac regexp sfhover b window attachev window attachev onload sfhover 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ fact glanc 
+ dashboard 
+ enrol data 
+ report support program review 
+ enrol monitor 
+ common data set profil 
+ enrol report gener 
+ markov chain enrol project excel 
+ enrol map 
+ daili enrol tracker 
+ retent graduat data 
+ retent graduat trend pdf 
+ retent graduat stem major pdf 
+ degre report trend 
+ graduat report gener 
+ progress colleg 
+ retent map 
+ degre award tbr institut 
+ program perform account data 
+ report support program review 
+ fund formula dashboard login 
+ ependitur student credit hour pdf 
+ earn employ graduat 
+ grade distribut login 
+ faculti staff data 
+ employe factbook pdf 
+ faculti staff report gener 
+ map employe commut distanc 
+ common data set faculti pdf 
+ addit resourc inform 
+ helpdesk request 
+ staff 
+ faq glossari 
+ peer institut 
+ oir 
+ z list 
+ z list 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ 
+ applic profil program review 
+ b 
+ c 
+ class size report program review 
+ comment 
+ common data set 
+ demand report program review 
+ servic report program review 
+ credit hour product report program review 
+ d 
+ daili enrol tracker report 
+ degre award tbr institut 
+ degre report trend 
+ department summari program reivew 
+ e 
+ employe factbook 
+ enrol monitor 
+ enrol profil program review 
+ enrol project 
+ enrol report gener 
+ expenditur student credit hour 
+ f 
+ fact glanc 
+ faculti detail report program review 
+ faculti report gener 
+ freshman profil 
+ fund formula dashboard 
+ g 
+ glossari 
+ grade distribut tabl gener 
+ graduat student yield rate program review 
+ graduat report gener 
+ graduat report trend 
+ h 
+ helpdesk 
+ higher educ link 
+ histor enrol report 
+ i 
+ instruct load report program review 
+ j 
+ 
+ l 
+ lambuth profil 
+ m 
+ map employe commut distanc 
+ map enrol 
+ map retent 
+ mission 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ return top 
+ n 
+ o 
+ onlin list 
+ onlin profil 
+ p 
+ peer institut 
+ profession organ 
+ program review 
+ program summari program review 
+ q 
+ r 
+ retent graduat trend 
+ retent graduat trend stem 
+ s 
+ sete score section grade distribut tabl gener 
+ staff 
+ suggest 
+ t 
+ teach activ report program review 
+ u 
+ undergradu profil 
+ 
+ w 
+ x 
+ y 
+ z 
+ 
+ b 
+ c 
+ d 
+ e 
+ f 
+ g 
+ h 
+ i 
+ j 
+ 
+ l 
+ m 
+ n 
+ o 
+ p 
+ q 
+ r 
+ s 
+ t 
+ u 
+ 
+ w 
+ x 
+ y 
+ z 
+ return top 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ offic institut research administr build memphi tn 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

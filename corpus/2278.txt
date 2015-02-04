@@ -1,0 +1,255 @@
+ undergradu catalog icl univers memphi 
+ undergradu catalog icl univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ icl 
+ icl instruct curriculum leadership 
+ deborah lowther ph d interim chair 
+ room d e c ball hall 
+ addit cours depart offer 
+ icl workshop curriculum instruct leadership 
+ area curriculum element instruct explor activ student particip includ onlin class list specif workshop number topic repeat maximum hour credit topic s u 
+ icl special topic instruct curriculum leadership 
+ current topic area curriculum instruct level topic vari onlin class list 
+ icl principl teach 
+ research practic applic principl instruct promot effect teach facilit cognit prerequisit edpr lead 
+ icl learn math scienc 
+ focu issu mean learn scienc mathemat includ critic examin divers student popul discuss current issu educ relat mathemat scienc educ enrol limit student tiger teach program 
+ icl classroom interact 
+ focu teach learn mathemat scienc includ introduct wai curriculum technolog effect classroom set examin equiti mathemat scienc prerequisit intd icl corequisit icl 
+ icl pract secondari math scienc 
+ extend field experi involv observ teach high school mathemat scienc classroom prerequisit intd icl corequisit icl 
+ icl stdnt assess inst dec mkng 
+ examin aspect type classroom assess interest form assess subsequ assess result improv student learn prerequisit admiss tep 
+ icl special problem instruct 
+ supervis individu investig area instruct prerequisit experi teacher satisfactori evid qualifi benefit 
+ icl teach divers environ 
+ teacher candid develop knowledg skill manag total learn environ school set emphasi develop skill facilit effect teach manag techniqu sensit individu student cultur econom divers popul encourag involv parent commun member 
+ icl fndmtl urban mid grade ed 
+ teacher candid develop knowledg practic middl grade learn cognit identifi develop evalu strategi techniqu instruct sensit individu children cultur econom divers popul emphasi plan instruct assess profession develop clinic field experi addit hour requir prerequisit admiss tep 
+ icl teach mid school languag art 
+ principl techniqu materi teach languag art middl grade addit hour field experi requir prerequisit admiss tep f 
+ icl teach mid grade math 
+ instruct techniqu curriculum materi teach mathemat middl school student emphasi problem solv clinic field experi addit field hour requir prerequisit admiss tep f 
+ icl teach mid grade scienc 
+ instruct principl techniqu materi teach relationship scienc technolog societi middl grade student addit field hour requir prerequisit admiss tep f 
+ icl teach mid grade social scienc 
+ instruct strategi assess procedur relev teach social studi student middl grade emphasi address nation council social studi standard middl school student clinic field experi addit field hour requir prerequisit admiss tep f 
+ icl languag comm divers classrm 
+ instruct student typic except commun interpret speech languag assess report design instruct augment altern commun devic work nativ english speak student field hour prerequisit sped corequisit icl sped el rdng admiss tep 
+ icl profession ethic practic 
+ educ polici practic account ethic advocaci social challeng work famili commun stakehold instruct plan includ creat individu educ plan individu famili plan transit plan prerequisit sped corequisit icl sped el rdng admiss tep 
+ icl librari materl yng peop adlt 
+ evalu select book relat librari materi leisur interest curriculum young peopl adult junior high school extens read introduct select criteria bibliograph aid author illustr type literatur inform book 
+ icl indivil instrctn practicum 
+ implement instruct individu small group situat learner experienc difficulti select basic skill area requir design deliveri tutori type instruct guidanc supervisori personnel repeat maximum hour credit s u 
+ icl clinic practicum 
+ seminar particip assist classroom teacher emphasi teacher role adapt subject disciplin school curriculum prerequisit edpr lead s u 
+ icl project base instruct 
+ student master technolog project base investig mathemat scienc classroom assess improv student learn enrol limit student tiger teach program prerequisit icl corequisit icl 
+ icl pract project base instruc 
+ extend field experi involv observ teach high school mathemat scienc classroom field experi focu implement project base instruct prerequisit icl corequisit icl 
+ icl aerospac ed school 
+ aerospac content flight experi emphas classroom applic 
+ icl adv aerospac ed school 
+ theori principl practic relat histor develop aerospac emphasi civilian militari aerospac capabl util aerospac research concept spinoff instruct purpos classroom grade level prerequisit icl 
+ icl resid ii prof seminar 
+ seminar concurr resid ii focu capston assess edtpa analyz solv issu encount resid focu assist teacher candid develop expertis profession educ success complet capston assess requir prerequisit full admiss tep pass requir licensur exam corequisit icl 
+ icl student teach earli child 
+ full time plan supervis experi set student s area special provid opportun synthes knowledg skill demonstr profession compet educ set prerequisit approv teacher educ director corequisit icl s u 
+ icl clinic resid ii ec 
+ full time plan placement candid s area licensur provid opportun demonstr compet success teach student achiev capston perform assess requir success complet prerequisit admiss resid approv director teacher educ pass requir licensur exam corequisit icl 
+ icl resid ii clinic 
+ full time clinic placement candid s area licensur provid opportun demonstr profession compet success teach student achiev capston perform assess requir success complet prerequisit admiss tep pass requir licensur exam corequisit icl 
+ icl teach learner 
+ full time plan supervis experi set student s area special provid opportun synthes knowledg skill demonstr profession compet educ set prerequisit approv teacher educ director corequisit icl s u 
+ icl stdnt tchng secondari school 
+ full time plan supervis experi set student s area special provid opportun synthes knowledg skill demonstr profession compet educ set prerequisit approv teacher educ director corequisit icl s u 
+ icl student teach health 
+ full time plan supervis experi set student s area special provid opportun synthes knowledg skill demonstr profession compet educ set prerequisit approv teacher educ director corequisit icl s u 
+ icl student teach phy ed 
+ full time plan supervis experi set student s area special provid opportun synthes knowledg skill demonstr profession compet educ set prerequisit approv teacher educ director corequisit icl s u 
+ icl stdnt tchng voc home ec 
+ full time plan supervis experi set student s area special provid opportun synthes knowledg skill demonstr profession compet educ set prerequisit approv teacher educ director corequisit icl s u 
+ icl student teach music 
+ full time plan supervis experi set student s area special provid opportun synthes knowledg skill demonstr profession compet educ set prerequisit approv teacher educ director corequisit icl s u 
+ icl clinic resid ii mid grd 
+ full time clinic placement candid s area licendur provid opportun demonstr profession compet success teach student achiev capston perform assess requir success complet prerequisit admiss resid approv director teacher educ pass requir licensur exam corequisit icl 
+ icl resid i practicum 
+ depth clinic experi design provid teacher candid opportun experi aspect profession educ candid partner school entir week school multipl dai week semest prerequisit admiss tep pass praxi ii content knowledg exam corequisit work licensur area approv advisor 
+ icl academ content teach 
+ academ content area disciplin support school curriculum repeat remov deficit teacher licensur chang content 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

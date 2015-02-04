@@ -1,0 +1,320 @@
+ undergradu catalog foreign languag univers memphi 
+ undergradu catalog foreign languag univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ foreign languag 
+ depart foreign languag literatur 
+ foreign languag major b 
+ program object b foreign languag function control fundament languag skill princip languag major modern languag includ speak listen read write ancient languag includ read recit standard scholarli reconstruct pronunci abil analyz grammat structur detail b describ critic evalu cultur assumpt point view target cultur s princip languag concentr c describ interplai literatur languag histori cultur princip languag concentr 
+ univers gener educ program hour 
+ 
+ graduat univers 
+ univers gener educ program requir 
+ b colleg degre b requir hour 
+ 
+ colleg bachelor art 
+ requir addit univers gener educ program requir list 
+ c major hour 
+ success complet concentr 
+ singl languag concentr french german italian japanes latin spanish upper divis semest hour 
+ languag concentr chosen chines french german greek italian japanes latin portugues russian spanish upper divis semest hour minimum semest hour languag 
+ languag concentr chosen chines french german greek italian japanes latin portugues russian spanish languag concentr requir prior consult approv depart chair plan includ upper divis semest hour includ semest hour languag approv work languag 
+ note approv head classic section credit hour upper divis classic cours appli concentr greek latin 
+ foreign languag major minor intern busi encourag includ advanc composit convers hour cours commerc hour part major 
+ student singl languag concentr spanish span 
+ d elect 
+ elect chosen bring total number hour 
+ e foreign languag minor 
+ complet semest hour consist cours number equival foreign languag upper divis hour upper divis semest hour languag chines french german greek italian japanes latin russian spanish student place higher foreign languag placement exam complet requir minor appli retroact credit subsequ cours complet addit upper divis hour bring total number hour minor 
+ typic year french concentr sequenc 
+ freshman year 
+ engl 
+ engl 
+ math 
+ nat sci math b 
+ social behavior scienc 
+ social behavior scienc 
+ elect 
+ human 
+ fren 
+ fren 
+ semest total 
+ hr 
+ hr 
+ sophomor year 
+ comm 
+ elect 
+ elect 
+ elect 
+ natur scienc 
+ natur scienc 
+ engl 
+ fren 
+ fren 
+ ud fren 
+ semest total 
+ hr 
+ hr 
+ junior year 
+ histori 
+ histori 
+ fine art 
+ elect 
+ elect 
+ ud fren 
+ ud fren 
+ ud social scienc b 
+ ud elect 
+ elect 
+ semest total 
+ hr 
+ hr 
+ senior year 
+ ud fren 
+ ud fren 
+ ud fren 
+ ud elect 
+ elect 
+ ud elect 
+ ud elect 
+ elect 
+ ud elect 
+ semest total 
+ hr 
+ hr 
+ total hour 
+ total hour requir graduat 
+ satisfi univers gener educ program requir 
+ typic year spanish concentr sequenc 
+ freshman year 
+ engl 
+ engl 
+ math 
+ nat sci math b 
+ social behavior scienc 
+ social behavior scienc 
+ span 
+ span 
+ elect 
+ human 
+ semest total 
+ hr 
+ hr 
+ sophomor year 
+ comm 
+ ud elect 
+ fine art 
+ elect 
+ natur scienc 
+ natur scienc 
+ ud span 
+ ud span 
+ engl 
+ ud span 
+ semest total 
+ hr 
+ hr 
+ junior year 
+ histori 
+ histori 
+ ud span 
+ elect 
+ elect 
+ elect 
+ elect 
+ ud social scienc b 
+ ud elect 
+ span 
+ semest total 
+ hr 
+ hr 
+ senior year 
+ elect 
+ span 
+ span 
+ ud elect 
+ ud span 
+ ud elect 
+ ud elect 
+ elect 
+ elect 
+ semest total 
+ hr 
+ hr 
+ total hour 
+ total hour requir graduat 
+ satisfi univers gener educ program requir 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

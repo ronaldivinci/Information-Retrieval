@@ -1,0 +1,265 @@
+ undergradu catalog psycholog univers memphi 
+ undergradu catalog psycholog univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ psycholog 
+ depart psycholog 
+ psycholog major b 
+ program object b psycholog describ natur psycholog disciplin b concept languag major theori disciplin account psycholog phenomena c demonstr knowledg understand repres breadth depth select content area psycholog e describ basic characterist scienc psycholog f explain research method psychologist g design conduct basic studi address psycholog question research method h evalu appropri conclus deriv psycholog research i gener research conclus appropri base paramet research method j follow apa code ethic treatment human nonhuman particip design data collect interpret report psycholog research critic think effect l reason recogn develop defend critic argument persuas appeal m approach problem effect n describ major appli area psycholog e g clinic counsel industri organiz school health o identifi applic psycholog solv problem p articul psycholog principl explain social issu inform public polici q recogn necess ethic behavior aspect scienc practic psycholog s recogn understand import academ integr t recogn respect human divers understand psycholog explan vari popul context u assess justifi engag respect civic social global respons understand limit psycholog knowledg skill 
+ univers gener educ program hour 
+ 
+ graduat univers 
+ univers gener educ program requir 
+ b colleg degre b requir hour 
+ 
+ colleg bachelor art requir 
+ addit univers gener educ program requir list 
+ c major hour psycholog 
+ complet psyc addit major psycholog field test senior year 
+ concentr hour 
+ gener psycholog complet psyc seri addit upper divis hour psyc cours 
+ b behavior neurosci seri thesi addit upper divis hour student biol chem 
+ c cognit scienc complet psyc psyc cours psyc psyc addit student complet cours psycholog phil comp engl math student addit upper divis hour psyc cours bring psyc total hour 
+ d elect 
+ elect chosen bring total number hour 
+ e honor program 
+ psycholog honor program opportun select psycholog major enrich learn experi honor cours independ studi senior thesi extracurricular learn experi program requir minimum credit hour honor work psycholog student complet program cumul grade point averag earn degre includ distinct honor psycholog contact depart honor coordin detail inform psycholog honor program assist appli psycholog major elig particip univers honor program bulletin psycholog honor cours count requir univers honor program 
+ psycholog honor class honor cours open student good stand psycholog honor program univers honor program honor cours psycholog includ psyc gener psycholog honor student enrol year meet requir univers honor program instructor permiss period offer honor section cours psycholog curriculum special honor cours honor special topic direct research senior thesi 
+ psycholog honor contract student instructor psycholog negoti honor contract instructor student agre addit honor level requir 
+ psycholog honor senior thesi student psycholog faculti member serv advis psyc honor senior thesi typic complet student s semest enrol psyc student complet semest psyc direct research faculti advis overse work honor thesi student special behavior neurosci choos enrol psyc direct research behavior neurosci psyc senior thesi behavior neurosci complet thesi present write defend oral faculti committe 
+ psycholog minor 
+ complet semest hour psycholog includ psyc equival addit upper divis hour 
+ typic year psycholog sequenc 
+ freshman year 
+ engl 
+ engl 
+ math 
+ nat sci math b 
+ psyc 
+ psyc 
+ elect 
+ human 
+ foreign languag b 
+ foreign languag b 
+ semest total 
+ hr 
+ hr 
+ sophomor year 
+ psyc 
+ psyc xx 
+ engl 
+ comm 
+ psyc xx 
+ ud elect 
+ natur scienc 
+ natur scienc 
+ elect 
+ histori 
+ semest total 
+ hr 
+ hr 
+ junior year 
+ fine art 
+ histori 
+ psyc xx 
+ ud psyc elect 
+ elect 
+ ud elect 
+ elect 
+ social behavior scienc 
+ ud psyc elect 
+ elect 
+ semest total 
+ hr 
+ hr 
+ senior year 
+ ud psyc elect 
+ elect 
+ elect 
+ ud psyc elect 
+ ud psyc elect 
+ elect 
+ elect 
+ elect 
+ ud human b 
+ ud elect 
+ semest total 
+ hr 
+ hr 
+ total hour 
+ total hour requir graduat 
+ satisfi univers gener educ program requir 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

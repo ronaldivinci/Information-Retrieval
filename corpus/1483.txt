@@ -1,0 +1,95 @@
+ colleg commun fine art ccfa univers memphi 
+ colleg commun fine art ccfa univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ futur student 
+ undergradu student 
+ graduat student 
+ faculti staff 
+ alumni friend 
+ depart school 
+ center 
+ museum galleri 
+ affili partner 
+ scholarship award 
+ ccfa 
+ support ccfa 
+ new event 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ ccfa 
+ colleg commun fine art ccfa hub excel innov engag research educ practic fine perform art field architectur commun disciplin creativ emerg draw perspect knowledg interdisciplinari framework 
+ creativ individu encourag respect ccfa part divers vibrant learn commun help achiev dream creativ profession 
+ ccfa home 
+ rudi e scheidt school music 
+ depart architectur 
+ depart art 
+ depart commun 
+ depart journal 
+ 
+ depart theatr danc 
+ part academ commun 
+ art museum univers memphi 
+ amum 
+ pla i n e galleri 
+ institut egyptian art archaeolog 
+ ieaa 
+ center multimedia art 
+ cma 
+ center sustain design csd 
+ daili helmsman 
+ teen appeal 
+ 
+ wumr u fm 
+ meet dean 
+ dean s offic 
+ histori 
+ dean s offic organiz chart 
+ ccfa organiz chart 
+ contact 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ colleg commun fine art 
+ contact 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

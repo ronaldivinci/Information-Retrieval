@@ -1,0 +1,415 @@
+ graduat catalog comput scienc univers memphi 
+ graduat catalog comput scienc univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ introduct 
+ graduat school 
+ academ servic 
+ admiss regul 
+ academ regul 
+ appeal procedur 
+ degre program 
+ cours 
+ expens 
+ graduat assistantship 
+ fellowship 
+ graduat faculti 
+ member 
+ research facil 
+ minimum degre 
+ requir 
+ resid classif 
+ catalog archiv 
+ univers 
+ administr 
+ univers calendar 
+ quick link 
+ outlook 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ comput scienc 
+ sajjan g shiva phd 
+ chair 
+ room dunn hall 
+ e mail 
+ sshiva memphi 
+ king ip lin phd 
+ coordin graduat studi 
+ e mail 
+ davidlin memphi 
+ e mail 
+ info cs memphi 
+ i 
+ depart comput scienc 
+ offer master scienc comput scienc appli comput scienc phd degre comput scienc offer graduat certif inform assur 
+ graduat student compli gener requir graduat school 
+ admiss regul 
+ academ regul 
+ 
+ minimum degre requir 
+ program requir degre pursu 
+ ii master scienc comput scienc 
+ admiss requir 
+ gre score requir import factor admiss 
+ letter recommend 
+ undergradu degre minimum gpa scale 
+ minimum score paper base toefl internet base toefl student nativ languag english 
+ prerequisit 
+ year credit hour calculu semest credit hour linear algebra student calculu linear algebra prerequisit consid individu basi admit correct defici semest 
+ satisfactori complet cours equival comp math cours fulfil degre requir 
+ program requir 
+ satisfactori complet credit hour graduat work approv depart 
+ credit hour level includ 
+ core requir comp cours complet grade b prior complet hour credit program approv student s advisor 
+ research method comput scienc comp complet semest 
+ project thesi comp comp note student choos thesi option familiar 
+ thesi dissert prepar guid 
+ start write 
+ credit hour combin comp hour work 
+ comp accept degre 
+ obtain pass grade comprehens examin approv depart 
+ iii phd degre comput scienc 
+ admiss requir 
+ gre score requir import factor admiss 
+ letter recommend 
+ undergradu degre disciplin minimum gpa scale equival prepar 
+ score paper base toefl internet base toefl student nativ languag english 
+ program requir 
+ satisfactori complet coursework requir 
+ student approv master degre complet credit hour subject rule 
+ coursework complet 
+ research method comput scienc comp complet semest 
+ credit hour dissert comp note student familiar thesi dissert prepar guid start write 
+ credit complet level 
+ credit independ studi comp includ 
+ student approv master degre complet credit hour satisfi rule 
+ coursework complet 
+ core requir comp student obtain grade b cours cours complet credit student earn program 
+ research method comput scienc comp complet semest 
+ credit hour dissert comp note student familiar thesi dissert prepar guid start write 
+ credit hour complet cours level comp 
+ credit hour complet level cours 
+ credit hour independ studi comp includ 
+ student request transfer graduat program evalu graduat program committe designe submit applic student s semest program determin number credit transfer complet requir number credit hour transfer limit graduat school 
+ satisfactori complet examin 
+ qualifi examin satisfactori complet core requir deem pass qualifi examin student approv master degre satisfi core requir final exam core obtain pass mark equival obtain b grade maximum attempt allow core credit hour enter program student approv master degre 
+ comprehens examin evalu committe compos department univers repres present accept dissert propos 
+ final examin evalu committe compos department univers repres complet accept dissert 
+ iv graduat certif inform assur gcia 
+ certif program highlight import aspect inform secur assur technolog univers memphi design dh nsa nation center academ excel inform assur ia cours accredit committe nation secur system comput secur standard secur standard minimum knowledg skill abil requir fulfil duti inform system secur profession senior system manag system administr ia certif program administ comput scienc depart cours taught depart colleg graduat student meet admiss requir elig join certif program click 
+ 
+ view gain employ data 
+ object certif program 
+ provid knowledg contemporari histor trust comput system oper theoret design standpoint 
+ detail discuss secur specif hardwar softwar methodolog 
+ certif program meet nation standard prepar student serv state countri critic area vulner inform infrastructur 
+ educ student ethic manag polici legal issu requir field inform assur 
+ admiss requir 
+ certif program inform assur pursu concurr graduat program univers student admit graduat program u m join certif program appli student submit applic form 
+ degre graduat student pursu certif program studi profession bs comput scienc comput engin close relat field bachelor s degre field work inform technolog field year appli program applic requir submit page statement educ work experi comput field includ background comput secur addit requir student appli program univers 
+ gre score requir degre student admiss ia certif program accept certif program impli accept ms program comput scienc 
+ program requir 
+ certif program requir complet semest credit hour list major ia cours list elect 
+ major ia cours 
+ comp comput secur 
+ comp mi cryptographi data secur 
+ comp network internet secur 
+ note comput scienc student prerequisit comp network inform assur equival comp cours 
+ ia elect 
+ comp system administr 
+ comp cyber ethic 
+ comp comput forens 
+ law cyber law 
+ cju corpor white collar crime 
+ retent 
+ order continu program student maintain gpa 
+ graduat 
+ obtain certif student complet mention cours major cours elect averag grade b higher total credit 
+ note 
+ credit hour certif program appli ms phd degre comput scienc 
+ acceler b s m s program comput scienc 
+ program design outstand undergradu student complet b s m s program comput scienc student admit program carefulli tailor program coursework m s program complet b s degre care plan work undergradu graduat coordin graduat b s m s degre year 
+ student appli graduat school combin senior statu graduat cours comput scienc continu program b s student appli full admiss graduat school admit comput scienc master s program 
+ hour graduat coursework appli program list cours appli comput scienc depart 
+ comput scienc comp 
+ addit cours depart offer special topic cours 
+ comp topic comput scienc 
+ topic vari announc onlin list prerequisit permiss instructor 
+ comp advanc topic comput scienc 
+ advanc topic develop comput scienc repeat permiss prerequisit permiss instructor 
+ comp comput program 
+ basic concept comput program incorpor object orient concept variabl flow control statement arrai list debug test note fulfil requir comput scienc major comput scienc minor prerequisit math math math permiss instructor 
+ comp web design develop 
+ comp intro java program 
+ basic structur program syntax internet featur client server environ applet servlet advanc java featur user interfac jfc widget event swing databas applic secur thread note fulfil requir comput scienc major comput scienc minor prerequisit comp permiss instructor 
+ comp desgn anli algorithm 
+ asymptot behavior program basic paradigm algorithm design greedi divid conquer dynam program analysi effici optim repres algorithm includ graph pattern match numer random approxim algorithm approach bound analysi basic parallel algorithm note comput scienc major fulfil degre requir prerequisit comp 
+ comp program languag 
+ comp intro compil 
+ finit state recogn lexic scanner symbol tabl context free method recurs descent ll preced lr slr languag translat gener improv machin independ code inherit synthes attribut syntax direct translat schema prerequisit comp 
+ comp softwar engin 
+ scope softwar engin softwar life cycl model softwar process team organ requir analysi design methodolog metric inspect test strategi mainten softwar risk profession ethic respons prerequisit comp 
+ comp databas process design 
+ databas process architectur conceptu data model data design logic data model relat model oper algebra queri languag sql normal schema refin basic index techniqu hash b tree prerequisit comp permiss instructor 
+ comp intro comput graphic 
+ characterist graphic i o devic d pictur scale translat rotat window draw histogram simpl map block diagram flowchart curv line precis quantiz interpol plot equat d pictur scale translat rotat project hidden line problem euclidean geometri anim prerequisit comp 
+ comp program unix 
+ fundament unix system environ includ file system shell concept program editor vi emac filter sed awk grep sort util yacc lex mail facil commun softwar c program unix interfac x window system note comput scienc major fulfil degre requir prerequisit comp permiss instructor 
+ comp oper system 
+ hierarchi storag devic i o buffer interrupt channel multi program processor job schedul memori manag page segment virtual memori manag asynchron process interrupt procedur call process state automat switch instruct semaphor concurr secur recoveri procedur note comput scienc major fulfil degre requir prerequisit comp comp eec 
+ comp system administr 
+ review unix oper system principl principl practic system administr manag network file system account manag os instal startup shutdown boot backup restor system administr tool web administr duti respons system administr prerequisit comp comp permiss instructor 
+ comp web servic internet 
+ comp wireless mobil comp 
+ internet architectur design ipv ipv rout algorithm tcp congest control peer peer applic wireless lan mobil ip mobil ad hoc network wireless sensor network prerequisit comp 
+ comp comput secur 
+ comput secur confidenti integr avail method protocol cryptographi digit signatur authent bit commit secur comput program databas oper system secur commun secur channel public kei infrastructur certif digit evid forens tool monitor respons legal ethic issu risk manag secur administr prerequisit comp permiss instructor 
+ comp model comput 
+ comput model basi understand analysi program comput complex machin model finit state stack ture machin linguist model grammar lambda calculu predic calculi biolog inspir model e g neural net genet algorithm unsolv univers decid feasibl note comput scienc major fulfil degre requir prerequisit comp comp permiss instructor 
+ comp intro artifici intlg 
+ eec fundament program lisp central idea artifici intellig includ heurist search problem solv slot filler structur knowledg represent prerequisit comp permiss instructor 
+ comp expert system 
+ eec fundament program prolog central idea expert system develop includ knowledg represent control structur tool knowledg acquisit knowledg engin prerequisit comp comp permiss instructor 
+ comp data visual 
+ eec terminolog methodolog applic data visual method visual data varieti engin scientif field includ static time vari data method gener surfac volum visual prerequisit eec comp permiss instructor 
+ comp ind studi comput sci 
+ direct individu studi select area comput scienc repeat permiss semest hour prerequisit permiss instructor 
+ comp internshp scienc 
+ practic experi comput scienc student government privat organ project approv supervis depart faculti academ credit grant certif cooper agenc accept supervis faculti written report repeat total semest hour credit prerequisit permiss instructor 
+ comp fndtn softwar engr 
+ eec cover project manag unifi process softwar disciplin requir analysi design implement test unifi model languag map design code student work team develop signific softwar system prerequisit comp permiss instructor 
+ comp compil design 
+ translat comput sourc languag includ compil interpret scan code gener arithmet boolean express arrai condit iter statement recurs nonrecurs compil techniqu construct autom compil sourc languag form context free grammar target form action perform rule grammar satisfi prerequisit comp 
+ comp softwar dev proc model 
+ review tradit softwar develop process model unifi process agil methodolog role custom combin process model process improv matur model person team softwar process model prerequisit comp permiss instructor 
+ comp softwar dev mthdlgy 
+ comp program comprehens 
+ cognit mental model peopl learn program peopl understand exist larg softwar system softwar environ assist softwar develop build maintain evolv softwar system visual softwar system aid program comprehens prerequisit comp permiss instructor 
+ comp topic softwar engr 
+ theoret practic issu softwar develop repeat maximum credit hour permiss depart prerequisit comp permiss instructor 
+ comp comput info societi 
+ basic inform technolog concept product applic includ internet cybersecur legal ethic issu softwar develop middlewar context specif applic area practic import note major hold bs comput scienc fulfil degre requir prerequisit familiar comput area applic comp permiss instructor 
+ comp concept appl comp ag 
+ ba survei concept critic typic applic area practic import topic contemporari interest includ algorithm complex oper system network neural net evolutionari algorithm note major hold bs comput scienc fulfil degre requir prerequisit familiar comput area applic comp permiss instructor 
+ comp adv electr commerc 
+ ba advanc concept strategi ec includ implement platform multimedia integr human comput interact ethic issu impact ec forc technolog advanc consum behavior chang natur busi world note comput scienc major fulfil degre requir prerequisit comp permiss instructor 
+ comp databas system 
+ review relat model queri process optim physic databas design tune transact process concurr control crash recoveri databas buffer manag databas secur prerequisit comp permiss instructor 
+ comp adv databas system 
+ advanc data model object orient object relat databas index complex data advanc transact process line analyt process data wareh distribut databas process prerequisit comp permiss instructor 
+ comp topic databas mgmt sy 
+ advanc current research topic databas inform manag emphasi nontradit data applic prerequisit comp permiss instructor 
+ comp topic data mine 
+ approach data mine knowledg discoveri graphic statist combinatori heurist classif cluster time seri analysi spatial data mine data mine applic prerequisit comp permiss instructor 
+ comp cryptgrphi data securti 
+ mi ancient modern cryptolog cipher secur problem comput basic encrypt decrypt public kei cryptographi notion secur comput environ encrypt protocol secur program oss data base pc network commun legal ethic human factor comput secur prerequisit permiss instructor math recommend 
+ comp comput forens 
+ societ legal impact comput activ comput crime intellectu properti privaci issu legal code risk vulner countermeasur method standard extract preserv deposit legal evid court law prerequisit comp equival permiss instructor 
+ comp inform retriev web search 
+ comput aspect algorithm techniqu inform retriev larg collect document major topic includ ad hoc retriev text process classic model retriev term weight scheme queri oper web search text categor text classif prerequisit comp comp permiss insructor 
+ comp method comp applic 
+ comp oper distrib sy 
+ overview oper system architectur central distribut system storag devic file system process manag schedul synchron interprocess commun secur case studi select oper system prerequisit comp permiss instructor 
+ comp oper system 
+ comp function structur design paramet comput oper system time share multiprogram multiprocess consider actual oper system design methodolog evalu techniqu prerequisit comp 
+ comp parallel comput 
+ introduct parallel distribut comput aspect parallel program includ architectur commun algorithm perform program distribut comput architectur client server corba synchron replic distribut file system benchmark applic prerequisit comp permiss instructor 
+ comp topic distrib computng 
+ introduct emerg topic distribut comput heterogen comput middlewar internet world wide web distribut cach coher problem wireless comput wearabl devic avatar comput applic distribut comput e commerc field prerequisit comp permiss instructor 
+ comp evolutionri comput 
+ comput implement biolog analog genet algorithm genet program embryon evolutionari engin represent fit function fit landscap automat defin function applic optim machin learn softwar develop prerequisit comp permiss instructor 
+ comp molecular comput 
+ mmc basic cell biologi genet dna structur enzym replic translat feasibl dna base solut hard comput problem issu design molecular comput foundat nanotechnolog prerequisit comp permiss instructor 
+ comp algorithm comp biol bioinform 
+ algorithm problem aris molecular biologi sequenc match align gene find sequenc assembl phylogeni structur predict internet resourc statist analysi dna rna protein sequenc prerequisit comp permiss instructor 
+ comp adv comput network 
+ internet architectur layer intra domain inter domain rout protocol congest control network qo peer peer network overlai network wireless sensor network prerequisit comp 
+ comp network model perf analysi 
+ mathemat model network problem prove correct network algorithm appli optim techniqu solv network problem deriv determinist bound perform approxim factor hard network system deriv probabilist guarante perform network system prerequisit comp 
+ comp network internet secrti 
+ concept network secur survei secur softwar packag secur java intrus detect system current secur issu internet electron commerc prerequisit comp permiss instructor 
+ comp cognit scienc sem 
+ systemat studi current topic cognit scienc student requir present prepar research paper project hour appli ms comput scienc concentr prerequisit permiss instructor 
+ comp complex system sem 
+ systemat studi inform process broadli constru natur artifici occur complex system interact encount dynam neural biolog social evolutionari cyberspati system prerequisit comp permiss instructor 
+ comp human comptr interact 
+ fact theori issu human sensat percept interact develop ergonom human comput interfac interact platform develop prerequisit comp equival permiss instructor 
+ comp topic discret modelng 
+ applic comput model problem solv natur languag process decis make pattern recognit imag process phenomena physic chemistri biologi prerequisit comp permiss instructor 
+ comp foundat comput 
+ review basic model comput complex measur mode complex analys logic experiment averag case analysi algorithm inform complex applic code determinist stochast method data analysi compact hypothesi test estim prerequisit comp permiss instructor 
+ comp algorithm prob solv 
+ cover algorithm problem techniqu design emphas problem solv implement skill topic includ advanc data structur graph algorithm string match network flow dynam program random algorithm prerequisit comp permiss instructor 
+ comp advanc topic algorithm 
+ advanc method data structur sequenti algorithm includ amort analysi backtrack branch bound heurist random algorithm derandom approxim approxim basic parallel model algorithm includ sort search numer symbol probabilist algorithm prerequisit comp permiss instructor 
+ comp topic algorithm 
+ develop practic issu algorithm data structur prerequisit comp permiss instructor 
+ comp combinatori optimiztn 
+ comput complex reduct oracl np complet basic problem convex set euclidean space pivot ellipsoid basi reduct method optim graph match stabl set polytop algorithm perfect graph prerequisit comp comp permiss instructor 
+ comp artifici intellig 
+ eec central issu artifici intellig includ game plai plan machin learn common sens reason percept action implement lisp prerequisit comp 
+ comp neural network 
+ eec learn algorithm multilay perceptron squar backpropag variant cascad correl supervis learn algorithm unsupervis method includ hebbian competit reinforc learn applic associ memori combinatori optim compon analysi function approxim pattern classif theori neurodynam includ equilibrium stabil comput power prerequisit comp permiss instructor 
+ comp comp intellig 
+ dynam system perspect intellig comput system analysi strongli biolog motiv includ hybrid fuzzi neuro system emerg chao comput compon automat gener knowledg comput system prerequisit comp permiss instructor 
+ comp topic neurocmpt neural netwk 
+ introduc advanc concept feed model recurr architectur hierarchi model massiv reentrant connect fix point converg limit cycl chaotic attractor includ spatio tempor encod style brain design principl goal orient adapt system prerequisit comp permiss instructor 
+ comp control auto agent 
+ explor current applic nontradit control method design autonom agent hardwar softwar capabl oper unusu complex environ subsumpt architectur adapt fuzzi system softwar agent learn action select paradigm prerequisit comp permiss instructor 
+ comp knowledg rep reason 
+ focus long stand issu knowledg represent includ ontolog knowledg structur repres event action time space geometri common sens knowledg student complet project declar languag prerequisit comp permiss instructor 
+ comp natur lang processng 
+ psyc comput aspect algorithm techniqu human languag process topic includ lexic analysi syntact pars semant word sens disambigu logic form dialog pragmat applic includ question answer inform extract prerequisit comp permiss instructor 
+ comp pci algrthm mach visn 
+ imag format sens vision system basic algorithm process continu discret imag edg detect shape detect bright light shade color reflect map stereoscop system pattern classif represent problem basic concept applic comput geometri passiv navig motion plan prerequisit comp permiss instructor 
+ comp cyber ethic 
+ issu concept framework cyber ethic privaci intellectu properti profession code ethic profession practic softwar develop oblig stakehold freedom speech internet case studi ethic tradeoff technic decis prerequisit hour graduat studi permiss instructor 
+ comp ind studi comp sci 
+ direct independ problem research program design write document area select student approv advis supervis staff member repeat permiss prerequisit permiss instructor 
+ comp research method comp sci 
+ overview research method comput scienc read write research paper comput scienc present skill technic present softwar tool research comput scienc note open comput scienc major 
+ comp sem teach re consult 
+ tradit set master student develop skill area teach research consult requir graduat assist depart note comput scienc major fulfil degre requir 
+ comp capston project 
+ research implement specif project supervis faculti member liaison commerc industri prerequisit hour graduat credit permiss project advisor 
+ comp research seminar 
+ research specif project supervis faculti member possibl liaison commerc industri section class design special area prerequisit permiss project advisor grade f ip 
+ comp thesi 
+ grade s u ip 
+ comp fndtn softwar engr 
+ eec cover project manag unifi process softwar disciplin requir analysi design implement test unifi model languag design pattern map design code student work team develop signific softwar system prerequisit comp permiss instructor 
+ comp compil design 
+ translat comput sourc languag includ compil interpret scan code gener arithmet boolean express arrai condit iter statement recurs nonrecurs compil techniqu construct autom compil sourc languag form context free grammar target form action perform rule grammar satisfi prerequisit comp 
+ comp softwar dev proc model 
+ develop process matur model process improv metric process product estim manag mainten qualiti assur person team softwar process model prerequisit comp permiss instructor 
+ comp softwar dev mthdlgy 
+ comp program comprehens 
+ cognit mental model peopl learn program peopl understand exist larg softwar system softwar environ assist softwar develop build maintain evolv softwar system visual softwar system aid program comprehens prerequisit comp permiss instructor 
+ comp topic softwar engr 
+ theoret practic issu softwar develop repeat maximum credit hour permiss depart prerequisit comp permiss instructor 
+ comp adv databas system 
+ advanc data model object orient object relat databas index complex data advanc transact process line analyt process data wareh distribut databas process prerequisit comp permiss instructor 
+ comp topic databas mgmt sy 
+ advanc current research topic databas inform manag emphasi nontradit data applic prerequisit comp permiss instructor 
+ comp topic data mine 
+ approach data mine knowledg discoveri graphic statist combinatori heurist classif cluster time seri analysi spatial data mine data mine applic prerequisit comp permiss instructor 
+ comp cryptgrphi data securti 
+ mi ancient modern cryptolog cipher secur problem comput basic encrypt decrypt public kei cryptographi notion secur comput environ encrypt protocol secur program oss data base pc network commun legal ethic human factor comput secur prerequisit permiss instructor math recommend 
+ comp inform retriev web search 
+ comput aspect algorithm techniqu inform retriev larg collect document major topic includ ad hoc retriev text process classic model retriev term weight scheme queri oper web search text categor text classif prerequisit comp comp permiss insructor 
+ comp oper distrib sy 
+ overview oper system architectur central distribut system storag devic file system process manag schedul synchron interprocess commun secur case studi select oper system prerequisit comp permiss instructor 
+ comp oper system 
+ comp function structur design paramet comput oper system time share multiprogram multiprocess consider actual oper system design methodolog evalu techniqu prerequisit comp 
+ comp parallel comput 
+ introduct parallel distribut comput aspect parallel program includ architectur commun algorithm perform program distribut comput architectur client server corba synchron replic distribut file system benchmark applic prerequisit comp permiss instructor 
+ comp topic distrib computng 
+ introduct emerg topic distribut comput heterogen comput middlewar internet world wide web distribut cach coher problem wireless comput wearabl devic avatar comput applic distribut comput e commerc field prerequisit comp permiss instructor 
+ comp evolutionri comput 
+ comput implement biolog analog genet algorithm genet program embryon evolutionari engin represent fit function fit landscap automat defin function applic optim machin learn softwar develop prerequisit comp permiss instructor 
+ comp molecular comput 
+ mmc basic cell biologi genet dna structur enzym replic translat feasibl dna base solut hard comput problem issu design molecular comput foundat nanotechnolog prerequisit comp permiss instructor 
+ comp algorithm comp biol bioinform 
+ algorithm problem aris molecular biologi sequenc match align gene find sequenc assembl phylogeni structur predict internet resourc statist analysi dna rna protein sequenc prerequisit comp permiss instructor 
+ comp adv comput network 
+ internet architectur layer intra domain inter domain rout protocol congest control network qo peer peer network overlai network wireless sensor network prerequisit comp 
+ comp ntwrk dsgn perf anli 
+ mathemat model network problem prove correct network algorithm appli optim techniqu solv network problem deriv determinist bound perform approxim factor hard network system deriv probabilist guarante perform network system prerequisit comp 
+ comp network internet secrti 
+ concept network secur survei secur softwar packag secur java intrus detect system current secur issu internet electron commerc prerequisit comp permiss instructor 
+ comp cognit scienc sem 
+ systemat studi current topic cognit scienc student requir present prepar research paper project hour appli ms comput scienc concentr prerequisit permiss instructor 
+ comp complex system sem 
+ systemat studi inform process broadli constru natur artifici occur complex system interact encount dynam neural biolog social evolutionari cyberspati system prerequisit comp permiss instructor 
+ comp human comptr interact 
+ fact theori issu human sensat percept interact develop ergonom human comput interfac interact platform develop prerequisit comp equival permiss instructor 
+ comp topci discret modelng 
+ applic comput model problem solv natur languag process decis make pattern recognit imag process phenomena physic chemistri biologi prerequisit comp permiss instructor 
+ comp foundat comput 
+ review basic model comput complex measur mode complex analys logic experiment averag case analysi algorithm inform complex applic code determinist stochast method data analysi compact hypothesi test estim prerequisit comp permiss instructor 
+ comp algorithm prob solv 
+ cover algorithm problem techniqu design emphas problem solv implement skill topic includ advanc data structur graph algorithm string match network flow dynam program random algorithm prerequisit comp permiss instructor 
+ comp advanc topic algorithm 
+ advanc method data structur sequenti algorithm includ amort analysi backtrack branch bound heurist random algorithm derandom approxim approxim basic parallel model algorithm includ sort search numer symbol probabilist algorithm prerequisit comp permiss instructor 
+ comp topic algorithm 
+ develop practic issu algorithm data structur prerequisit comp permiss instructor 
+ comp combinatori optimiztn 
+ comput complex reduct oracl np complet basic problem convex set euclidean space pivot ellipsoid basi reduct method optim graph match stabl set polytop algorithm perfect graph prerequisit comp comp permiss instructor 
+ comp artifici intellig 
+ eec central issu artifici intellig includ game plai plan machin learn common sens reason percept action implement lisp prerequisit comp 
+ comp neural network 
+ eec learn algorithm multilay perceptron squar backpropag variant cascad correl supervis learn algorithm unsupervis method includ hebbian competit reinforc learn applic associ memori combinatori optim compon analysi function approxim pattern classif theori neurodynam includ equilibrium stabil comput power prerequisit comp permiss instructor 
+ comp comp intellig 
+ dynam system perspect intellig comput system analysi strongli biolog motiv includ hybrid fuzzi neuro system emerg chao comput compon automat gener knowledg comput system prerequisit comp permiss instructor 
+ comp topic neurocmpt neural netwk 
+ introduc advanc concept feed model recurr architectur hierarchi model massiv reentrant connect fix point converg limit cycl chaotic attractor includ spatio tempor encod style brain design principl goal orient adapt system prerequisit comp permiss instructor 
+ comp control auto agent 
+ explor current applic nontradit control method design autonom agent hardwar softwar capabl oper unusu complex environ subsumpt architectur adapt fuzzi system softwar agent learn action select paradigm prerequisit comp permiss instructor 
+ comp knowledg rep reason 
+ focus long stand issu knowledg represent includ ontolog knowledg structur repres event action time space geometri common sens knowledg student complet project declar languag prerequisit comp permiss instructor 
+ comp natur lang processng 
+ psyc comput aspect algorithm techniqu human languag process topic includ lexic analysi syntact pars semant word sens disambigu logic form dialog pragmat applic includ question answer inform extract prerequisit comp permiss instructor 
+ comp pci algrthm mach visn 
+ imag format sens vision system basic algorithm process continu discret imag edg detect shape detect bright light shade color reflect map stereoscop system pattern classif represent problem basic concept applic comput geometri passiv navig motion plan prerequisit comp permiss instructor 
+ comp ind studi comp sci 
+ direct independ problem research program design write document area select student approv advis supervis staff member repeat permiss prerequisit permiss instructor 
+ comp sem teach re consult 
+ tradit set master student develop skill area teach research consult requir graduat assist depart note comput scienc major fulfil degre requir 
+ comp electrn commerc prjct 
+ research develop specif applic project joint supervis faculti liaison s commerc industri profession societ organ prerequisist complet hour requir graduat program 
+ comp research seminar 
+ research specif project supervis faculti member possibl liaison commerc industri section class design special area prerequisit permiss project advisor grade f ip 
+ comp dissert 
+ independ research phd degre grade s u ip 
+ graduat school 
+ administr build 
+ memphi tn 
+ phone 
+ fax 
+ graduat admiss 
+ wilder tower 
+ memphi tn 
+ phone 
+ fax 
+ u m white page 
+ campu map 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

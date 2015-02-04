@@ -1,0 +1,2 @@
+1:http://www.memphis.edu
+2:http://www.memphis.edu/directions.htm

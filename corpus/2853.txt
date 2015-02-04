@@ -1,0 +1,110 @@
+ cecil c humphrei school law technolog univers memphi 
+ cecil c humphrei school law technolog univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ futur student 
+ current student 
+ faculti staff 
+ alumni friend 
+ u memphi law 
+ experienti learn 
+ librari technolog 
+ career servic 
+ support u memphi law 
+ new event 
+ z list 
+ univers memphi 
+ cecil c humphrei 
+ school law 
+ north front street 
+ memphi tn 
+ fax 
+ quick link 
+ outlook 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ cdata imag src share share rootsit imag applynow bw jpg 
+ cdata imag src share share rootsit imag default background jpg 
+ cdata imag src share share rootsit imag portal bw jpg 
+ technolog 
+ univers technolog resourc 
+ u m student staff faculti includ law student law build main campu itd resourc page link technolog includ ident manag e mail wireless print univers resourc highlight law student 
+ mymemphi 
+ portal spectrum bring univers s technolog resourc place mymemphi portal person inform displai user user custom inform 
+ iam ident manag websit 
+ student staff faculti manag comput account password displai 
+ iprint kiosk 
+ locat campu student staff faculti print laptop iprint kiosk list iprint locat visit 
+ technolog resourc locat 
+ iprint kiosk law build locat lab room instruct 
+ instal iprint 
+ wireless network safe connect access 
+ connect univers wireless portabl technolog devic includ laptop student staff faculti regist portabl technolog devic univers s wireless network anytim 
+ start email 
+ univers memphi cloud base microsoft live system 
+ email access web campu student staff faculti gb mailbox system 
+ desk 
+ staff answer technolog relat question hour dai dai week exclud univers holidai call assist 
+ law student access law build classroom wireless projector screen law librari hous comput lab room westlaw lexi printer student 
+ function gosearch var searchstr document getelementbyid target document getelementbyid searchloc var searchsit document getelementbyid encorebas var searchurl searchsit searchstr window locat href searchurl function submitent myfield e var keycod window event keycod window event keycod e keycod e return true keycod gosearch return fals return true 
+ search um law librari catalog 
+ search option 
+ law databas 
+ um databas 
+ journal titl 
+ catalog classic 
+ l surviv guid 
+ student servic 
+ research guid 
+ illiad interlibrari loan 
+ map 
+ technolog 
+ staff 
+ librari account 
+ proxi borrow form law faculti 
+ perc person research consult form law student 
+ inform technolog staff 
+ andrew hugh 
+ audio visual servic coordin 
+ offic law 
+ send mail 
+ tahugh memphi 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

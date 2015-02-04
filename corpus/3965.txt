@@ -1,0 +1,75 @@
+ resid life centenni place univers memphi 
+ resid life centenni place univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ appli hous 
+ resid hall 
+ child care servic 
+ resnet technic support 
+ soror hous 
+ live learn 
+ tiger dine 
+ lambuth dine 
+ lambuth campu 
+ confer hous 
+ hous 
+ meet staff 
+ reslif stream video 
+ enter hous mainten request 
+ resid life student employ 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ cdata imag src share share rootsit imag applynow bw jpg 
+ cdata imag src share share rootsit imag default background jpg 
+ cdata imag src share share rootsit imag portal bw jpg 
+ centenni place 
+ univers memphi proudli present centenni place resid hall million hall featur student apart singl doubl occup room modern design boast plenti green space privat studi area lot room collabor project entir structur exce tennesse s sustain guidelin lessen global footprint student bodi project complet spring 
+ intention empti ifram xsl 
+ centenni place come fall 
+ bedroom apart 
+ person room 
+ new announc 
+ resid hall groundbreak 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ resid life dine servic richardson tower phone fax 
+ email reslif memphi 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

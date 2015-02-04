@@ -1,0 +1,86 @@
+ bluelin survei 
+ bluelin survei 
+ content text align left margin px auto pad px border width px font famili trebuchet ms arial helvetica san serif font size pt umlogo float left clear width px pad bottom px tplogo float pad bottom px bluelinelogo float pad px px px px textarea expand line height em width em min height em font famili arial helvetica san serif font size pt select textarea margin left px requir color font weight bold font size pt margin pad px float left errorblock border px solid ff background ffebe pad px margin px color font famili trebuchet ms verdana arial helvetica san serif font size pt width px p pad bottom px 
+ document readi function textarea expand autogrow 
+ moment rate experi blue line shuttl bu hope pleasant experi feedback respons improv servic futur 
+ comment import 
+ univers affili 
+ student 
+ staff 
+ faculti 
+ 
+ gender 
+ femal 
+ male 
+ i prefer respond 
+ ride blue line 
+ daili 
+ time week 
+ week 
+ month 
+ month 
+ inform blue line easili 
+ strongli agre 
+ agre 
+ disagre 
+ strongli disagre 
+ driver courteou profession 
+ strongli agre 
+ agre 
+ disagre 
+ strongli disagre 
+ buse clean vehicl condit satisfactori 
+ strongli agre 
+ agre 
+ disagre 
+ strongli disagre 
+ buse arriv expect 
+ strongli agre 
+ agre 
+ disagre 
+ strongli disagre 
+ wait bu minut 
+ strongli agre 
+ agre 
+ disagre 
+ strongli disagre 
+ i feel adequ number buse servic univers memphi 
+ strongli agre 
+ agre 
+ disagre 
+ strongli disagre 
+ hour servic adequ 
+ strongli agre 
+ agre 
+ disagre 
+ strongli disagre 
+ i feel safe ride blue line 
+ strongli agre 
+ agre 
+ disagre 
+ strongli disagre 
+ i blue line valuabl servic univers memphi 
+ strongli agre 
+ agre 
+ disagre 
+ strongli disagre 
+ i smart phone tablet comput track real time locat blue line 
+ 
+ 
+ i smart phone tablet comput 
+ devic track real time locat blue line 
+ time i ride 
+ i hurri 
+ occasion 
+ 
+ i secur bicycl bu 
+ 
+ 
+ i i 
+ i ride bike 
+ provid addit comment box 
+ click 
+ 
+ send question comment survei 
+ park transport servic 
+ univers memphi 

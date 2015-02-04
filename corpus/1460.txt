@@ -1,0 +1,205 @@
+ registrar academ year univers memphi 
+ registrar academ year univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ regist class 
+ student info 
+ veteran info 
+ faculti staff info 
+ parent info 
+ form 
+ registrar z list 
+ contact 
+ admiss 
+ financi aid 
+ scholarship 
+ pai fee bursar 
+ tom 
+ univers memphi 
+ quick link 
+ campu map 
+ class search 
+ data standard 
+ ferpa tutori 
+ grade 
+ iam 
+ semest calendar 
+ servic faculti 
+ servic student 
+ um event calendar 
+ veteran educ benefit 
+ withdraw um 
+ academ year 
+ fall 
+ pot 
+ registr period begin 
+ apr 
+ mon 
+ commenc 
+ check commenc websit 
+ full pot 
+ dai class 
+ aug 
+ mon 
+ labor dai 
+ sep 
+ mon 
+ fall break 
+ oct 
+ sat tue 
+ thanksgiv holidai 
+ nov 
+ thur sun 
+ dai class 
+ dec 
+ wed 
+ studi dai 
+ dec 
+ thur 
+ exam 
+ dec 
+ fri thur 
+ st pot 
+ dai class 
+ aug 
+ mon 
+ dai class exam 
+ oct 
+ fri 
+ pot 
+ dai class 
+ oct 
+ wed 
+ dai class exam 
+ dec 
+ wed 
+ spring 
+ pot 
+ registr period begin 
+ nov 
+ mon 
+ commenc 
+ check commenc websit 
+ full pot 
+ dai class 
+ jan 
+ mon 
+ m l king jr holidai 
+ jan 
+ mon 
+ spring break 
+ mar 
+ mon sun 
+ dai class 
+ apr 
+ wed 
+ studi dai 
+ apr 
+ thur 
+ exam 
+ apr 
+ fri thur 
+ st pot 
+ dai class 
+ jan 
+ mon 
+ dai class exam 
+ feb 
+ fri 
+ pot 
+ dai class 
+ mar 
+ mon 
+ dai class exam 
+ apr 
+ wed 
+ summer 
+ pot 
+ registr period begin 
+ apr 
+ mon 
+ commenc 
+ check commenc websit 
+ pre summer pot 
+ dai class 
+ 
+ mon 
+ memori dai holidai 
+ 
+ mon 
+ dai class 
+ 
+ thur 
+ exam 
+ 
+ fri 
+ full pot 
+ dai class 
+ june 
+ mon 
+ break 
+ juli 
+ thur sun 
+ dai class 
+ aug 
+ thur 
+ exam 
+ aug 
+ fri 
+ st pot 
+ dai class 
+ june 
+ mon 
+ independ dai holidai 
+ juli 
+ fri 
+ dai class 
+ juli 
+ thur 
+ exam 
+ juli 
+ fri 
+ pot 
+ dai class 
+ juli 
+ tue 
+ dai class 
+ aug 
+ thur 
+ exam 
+ aug 
+ fri 
+ academ calendar index 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ admiss 
+ financi aid 
+ registrar 
+ scholarship 
+ offic registrar wilder tower memphi 
+ tn 
+ ph fx 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

@@ -1,0 +1,84 @@
+ acad univers expect univers memphi 
+ acad univers expect univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ acad cours 
+ student resourc 
+ faculti resourc 
+ acad 
+ meet faculti 
+ meet staff 
+ contact 
+ quick link 
+ present request form 
+ univers expect 
+ expect 
+ colleg student prepar univers expect introduc univers set requir abid code conduct academ moral accept admitt enrol voluntarili commit part univers memphi commun commit respons realiz willingli appli pursuit elev educ social goal includ activ search higher knowledg exhibit behavior demonstr respect student faculti staff univers gener univers s procedur guidelin 
+ major sourc document inform student receiv univers memphi 
+ student access onlin 
+ univers catalog 
+ degre program plan list cours area studi 
+ student handbook 
+ includ regul academ social conduct campu 
+ schedul class 
+ current semest student s respons read document understand cours requir major cours curriculum schedul semest code conduct cours univers curriculum requir chang student respons knowledg current inform complet program regularli meet s advisor avoid problem area 
+ specif academ expect univers memphi 
+ success colleg reli student s abil util resourc respons progress allow studi time hour hour spent class recommend cumul g p s drop c academ suspens univers student earn hour 
+ financi aid scholarship 
+ subject review revoc depend s academ stand acad section 
+ educ support program 
+ institut prevent academ hardship 
+ 
+ academ statu 
+ academ progress student univers memphi monitor conclus term enrol determin 
+ academ statu 
+ student combin grade point averag term grade point averag consid determin statu progress level 
+ academ statu 
+ good stand 
+ academ warn 
+ academ probat 
+ academ suspens 
+ 
+ academ statu 
+ list grade report 
+ 
+ memphi semest inform academ level 
+ univers catalog 
+ basic educ requir complet degre program 
+ s major determin major cours exposur varieti subject part gener educ requir cours ensur student educ member societi knowledg extend expertis nurtur area studi 
+ gener educ core curriculum 
+ develop univers memphi enrich undergradu experi addit student enter univers demonstr test prepar colleg level work math english read studi cours offer 
+ transit academ studi depart 
+ type degre program student univers memphi 
+ univers memphi offer undergradu choic 
+ major 
+ concentr degre includ bachelor art bachelor fine art bachelor music bachelor busi administr bachelor liber studi bachelor profession studi varieti bachelor scienc program major requir complet semest hour 
+ featur link 
+ video acad colleg career 
+ acad post semest survei 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

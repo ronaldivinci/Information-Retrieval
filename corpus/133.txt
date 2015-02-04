@@ -1,0 +1,90 @@
+ vpn univers memphi 
+ vpn univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ 
+ project 
+ servic 
+ facil 
+ support 
+ learn 
+ resourc 
+ standard 
+ secur 
+ govern 
+ z list 
+ quick link 
+ tom 
+ campu map 
+ center teach learn ctl 
+ ecoursewar 
+ elearn rodp 
+ fedex institut 
+ gartner research 
+ high perform comput hpc center 
+ helpdesk 
+ project inventori system 
+ servic notif 
+ servic catalog 
+ iam ident manag 
+ iprint 
+ learn curv 
+ e mail 
+ rocc 
+ technolog resourc locat trl 
+ umdriv 
+ umwiki 
+ umtech 
+ webdev 
+ vpn 
+ relat topic 
+ univers memphi virtual privat network vpn 
+ secur access restrict univers data campu comput vpn home comput laptop access restrict data remot 
+ remot desktop user visit 
+ instruct vpn remot desktop access 
+ staff faculti member remot access inb visit 
+ access internet nativ banner inb 
+ instal instruct visit 
+ vpn client instal instruct 
+ access restrict inform univers campu vpn 
+ access 
+ ummail 
+ 
+ umdriv 
+ campu vpn ummail umdriv secur site 
+ question vpn consult vpn faq link contact umtech servic desk 
+ vpn faq 
+ vpn 
+ 
+ work 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ inform technolog servic 
+ administr 
+ bldg 
+ phone 
+ email umtech memphi 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

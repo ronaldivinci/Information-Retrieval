@@ -1,0 +1,99 @@
+ citi region plan stat univers memphi 
+ citi region plan stat univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ citi plan 
+ degre requir 
+ appli 
+ pit lab 
+ financi aid 
+ faculti staff 
+ student plan 
+ associ 
+ student market 
+ commun project 
+ alumni 
+ contact inform 
+ suapp 
+ art scienc 
+ univers memphi 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ stat 
+ student retent graduat 
+ percentag degre seek master s student began fall studi continu fall 
+ percentag degre seek master s student began fall studi continu fall 
+ percentag singl degre master s student graduat year enter class 
+ percentag singl degre master s student graduat year enter class 
+ employ placement 
+ academ year percent graduat full time employ plan relat field year graduat percent pursu addit relat degre 
+ employ graduat remain larg memphi metropolitan region extend state southeast graduat employ opportun municip counti state govern govern organ privat sector plan firm nonprofit agenc scope employ rang transport plan histor preserv commun econom develop sustain plan exampl agenc emploi graduat includ 
+ citi memphi offic plan develop divis hous commun develop offic sustain 
+ memphi urban area metropolitan plan organ 
+ commun lift 
+ greater memphi chamber 
+ heifer intern 
+ nation trust histor preserv 
+ southwest tennesse develop district 
+ tennesse depart transport 
+ canton ms chamber main street associ 
+ citi pasadena 
+ cumberland region tomorrow 
+ gulf region plan commiss 
+ habitat human 
+ parson brinckerhoff 
+ aicp exam pass rate 
+ percent graduat sit aicp exam year graduat pass 
+ program cost 
+ tuition fee calcul full academ year fall spring semest 
+ state tuition academ year 
+ state tuition 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ citi region plan 
+ mccord hall memphi 
+ tn 
+ ph fax e mail 
+ cityplan memphi 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

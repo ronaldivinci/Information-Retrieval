@@ -1,0 +1,67 @@
+ content pro 
+ content pro 
+ var magicmenu menucontain null show function menucontainerid menupar menucontain document getelementbyid menucontainerid menucontain style posit absolut menucontain style displai block menucontain style top menupar style top menupar style height px menucontain style top menupar style left px hide function menucontainerid menucontain document getelementbyid menucontainerid menucontain style displai var tooltipglobalset base style width pad border width color transpar class tooltip tooltipwrapp show delai hide fix true delai posit corner target topmiddl tooltip topleft adjust screen true y x scroll fals 
+ english 
+ english 
+ home 
+ slideshow 
+ sign 
+ document readi function radiobuttondropdown init searchform searchscopecontrol searchscopeselectionmessag search 
+ univers librari digit repositori univers memphi 
+ univers librari digit repositori univers memphi select materi resourc collect includ imag sound motion record text document item heretofor research visit person item part larger collect arrang subject topic addit materi convert origin format ad repositori number varieti collect resourc grow 
+ displai 
+ view 
+ grid 
+ list 
+ aerial imag memphi area 
+ aerial imag memphi area 
+ collect find aerial bird s ey view photo memphi region centuri imag show mississippi riverfront downtown area photo document develop citi north south east suburb repres 
+ delta southern 
+ delta southern 
+ delta southern confer mark seventh year popular inform event meet held michael d rose theatr univers memphi campu june hundr year year dai long celebr histori cultur life delta region signific present richard leatherman dr michael trotter dolph smith willi bearden audio video record present collect 
+ delta southern 
+ delta southern 
+ eighth year delta southern confer held fridai june pm univers memphi rose theater univers memphi campu hundr year year dai long celebr histori cultur life delta region atmospher relax interact plenti time discuss attend confer depart appreci sight sound histori influenc fascin region 
+ earnestin jenkin collect histor african american african diaspora ph 
+ earnestin jenkin collect histor african american african diaspora photograph 
+ archiv assemblag african american vernacular photographi vernacular photograph imag everydai life profession photograph studio oper ordinari peopl record pictur 
+ s s african american larg number local photographi studio pictur african american photograph entrepreneur fulfil demand primarili african american clientel oper newfound studio groundbreak photograph inauspici studio countri captur complex wide rang live african american unit state artist respons visual document black america previous hidden view process transform public imag african american challeng stereotyp pictur subordin pervas american visual cultur 
+ collect focus turn centuri imag portrai african american celebr beauti achiev black white photograph produc imag posit represent reveal african american transform middl class citizen 
+ collect includ histor imag wider african diaspora global perspect imag provid invalu opportun interdisciplinari research examin camera histor relationship captur like peopl african descent 
+ lemoyn owen colleg 
+ lemoyn owen colleg 
+ lemoyn owen colleg trace origin lemoyn normal commerci school found gener donat philadelphia practis physician abolitionist franci j lemoyn high school program ad institut move present locat walker avenu south memphi institut junior colleg charter year colleg dr holli price found member unit negro colleg fund african american moder unit church christ black presid lemoyn merg predominantli baptist owen junior colleg found leadership rev samuel owen notabl graduat includ dr w w herenton elect african american mayor memphi historian c eric lincoln late dr rev benjamin l hook longtim naacp presid fcc commission feder judg mention 
+ lincoln constitut civil war 
+ lincoln constitut civil war 
+ august septemb ned r mcwherter librari welcom visitor explor travel exhibit lincoln constitut civil war offer fresh innov perspect constitut crisi heart great conflict state librari host lectur conjunct exhibit record univers librari digit repositori 
+ septemb dr susan e o donovan associ professor histori u m spoke slave war o donovan editor seri freedom documentari histori emancip book free cotton south award jame rawlei prize award excel research hold archiv publish numer book chapter articl encyclopedia entri lectur highlight foreground agenc enslav african american achiev emancip 
+ dr tim huebner chair depart histori rhode colleg discuss lincoln constitut septemb huebner author book american law court constitut includ tanei court justic rule legaci editor contributor major problem american constitut histori speak lincoln struggl wai surmount major constitut issu legitimaci secess constitution suspens writ habea corpu wartim legal emancip struggl demonstr belief vigor union promot protect ideal embodi declar independ 
+ exhibit sponsor american librari associ fund major grant nation endow human neh nation constitut center identifi crise secess southern state slaveri wartim civil liberti explor lincoln sought meet polit constitut challeng 
+ memphi area landmark 
+ memphi area landmark 
+ begin raucou rough tumbl river town frontier present statu metropoli busiest cargo airport world memphi share import influenti individu inventor servic groceri store founder holidai inn fedex collect featur histor photo locat landmark citi 
+ memphi music heritag 
+ memphi music heritag 
+ river town railroad hub memphi center develop american popular music centuri absorb music influenc style european african root fertil ground american form jazz blue gospel countri rock roll soul music memphi studio sun stax work legendari musician produc world 
+ nation african american photograph archiv 
+ nation african american photograph archiv 
+ nation african american photograph archiv naapa project collabor effort univers librari univers memphi ampro industri memphi aim project collect scan public photograph inform metadata illustr daili work live social activ african american 
+ seed materi own special collect depart um librari naapa project solicit donat loan signific materi accompani background inform metadata index describ arrang searcher find photograph document peopl place event import african american american histori cultur 
+ nation african american photograph archiv meant grow evolv inquiri project administr click 
+ 
+ donat loan agreement click 
+ 
+ robert r church famili memphi 
+ robert r church famili memphi 
+ robert r church famili memphi substanti impact life polit local region nation centuri robert r church sr robert r church jr sara roberta church live span year excel area busi polit public servic imag collect offer glimps live african american millionair south famili associ imag drawn box materi donat sara roberta church univers memphi librari 
+ sanit worker strike 
+ sanit worker strike 
+ imag collect show event peopl strike memphi sanit worker import episod memphi labor histori strike link assassin dr martin luther king jr memor prophet mountaintop speech memphi april 
+ zippin pippin 
+ zippin pippin 
+ zippin pippin locat bai beach park green bai wisconsin icon structur memphi earli s built pine wood length feet maximum drop feet ride reach speed mph locat mid south fairground oper part libertyland elvi preslei s favorit amus rent entir park time time invit friend entourag ride pippin hour declin attend revenu libertyland led close zippin pippin stood unus neglect citi green bai bai beach park acquir spent million disassembl transport repair replac rot section reassembl season oper bai beach park ride enjoi 
+ function griditemhoverclassnametoggl bghover 
+ english 
+ power 
+ innov interfac 
+ tapestri addonload function e dojo requir tapestri form tapestri form registerform searchform tapestri form clearprofil searchform tapestri form registerprofil searchform requir targetfield targetfield requir enter search term itemtitleanycompon qtip extend true tooltipglobalset base content text tooltipcontentwrapperanycompon itemtitleanycompon qtip extend true tooltipglobalset base content text tooltipcontentwrapperanycompon itemtitleanycompon qtip extend true tooltipglobalset base content text tooltipcontentwrapperanycompon itemtitleanycompon qtip extend true tooltipglobalset base content text tooltipcontentwrapperanycompon itemtitleanycompon qtip extend true tooltipglobalset base content text tooltipcontentwrapperanycompon itemtitleanycompon qtip extend true tooltipglobalset base content text tooltipcontentwrapperanycompon itemtitleanycompon qtip extend true tooltipglobalset base content text tooltipcontentwrapperanycompon itemtitleanycompon qtip extend true tooltipglobalset base content text tooltipcontentwrapperanycompon itemtitleanycompon qtip extend true tooltipglobalset base content text tooltipcontentwrapperanycompon itemtitleanycompon qtip extend true tooltipglobalset base content text tooltipcontentwrapperanycompon itemtitleanycompon qtip extend true tooltipglobalset base content text tooltipcontentwrapperanycompon itemtitleanycompon qtip extend true tooltipglobalset base content text tooltipcontentwrapperanycompon tapestri form focusfield targetfield 

@@ -1,0 +1,72 @@
+ extend program dyersburg univers memphi 
+ extend program dyersburg univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex sfhover function var sfel document getelementbyid nav getelementsbytagnam li var i i sfel length i sfel i onmouseov function classnam sfhover sfel i onmouseout function classnam classnam replac regexp sfhover b window attachev window attachev onload sfhover 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu class 
+ gener inform 
+ bartlett 
+ colliervil 
+ covington 
+ dyersburg 
+ millington 
+ west tennesse 
+ public servic 
+ profession continu educ 
+ tennesse beauti 
+ extend program 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ dyersburg 
+ dyersburg 
+ dscc dyersburg tn 
+ lake 
+ dyersburg tn 
+ click map 
+ summer 
+ fall 
+ term 
+ 
+ titl 
+ crn 
+ dai 
+ time 
+ instructor 
+ 
+ engl 
+ method techniqu esl 
+ t 
+ pm 
+ pm 
+ nanci 
+ bartholomew 
+ icl 
+ independ studi 
+ rene 
+ murlei 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

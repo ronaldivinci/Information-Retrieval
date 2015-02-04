@@ -1,0 +1,102 @@
+ registrar banner guid aid univers memphi 
+ registrar banner guid aid univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ regist class 
+ student info 
+ veteran info 
+ faculti staff info 
+ parent info 
+ form 
+ registrar z list 
+ contact 
+ admiss 
+ financi aid 
+ scholarship 
+ pai fee bursar 
+ tom 
+ univers memphi 
+ quick link 
+ campu map 
+ class search 
+ data standard 
+ ferpa tutori 
+ grade 
+ iam 
+ semest calendar 
+ servic faculti 
+ servic student 
+ um event calendar 
+ veteran educ benefit 
+ withdraw um 
+ banner guid aid 
+ banner access request form instruct 
+ request access banner student system 
+ access student internet nativ banner inb 
+ inb internet nativ banner procedur routin 
+ advis 
+ assign advisor 
+ advis 
+ clear student spaapin futur term 
+ advis 
+ set advis altern pin spaapin 
+ advis 
+ banner advis student 
+ issu permit sfasrpo 
+ queri student s hold enter comment soahold 
+ section enrol ssasecq 
+ extract data excel 
+ section enrol ssasecq 
+ view 
+ transfer credit 
+ view transfer credit shatrn 
+ transfer credit 
+ view transfer institut equival tabl shatatr 
+ manual 
+ degre post 
+ gener student queri banner train 
+ ssb graduat applic guidelin analyst 
+ shortcut aid 
+ banner function icon keystrok 
+ keyboard map 
+ keyboard shortcut 
+ quick refer guid banner keyboard command 
+ faculti advisor servic portal guid 
+ technolog link 
+ faculti servic guid 
+ banner guid aid 
+ download class roster d l 
+ request access banner student 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ admiss 
+ financi aid 
+ registrar 
+ scholarship 
+ offic registrar wilder tower memphi 
+ tn 
+ ph fx 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

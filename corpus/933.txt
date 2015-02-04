@@ -1,0 +1,139 @@
+ registrar class search select option univers memphi 
+ registrar class search select option univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ regist class 
+ student info 
+ veteran info 
+ faculti staff info 
+ parent info 
+ form 
+ registrar z list 
+ contact 
+ admiss 
+ financi aid 
+ scholarship 
+ pai fee bursar 
+ tom 
+ univers memphi 
+ quick link 
+ campu map 
+ class search 
+ data standard 
+ ferpa tutori 
+ grade 
+ iam 
+ semest calendar 
+ servic faculti 
+ servic student 
+ um event calendar 
+ veteran educ benefit 
+ withdraw um 
+ class search select option 
+ select lookup class registr tool channel select term screen select term drop box click submit button 
+ main class select screen subject list button search advanc search 
+ search option 
+ option search primarili subject area select subject success search select subject select subject subject click search button 
+ titl subject select displai titl view section button click button detail section inform meet dai time instructor 
+ advanc search option 
+ option search criteria narrow search front search option search cours taught meet pattern time instructor specif part term combin criteria 
+ select subject main screen click advanc search advanc search screen search base option part term instructor 
+ 
+ subject select subject success search select subject 
+ select search option click class search button displai detail section inform 
+ refer tabl inform advanc search select field 
+ subject 
+ select subject 
+ 
+ select subject search 
+ number 
+ leav blank search interest engl select engl subject enter 
+ field search number level subject subject enter digit level cent sign return list level cours 
+ titl 
+ enter kei word expect titl anatomi 
+ instruct method 
+ method deliv 
+ method default usus chang 
+ option locat 
+ web deliv cours 
+ credit rang 
+ gener leav field blank 
+ fill number find hour hour bring statu part time full time 
+ campu 
+ locat class offer 
+ locat includ main campu 
+ charact code campu 
+ class 
+ result identifi campu cmp column 
+ exclud main campu 
+ list cours offer satellit campus 
+ level 
+ restrict result 
+ undergradu 
+ cours 
+ graduat 
+ cours option 
+ part term 
+ part term 
+ academ term semest consist part term enrol multipl part term law term restrict law student 
+ fall spring term semest consist part term full term regent term term term law term 
+ summer term consist part term full term regent term term term teacher term teacher term 
+ full regent term run entir semest 
+ term equival term full term engl term engl regent 
+ option narrow select 
+ cours offer part term 
+ list hist cours offer term 
+ instructor 
+ instructor s record 
+ instructor 
+ select multipl instructor search 
+ attribut type 
+ search cours satisfi gener educ gen ed requir 
+ note 
+ colleg requir cours satisfi gen ed requir colleg insist biol sequenc check advisor select gen ed 
+ start time 
+ option find cours fit work schedul commit 
+ find cours add class schedul 
+ write crn add drop class page regist cours 
+ 
+ click open box left crn click regist add worksheet button bottom page add add drop class page 
+ regist 
+ attempt regist success cours top portion add drop class screen error messag explan cours successfulli regist 
+ add worksheet 
+ simpli transfer select cours bottom add drop class page add class worksheet area system attempt add class area click submit button 
+ note 
+ open box section interest regist section 
+ student servic guid 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ admiss 
+ financi aid 
+ registrar 
+ scholarship 
+ offic registrar wilder tower memphi 
+ tn 
+ ph fx 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

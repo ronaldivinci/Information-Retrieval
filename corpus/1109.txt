@@ -1,0 +1,104 @@
+ encor crossroad civil right black power meredith march fear aram goudsouzian 
+ encor crossroad civil right black power meredith march fear aram goudsouzian 
+ djconfig parseonload true blankgif resourc mobil imag mobilesprit png 
+ dojo requir tapestri namespac tapestri requestencod utf 
+ catalog 
+ articl 
+ dojo requir dojo fx dojo addonload function dojo iswebkit webkit fire document onload stylesheet appli fix case fixcarrot settimeout fixcarrot fixcarrot function fixcarrot var carrot dojo byid carrotind var select dojo byid selectedcategori var langdirelem dojo byid basedirectioninsertcompon carrot select var selectedcoord dojo coord select var leftposit selectedcoord l selectedcoord w px var topposit selectedcoord h selectedcoord t px langdirelem dojo attr langdirelem dir tolowercas rtl var bannertop dojo byid bannertop bannertop var bannerwidth dojo marginbox bannertop w var rightposit bannerwidth selectedcoord l selectedcoord w px dojo isi flip left po calcul rtl dojo style carrot selectedcoord l top topposit displai block dojo style carrot rightposit top topposit displai block dojo style carrot left leftposit top topposit displai block 
+ log 
+ book cart 
+ item 
+ login 
+ um librari home 
+ global disabl toggl cobalt record detail page iiidisabletoggl true 
+ search 
+ advanc search 
+ document getelementbyid target document getelementbyid target focu document getelementbyid targetauto document getelementbyid targetauto focu 
+ save record 
+ function focusaddtag var field document getelementbyid newtagtextfieldcompon field field offsetheight call fix bug focu consist work c field focu field focu 
+ add tag 
+ export refwork 
+ crossroad civil right black power meredith march fear 
+ aram goudsouzian 
+ book print 
+ goudsouzian aram 
+ york farrar strau giroux 
+ edit 
+ rate 
+ star rate rate 
+ function focusaddtag var field document getelementbyid newtagtextfieldcompon field field offsetheight call fix bug focu consist work c field focu field focu 
+ add tag 
+ cover imag 
+ item 
+ item 
+ locat 
+ call 
+ statu 
+ mcwherter librari floor special collect 
+ e m g 
+ lib 
+ mcwherter librari floor stack 
+ e m g c 
+ 
+ detail 
+ page page plate illustr map cm 
+ text rdacont 
+ unmedi rdamedia 
+ volum rdacarri 
+ summari 
+ june civil right hero jame meredith left memphi tennesse foot set jackson mississippi hope march promot black voter registr defi racism dai shot mysteri white man transfer hospit kei drama civil right era track rural demonstr courag impass debat movement leader author reveal complex legaci event integr african american polit system inspir era bolder protest publish 
+ bibliographi 
+ includ bibliograph refer index 
+ content 
+ prologu dai bibl gun leav egypt bargain blood daylight break regist world watch march stand tall polit poverti crossroad crow blackbird delta blue brotherli love prize bull shadow death uninvit guest greatest dream nightmar epilogu highwai revisit 
+ subject 
+ meredith jame 
+ civil right demonstr mississippi histori centuri 
+ voter registr mississippi histori centuri 
+ racism mississippi histori centuri 
+ african american civil right worker mississippi biographi 
+ civil right worker mississippi biographi 
+ african american colleg student mississippi biographi 
+ african american civil right mississippi histori centuri 
+ black power mississippi histori centuri 
+ mississippi race relat histori centuri 
+ genr form 
+ univers memphi faculti public tma 
+ ad titl 
+ cross road civil right black power meredith march fear 
+ isbn 
+ hbk 
+ hbk 
+ ebk 
+ ebk 
+ worldcat 
+ dojo addonload function gbsbookinfo isxn gbsbookinfo var b gbsbookinfo isxn b b preview full b preview partial var gbp document getelementbyid googlebookpreviewlink gbp gbp document getelementbyid googlebooksearch gbp gbp style displai block 
+ function focusaddtag var field document getelementbyid newtagtextfieldcompon field field offsetheight call fix bug focu consist work c field focu field focu 
+ commun tag 
+ add tag 
+ set item toggl open dojo addonload function itemhold itemhold setopendisplai 
+ var pagetrack gat gettrack ua pagetrack trackpageview catch err 
+ sourc 
+ catalog classic 
+ innreach disabl displai sourc header classic catalog pthfinder link function var innreachhead dojo byid innreachothersourceshead innreachhead find innreachhead classic catalog pathfind pro sourc header visibl var catlinkhead dojo byid cataloglinkothersourceshead var cclink dojo byid classiccataloglink var pplink dojo byid pathfinderprolinkcompon cclink pplink catlinkhead return catlinkhead style displai block 
+ top 
+ librari link 
+ um librari home 
+ classic catalog 
+ databas 
+ research guid 
+ search tool 
+ advanc search 
+ encor home 
+ book cart 
+ item 
+ login 
+ view 
+ crossroad civil right black power meredith march fear goudsouzian aram 
+ power 
+ innov interfac 
+ var urlindex document url indexof r recordid document url substr urlindex urlindex 
+ var urlindex document url indexof r recordid document url substr urlindex urlindex 
+ var libchat btn iid kei e aca eb f domain libansw memphi star rate fals depart id 
+ var pagetrack gat gettrack ua pagetrack trackpageview catch err 
+ tapestri addonload function e dojo requir tapestri form tapestri form registerform searchformcompon tapestri form clearprofil searchformcompon tapestri form registerprofil searchformcompon requir searchstr searchstr requir enter search constraint enter charact constraint searchstr tapestri form valid istext minlength tapestri form registerform updateratingformcompon true var rate function communityr myrat recordid communityr communityr communityr myrat myrat myrat null recordid recordid contain document getelementbyid starform recordid formcontain null starcontain null communitycontain null inputfield null element communitycontain starcontain formcontain inputfield var children contain getelementsbytagnam var i i children length i children i nodetyp children i classnam communityr communitycontain children i children i classnam ratingform formcontain children i parentnod children i classnam ratingsinput inputfield children i children i classnam stararea starcontain children i setinitialstar initev rate prototyp initev function starcontain communitycontain communitycontain starcontain onmouseov showaverag starcontain onmouseout hideaverag var aelem contain getelementsbytagnam var i i aelem length i aelem i copi aelem i index i aelem i onclick clickev rate prototyp hasuserr function myrat null return true return fals rate prototyp setinitialstar function hasuserr starcontain classnam stararea mystar myrat return starcontain classnam stararea communitystar communityr rate prototyp clickev function index copi myrat copi myrat index copi inputfield index copi setinitialstar tapestri form submit copi formcontain id updateratingsubmit return fals rate prototyp showaverag function communitycontain style displai block rate prototyp hideaverag function communitycontain style displai rate b disabl global iiidisabletoggl true cobalt record page function typeof iiidisabletoggl undefin iiidisabletoggl true return var moredetailsanycomponentvar togglewidget moredetailsanycompon resourc cobalt imag close png resourc cobalt imag open png block fals moredetailsanycomponentvar moredetailsanycomponentvar setopendisplai disabl global iiidisabletoggl true cobalt record page function typeof iiidisabletoggl undefin iiidisabletoggl true return var tagtoggleanycomponentvar togglewidget tagtoggleanycompon resourc cobalt imag close png resourc cobalt imag open png block fals tagtoggleanycomponentvar tagtoggleanycomponentvar setopendisplai tapestri dialog synchronizedialogst dialogcompon id dialogcompon fals dijit byid dialogcompon hide tapestri cleanconnect batchstarteranycompon arbitrari event tapestri event function event var content beventnam arbitrari bcomponentidpath recorddisplaypag pagewrappercompon batchstarterurg compon batchstarteranycompon bcomponentid batchstarteranycompon tapestri event buildeventproperti event content argument content beventtarget id content beventtarget id batchstarteranycompon tapestri bind iii encor home jsessionid d b f d b compon pagewrappercompon batchstarterurg compon batchstarteranycompon lang eng page recorddisplaypag servic directev session t suit cobalt content tapestri connect batchstarteranycompon arbitrari event tapestri cleanconnect batchstarteranycompon arbitrari event tapestri event function event var content beventnam arbitrari bcomponentidpath recorddisplaypag pagewrappercompon batchstarterurg compon batchstarteranycompon bcomponentid batchstarteranycompon tapestri event buildeventproperti event content argument content beventtarget id content beventtarget id batchstarteranycompon tapestri bind iii encor home jsessionid d b f d b compon pagewrappercompon batchstarterurg compon batchstarteranycompon lang eng page recorddisplaypag servic directev session t suit cobalt content tapestri connect batchstarteranycompon arbitrari event tapestri cleanconnect batchstarteranycompon arbitrari event tapestri event function event var content beventnam arbitrari bcomponentidpath recorddisplaypag pagewrappercompon batchstarterlocalcompon batchstarteranycompon bcomponentid batchstarteranycompon tapestri event buildeventproperti event content argument content beventtarget id content beventtarget id batchstarteranycompon tapestri bind iii encor home jsessionid d b f d b compon pagewrappercompon batchstarterlocalcompon batchstarteranycompon lang eng page recorddisplaypag servic directev session t suit cobalt content tapestri connect batchstarteranycompon arbitrari event tapestri cleanconnect batchstarteranycompon arbitrari event tapestri event function event var content beventnam arbitrari bcomponentidpath recorddisplaypag pagewrappercompon batchstarterremotecompon batchstarteranycompon bcomponentid batchstarteranycompon tapestri event buildeventproperti event content argument content beventtarget id content beventtarget id batchstarteranycompon tapestri bind iii encor home jsessionid d b f d b compon pagewrappercompon batchstarterremotecompon batchstarteranycompon lang eng page recorddisplaypag servic directev session t suit cobalt content tapestri connect batchstarteranycompon arbitrari event 

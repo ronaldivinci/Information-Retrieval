@@ -1,0 +1,321 @@
+ u m bursar s offic 
+ u m bursar s offic 
+ function resetfocu document focu 
+ var agt navig userag tolowercas var major parseint navig appvers var nav agt indexof mozilla agt indexof msie agt indexof spoofer agt indexof compat agt indexof opera agt indexof webtv agt indexof hotjava var styleok nav major 
+ styleok document write 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ search criteria 
+ b f 
+ peopl 
+ meet bursar 
+ view statement 
+ pai fee tigerxpress 
+ fee chart 
+ fee payment 
+ student financi appeal 
+ t tax inform 
+ campu card 
+ calendar 
+ erefund sign 
+ financi aid 
+ disburs 
+ bookstor advanc payment plan bapp 
+ parent author user access 
+ tom faq s 
+ cash handl process 
+ qualiti initi 
+ form 
+ polici procedur guidelin 
+ busi financ 
+ administr 
+ busi servic 
+ campu plan 
+ financ 
+ human resourc 
+ physic plant 
+ vice presid 
+ quick link 
+ admin helpdesk 
+ bfguid 
+ bfguid editor 
+ bookstor 
+ employe discount 
+ employ verif 
+ financ program guid 
+ financi aid 
+ holidai 
+ hr program guid 
+ job 
+ learn curv 
+ lsp servic request 
+ park 
+ polic servic 
+ share servic center 
+ surplu equip 
+ tigerbui 
+ tigermap 
+ u m event calendar 
+ univers budget 
+ web updat request 
+ worq system 
+ busi financ 
+ financ 
+ bursar 
+ fee payment 
+ explan fee 
+ print 
+ overlib c erik bosrup 
+ var mainten tuition support classroom instruct gener oper expens fee assess base student matricul level undergradu graduat law number hour enrol graduat student undergradu charg graduat fee br br fall spring term cost tuition base hour basi hour undergradu level hour graduat level reduc hour rate hour law maxium assess hour tuition assess summer cours base student matricul level number hour enrol maximum br br note regent onlin degre program rodp u m onlin program m cours assess tuition addit campu tuiton maximum u m onlin xx xx cours assess tuition campu rate 
+ var generalaccess gener access fee fund student servic gener access fee assess base student s matricul level undergradu graduat law number hour enrol br br fall spring semest student enrol hour assess part time gener access fee student enrol hour assess full time gener access fee maximum full time gener access fee summer semest servic fund gener access fee ul li technolog access fee li chang fee li graduat fee li student athlet fee alloc li gener park access li student health servic li career connect ul 
+ var debtservic debt servic fee support retir indebted fund capit project approv tennesse board regent academ year fee assess base student s matricul level undergradu graduat law number hour enrol br br fall spring semest student enrol hour assess part time debt servic fee student enrol hour assess full time debt servic fee maximum full time debt servic fee summer semest br br 
+ var facil facil fee improv facil fund expenditur replac carpet student loung remodel classroom fee routin mainten construct improv area impact student br br fee assess base student s resid classif state resid state resid tuition fee payment purpos number hour student enrol fall spring semest student enrol hour assess part time facil fee student enrol hour assess full time facil fee maximum full time facil fee summer semest br br 
+ var studentact student activ fee fund student govern associ student campu recreat intramur sport complex fee assess base student s matricul level undergradu graduat law number hour enrol br br fall spring semest student enrol hour assess part time student activ fee student enrol hour assess full time student activ fee maximum full time student activ fee summer semest br br 
+ var outofst student classifi state resid offic admiss pai addit state tuition fee schedul state tuition assess base student matricul level undergradu graduat law number hour enrol fall spring term cost state tuition base hour hour undergradu level hour graduat level law maxium assess hour br br state tuition assess summer cours base student matricul level number hour enrol maximum br br resid classif determin offic admiss regul tennesse board regent resid regul tbr inform appeal procedur offic admiss br br note regent onlin degre program rodp u m onlin m cours assess state tuition addit campu state tuition maximum u m onlin xxx cours assess state tuition campu rate student onlin cours elig erat state 
+ explan fee 
+ fee inform section intend cover situat student encount detail inform miscellan student fee undergradu graduat bulletin univers 
+ list fee incident charg public constitut contract univers student condit registr student pai fee effect semest regist question regard fee fee payment refund direct bursar s offic wilder tower call bursar s offic 
+ email 
+ fee subject chang notic univers collect amount fee due time fee satisfact accord resid classif fee rate effect enrol complet collect refund student bill collect 
+ fee audit cours assess basi fee credit cours cours offer term concentr period term specif locat subject fee hour basi 
+ student fee 
+ regent onlin degre program fee 
+ u m onlin fee 
+ erat state onlin fee 
+ special fee 
+ materi fee 
+ miscellan fee 
+ applic fee 
+ hous rate 
+ dine dollar 
+ meal plan rate 
+ student fee 
+ hour 
+ cost hour 
+ tuition 
+ ndash undergradu ndash state resid tuition assess base hour rate hour hr addit hour reduc rate hour hr 
+ tuition 
+ ndash graduat ndash state resid tuition assess base hour rate hour hr addit hour reduc rate hour hr 
+ tuition 
+ ndash law ndash state resid tuition assess base hour rate hour hr 
+ tuition 
+ state 
+ undergradu tuition assess base hour rate hour hr 
+ tuition 
+ ndash 
+ state 
+ ndash r program ndash undergradu tuition assess base hour rate hour hr 
+ tuition 
+ ndash 
+ state 
+ graduat ndash tuition assess base hour rate hour hr 
+ tuition 
+ state 
+ law ndash tuition assess base hour rate hour hr 
+ program servic fee 
+ undergradu 
+ program servic fee 
+ graduat 
+ program servic fee 
+ law 
+ return top 
+ regent onlin degre program 
+ student enrol rodp cours assess fee hour rate list maximum addit campu u m onlin cours 
+ note 
+ graduat assist waiver cover rodp mainten fee tuition cover rodp onlin fee 
+ erat state tuition assess student classifi resid state tennesse 
+ 
+ enrol 
+ 
+ onlin cours student onlin campu cours assess standard state tuition enrol cours 
+ includ regent onlin degre program onlin fee credit audit hour 
+ includ erat state fee 
+ state resid ndash undergradu 
+ appli section quot rxx quot 
+ credit hour 
+ state resid ndash graduat 
+ appli section quot rxx quot 
+ credit hour 
+ erat 
+ state undergradu 
+ appli section quot rxx quot 
+ credit hour 
+ erat 
+ state graduat 
+ appli section quot rxx quot 
+ credit hour 
+ return top 
+ u m onlin fee 
+ student enrol u m onlin cours mxx assess fee hour rate list maximum addit campu rodp fee 
+ u m onlin cours complet numer section number assess 
+ campu rate 
+ addit mxx rodp cours elig erat erat assess hour rate undergradu graduat maximum 
+ note graduat assist waiver cover u m onlin mainten fee section mxx campu mainten program servic fee section xxx cours cover u m onlin fee mxx cours 
+ erat state tuition assess student classifi resid state tennesse 
+ 
+ enrol 
+ 
+ onlin cours student onlin campu cours assess standard state tuition enrol cours hour onlin fee mxx cours 
+ includ u m onlin fee credit audit hour 
+ includ erat state fee 
+ state resid ndash undergradu 
+ appli section mxx 
+ credit hour 
+ state resid ndash graduat 
+ appli section mxx 
+ credit hour 
+ erat 
+ state undergradu 
+ appli section mxx 
+ credit hour 
+ erat 
+ state graduat 
+ appli section mxx 
+ credit hour 
+ return top 
+ special fee 
+ refund fee subject fee adjust period rate univers s 
+ fee adjust refund polici 
+ appli music fee 
+ charg appli music privat lesson cours 
+ hour lesson week 
+ hour lesson week 
+ appli voic fee 
+ charg student enrol thea 
+ hour lesson week 
+ architectur interior design fee 
+ charg arch id cours 
+ credit audit hour 
+ broadcast film video fee 
+ charg comm jour maximum applic 
+ credit audit hour 
+ commun scienc disord 
+ appli ausp graduat cours 
+ credit audit hour 
+ dietet internship 
+ addit registr fee 
+ execut mba program 
+ note 
+ student classifi resid fee payment purpos assess state tuition charg addit program fee 
+ month program 
+ fine art fee 
+ charg art arth cours art 
+ credit audit hour 
+ fogelman colleg busi econom 
+ appli junior senior graduat level cours number begin higher 
+ credit audit hour 
+ herff colleg engin 
+ appli engin cours 
+ credit audit hour 
+ intern mba program 
+ addit registr fee 
+ regent onlin degre program onlin fee 
+ credit audit hour 
+ u m onlin fee mxx 
+ credit audit hour 
+ mou certif fee 
+ appli mi 
+ 
+ loewenberg school nurs nur 
+ appli junior senior graduat level cours includ rodp number begin higher 
+ credit audit hour 
+ perform art fee 
+ appli undergradu graduat cours exclud thea thea danc danc thea 
+ credit audit hour 
+ teacher educ 
+ appli teacher educ cours 
+ credit audit hour 
+ return top 
+ materi fee 
+ refund fee subject fee adjust period rate univers s 
+ fee adjust refund polici 
+ biologi biol 
+ cours 
+ 
+ chemistri chem 
+ cours 
+ 
+ consum scienc educ nutrit nutr 
+ cours 
+ 
+ geographi esci 
+ cours 
+ 
+ geologi esci 
+ cours 
+ 
+ physic phy 
+ cours 
+ 
+ theatr thea 
+ cours 
+ 
+ univers colleg materi fee univ 
+ cours 
+ return top 
+ miscellan fee 
+ instal payment plan 
+ enrol fee 
+ appli student instal payment plan 
+ tuition hous 
+ tuition hous 
+ instal payment plan 
+ late payment fee 
+ appli instal payment tuition hous payment due date octob novemb fall march april spring 
+ payment receiv deadlin maximum semest 
+ return check servic charg 
+ appli check draft e check credit card return unpaid financi institut fee assess kei error part result financi institut s failur honor draft 
+ late payment fee 
+ appli minimum amount fee due receiv fee payment deadlin appli check satisfi registr fee fee payment deadlin return unpaid financi institut 
+ late registr fee 
+ appli begin dai publish fee payment deadlin 
+ id card replac refund 
+ charg student id issu 
+ return top 
+ applic fee refund 
+ freshman transfer undergradu student 
+ time refund applic fee submit initi undergradu applic univers memphi 
+ intern undergradu student 
+ time refund applic fee submit initi undergradu applic univers memphi 
+ undergradu late applic fee 
+ appli undergradu applic submit applic deadlin juli fall decemb spring summer fee addit refund applic fee total intern student 
+ graduat student 
+ time refund applic fee submit initi applic graduat degre level 
+ intern graduat student 
+ time refund applic fee submit initi applic graduat degre level 
+ enrolle 
+ applic fee requir student appli enrol univers memphi matricul level 
+ free 
+ return top 
+ hous 
+ rate 
+ rate semest 
+ resid hall ndash doubl occup 
+ ndash 
+ resid hall ndash singl occup 
+ ndash 
+ carpent complex 
+ ndash 
+ student famili hous 
+ ndash month 
+ dine dollar 
+ meal plan rate 
+ return top 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat pm 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ comment suggest 
+ wilder tower 
+ phone fax 
+ site maintain 
+ busi financ support servic 

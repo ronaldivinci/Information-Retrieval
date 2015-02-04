@@ -1,0 +1,131 @@
+ univ memphi jscc lemoyn owen librari um 
+ hide js starttimeout 
+ univers librari 
+ search 
+ librarian 
+ librari account 
+ var libchat btn iid kei e aca eb f domain libansw memphi star rate fals depart id 
+ search librari catalog 
+ keyword 
+ author 
+ titl 
+ subject 
+ number 
+ advanc search 
+ articl journal 
+ articl quicksearch 
+ databas 
+ journal titl 
+ librari 
+ librari account 
+ librarian 
+ comment 
+ addit 
+ catalog 
+ reserv 
+ search 
+ instructor search 
+ univers librari 
+ univers memphi 
+ resourc 
+ databas 
+ interlibrari loan illiad 
+ librari catalog 
+ refwork 
+ worldcat version 
+ catalog classic 
+ var bodi document getelementsbytagnam bodi bodi id iiigeneratedbodycustombib 
+ bodi id iiigeneratedbodybib 
+ add list 
+ hide js var savedscop var savedtag var savedsearch var sortbuttontext null var savedexactsearch null var sortbuttonev null var sortexactbrowseurl null var sorttyp arrai var sortlabel arrai sorttyp t sortlabel titl sorttyp sortlabel author sorttyp r sortlabel revers year sorttyp c sortlabel year sorttyp n sortlabel call number sorttyp m sortlabel materi type sortlabel system sort sorttyp var sortselectedvalu var nonsorttag xyzprww unhid js 
+ searchtyp 
+ keyword 
+ author 
+ titl 
+ subject 
+ lc call 
+ dewei local call 
+ gov t doc 
+ isbn issn music pub 
+ control 
+ prof ta 
+ 
+ record 
+ search 
+ search scope 
+ view librari um jscc lemoyn owen 
+ book includ um jscc lemoyn owen 
+ e book titl access vari institut 
+ journal period titl menu left 
+ univers memphi librari 
+ mcwherter librari 
+ govern public depart 
+ juvenil librari scienc collect 
+ special collect depart 
+ refer 
+ commun scienc librari 
+ lambuth campu librari 
+ law librari 
+ mathemat branch librari 
+ music branch librari 
+ jackson state commun colleg librari 
+ jscc hardin counti learn resourc center 
+ jscc humboldt learn resourc center 
+ jscc lexington henderson learn resourc center 
+ lemoyn owen colleg librari 
+ center african african american studi 
+ lemoyn owen curriculum lab 
+ hide js initsort unhid js 
+ limit search item 
+ author 
+ nyberg ami kist 
+ titl 
+ seal approv histori comic code ami kist nyberg 
+ imprint 
+ jackson univers press mississippi c 
+ locat 
+ call 
+ statu 
+ mcwherter librari st floor perman reserv 
+ pn n 
+ 
+ id element span div item token var elid bibitem main link text var linktxt copi volum give link class ad stylesheet var linkclass view link edit point var itwrap document getelementbyid elid var frm itwrap getelementsbytagnam form frm length form element var i i frm length i frm i action indexof hold view addit copi form exist var thefrm frm i var act thefrm action form s action var lnk document createel creat link element var txt document createtextnod linktxt creat link text lnk href act form s action link s href lnk classnam linkclass attach classnam link customiz lnk setattribut titl linktxt attach titl link lnk appendchild txt itwrap insertbefor lnk thefrm parentnod insert link thefrm style displai hide form 
+ detail 
+ xiii p ill cm 
+ seri 
+ studi popular cultur 
+ studi popular cultur jackson 
+ bibliographi 
+ includ bibliograph refer p index 
+ subject s 
+ comic book strip unit state histori critic 
+ wertham fredric 
+ comic book children unit state 
+ censorship unit state 
+ popular cultur unit state 
+ isbn 
+ x pbk alk paper 
+ alk paper 
+ lccn 
+ worldcat 
+ wrap hide error failur user milharvest catch e close catch error 
+ catalog tool 
+ gb insertpreviewbuttonpopup oclc bib oclc 
+ print 
+ question librarian 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ imag courtesi 
+ bridg materi type icon set project 
+ 
+ nova southeastern univers 
+ var pagetrack gat gettrack ua pagetrack trackpageview catch err 
+ var linktagg olt ga js linktagg settagdownload true linktagg setdownloadextens doc docx pdf mp linktagg settagoutbound true linktagg settagmailto true linktagg tag 
+ milmanipul catch e 
+ printsignatur catch e 
+ gettoc catch e 

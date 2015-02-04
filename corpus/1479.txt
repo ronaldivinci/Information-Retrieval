@@ -1,0 +1,75 @@
+ colleg commun fine art research center center excel univers memphi 
+ colleg commun fine art research center center excel univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ futur student 
+ undergradu student 
+ graduat student 
+ faculti staff 
+ alumni friend 
+ depart school 
+ center 
+ museum galleri 
+ affili partner 
+ scholarship award 
+ ccfa 
+ support ccfa 
+ new event 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ research center center excel 
+ found ccfa s 
+ institut egyptian art archaeolog 
+ ieaa univers s tennesse center excel element depart art institut studi art cultur ancient egypt teach research exhibit commun educ ieaa support epigraph survei great hypostyl hall karnak templ luxor egypt partner italian archaeolog mission tomb harwa thebe 
+ 
+ center multimedia art 
+ cma partner fedex institut technolog part depart art maintain design consult busi offer servic video product graphic interact design plan test support earli stage research educ busi initi center train student product develop maintain studi exchang digit media engag graduat assist undergradu intern honor colleg student research activ 
+ 
+ center sustain design 
+ csd part depart architectur center strive leadership era build design memphi develop principl green architectur support environment econom social condit mid south engag student academ disciplin architectur research design construct evalu 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ colleg commun fine art 
+ contact 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

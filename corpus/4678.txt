@@ -1,0 +1,87 @@
+ univers memphi editori staff univers memphi 
+ univers memphi editori staff univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ calendar 
+ editori staff 
+ review panel 
+ submiss guidelin 
+ faq 
+ issu 
+ contact 
+ quick link 
+ outlook 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ editori staff 
+ editor chief 
+ dr sage graham 
+ technic editor 
+ baxter buck 
+ review board volum 
+ dr jame campbel 
+ depart mathemat scienc 
+ ms catherin dice 
+ depart english 
+ dr david dwiggin 
+ depart mathemat scienc 
+ dr don franceschetti 
+ depart physic 
+ dr michail gkolia 
+ depart civil engin 
+ dr mark kaplowitz 
+ depart judaic studi 
+ steven knowlton 
+ mcwherter librari 
+ dr abbi parril 
+ depart chemistri 
+ ms rhonda power 
+ depart english 
+ ms jennif schnabel 
+ librari scienc 
+ dr kevin smith 
+ school law 
+ dr jin yang 
+ depart journal 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

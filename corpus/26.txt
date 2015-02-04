@@ -1,0 +1,182 @@
+ registrar regist class univers memphi 
+ registrar regist class univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ regist class 
+ student info 
+ veteran info 
+ faculti staff info 
+ parent info 
+ form 
+ registrar z list 
+ contact 
+ admiss 
+ financi aid 
+ scholarship 
+ pai fee bursar 
+ tom 
+ univers memphi 
+ quick link 
+ campu map 
+ class search 
+ data standard 
+ ferpa tutori 
+ grade 
+ iam 
+ semest calendar 
+ servic faculti 
+ servic student 
+ um event calendar 
+ veteran educ benefit 
+ withdraw um 
+ regist class 
+ earli prepar 
+ student calendar 
+ check semest 
+ date deadlin calendar 
+ determin date 
+ open dai registr 
+ dai regist 
+ regist dai regular registr 
+ initi registr date base classif cumul hour 
+ exclud 
+ current semest attempt hour 
+ dai regular registr 
+ dai class 
+ class offer 
+ check s offer form idea class offer onlin month registr open 
+ admit student 
+ login portal 
+ search semest s class offer 
+ class 
+ featur 
+ admit student 
+ class schedul search 
+ request need 
+ class permit 
+ registr open 
+ inform 
+ class offer 
+ financi aid 
+ check accept financi aid award student servic account tab 
+ advis 
+ degre seek student advis regist registr system record advis term regist block attempt regist altern pin error messag mean contact advisor colleg s advis unit clear regist 
+ advis link 
+ academ advis home page 
+ credit exam 
+ graduat 
+ undergradu 
+ find advisor 
+ gener educ program 
+ admiss defici 
+ placement exam 
+ regent onlin degre program 
+ immedi dai regist 
+ registr statu 
+ registr date approach check registr statu portal select registr statu link registr tool channel 
+ hold regist registr hold contact offic hold determin remov 
+ read hold 
+ student statu admit term 
+ contact admiss offic 
+ undergradu graduat law 
+ rememb advis regist degre seek student 
+ regist class pai fee 
+ regist class 
+ regist earli select 
+ student servic refer 
+ registr quick guid 
+ print person class schedul 
+ regist class check accuraci time dai room campu locat 
+ full list 
+ student servic guid 
+ relat topic 
+ academ probat suspens 
+ current academ statu allow regist final grade term result academ suspens automat withdrawn univers term s class financi aid elig affect 
+ exposur hazard chemic biolog agent ioniz radiat 
+ semest class laboratori hazard chemic biolog agent radioact materi radiat produc equip 
+ read 
+ late registr 
+ regist regular registr period end short time consult semest 
+ date deadlin calendar 
+ late registr period charg late registr fee regist late registr period 
+ schedul adjust 
+ schedul adjust onlin anytim initi registr deadlin drop add applic 
+ date deadlin calendar 
+ schedul adjust state deadlin follow manual process requir final approv dean colleg undergradu student dean graduat school graduat student consult advisor 
+ pai fee 
+ pai onlin select account tab log portal pai person visit bursar s offic wilder tower 
+ refer 
+ bursar s websit 
+ fee payment deadlin fee relat inform includ enrol fee refund 
+ visit bursar s 
+ registr fee payment deadlin 
+ page fee payment deadlin import payment remind 
+ fee relat link 
+ financi aid 
+ scholarship 
+ state tuition border counti 
+ program senior citizen student disabl 
+ veteran va benefit 
+ class week class 
+ recheck person class schedul 
+ view print schedul prior dai class build room number revis prior start class 
+ 
+ main campu map 
+ campu map visit 
+ extend program 
+ select campu site 
+ park inform 
+ registr process 
+ earli prepar 
+ dai regist 
+ regist pai fee 
+ st dai class 
+ registr 
+ registr quick guid 
+ error problem 
+ hold 
+ permit 
+ helplin 
+ enrol link 
+ audit 
+ credit exam undergradu 
+ credit exam graduat 
+ enrol verif 
+ loan defer 
+ placement exam 
+ regist class 
+ schedul delet payment 
+ withdraw um 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ admiss 
+ financi aid 
+ registrar 
+ scholarship 
+ offic registrar wilder tower memphi 
+ tn 
+ ph fx 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

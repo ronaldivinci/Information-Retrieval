@@ -1,0 +1,90 @@
+ resid life resid life student employ univers memphi 
+ resid life resid life student employ univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ appli hous 
+ resid hall 
+ child care servic 
+ resnet technic support 
+ soror hous 
+ live learn 
+ tiger dine 
+ lambuth dine 
+ lambuth campu 
+ confer hous 
+ hous 
+ meet staff 
+ reslif stream video 
+ enter hous mainten request 
+ resid life student employ 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ cdata imag src share share rootsit imag applynow bw jpg 
+ cdata imag src share share rootsit imag default background jpg 
+ cdata imag src share share rootsit imag portal bw jpg 
+ resid life student employ 
+ resid life student employ posit 
+ resid life student employ webpag list student employ postion resid life 
+ confer assist ca 
+ confer assist univers memphi student select live staff resid hall summer confer hous primari respons includ staf front desk check guest familiar guest univers polici procedur serv resourc person front line staff confer hous oper confer assist duti night hall addit confer assist front desk 
+ desk assist da 
+ desk assist essenti link secur commun channel hall perform task consist inform support hall staff import desk worker duti locat time 
+ facil assist fa 
+ chang light bulb smoke detector batteri replac window screen move furnitur heavi item minor patchwork wall drywal paint student room public area resid hall power wash build pick suppli staff member gener mainten 
+ duti assign 
+ resid advisor ra 
+ resid select basi leadership experi resid hall scholarship desir resid realiz opportun develop group live resid hall respons floor apart unit hous approxim resid respons assist area coordin aac 
+ restech 
+ restech inform technolog support technician assist department lsp duti configur comput multi function printer server network camera webpag develop program menu board system electron kei access system instal standard special softwar workstat laptop troubleshoot repair campu hous resid laptop comput printer mobil phone 
+ note student maintain gpa consid confer assist resid advisor posit 
+ note student maintain gpa consid desk assist facil assist restech posit 
+ onlin applic 
+ desk assist applic 
+ resid advisor ra 
+ facil assist fa 
+ confer assist ca 
+ restech applic 
+ ra employ inform 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ resid life dine servic richardson tower phone fax 
+ email reslif memphi 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

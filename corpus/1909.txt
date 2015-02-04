@@ -1,0 +1,136 @@
+ acad meet faculti univers memphi 
+ acad meet faculti univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ acad cours 
+ student resourc 
+ faculti resourc 
+ acad 
+ meet faculti 
+ meet staff 
+ contact 
+ quick link 
+ present request form 
+ meet faculti 
+ faculti 
+ 
+ depart 
+ bob baker 
+ athlet academ servic 
+ kai barkoh 
+ leadership program 
+ jessica bigger 
+ academ counsel center 
+ courtnei brafford 
+ academ counsel center 
+ vanessa brock 
+ academ counsel center 
+ dr martha brown 
+ depar biologi 
+ emile campbel 
+ greek life 
+ dr carl chando 
+ academ counsel center 
+ dr colton cockrum 
+ care 
+ david driscol 
+ univers center 
+ geoff fenlong 
+ confer plan oper 
+ tori griffith 
+ greek life 
+ lemmi grigg 
+ graduat admiss 
+ katrina heard 
+ adjunct instructor 
+ kristin henk 
+ athlet academ servic 
+ venitra hollingsworth 
+ advanc learn center 
+ leonia houston 
+ advanc learn center 
+ shea houz 
+ scholar 
+ kate howard 
+ recruit orient 
+ patsi krech 
+ colleg art scienc 
+ carol lanei 
+ admiss 
+ mari lanier 
+ colleg educ health human scienc 
+ allison linna 
+ recruit orient 
+ betsi loe 
+ academ counsel center 
+ laruth lofti 
+ colleg educ health human scienc 
+ megan macleod 
+ athlet market promot 
+ naomi martinez jone 
+ trio 
+ yolanda mathew 
+ academ transfer articul 
+ trelli morgan 
+ academ transfer articul 
+ vanessa muldrow 
+ commenc 
+ lindsei osborn 
+ adjunct instructor 
+ latasha parrish 
+ inform technolog 
+ meg pfeiffer 
+ athlet academ servic 
+ chri pollard 
+ financi aid 
+ nick racz 
+ academ counsel center 
+ angela robinson 
+ recruit orient 
+ desmond robinson 
+ trio 
+ kati saunder 
+ colleg educ health human scienc 
+ penni sevier 
+ colleg educ health human scienc 
+ kim stevenson 
+ human resourc 
+ larri surte 
+ academ counsel center 
+ bridget vanlandeghem 
+ athlet academ servic 
+ kathi walker 
+ health sport scienc 
+ amanda william 
+ academ counsel center 
+ dr mario brown 
+ adjunct instructor 
+ featur link 
+ video acad colleg career 
+ acad post semest survei 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

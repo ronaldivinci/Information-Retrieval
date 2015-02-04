@@ -1,0 +1,71 @@
+ child care servic hour oper univers memphi 
+ child care servic hour oper univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ hour oper 
+ polici 
+ nutrit food 
+ admit child 
+ curriculum 
+ new 
+ contact 
+ resid life 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ hour oper 
+ fall spring semest 
+ mondai thursdai pm 
+ fridai pm 
+ saturdai pm 
+ summer semest 
+ mondai thursdai pm 
+ fridai pm 
+ hour oper vari due enrol 
+ minimum children enrol order center provid servic time 
+ univers memphi close due inclement weather center close inclement weather hotlin 
+ inform 
+ click 
+ staff 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ resid life dine servic richardson tower phone fax 
+ email reslif memphi 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

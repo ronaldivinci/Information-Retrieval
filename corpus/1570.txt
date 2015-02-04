@@ -1,0 +1,252 @@
+ undergradu catalog law enforc administr univers memphi 
+ undergradu catalog law enforc administr univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ law enforc administr 
+ advis guidelin bachelor profession studi b p s degre concentr law enforc administr design experienc law enforc profession career complet program studi design increas skill manag organiz relat commun knowledg context law enforc administr fit understand workplac issu affect product abil manag divers workforc case candid degre program activ duti retir law enforc offic municip counti state level militari polic circumst experi privat secur elig 
+ program summari 
+ gener educ hour 
+ graduat univers univers gener educ program requir student complet year american histori high school exempt credit hour histori gener educ program requir student meet histori requir 
+ b coordin studi 
+ organ administr requir core hour 
+ acct fundament account 
+ cju crimin justic administr manag 
+ mgmt organ manag 
+ pol public administr 
+ tech principl supervis 
+ jour introduct public relat 
+ mgmt manag human resourc 
+ cj mass media polic fbi nation academi transfer univers virginia accept place 
+ team work organiz relat select cours hour 
+ comm commun leadership 
+ comm commun organ 
+ coun human interact 
+ coun strategi crisi intervent 
+ legl labor law 
+ mgmt organiz behavior busi 
+ written commun select hour 
+ engl technic profession write 
+ engl persuas write 
+ mgmt busi commun 
+ decis make select group group b hour 
+ group 
+ cju statist method crimin justic 
+ pol polit statist 
+ soci social statist 
+ group b 
+ cja polic organ administr offer onlin 
+ cju research method crimin justic 
+ soci method social research 
+ cj appli research method law enforc fbi nation academi transfer univers virginia substitut cours 
+ profession ethic select hour 
+ cju ethic dilemma crimin justic 
+ legl legal ethic 
+ phil ethic 
+ univ ethic profession 
+ urban public polici issu 
+ urban issu select cours hour 
+ anth urban anthropolog 
+ anth neighborhood develop social entrepreneurship 
+ esci introduct urban plan 
+ pol urban polit 
+ soci contemporari social problem 
+ soci citi chang 
+ cj overview crimin commun behavior fbi nation academi transfer univers virginia substitut cours 
+ public polici issu select cours hour 
+ cju polic america 
+ legl administr law procedur 
+ pol introduct studi public polici 
+ pol urban administr 
+ soci sociolog occup profess 
+ social behavior issu 
+ social issu select hour 
+ comm interraci commun 
+ soci racial ethnic minor 
+ soci sociolog gender 
+ soci black white women south 
+ behavior issu select hour 
+ cju criminolog 
+ psyc abnorm psycholog 
+ psyc social psycholog 
+ psyc alcohol drug behavior 
+ soci individu societi 
+ cj appli crimin psycholog fbi nation academi transfer univers virginia substitut cours 
+ c themat studi hour 
+ d senior project hour 
+ univ senior project hr complet final semest 
+ e elect 
+ chosen bring total number hour minimum upper divis hour 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

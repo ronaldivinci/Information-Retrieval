@@ -1,0 +1,110 @@
+ provost faculti inform univers memphi 
+ provost faculti inform univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ staff 
+ faculti 
+ faculti spotlight 
+ faculti award 
+ faculti handbook 
+ faculti resourc 
+ administr 
+ resourc 
+ z list 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ faculti inform 
+ univers memphi 
+ event 
+ wednesdai august 
+ faculti orient 
+ m registr 
+ continent breakfast resourc inform fair 
+ uc ballroom 
+ m p m faculti orient program 
+ uc bluff room 
+ p m p m faculti luncheon 
+ presid provost 
+ uc ballroom b c 
+ fridai august 
+ univers memphi gener faculti meet 
+ m noon rose theatr 
+ resourc 
+ citi memphi 
+ campu map 
+ univers park 
+ faculti contract calendar 
+ faculti handbook 
+ department tenur promot guidelin 
+ item complet faculti 
+ i certif 
+ faculti benefit payrol orient 
+ univers memphi sexual harass train 
+ titl vi train 
+ ferpa 
+ curriculum vita inform 
+ guidelin 
+ cv faculti evalu 
+ faculti cv websit 
+ cv queri 
+ electron faculti effort certif 
+ link onlin form 
+ prompt usernam password enter usernam password access univers email account postoffic memphi 
+ rememb credenti call itd helpdesk visit 
+ list faculti 
+ archiv 
+ archiv list faculti 
+ archiv list faculti 
+ archiv list faculti 
+ archiv list faculti 
+ offic provost 
+ univers memphi 
+ administr build 
+ memphi tn 
+ phone 
+ fax 
+ email 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

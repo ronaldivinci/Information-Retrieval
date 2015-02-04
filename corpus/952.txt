@@ -1,0 +1,93 @@
+ registrar audit class univers memphi 
+ registrar audit class univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ regist class 
+ student info 
+ veteran info 
+ faculti staff info 
+ parent info 
+ form 
+ registrar z list 
+ contact 
+ admiss 
+ financi aid 
+ scholarship 
+ pai fee bursar 
+ tom 
+ univers memphi 
+ quick link 
+ campu map 
+ class search 
+ data standard 
+ ferpa tutori 
+ grade 
+ iam 
+ semest calendar 
+ servic faculti 
+ servic student 
+ um event calendar 
+ veteran educ benefit 
+ withdraw um 
+ audit class 
+ audit class standard grade mode b f follow step 
+ read audit polici 
+ undergradu 
+ 
+ graduat 
+ regist class regist class standard grade mode appli grade mode chang audit 
+ note 
+ seat request instructor depart issu 
+ permit 
+ regist class 
+ read instruct process 
+ request permiss audit class 
+ form complet student portion part form form instructor approv 
+ instructor agre audit class complet sign part form form depart chair final approv 
+ note 
+ instructor declin audit decid drop schedul standard grade mode class standard grade mode drop 
+ depart chair approv audit sign complet part form complet form registrar s offic instruct deliv form 
+ registrar grade mode audit approv 
+ enrol link 
+ audit 
+ credit exam undergradu 
+ credit exam graduat 
+ enrol verif 
+ loan defer 
+ placement exam 
+ regist class 
+ schedul delet payment 
+ withdraw um 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ admiss 
+ financi aid 
+ registrar 
+ scholarship 
+ offic registrar wilder tower memphi 
+ tn 
+ ph fx 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

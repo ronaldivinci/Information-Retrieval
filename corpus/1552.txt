@@ -1,0 +1,438 @@
+ undergradu catalog health human perform univers memphi 
+ undergradu catalog health human perform univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ health human perform 
+ depart health sport scienc 
+ health human perform b s ed 
+ program object b s ed health human perform demonstr critic think skill specif area evalu evid understand sourc b demonstr profici written oral commun comput util c knowledg function anatomi biomechan analyz evalu movement prescrib exercis prevent injuri enhanc perform d recogn risk factor i e cardiovascular metabol musculoskelet relationship physic activ nutrit lifestyl behavior identifi risk factor requir consult medic alli health profession e demonstr understand principl research base guidelin nutrit bodi composit weight manag analyz current statu prescrib desir f demonstr understand basic principl program plan manag evalu administr health well program facil g formul research question collect analyz data conclus base data result 
+ univers gener educ program hour 
+ 
+ graduat univers 
+ univers gener educ program requir note depart major natur scienc credit hour dietet concentr chem social behavior scienc health promot life style manag dietet psyc 
+ b 
+ major hour 
+ major core minimum grade c requir major core concentr cours biol biol nutr hmse hmse elect exss satisfactori s grade requir exss hpro nutr concentr elect bring total degre hour 
+ concentr 
+ dietet hour nutr chem exss biol acct mktg mgmt edpr 
+ b exercis sport scienc hour hpro exss 
+ c health promot life style manag hour acct edpr exss hpro nutr 
+ d healthcar leadership hour hcl hpro comm hcl hmse note hcl hmse combin total hour credit 
+ c elect 
+ hour select consult advisor bring total number credit hour 
+ cours variabl hour supervis laboratori field experi requir 
+ acceler b s ed health human perform concentr exercis sport scienc m s health sport scienc concentr exercis sport scienc 
+ program outstand undergradu coursework master scienc health sport scienc senior year student encourag plan enter acceler b s ed m s program earli undergradu career consult advisor depart health sport scienc 
+ work undergradu graduat academ coordin undergradu select program carefulli tailor studi complet b s ed degre coursework m s 
+ student appli graduat school acceler b s ed m s program graduat cours health sport scienc continu program b s ed student appli full admiss graduat school health sport scienc depart s m s program 
+ abm program hour graduat work appli undergradu graduat program graduat coursework appli undergradu gpa 
+ typic year dietet concentr sequenc 
+ freshman year 
+ engl 
+ engl 
+ math 
+ human fine art 
+ histori 
+ psyc 
+ human fine art 
+ histori 
+ chem 
+ chem 
+ semest total 
+ hr 
+ hr 
+ sophomor year 
+ engl 
+ comm 
+ nutr 
+ soci 
+ biol 
+ biol 
+ nutr 
+ acct 
+ nutr 
+ elect 
+ nutr 
+ semest total 
+ hr 
+ hr 
+ junior year 
+ biol 
+ nutr 
+ mktg 
+ nutr 
+ chem 
+ chem 
+ elect 
+ exss 
+ semest total 
+ hr 
+ hr 
+ senior year 
+ elect 
+ nutr 
+ nutr 
+ elect 
+ nutr 
+ nutr 
+ mgmt 
+ nutr 
+ nutr 
+ hmse 
+ nutr 
+ semest total 
+ hr 
+ hr 
+ total hour 
+ total hour requir graduat 
+ satisfi univers gener educ program requir 
+ typic year exercis sport scienc concentr sequenc 
+ freshman year 
+ engl 
+ engl 
+ human fine art 
+ hpro 
+ math 
+ human fine art 
+ social behavior scienc 
+ natur scienc 
+ natur scienc 
+ social behavior scienc 
+ semest total 
+ hr 
+ hr 
+ sophomor year 
+ histori 
+ biol 
+ biol 
+ comm 
+ exss 
+ histori 
+ engl 
+ exss 
+ nutr 
+ elect 
+ exss 
+ semest total 
+ hr 
+ hr 
+ junior year 
+ exss 
+ exss 
+ exss 
+ exss 
+ exss 
+ exss 
+ elect 
+ elect 
+ elect 
+ exss 
+ semest total 
+ hr 
+ hr 
+ senior year 
+ exss 
+ exss 
+ exss 
+ elect 
+ elect 
+ exss 
+ semest total 
+ hr 
+ hr 
+ total hour 
+ total hour requir graduat 
+ satisfi univers gener educ program requir 
+ typic year health promot lifestyl manag concentr sequenc 
+ freshman year 
+ engl 
+ engl 
+ human 
+ hpro 
+ math 
+ human fine art 
+ histori 
+ natur scienc 
+ natur scienc 
+ psyc 
+ semest total 
+ hr 
+ hr 
+ sophomor year 
+ histori 
+ biol 
+ biol 
+ comm 
+ acct 
+ soci 
+ engl 
+ exss 
+ nutr 
+ hpro 
+ exss 
+ semest total 
+ hr 
+ hr 
+ junior year 
+ hpro 
+ exss 
+ hpro 
+ hpro 
+ hpro 
+ hpro 
+ elect 
+ elect 
+ hpro 
+ hpro 
+ semest total 
+ hr 
+ hr 
+ senior year 
+ hpro 
+ hpro 
+ hpro 
+ hmse 
+ edpr 
+ elect 
+ elect 
+ semest total 
+ hr 
+ hr 
+ total hour 
+ total hour requir graduat 
+ satisfi univers gener educ program requir 
+ show proof current aid cpr certif internship 
+ typic year healthcar leadership concentr sequenc 
+ freshman year 
+ engl 
+ engl 
+ math 
+ human fine art 
+ human fine art 
+ nutr 
+ social behavior scienc 
+ elect 
+ elect 
+ elect 
+ semest total 
+ hr 
+ hr 
+ sophomor year 
+ biol 
+ comm 
+ hist 
+ biol 
+ social behavior scienc 
+ hist 
+ engl 
+ elect 
+ elect 
+ elect 
+ semest total 
+ hr 
+ hr 
+ junior year 
+ hcl 
+ hcl 
+ hcl 
+ hcl 
+ hcl 
+ comm 
+ hcl 
+ hpro 
+ elect 
+ elect 
+ semest total 
+ hr 
+ hr 
+ senior year 
+ hcl 
+ hcl 
+ hcl 
+ hmse 
+ hcl 
+ hcl 
+ hcl 
+ elect 
+ elect 
+ semest total 
+ hr 
+ hr 
+ total hour 
+ total hour requir graduat 
+ satisfi univers gener educ program requir 
+ senior project internship combin total hour credit 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

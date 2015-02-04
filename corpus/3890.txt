@@ -1,0 +1,106 @@
+ health sport scienc degre program health sport scienc univers memphi 
+ health sport scienc degre program health sport scienc univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ cehh 
+ u m 
+ peopl 
+ futur student 
+ current student 
+ admiss advis 
+ degre program 
+ faculti staff 
+ research 
+ internship 
+ studi 
+ z list 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ cdata imag src share share rootsit imag applynow bw jpg 
+ cdata imag src share share rootsit imag default background jpg 
+ cdata imag src share share rootsit imag portal bw jpg 
+ class schedul 
+ ug catalog 
+ gr catalog 
+ tuition 
+ appli 
+ academ calendar 
+ semest calendar 
+ registrar 
+ campu map 
+ uofm scholarship 
+ cehh scholarship 
+ cehh onlin major 
+ major concent 
+ park 
+ technolog 
+ iam 
+ mymemphi portal 
+ degre program health sport scienc 
+ colleg educ health human scienc 
+ depart health sport scienc 
+ major 
+ concentr 
+ degre 
+ health human perform 
+ dietet 
+ exercis sport scienc 
+ health promot life style manag 
+ healthcar leadership 
+ bsed 
+ physic educ teacher educ 
+ 
+ bsed 
+ sport leisur manag 
+ 
+ bsed 
+ health sport scienc 
+ environment nutrit 
+ exercis sport scienc 
+ health promot 
+ nutrit scienc 
+ physic educ teacher educ 
+ sport leisur commerc 
+ ms 
+ clinic nutrit 
+ 
+ ms 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

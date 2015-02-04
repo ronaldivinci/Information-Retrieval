@@ -1,0 +1,263 @@
+ undergradu catalog muse univers memphi 
+ undergradu catalog muse univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ muse 
+ muse music educ 
+ rudi e scheidt school music 
+ randal rush d m director 
+ room b music build 
+ field endors teach student music educ concentr bachelor music music degre endors obtain instrument gener music choral gener music student expect recommend area choral music applic plai piano accompani moder difficulti possess adequ solo voic school music purpos particip varieti choral ensembl instrument music applic studi instrument major emphasi particip larg instrument ensembl success complet junior recit requir area 
+ addit cours depart offer special topic cours 
+ muse special topic music educ 
+ topic vari onlin class list 
+ muse class inst brass 
+ basic perform skill teach techniqu trumpet trombon french horn bariton horn tuba intend teach instrument music school sp 
+ muse class inst percuss 
+ basic perform skill teach techniqu snare drum timpani keyboard percuss instrument intend teach instrument music school f 
+ muse class inst woodwind 
+ basic perform skill teach techniqu clarinet flute saxophon obo bassoon intend teach instrument music school sp 
+ muse class inst voic 
+ fundament vocal product music teacher 
+ muse class instr string 
+ basic perform skill teach techniqu violin viola cello doubl bass intend teach instrument music school f 
+ muse guitar music teacher 
+ basic guitar techniqu chord folk style accompani prepar student effect teach gener music class 
+ muse foundat music ed 
+ develop philosoph foundat music educ profession valu attitud work habit effect teacher stress field experi techniqu observ 
+ muse function keyboard skill 
+ function keyboard harmoni sight read skill design keyboard major prerequisit mutc sp odd year 
+ muse basic conduct 
+ develop conduct skill basic baton principl rhythmic analysi express techniqu phrase multimet problem class meet requir perform instrumentalist vocalist conductor class hour week f prerequisit mutc 
+ muse individu studi music educatn 
+ individu studi problem opportun face person teach music school classroom teacher music teacher supervisor princip administr repeat maximum hour credit purpos chang origin grade 
+ muse march band techniqu 
+ organ conduct march band gridiron chart march procedur studi precis drill format pageantri prerequisit permiss instructor 
+ muse band literatur 
+ histori evolut wind instrument wind instrument plai histori develop wind band literatur gener background materi specif compos involv sp 
+ muse piano tune repair 
+ concentr studi basic techniqu involv piano tune adjust basic tool requir 
+ muse vocal diction i 
+ muse vocal diction ii 
+ muse mat method elementari music 
+ philosophi method materi teach music class secondari school grade demonstr simul classroom teach level tep restrict prerequisit muse f 
+ muse jazz ensembl techniqu 
+ jazz phrase articul ensembl set repertoir select administr school jazz program prerequisit permiss instructor 
+ muse guitar pedagogi 
+ principl materi teach classic guitar 
+ muse materi meth inst musc 
+ design prepar instrument music teacher teach music concept intermedi advanc player mix instrument group set instruct methodolog materi object evalu motiv administr stress f prerequisit muse junior stand music 
+ muse matrl method choral mu 
+ select materi method practic concern vocal choral music specialist consider music seri schedul techniqu voic class develop choral publish unit studi f prerequisit muse junior stand music corequisit muse 
+ muse piano pedagogi i 
+ train teacher begin intermedi level piano instruct establish strong artist music technic foundat f prerequisit permiss instructor 
+ muse piano pedagogi ii 
+ train teacher advanc piano instruct extens read renown artist teacher perform develop ideat memor skill observ supervis practic teach sp prerequisit muse permiss instructor 
+ muse collab piano techniqu 
+ perform class involv practic studi instrument vocal standard repertori problem ensembl plai facil sight read abil assimil music rapidli score read transposit figur bass realiz introduc skill round musicianship sp prerequisit permiss instructor 
+ muse suzuki string pedagogi i 
+ requir student plan serv apprentic string teacher u m suzuki talent educ program basic instruct suzuki philosophi particip parent children suzuki string class 
+ muse prin suzuki piano 
+ suzuki philosophi appli develop child s abil role teacher parent student analyz technic music instruct begin piano student f prerequisit upper divis piano skill 
+ muse suzuki string pedagogi ii 
+ literatur techniqu taught suzuki violin school fundament techniqu develop postur tone listen abil begin student analysi pedagog materi requir student plan serv apprentic teacher u m suzuki string program prerequisit muse 
+ muse suzuki string pedagogi iii 
+ literatur techniqu taught suzuki violin school emphasi develop advanc student laboratori experi u m suzuki string program requir student plan apprentic teacher u m suzuki string program prerequisit muse 
+ muse class piano pedagogi 
+ group instruct techniqu teach begin intermedi earli advanc piano emphas observ practic applic piano major prospect piano teacher sp year prerequisit upper divis level keyboard permiss instructor 
+ muse suzuki string pedagogi iv 
+ analysi pedagog materi techniqu introduc volum suzuki violin school prerequisit muse 
+ muse brass pedagogi 
+ examin current literatur principl method psycholog brass plai teach student particip videotap teach assign improv teach skill studio set sp year 
+ muse percuss pedagogi 
+ basic principl materi teach percuss instrument sp year 
+ muse woodwind pedagogi 
+ principl materi teach flute obo clarinet bassoon saxophon 
+ muse vocal pedagogi 
+ basic principl materi teach young singer 
+ muse integr art 
+ muhl cultur activ interrel histor econom event open prerequisit music major junior senior stand 
+ muse instrument conduct 
+ problem encount prepar conduct instrument score individu practic opportun student conduct instrument group class hour week prerequisit muse mutc 
+ muse choral conduct 
+ problem encount prepar conduct tradit contemporari vocal score rehears techniqu individu practic laboratori group class hour week prerequisit muse mutc 
+ muse level i orff schulwerk 
+ basic orff schulwerk techniqu includ bodi movement soprano record percuss vocal perform improvis arrang prerequisit junior stand music educ equival experi 
+ muse student teach music 
+ full time plan supervis teach experi music provid opportun synthes knowledg skill demonstr profession compet educ set prerequisit muse approv music educ faculti corequisit muse 
+ muse profession seminar 
+ seminar concurr student teach requir student analyz practic solv problem review time materi pertin field music educ emphasi address concern question aris student teach set prerequisit muse corequisit muse 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

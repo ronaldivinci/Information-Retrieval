@@ -1,0 +1,317 @@
+ registrar summer date deadlin univers memphi 
+ registrar summer date deadlin univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ regist class 
+ student info 
+ veteran info 
+ faculti staff info 
+ parent info 
+ form 
+ registrar z list 
+ contact 
+ admiss 
+ financi aid 
+ scholarship 
+ pai fee bursar 
+ tom 
+ univers memphi 
+ quick link 
+ campu map 
+ class search 
+ data standard 
+ ferpa tutori 
+ grade 
+ iam 
+ semest calendar 
+ servic faculti 
+ servic student 
+ um event calendar 
+ veteran educ benefit 
+ withdraw um 
+ summer date deadlin 
+ date 
+ part term 
+ full st tch tch rodp regent onlin degre program 
+ note 
+ admiss readmiss deadlin refer admiss 
+ appli 
+ page 
+ fee payment refund deadlin refer 
+ bursar s calendar 
+ registr check registr statu regist 
+ st dai regist 
+ degre seek graduat post bacc 
+ honor student 
+ veteran 
+ april 
+ reg open 
+ senior 
+ april 
+ junior 
+ april 
+ sophomor 
+ april 
+ freshmen 
+ april 
+ degre seek 
+ april 
+ pc tn employe senior citizen 
+ bursar s summer undergrad grad cal 
+ dai regular registr 
+ full 
+ 
+ st 
+ 
+ 
+ juli 
+ tch 
+ 
+ tch 
+ juli 
+ rodp 
+ 
+ late registr late registr fee 
+ full 
+ june 
+ st 
+ june 
+ 
+ juli 
+ tch 
+ june 
+ tch 
+ juli 
+ rodp 
+ june 
+ dai add chang section 
+ full 
+ june 
+ st 
+ june 
+ 
+ juli 
+ tch 
+ june 
+ tch 
+ juli 
+ rodp 
+ june 
+ fall regular registr begin 
+ april 
+ fee payment financi aid date deadlin 
+ enrol fee payment financi aid disburs schedul 
+ visit bursar s websit 
+ drop refund deadlin 
+ refund deadlin 
+ visit bursar s websit 
+ refund deadlin 
+ drop cours 
+ note 
+ cours drop prior date receiv grade 
+ 
+ full 
+ june 
+ st 
+ june 
+ 
+ juli 
+ tch 
+ june 
+ tch 
+ juli 
+ rodp 
+ june 
+ dai drop class refund w grade assign 
+ full 
+ juli 
+ st 
+ june 
+ 
+ juli 
+ tch 
+ june 
+ tch 
+ juli 
+ rodp 
+ juli 
+ class meet break final exam 
+ memori dai univers holidai mon 
+ 
+ term part term length 
+ full 
+ june august 
+ st 
+ june juli 
+ 
+ juli august 
+ tch 
+ june june 
+ tch 
+ juli juli 
+ rodp 
+ june august 
+ class 
+ full 
+ june 
+ st 
+ june 
+ 
+ juli 
+ tch 
+ june 
+ tch 
+ juli 
+ rodp 
+ june 
+ independ dai univers holidai fri 
+ juli 
+ full rodp break fri sun 
+ juli 
+ class 
+ full 
+ august 
+ st 
+ juli 
+ 
+ august 
+ tch 
+ june 
+ tch 
+ juli 
+ rodp 
+ august 
+ final exam 
+ summer exam schedul 
+ graduat commenc 
+ undergradu deadlin file degre 
+ graduat deadlin file degre submit candidaci form thesi dissert 
+ commenc ceremoni 
+ grade attend 
+ drop cours 
+ note 
+ cours drop prior date receiv grade 
+ 
+ full 
+ june 
+ st 
+ june 
+ 
+ juli 
+ tch 
+ june 
+ tch 
+ juli 
+ rodp 
+ june 
+ faculti report initi class attend 
+ full 
+ june 
+ st 
+ grade period 
+ 
+ juli 
+ tch 
+ grade period 
+ tch 
+ juli 
+ rodp 
+ n 
+ remov spring undergradu i grade 
+ june 
+ remov spring graduat i grade 
+ august 
+ faculti deadlin web grade entri 
+ full 
+ august 
+ st 
+ juli 
+ 
+ august 
+ tch 
+ june 
+ tch 
+ juli 
+ rodp 
+ august 
+ final offici grade thursdai term s exam 
+ full 
+ august 
+ st 
+ juli 
+ 
+ august 
+ tch 
+ june 
+ tch 
+ juli 
+ rodp 
+ august 
+ dorm 
+ resid hall check 
+ full 
+ 
+ st 
+ 
+ 
+ juli 
+ tch 
+ n 
+ tch 
+ n 
+ rodp 
+ n 
+ resid hall check 
+ full 
+ august 
+ st 
+ juli 
+ 
+ august 
+ tch 
+ n 
+ tch 
+ n 
+ rodp 
+ n 
+ date categori 
+ registr 
+ fee payment financi aid 
+ drop refund 
+ class mtng break final 
+ graduat commenc 
+ grade attend 
+ dorm 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ admiss 
+ financi aid 
+ registrar 
+ scholarship 
+ offic registrar wilder tower memphi 
+ tn 
+ ph fx 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

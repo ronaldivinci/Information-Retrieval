@@ -1,0 +1,82 @@
+ transfer articul admit univers memphi 
+ transfer articul admit univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ 
+ transfer admiss 
+ cours appli 
+ dual admiss 
+ articul plan 
+ equival tabl 
+ transfer scholarship 
+ admit 
+ quick link 
+ outlook 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ admit 
+ actran 
+ step 
+ admiss checklist 
+ academ advis 
+ find advisor find 
+ mymemphi 
+ 
+ check directori 
+ p 
+ nurs 
+ pre health 
+ law 
+ academ resourc 
+ esp tutor 
+ librari 
+ undergradu catalog 
+ bookstor 
+ languag placement 
+ date deadlin 
+ campu resourc 
+ student affair 
+ financi aid 
+ adult commut student servic acss 
+ regist 
+ chang declar major 
+ appoint schedul softwar appoint 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

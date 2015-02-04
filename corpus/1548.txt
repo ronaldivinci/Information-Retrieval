@@ -1,0 +1,287 @@
+ undergradu catalog comput scienc univers memphi 
+ undergradu catalog comput scienc univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ comput scienc 
+ depart comput scienc 
+ comput scienc major b s 
+ b s degre program accredit comput accredit commiss accredit board engin technolog cac abet 
+ program educ object bachelor s degre comput scienc year graduat graduat expect 
+ demonstr abil solv complex problem comput scienc evidenc success entranc advanc comput scienc profess 
+ demonstr appreci lifelong learn continu profession develop pursu graduat educ profession educ continu educ opportun attain profession licensur membership profession societi 
+ graduat b s comput scienc acquir 
+ abil appli knowledg comput mathemat disciplin 
+ b abil analyz problem identifi defin comput requir solut 
+ c abil design implement evalu comput base system process compon program meet desir 
+ d abil function effect team accomplish common goal 
+ e understand profession ethic legal secur social issu respons 
+ f abil commun effect rang audienc 
+ g abil analyz local global impact comput individu organ societi 
+ h recognit abil engag continu profession develop 
+ i abil current techniqu skill tool comput practic 
+ j abil appli mathemat foundat algorithm principl comput scienc theori model design comput base system demonstr comprehens tradeoff involv design choic 
+ abil appli design develop principl construct softwar system vari complex 
+ univers gener educ program hour 
+ 
+ graduat univers 
+ univers gener educ program requir note requir comput scienc major mathemat math natur scienc phy chem biol biol econ strongli recommend social scienc requir 
+ b colleg degre b s requir hour 
+ 
+ colleg bachelor scienc requir 
+ addit univers gener educ program requir 
+ c major hour addit univers gener educ program b s degre requir 
+ complet math cours includ univers gener educ program colleg b s degre requir natur scienc cours lab sequenc mention part part comp comp elect senior requir comput scienc field test semest comp 
+ d elect 
+ elect chosen bring total number semest hour comp fulfil elect requir 
+ e major comput scienc engin major hour 
+ twenti semest hour cours offer depart comput scienc includ comp semest hour upper divis comp cours addit hour comput scienc relat cours comp fulfil requir coursework chosen consult approv advisor depart comput scienc 
+ f major comput scienc major biologi chemistri mathemat scienc physic hour 
+ twenti semest hour cours offer depart comput scienc includ comp semest hour upper divis comp cours addit hour comput scienc relat cours comp fulfil requir coursework chosen approv advisor depart comput scienc 
+ comput scienc minor 
+ complet semest hour comput scienc cours includ comp addit upper divis semest hour comp fulfil minor requir 
+ comput scienc honor design 
+ student earn design honor comput scienc graduat compli requir 
+ admit comput scienc honor program depart formal request consider student 
+ cumul gpa gpa comput scienc comp cours satisfi degre requir 
+ fifteen credit hour cours design honor comput scienc program satisfi degre requir 
+ cours honor section core sequenc comp comp comp 
+ credit hour cours honor section comp independ studi comp senior thesi comp capston softwar project 
+ acceler b s m s program comput scienc 
+ program outstand undergradu coursework master scienc comput scienc senior year student encourag plan enter acceler b s m s program earli undergradu career consult advisor depart comput scienc 
+ work undergradu graduat academ coordin undergradu select program carefulli tailor studi complet b s degre coursework m s 
+ student appli graduat school acceler b s m s program graduat cours comput scienc continu program b s student appli full admiss graduat school comput scienc depart s m s program 
+ abm program hour graduat work appli undergradu graduat program graduat coursework appli undergradu gpa 
+ typic year comput scienc sequenc 
+ freshman year 
+ comp 
+ comp 
+ math 
+ math 
+ engl 
+ comp 
+ histori 
+ engl 
+ foreign languag b s 
+ foreign languag b s 
+ comp 
+ semest total 
+ hr 
+ hr 
+ sophomor year 
+ comp 
+ comp 
+ natur scienc 
+ natur scienc 
+ comm 
+ comp 
+ histori 
+ human 
+ social behavior scienc 
+ social behavior scienc 
+ semest total 
+ hr 
+ hr 
+ junior year 
+ comp 
+ comp 
+ math 
+ comp 
+ comp 
+ human 
+ natur scienc 
+ ud social scienc b s 
+ engl 
+ elect 
+ semest total 
+ hr 
+ hr 
+ senior year 
+ comp 
+ elect 
+ math 
+ comp 
+ comp 
+ ud comp elect 
+ comp elect 
+ human b s 
+ semest total 
+ hr 
+ hr 
+ total hour 
+ total hour requir graduat 
+ satisfi univers gener educ program requir 
+ natur scienc sequenc addit lab phy phy chem chem biol biol 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

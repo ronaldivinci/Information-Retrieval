@@ -1,0 +1,421 @@
+ biologi depart biologi contact inform univers memphi 
+ biologi depart biologi contact inform univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ undergradu 
+ graduat 
+ center 
+ peopl 
+ administr 
+ research focu 
+ new 
+ biotech 
+ art scienc 
+ univers memphi 
+ z list 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ depart biologi contact inform 
+ choos link find contact inform depart biolog scienc 
+ biologi faculti 
+ biologi staff 
+ meeman biolog station 
+ biologi advis resourc center 
+ bioinformat 
+ anim care facil 
+ ecolog research center erc south campu 
+ harri w feinston center genom research 
+ integr microscopi 
+ center offic 
+ biologi faculti 
+ titl 
+ telephon 
+ e mail 
+ bldg room 
+ bayer randal j 
+ professor chairman 
+ rbayer memphi 
+ eh 
+ abel ami 
+ asst professor 
+ anabel memphi 
+ ls 
+ beck melvin 
+ professor 
+ mbeck memphi 
+ ls 
+ bigger charl j 
+ professor 
+ cbigger memphi 
+ ls 
+ brown martha 
+ asst professor 
+ mbrown memphi 
+ eh 
+ chung king thom 
+ professor 
+ kchung memphi 
+ ls 
+ cole judith 
+ assoc professor 
+ jcole memphi 
+ ls 
+ coon lewi 
+ professor 
+ lcoon memphi 
+ ls 
+ dicken charl m 
+ research asst professor 
+ cmdcken memphi 
+ ls 
+ estra o carlo e 
+ assoc professor 
+ cestrano memphi 
+ ls 
+ ferkin michael 
+ professor 
+ mhferkin memphi 
+ eh 
+ freeman david 
+ assoc professor 
+ dfreemn memphi 
+ ls 
+ gartner kent 
+ professor 
+ tgartner memphi 
+ ls 
+ goodwin shirlean 
+ research asst professor 
+ sgoodwin memphi 
+ ls 
+ homayouni ramin 
+ assoc professor director 
+ rhomayon memphi 
+ sm 
+ kennedi michael 
+ professor 
+ mlkenndi memphi 
+ eh 
+ lessman charl 
+ professor 
+ clessman memphi 
+ ls 
+ liu andrew 
+ assist professor 
+ acliu memphi 
+ ls 
+ mandel jennif r 
+ assist professor 
+ jmandel memphi 
+ eh 
+ mckenna duan d 
+ assist professor 
+ dmckenna memphi 
+ eh 
+ ourth donald 
+ professor 
+ ddourth memphi 
+ ls 
+ parri matthew 
+ assoc professor 
+ mparri memphi 
+ eh 
+ pezeshki s reza 
+ professor 
+ pezeshki memphi 
+ eh 
+ ramanathan chidambaram 
+ research asst professor 
+ rchdmbrm memphi 
+ ls 
+ schoech stephan 
+ professor 
+ sschoech memphi 
+ ls 
+ schwartzbach steve 
+ professor 
+ sdschwrt memphi 
+ ls 
+ sharma alka 
+ visit professor 
+ asharma memphi 
+ eh 
+ simco bill 
+ professor 
+ bsimco memphi 
+ erc 
+ skalli omar 
+ assoc professor 
+ oskal memphi 
+ imc 
+ sorin anna bess 
+ instructor coordin 
+ absorin memphi 
+ ls 
+ steven stanlei e 
+ professor 
+ esteven memphi 
+ ls 
+ sutter carri 
+ research assc professor 
+ csutter memphi 
+ ls 
+ sutter thoma 
+ professor feinston chair molecular biologi 
+ tsutter memphi 
+ ls 
+ taller barbara 
+ assoc professor 
+ bjtaller memphi 
+ ls 
+ wong tit yee 
+ professor 
+ tywong memphi 
+ ls 
+ wu yimin 
+ research asst professor 
+ ywu memphi 
+ ls 
+ top 
+ biologi staff 
+ titl 
+ telephon 
+ e mail 
+ bldg room 
+ vacant 
+ coordin gener biologi genet lab 
+ eh 
+ carthon cassandra 
+ financi servic associ 
+ crcarthn memphi 
+ eh 
+ german stephen 
+ research technician i 
+ scgerman memphi 
+ ls 
+ hart jon 
+ build manag 
+ jhart memphi 
+ eh 
+ seung geuk shin 
+ coordin molecular scienc lab 
+ sshin memphi 
+ eh 
+ mittelmei dian 
+ busi offic i 
+ dmittlmr memphi 
+ eh 
+ sorin anna bess 
+ coordin instructor 
+ absorin memphi 
+ ls 
+ stephen cynthia 
+ administr secretari 
+ cfstphn memphi 
+ eh 
+ barn joseph 
+ coordin molecular scienc lab 
+ jdbrne memphi 
+ ls 
+ wade e o 
+ laboratori technician 
+ ewad memphi 
+ ls 
+ william wendelyn 
+ coordin physiolog lab 
+ jwwllm memphi 
+ ls 
+ top 
+ meeman biolog field station 
+ van vickl darrel 
+ field station caretak 
+ dvanvckl memphi 
+ mbf 
+ cuba millington millington tn 
+ dormitori 
+ biologi advis resourc center 
+ sorin anna bess 
+ instructor coordin 
+ absorin memphi 
+ ls 
+ german steve 
+ research technician i 
+ scgerman memphi 
+ ls 
+ top 
+ bioinformat 
+ campbel tallulah 
+ administr associ i 
+ tbcmpbll memphi 
+ sm 
+ homayouni ramin 
+ assoc professor director 
+ rhomayon memphi 
+ sm 
+ jone lynn 
+ researchassoc ii hlth scienc 
+ ljone memphi 
+ ls 
+ qiao shuhong 
+ post doctor fellow 
+ sqiao memphi 
+ ls 
+ roi sujoi 
+ post doctor fellow 
+ sujoyroi memphi 
+ sm 
+ top 
+ anim care facil 
+ buddington karyl 
+ director assoc professor 
+ kbud memphi 
+ ls admin 
+ rai donni 
+ anim facil manag 
+ donnyrai memphi 
+ admin 
+ top 
+ center 
+ ecolog research center erc south campu 
+ kennedi michael 
+ director 
+ mlkenndi memphi 
+ bldg rm 
+ simco bill 
+ director 
+ bsimco memphi 
+ bldg rm 
+ goudi cheryl 
+ program coordin 
+ cgoudi memphi 
+ bldg rm 
+ wait juli 
+ adjunct professor 
+ jlwait memphi 
+ bldg rm 
+ kennedi phylli 
+ adjunct professor 
+ pkkenndi memphi 
+ bldg rm 
+ jame dawn 
+ cleric support 
+ ddjame memphi 
+ bldg rm 
+ top 
+ harri w feinston center genom research 
+ bodreddigari sridevi 
+ prof temp emp 
+ bsridevi memphi 
+ dicken charl m 
+ research assist professor 
+ cmdcken memphi 
+ ls 
+ goodwin shirlean 
+ research asst professor 
+ sgoodwin memphi 
+ ls 
+ kim tae kang 
+ research assoc ii health sci 
+ tkkim memphi 
+ ls 
+ rahman mostafizur m d 
+ post doctor fellow 
+ mdrahman memphi 
+ sutter carri 
+ research assist professor 
+ csutter memphi 
+ ls 
+ sutter thoma 
+ professor director 
+ tsutter memphi 
+ ls 
+ wu yimin 
+ research assist professor 
+ ywu memphi 
+ ls 
+ top 
+ integr microscopi 
+ skalli omar 
+ director 
+ oskal memphi 
+ ls 
+ boykin lou 
+ coordin imc 
+ lgboykn memphi 
+ ls 
+ felio perez 
+ materi scienc lab manag 
+ fperez mempi 
+ ls 
+ thompson lauren 
+ research technician ii 
+ lthmp memphi 
+ ls 
+ top 
+ integr microscopi continu 
+ telephon 
+ im main number 
+ histolog 
+ top 
+ fax number 
+ bldg room 
+ ecolog research center erc 
+ park avenu s campu 
+ feinston center 
+ ellington hall 
+ eh 
+ integr microscopi 
+ ls 
+ life scienc 
+ ls 
+ top 
+ department committe list e mail group list 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ depart biologi 
+ walker avenu memphi 
+ tn 
+ phone fax e mail 
+ biohelp memphi 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

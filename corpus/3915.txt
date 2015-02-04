@@ -1,0 +1,97 @@
+ histori depart histori univers memphi univers memphi 
+ histori depart histori univers memphi univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ histori 
+ undergradu student 
+ graduat student 
+ onlin program 
+ herc 
+ faculti 
+ histori happen 
+ newslett 
+ event calendar 
+ contact 
+ z list 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ cdata imag src share share rootsit imag applynow bw jpg 
+ cdata imag src share share rootsit imag default background jpg 
+ cdata imag src share share rootsit imag portal bw jpg 
+ depart histori univers memphi 
+ s happen histori 
+ mini catalog spring 
+ undergradu 
+ graduat 
+ request permit class close special permit requir regist 
+ permit undergradu class 
+ 
+ permit graduat class 
+ depart histori open search tenur track posit mediev european histori 
+ studi histori univers memphi learn team talent award win scholar teacher absorb divers import fascin lesson human master skill succe todai s economi critic research deepli analyz complex event write clariti distinct 
+ faculti member teach cours wide varieti theme time period geograph region teach onlin major research univers offer b m degre onlin 
+ graduat program offer m ph d major focu area defin strength graduat program african american southern histori egyptolog global histori modern european histori studi women gender famili 
+ read latest newslett 
+ nov 
+ exhibit anim ancient egypt art museum u m 
+ jan 
+ exhibit anim mummi ancient egypt memphi brook museum art 
+ nov 
+ dr monika nenon lectur hamlet theatr centuri german speak counti human brown bag seri 
+ nov 
+ richard follettt lectur cotton museum book 
+ white fright 
+ nov 
+ profession workshop ma phd student prepar comprehens examin 
+ dr david turpi publish articl 
+ journal southern histori 
+ dr alan karra deliv sesquicentenni lectur speak smuggl piraci 
+ dr sarah potter speak human brown bag lectur seri 
+ ghana studi group present program carpent complex resid 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ depart histori 
+ mitchel hall 
+ contact 
+ visit depart histori 
+ facebook 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

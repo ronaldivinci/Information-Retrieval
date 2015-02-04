@@ -1,0 +1,229 @@
+ undergradu catalog id univers memphi 
+ undergradu catalog id univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ id 
+ id interior design 
+ depart architectur 
+ michael d hagg m arch chair 
+ room jone hall 
+ addit fee charg interior design cours onlin class list expens section catalog 
+ addit cours depart offer special topic cours 
+ id special topic interior design 
+ vari topic onlin class list repeat permiss maximum hour credit prerequisit permiss instructor 
+ id interior color composit 
+ applic color theori design composit specif requir interior design practic lectur studio assign prerequisit arch 
+ id interior design render 
+ art black white color media point perspect illustr assign line textur shade shadow volum color freehand draw draft prerequisit arch id 
+ id light built environ 
+ comprehens studi light sourc principl color design applic includ circuit switch dim system task ambient light industri resourc zonal caviti method point sourc calcul appli lectur studio assign prerequisit arch arch id requir math permiss instructor 
+ id interior construct draft 
+ principl build construct applic develop work draw residenti commerci project build method materi studi lectur studio assign prerequisit id 
+ id compon interior 
+ technic aspect build type build system surfac structur materi interior design relat build code public health safeti welfar draft detail includ prerequisit id 
+ id foundat studio 
+ project introduc design preced typolog form space order mean place understand specif cultur social physic context architectur design black white color media point perspect illustr assign line textur shade shadow volum color freehand draw draft prerequisit arch corequisit id arch 
+ id foundat studio 
+ integr concept method appli build type design construct system focu develop design solut integr formal express visual idea function adept plan design concept prerequisit id corequisit arch 
+ id arch interior furnitur 
+ major trend centuri explor impact technolog social 
+ id arch interior furnitur 
+ major trend centuri present explor impact technolog social chang 
+ id survei interior furnitur 
+ major histor period trend develop interior design furnitur renaiss present primari emphasi principl aesthet philosophi design theori prerequisit permiss instructor 
+ id i d human factor 
+ overview issu relat health safeti ergonom anthropometr percept socio behavior respons physic abil univers design theori prerequisit id permiss instructor 
+ id i d busi practic 
+ histori organ interior design profess studi busi method practic formul resum design portfolio prerequisit id permiss instructor 
+ id interior detail draw 
+ principl build construct applic develop work draw includ design draw interior millwork casework product specif construct studi lectur studio assign prerequisit id 
+ id sustain interior design 
+ integr qualiti environment design built environ facil plan manag respond demand current social econom climat particip ask contribut ten hour sustain commun servic choic prerequisit id permiss instructor 
+ id interior design studio 
+ applic materi cover basic interior design cours theoret design complet environ design develop product work present draw specif studi lectur studio project prerequisit id permiss instructor corequisit arch 
+ id interior design studio 
+ comprehens assign commerci design includ design develop space plan build code requir construct specif document barrier free design studi lectur design assign prerequisit id 
+ id i d independ studi 
+ independ research select area interior design supervis depart architectur faculti prerequisit permiss instructor 
+ id interior design internship 
+ experienti learn achiev approv work assign design firm public privat entiti depart architectur faculti prerequisit id permiss instructor 
+ id interior design studio 
+ advanc studio assign commerci interior design studi lectur design project prerequisit arch id 
+ id interior design studio 
+ comprehens design address creativ profession technic histor issu involv problem chosen defin student approv faculti prerequisit id i 
+ id interior design seminar 
+ studi research specif area interior design result program id prerequisit id 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

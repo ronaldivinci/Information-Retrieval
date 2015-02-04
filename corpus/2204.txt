@@ -1,0 +1,250 @@
+ undergradu catalog comp univers memphi 
+ undergradu catalog comp univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ comp 
+ comp comput scienc 
+ depart comput scienc 
+ sajjan shiva ph d chair 
+ room dunn hall 
+ addit cours depart offer special topic cours 
+ comp topic comput scienc 
+ topic vari onlin class list prerequisit permiss instructor 
+ comp comput literaci 
+ comp problem solv comput 
+ fundament aspect problem solv context comput program techniqu deriv problem solut basic program concept loop condit variabl basic high level program languag note comp elect fulfil requir major minor comput scienc f sp 
+ comp cs intro comp scienc 
+ tbr cisp overview comput scienc field problem solv strategi emphasi fundament program skill primit data type control structur arrai string i o basic recurs document test debug techniqu introduct object orient concept lectur hour laboratori hour week prerequisit corequisit math math math comp minor f sp su 
+ comp cs data structur 
+ principl object orient program softwar develop problem solv recurs abstract data type includ link list stack queue basic sort search algorithm prerequisit math math math comp minor comp corequisit comp comp comp major f sp su 
+ comp discret structur 
+ elementari logic set relat function equival relat permut combin mathemat induct recurr relat graph algorithm note student receiv credit comp math prerequisit math math math comp minor comp corequisit comp comput scienc major 
+ comp discret structur lab 
+ practicum discret mathemat concept abstract context discret structur algorithm program graph boolean algebra automata softwar develop prerequisit math math comp corequisit comp comp f sp su math offer summer 
+ comp adv data struct algorithm 
+ review data structur object orient concept implement advanc data structur relat algorithm graph tree binari search tree advanc sort hash prerequisit comp comp f sp su 
+ comp comput org assembl lang 
+ basic concept assembl languag program includ logic compar branch interrupt macro procedur arrai program design test debug load link combin arithmet logic circuit alu memori circuit latch flip flop regist comput structur fetch execut cycl clock time microprogram microarchitectur data path time sequenc cach memori organ risc architectur prerequisit comp sp 
+ comp data info knowledg 
+ inform unifi theme investig rang issu comput scienc databas system artifici intellig human comput interact multimedia system data commun intellectu properti privaci civil liberti inform ag prerequisit comp comp sp 
+ comp network info assur 
+ net centric comput commun network world wide web multimedia network network manag basic issu comput secur threat model basic method protocol cryptographi web secur secur secur polici etiquett cybereth prerequisit comp comp f 
+ comp comput program 
+ basic concept comput program incorpor object orient concept variabl flow control statement arrai list debug test note fulfil requir comput scienc major comput scienc minor prerequisit math math math permiss instructor f sp 
+ comp web design develop 
+ comp intro java program 
+ basic structur program syntax internet featur client server environ applet servlet advanc java featur user interfac jfc eidget event swing databas applic secur thread note fulful requir comput scienc major comput scienc minor prerequisit comp permiss instructor f sp 
+ comp design analysi algorithm 
+ asymptot behavior program basic paradigm algorithm design greedi divid conquer dynam program analysi effici optim repres algorithm includ graph pattern match numer random approxim algorithm approach bound analysi basic parallel algorithm prerequisit comp f sp 
+ comp program languag 
+ comp intro compil 
+ finit state recogn lexic scanner symbol tabl context free method recurs descent ll preced lr slr languag translat gener improv machin independ code inherit synthes attribut syntax direct translat schema prerequisit comp sp 
+ comp softwar engin 
+ eec scope softwar engin softwar life cycl model softwar process team organ requir analysi design methodolog metric inspect test strategi mainten softwar risk profession ethic respons comput scienc major plan comp spring semest prerequisit comp f 
+ comp databas process design 
+ databas process architectur conceptu data model data design logic data model relat model oper algebra queri languag sql normal schema refin basic index techniqu hash b tree prerequisit comp permiss instructor f 
+ comp intro comput graphic 
+ characterist graphic i o devic d pictur scale translat rotat window draw histogram simpl map block diagram flowchart curv line precis quantiz interpol plot equat d pictur scale translat rotat project hidden line problem euclidean geometri anim prerequisit comp f 
+ comp program unix 
+ fundament unix system environ includ file system shell concept program editor vi emac filter sed awk grep sort util yacc lex mail facil commun softwar c program unix interfac x window system prerequisit comp permiss instructor f sp 
+ comp oper system 
+ hierarchi storag devic i o buffer interrupt channel multiprogram processor job schedul memori manag page segment virtual memori manag asynchron process interrupt procedur call process stateword automat switch instruct semaphor concurr secur recoveri procedur prerequisit comp comp eec f sp 
+ comp system administr 
+ review unix oper system principl principl practic system administr manag network file system account manag os instal startup shutdown boot backup restor system administr tool web administr duti respons system administr prerequisit comp permiss instructor sp 
+ comp web servic internet 
+ comp wireless mobil comp 
+ internet architectur design ipv ipv rout algorithm tcp congest control peer peer applic wireless lan mobil ip mobil ad hoc network wireless sensor network prerequisit comp f 
+ comp comput secur 
+ confidenti integr avail method protocol cryptographi digit signatur authent bit commit secur comput program databas oper system secur commun secur channel public kei infrastructur certif digit evid forens tool monitor respons legal ethic issu risk manag secur administr prerequisit comp f 
+ comp model comput 
+ comput model basi understand analysi program comput complex machin model finit state stack ture machin linguist model grammar lambda calculu predic calculi biolog inspir model e g neural net genet algorithm unsolv univers decid feasibl prerequisit comp comp permiss instructor f sp 
+ comp intro artifici intellig 
+ eec fundament program lisp central idea artifici intellig includ heurist search problem solv slot filler structur knowledg represent prerequisit comp permiss instructor f 
+ comp expert system 
+ eec fundament program prolog central idea expert system develop includ knowledg represent control structur tool knowledg acquisit knowledg engin prerequisit comp comp permiss instructor sp 
+ comp data visual 
+ eec introduct terminolog methodolog applic data visual method visual data varieti engin scientif field includ static time vari data method gener surfac volum visual prerequisit eec comp permiss instructor f 
+ comp capston softwar proj 
+ develop signific team project continu comp softwar project manag risk assess softwar requir specif softwar design softwar valid profession ethic respons prerequisit comp permiss instructor sp 
+ comp ind studi comput scienc 
+ direct individu studi select area comput scienc repeat permiss maximum hour credit prerequisit permiss instructor 
+ comp internship comput scienc 
+ practic experi comput scienc student time government privat organ project approv supervis depart faculti academ credit grant certif cooper agenc accept supervis faculti student s written report repeat total hour credit prerequisit permiss supervis faculti member s u 
+ comp senior thesi 
+ research conduct supervis faculti member permiss depart comput scienc undergradu curriculum committe 
+ comp molecular biol bioinfor 
+ topic vari onlin class list prerequisit permiss instructor 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

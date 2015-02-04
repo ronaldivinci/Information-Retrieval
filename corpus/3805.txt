@@ -1,0 +1,370 @@
+ graduat catalog electr comput engin univers memphi 
+ graduat catalog electr comput engin univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ introduct 
+ graduat school 
+ academ servic 
+ admiss regul 
+ academ regul 
+ appeal procedur 
+ degre program 
+ cours 
+ expens 
+ graduat assistantship 
+ fellowship 
+ graduat faculti 
+ member 
+ research facil 
+ minimum degre 
+ requir 
+ resid classif 
+ catalog archiv 
+ univers 
+ administr 
+ univers calendar 
+ quick link 
+ outlook 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ electr comput engin 
+ russel j deaton phd 
+ chair 
+ room engin scienc build 
+ chrysanth preza dsc 
+ coordin graduat studi 
+ room c engin scienc build 
+ e mail 
+ cpreza memphi 
+ i depart electr comput engin 
+ offer graduat program lead master scienc degre major electr comput engin concentr comput engin electr engin phd degre major engin concentr comput engin electr engin 
+ program object abil appli advanc knowledg mathemat physic scienc engin principl solut practic engin problem meet exce expect public privat sector employ ms graduat prepar pursu addit advanc studi desir 
+ graduat student compli gener requir graduat school 
+ admiss regul 
+ academ regul 
+ 
+ minimum degre requir 
+ program requir degre pursu 
+ ii ms degre program 
+ admiss requir 
+ herff colleg engin establish uniform admiss criteria graduat program inform depart websit 
+ b program requir 
+ student pursu master scienc electr comput engin eec eec eec elect pursu comput engin electr engin concentr multipl concentr permit student count maximum hour credit eec 
+ comput engin concentr hour select cours eec eec eec eec eec eec eec eec eec eec eec eec eec approv comput engin special topic cours 
+ electr engin concentr hour select cours eec eec eec eec eec eec eec eec eec eec eec eec eec eec eec eec approv electr engin special topic cours 
+ thesi option semest hour includ thesi semest hour averag grade maintain electr comput engin graduat coursework note student elect write thesi familiar 
+ thesi dissert prepar guid 
+ start write 
+ semest hour depart advisor s approv requir 
+ hour level requir hour electr comput engin 
+ thesi option semest hour averag grade maintain electr comput engin graduat coursework 
+ semest hour depart advisor s approv requir 
+ student requir complet eec 
+ semest hour level requir hour electr comput engin 
+ student requir pass comprehens exam semest 
+ c retent requir 
+ student enrol depart electr comput engin expect attain high academ achiev cours criteria list determin retent statu student enrol program lead master scienc degre electr engin 
+ student maintain cumul grade point averag higher consid good stand grade earn item 
+ student maintain cumul grade point averag semest enrol work univers memphi includ electr comput engin work level work student meet condit probat depart 
+ student permit grade graduat cours univers memphi student dismiss semest grade earn 
+ student drop graduat program depart electr comput engin deni permiss enrol electr comput engin cours semest subsequ dismiss depart 
+ cours appli ms degre program requir advisor s approv 
+ iii phd degre program 
+ begin colleg section admiss retent program object graduat requir 
+ program requir 
+ student requir eec student enter phd program complet phd qualifi examin procedur prior regist semest phd program failur prevent student regist semest inform department procedur 
+ iv graduat certif program imag signal process 
+ admiss requir 
+ colleg univers requir 
+ certif pursu concurr graduat program univers 
+ degre seek applic submit page statement describ educ work experi engin includ background imag signal process accept certif program impli accept master s degre program 
+ b program requir 
+ complet semest hour chosen cours 
+ eec linear optic system 
+ eec imag process 
+ eec digit signal process 
+ eec multimedia inform process 
+ eec random signal nois 
+ c graduat requir 
+ student complet requir cours averag grade b higher total credit hour 
+ semest graduat student submit intent graduat form graduat school graduat certif candidaci form colleg director graduat studi deadlin graduat school 
+ inform depart websit 
+ acceler b s m s program electr comput engin 
+ program outstand undergradu coursework master scienc electr comput engin senior year student encourag plan enter acceler b s m s program earli undergradu career consult advisor depart electr comput engin work undergradu graduat academ coordin undergradu select program choos eec elect level complet b s degre begin coursework m s graduat coursework appli undergradu gpa 
+ student appli program complet semest junior work order remain program junior year student maintain gpa hour graduat work appli undergradu graduat program continu program b s student appli full admiss graduat school electr comput engin ms program 
+ electr comput engin eec 
+ note student engin cours charg addit credit hour 
+ addit cours depart offer special topic cours 
+ eec 
+ special topic electr comput engin 
+ topic vari announc onlin class list 
+ eec special topic electr engin 
+ topic vari announc onlin class list 
+ eec electricl power system 
+ investig problem transmiss electr energi load flow studi fault analysi symmetr compon 
+ eec power distribut sy 
+ distribut power transmiss system user primari secondari feeder voltag regul underground overhead network design lightn protect devic coordin 
+ eec antenna theori design 
+ theori oper design antenna determin antenna radiat characterist introduct antenna arrai theori prerequisit permiss instructor 
+ eec em field laboratori 
+ laboratori techniqu frequenc mhz corequisit eec permiss instructor 
+ eec appli em field 
+ steadi state transient solut transmiss line equat plane wave antenna telecommun prerequisit permiss instructor 
+ eec electron iii 
+ applic analog digit electron circuit special purpos circuit devic lectur laboratori hour week 
+ eec digit logic comp dsgn 
+ applic digit system design msi lsi vlsi circuit design arithmet logic unit multipl input control practic interfac techniqu 
+ eec data communicatn system 
+ data commun inform comput system analog digit mean transmit control inform organ requir data commun system includ modul demodul multiplex switch error detect correct 
+ eec commun theori 
+ frequenc time domain modul random signal theori autocorrel nois commun system prerequisit eec eec 
+ eec discret signal process 
+ introduct discret time signal analysi discret system concept discret time fourier analysi sampl continu time signal z transform transform analysi discret system structur discret time system discret filter design techniqu prerequisit eec math 
+ eec probabilist sy anli 
+ probabl statist appli electr comput engin problem probabl random variabl statist techniqu estim techniqu character signal autocorrel cross correl power spectra determin effect discret analog filter random signal bayesian detect estim markov random process prerequisit eec 
+ eec solid state physcl elct 
+ quantum concept statist crystal structur conduct process solid p n junction devic field effect devic charg transfer devic prerequisit eec 
+ eec electro optic 
+ classic optic includ gaussian optic newtonian optic vergenc theori optic design aberr concept f number pupil stop radiometri respect flux transfer calcul light sourc detector 
+ eec linear optic system 
+ review fourier techniqu analysi design linear system extens d method d transform appli linear optic system data process 
+ eec control system engr 
+ gener equat physic linear system transfer function transient analysi stabil control system bode plot nichol plot routh hurwitz criterion root locu method introduct compens techniqu system state space 
+ eec digit control system 
+ problem involv analysi techniqu applic digit control system requir prior knowledg laplac transform basic knowledg feedback control theori desir 
+ eec control system lab 
+ investig fundament properti analysi control system compens network analog digit comput simul corequisit eec 
+ eec digit control sy lab 
+ fundament properti digit control system engin laboratori procedur analysi digit control system compens network digit comput simul plc correquisit eec 
+ eec engin softwar 
+ procedur object orient program techniqu c c introduct unix prerequisit permiss instructor 
+ eec databas engin 
+ logic databas design emphas entiti relationship relat object orient logic data model design theori relat databas relat queri languag introduct integr databas knowledg base system engin applic emerg trend databas machin design implement prerequisit comp permiss instructor 
+ eec network program 
+ introduct engin comput network network hardwar network softwar design softwar system network applic prerequisit eec comp eec 
+ eec adv network program 
+ advanc method engin softwar system network applic topic includ implement distribut object model remot databas connect reusabl softwar compon prerequisit eec permiss instructor 
+ eec dsp microprocessor 
+ architectur instruct set fix point float point devic hardwar interfac host commun real time signal gener filter code develop assembl languag c prerequisit eec eec 
+ eec comput organ 
+ organ structur cpu memori oper system i o system organ implement issu hardwar softwar integr design prerequisit eec comp eec 
+ eec comput architectur 
+ architectur design comput perform measur instruct set datapath i o system memori hierarchi prerequisit eec 
+ eec fault toler comp de 
+ evalu comput system design reliabl reliabl block diagram fault tree reliabl graphic queu network error detect correct code markov model principl fault toler hardwar softwar design prerequisit math eec 
+ eec embed system 
+ introduct hardwar softwar design comput system embed electron devic programm processor design peripher memori interfac hardwar softwar tradeoff laboratori involv synthesi tool programm logic microcontrol develop work embed system prerequisit eec eec comp 
+ eec intro artifici intelg 
+ comp fundament program lisp central idea artifici intellig includ heurist search problem solv slot filler structur knowledg represent 
+ eec expert system 
+ comp fundament program prolog central idea expert system develop includ knowledg represent control structur tool knowledg acquisit knowledg engin 
+ eec data visual 
+ comp terminolog methodolog applic data visual method visual data varieti engin scientif field includ static time vari data method gener surfac volum visual prerequisit permiss instructor 
+ eec electr power qualiti 
+ power qualiti phenomenon voltag sag interrupt transient overvoltag long durat voltag variat fundament harmon distribut gener power qualiti power qualiti benchmark monitor 
+ eec profession develpmnt 
+ electr comput engin research method develop issu ethic academia engin practic student learn conduct literatur search write progress report public prepar give present 
+ eec fndtn softwar engr 
+ comp project manag unifi process softwar disciplin requir analysi design implement test unifi model languag design pattern map design code student work team develop signific softwar system prerequisit comp permiss instructor 
+ eec linear sy analysi 
+ system concept mathemat tool includ z transform analysi system continu discret time domain frequenc domain 
+ eec adv elctrmgntc field 
+ advanc studi electromagnet field radiat propag energi 
+ eec imag process 
+ eec digit signal proc 
+ applic discret transform theori spectral analysi digit filter random signal analysi prerequisit permiss instructor 
+ eec comput vision 
+ principl applic comput vision advanc imag process techniqu appli comput vision shape analysi object recognit 
+ eec multimedia info process 
+ multimedia inform retriev model advanc process techniqu multimedia content analysi pattern mine inform retriev queri format intellig queri process high dimension data visual prerequisit permiss instructor 
+ eec solid state devic 
+ intern function limit applic uniqu compon modern telecommun design electro optic devic detector reson antenna neg resist compon prerequisit eec 
+ eec communicatn electron 
+ analysi design small larg signal amplifi multistag amplifi analysi design oscil feedback stabil amplifi design 
+ eec analog comm circ dsgn 
+ design applic analog commun system transmitt receiv technolog prerequisit eec permiss 
+ eec power electron 
+ power semiconductor switch rectifi phase control rectifi power control devic power control applic 
+ eec vlsi design 
+ teach electron ic design techniqu vlsi system topic includ fabric process design consider methodolog fundament structur design flow tool techniqu design analysi optim stick diagram topic includ design rule check drl layout schemat lv design synthesi chip plan clock tree power rout advanc high speed power cmo design asynchron adiabat logic 
+ eec fourier optic 
+ analysi dimension linear system scalar diffract theori fresnel fraunhof diffract fourier transform properti lens spatial frequenc analysi optic system optic inform process holographi 
+ eec statist optic 
+ techniqu describ random process appli gener propag imag detect light statist properti light coher imag inhomogen media statist photoelectr detect light 
+ eec random signal nois 
+ statist method describ analyz random signal nois auto correl cross correl spectral densiti function optim linear filter theori 
+ eec inform theori 
+ introduct entropi channel capac group code block code cyclic code applic code techniqu improv system reliabl error correct code prerequisit eec permiss instructor 
+ eec wireless telecommunictn 
+ principl wireless telecommun system emphasi cellular telephoni wireless data commun requir standard physic layer properti multipl access techniqu includ spread spectrum techniqu cdma 
+ eec modern telecom 
+ implement standard commun system cellular telephoni standard wireless data standard util cdma techniqu 
+ eec digit commun 
+ sourc code signal represent optimum receiv wgn channel channel capac issu block code convolut code 
+ eec arch design dig comp 
+ advanc logic design hardwar organ structur digit comput architectur properti control strategi processor memori organ address interrupt structur i o control hardwar softwar trade off speed consider 
+ eec logicl fndtn artf intl 
+ comp logic foundat artifici intellig predic calculu declar knowledg infer resolut strategi monoton reason induct probabilist logic belief state chang intellig agent architectur prerequisit permiss instructor 
+ eec prolog proc intel syst 
+ engin intellig system prolog languag implement advanc prolog process hardwar softwar architectur prolog base machin prerequisit eec permiss instructor 
+ eec artfcl intel lisp 
+ fundament lisp program symbol process search goal reduct match problem problem space problem solv method ai applic 
+ eec obj orient data engr 
+ design hardwar softwar perspect interact object combin data behavior engin data model analysi design process implement larg engin system issu revers engin object orient databas design case cad cam relat engin databas environ 
+ eec machin learn applicatn 
+ data represent similar measur linear linear data project discrimin analysi classifi design supervis unsupervis learn evolutionari comput machin learn applic prerequisit permiss instructor 
+ eec modern microprocessor 
+ introduct capabl state art microprocessor support compon 
+ eec adv control syst engr 
+ cascad feedback compens analysi control nonlinear system introduct optim techniqu prerequisit eec permiss 
+ eec stoch adapt cntrl thry 
+ principl applic determinist statist design random process automat control 
+ eec thry optic cntrol sy 
+ eec paramet est cntrl 
+ principl paramet estim applic system engin 
+ eec artifici intellig 
+ comp central issu artifici intellig includ game plai plan machin learn common sens reason percept action implement lisp prerequisit eec 
+ eec neural network 
+ comp learn algorithm multilay perceptron squar propag variant cascad correl supervis learn algorithm unsupervis method includ hebbian competit reinforc learn applic associ memori combinatori optim compon analysi function approxim pattern classif theori neurodynam includ equilibrium stabil comput power 
+ eec introduct smart grid 
+ introduct smart grid commun control advanc meter infrastructur demand respons integr renew gener energi storag option wide area measur smart grid cyber secur 
+ eec comp meth invers problm 
+ studi principl linear invers problem method approxim solut practic applic imag applic prerequisit eec permiss instructor 
+ eec cmptnl sc eng multiphi fsi 
+ multiphys simul model behavior coupl system govern physic law interact exampl model blood flow arteri vein pulmonari ga exchang transport hydrodynam aerodynam power gener electro thermal structur interfac drug deliveri emphasi comput model fluid structur interact move domain topic cover emphas deriv theoret model physic law constitut equat govern fluid structur interact develop finit element procedur model fluid structur interact move domain phd student regist level exhibit deeper understand submit present research paper base project advanc topic multiphys 
+ eec project i 
+ independ investig problem select consult instructor report requir repeat permiss grade f ip 
+ eec project ii 
+ independ investig problem select consult instructor report requir repeat permiss grade f ip 
+ eec project report 
+ independ studi student select thesi option master program student demonstr abil pursu complet report research project relat electr comput engin written oral report prepar accept faculti committe grade f ip 
+ eec thesi 
+ master s thesi hour applic degre grade s u ip 
+ eec profession develpmnt 
+ electr comput engin research method develop issu ethic academia engin practic student learn conduct literatur search write progress report public prepar give present 
+ eec fndtn softwar engr 
+ comp project manag unifi process softwar disciplin requir analysi design implement test unifi model languag design pattern map design code student work team develop signific softwar system prerequisit comp permiss instructor 
+ eec linear sy analysi 
+ system concept mathemat tool includ z transform analysi system continu discret time domain frequenc domain 
+ eec adv electrmgntc field 
+ advanc studi electromagnet field radiat propag energi 
+ eec imag process 
+ eec digit signal proc 
+ applic discret transform theori spectral analysi digit filter random signal analysi prerequisit permiss instructor 
+ eec comput vision 
+ principl applic comput vision advanc imag process techniqu appli comput vision shape analysi object recognit 
+ eec multimedia info process 
+ multimedia inform retriev model advanc process techniqu multimedia content analysi pattern mine inform retriev queri format intellig queri process high dimension data visual prerequisit permiss instructor 
+ eec solid state devic 
+ intern function limit applic uniqu compon modern telecommun design electro optic devic detector reson antenna neg resist compon prerequisit eec 
+ eec communicatn electron 
+ analysi design small larg signal amplifi multistag amplifi analysi design oscil feedback stabil amplifi design 
+ eec analog comm circ dsgn 
+ design applic analog commun system transmitt receiv technolog prerequisit eec permiss 
+ eec power electron 
+ power semiconductor switch rectifi phase control rectifi power control devic power control applic 
+ eec vlsi design 
+ teach electron ic design techniqu vlsi system topic includ fabric process design consider methodolog fundament structur design flow tool techniqu design analysi optim stick diagram topic includ design rule check drl layout schemat lv design synthesi chip plan clock tree power rout advanc high speed power cmo design asynchron adiabat logic 
+ eec fourier optic 
+ analysi dimension linear system scalar diffract theori fresnel fraunhof diffract fourier transform properti lens spatial frequenc analysi optic system optic inform process holographi 
+ eec statist optic 
+ techniqu describ random process appli gener propag imag detect light statist properti light coher imag inhomogen media statist photoelectr detect light 
+ eec random signal nois 
+ statist method describ analyz random signal nois auto correl cross correl spectral densiti function optim linear filter theori 
+ eec inform theori 
+ introduct entropi channel capac group code block code cyclic code applic code techniqu improv system reliabl error correct code prerequisit eec permiss instructor 
+ eec wireless telecommunictn 
+ principl wireless telecommun system emphasi cellular telephoni wireless data commun requir standard physic layer properti multipl access techniqu includ spread spectrum techniqu cdma 
+ eec modern telecom 
+ implement standard commun system cellular telephoni standard wireless data standard util cdma techniqu 
+ eec digit commun 
+ sourc code signal represent optimum receiv wgn channel channel capac issu block code convolut code 
+ eec arch design dig comp 
+ advanc logic design hardwar organ structur digit comput architectur properti control strategi processor memori organ address interrupt structur i o control hardwar softwar trade off speed consider 
+ eec logicl fndtn artf intl 
+ comp logic foundat artifici intellig predic calculu declar knowledg infer resolut strategi monoton reason induct probabilist logic belief state chang intellig agent architectur prerequisit permiss instructor 
+ eec prolog proc intel syst 
+ engin intellig system prolog languag implement advanc prolog process hardwar softwar architectur prolog base machin prerequisit eec permiss instructor 
+ eec artfcl intel lisp 
+ fundament lisp program symbol process search goal reduct match problem problem space problem solv method ai applic 
+ eec obj orient data engr 
+ design hardwar softwar perspect interact object combin data behavior engin data model analysi design process implement larg engin system issu revers engin object orient databas design case cad cam relat engin databas environ 
+ eec machin learn applicatn 
+ data represent similar measur linear linear data project discrimin analysi classifi design supervis unsupervis learn evolutionari comput machin learn applic prerequisit permiss instructor 
+ eec modern microprocessor 
+ introduct capabl state art microprocessor support compon 
+ eec adv control syst engr 
+ cascad feedback compens analysi control nonlinear system introduct optim techniqu prerequisit eec permiss 
+ eec stoch adapt cntrl thry 
+ principl applic determinist statist design random process automat control 
+ eec thry optic cntrol sy 
+ eec paramet est cntrl 
+ principl paramet estim applic system engin 
+ eec artifici intellig 
+ comp central issu artifici intellig includ game plai plan machin learn common sens reason percept action implement lisp prerequisit eec 
+ eec neural network 
+ comp learn algorithm multilay perceptron squar propag variant cascad correl supervis learn algorithm unsupervis method includ hebbian competit reinforc learn applic associ memori combinatori optim compon analysi function approxim pattern classif theori neurodynam includ equilibrium stabil comput power 
+ eec introduct smart grid 
+ introduct smart grid commun control advanc meter infrastructur demand respons integr renew gener energi storag option wide area measur smart grid cyber secur 
+ eec comp meth invers problm 
+ studi principl linear invers problem method approxim solut practic applic imag applic prerequisit eec permiss instructor 
+ eec cmptnl sc eng multiphi fsi 
+ multiphys simul model behavior coupl system govern physic law interact exampl model blood flow arteri vein pulmonari ga exchang transport hydrodynam aerodynam power gener electro thermal structur interfac drug deliveri emphasi comput model fluid structur interact move domain topic cover emphas deriv theoret model physic law constitut equat govern fluid structur interact develop finit element procedur model fluid structur interact move domain phd student regist level exhibit deeper understand submit present research paper base project advanc topic multiphys 
+ eec project i 
+ independ investig problem select consult instructor report requir repeat permiss grade f ip 
+ eec project ii 
+ independ investig problem select consult instructor report requir repeat permiss grade f ip 
+ eec dissert 
+ grade s u ip 
+ graduat school 
+ administr build 
+ memphi tn 
+ phone 
+ fax 
+ graduat admiss 
+ wilder tower 
+ memphi tn 
+ phone 
+ fax 
+ u m white page 
+ campu map 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

@@ -1,0 +1,100 @@
+ registrar faculti staff info univers memphi 
+ registrar faculti staff info univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ regist class 
+ student info 
+ veteran info 
+ faculti staff info 
+ parent info 
+ form 
+ registrar z list 
+ contact 
+ admiss 
+ financi aid 
+ scholarship 
+ pai fee bursar 
+ tom 
+ univers memphi 
+ quick link 
+ campu map 
+ class search 
+ data standard 
+ ferpa tutori 
+ grade 
+ iam 
+ semest calendar 
+ servic faculti 
+ servic student 
+ um event calendar 
+ veteran educ benefit 
+ withdraw um 
+ faculti staff info 
+ author signatur 
+ calendar 
+ academ year 
+ registrar offic 
+ semest 
+ classroom polici 
+ academ retent enrich servic 
+ class attend undergradu 
+ emerg cancel class close univers offic 
+ grade appeal graduat 
+ grade appeal undergradu 
+ grade scale gpa 
+ data standard 
+ schedul term plan 
+ e print report 
+ schedul plan aid 
+ student record ferpa 
+ govern inform 
+ ferpa code 
+ overview ferpa 
+ famili polici complianc offic 
+ current dept educ ferpa regul 
+ pdf 
+ u m complianc 
+ ferpa tutori inform instruct 
+ privaci educ record complianc ferpa 
+ um polici 
+ releas student educ record 
+ access student educ record 
+ letter recommend 
+ technolog link 
+ faculti servic guid 
+ banner guid aid 
+ download class roster d l 
+ request access banner student 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ admiss 
+ financi aid 
+ registrar 
+ scholarship 
+ offic registrar wilder tower memphi 
+ tn 
+ ph fx 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

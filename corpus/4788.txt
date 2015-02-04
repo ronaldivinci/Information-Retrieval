@@ -1,0 +1,107 @@
+ suapp depart univers memphi 
+ suapp depart univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ depart 
+ strengthen 
+ commun 
+ hcd fellowship 
+ partnership map 
+ faculti staff 
+ urban affair spotlight 
+ contact 
+ resourc 
+ art scienc 
+ univers memphi 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ depart 
+ school urban affair public polici compris academ unit click depart read inform 
+ divis citi region plan 
+ graduat program citi region plan unit school urban affair public polici hour graduat degre citi region plan prepar student career concern physic develop commun interact develop social econom environment commun program fulli accredit plan accredit board 
+ depart criminolog crimin justic 
+ depart offer bachelor program colleg art scienc honor colleg master art school urban affair public polici studi crime justic complex research practition polici maker tackl issu polic strategi correct capit punish violenc gang addict intern crime univers memphi emphas research scholarship servic commun outreach 
+ divis public nonprofit administr 
+ divis public nonprofit administr prepar public servic nonprofit profession knowledg skill face todai s challeng tomorrow s opportun undergradu graduat program blend critic think analyt skill prepar individu lead public servic organ student gain compet manag inform peopl financ environ driven desir differ commun nation world 
+ depart social work 
+ social work program univers memphi council social work educ cswe accredit baccalaur program program prepar entri level social worker compet wide varieti problem area wide rang client system divers popul broad theoret base practic encompass comprehens theoret perspect foundat explor system influenc client s live pursu addit area knowledg facilit serv client 
+ 
+ s 
+ ee faculti list 
+ onlin commun engag 
+ school urban affair public polici suapp 
+ urban affair spotlight blog 
+ student alumni internship career center job board 
+ suappmemphi twitter 
+ facebook 
+ flickr 
+ crimin justic student associ 
+ facebook 
+ hous commun develop hcd fellowship 
+ hcdfellow twitter 
+ institut philanthropi nonprofit leadership ipnl 
+ facebook 
+ uofm ipnl twitter 
+ nonprofit leader student associ 
+ facebook 
+ uofmemphisnlsa twitter 
+ div public nonprofit placement 
+ facebook 
+ dpnaplac twitter 
+ strengthen commun initi 
+ facebook 
+ strngthncmnti twitter 
+ photo flickr 
+ udistrict memphi univers district 
+ neighborhood new 
+ facebook 
+ twitter 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ school urban affair public polici 
+ suit mccord hall memphi 
+ tn 
+ phone fax e mail 
+ suapp memphi 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

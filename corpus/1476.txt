@@ -1,0 +1,87 @@
+ colleg commun fine art faculti staff univers memphi 
+ colleg commun fine art faculti staff univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ futur student 
+ undergradu student 
+ graduat student 
+ faculti staff 
+ alumni friend 
+ depart school 
+ center 
+ museum galleri 
+ affili partner 
+ scholarship award 
+ ccfa 
+ support ccfa 
+ new event 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ faculti staff 
+ ccfa proud faculti staff extraordinari impact academ cultur life univers greater memphi commun mid south unmistak 
+ student receiv solid foundat broad base educ experi access full time part time faculti expert profession work student mentorship program guest lectur 
+ directori ccfa depart 
+ architectur 
+ art 
+ art museum univers memphi 
+ amum 
+ commun 
+ journal 
+ scheidt school music 
+ theatr danc 
+ deadlin faculti award grant 
+ profession develop assign 
+ tenur promot 
+ research grant fund 
+ faculti award 
+ mentor guid 
+ dean s offic staff 
+ dean s offic organiz chart 
+ ccfa organiz chart 
+ faculti handbook 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ colleg commun fine art 
+ contact 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

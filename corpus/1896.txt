@@ -1,0 +1,93 @@
+ univers colleg appoint schedul system univers memphi 
+ univers colleg appoint schedul system univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ student resourc 
+ undergradu 
+ program 
+ graduat program 
+ experienti learn 
+ colleg 
+ faculti staff 
+ alumni 
+ form 
+ z list 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ cdata imag src share share rootsit imag applynow bw jpg 
+ cdata imag src share share rootsit imag default background jpg 
+ cdata imag src share share rootsit imag portal bw jpg 
+ appoint schedul system 
+ advis appoint onlin 
+ 
+ 
+ system regist 
+ rememb enter 
+ u number 
+ log capit u rememb case u u time log 
+ regist follow instruct 
+ select major 
+ choos univers colleg complet major campu cours mix campu onlin cours 
+ complet degre onlin choos univers colleg onlin degre 
+ graduat student choos univers colleg graduat studi 
+ select appoint type offic skype phone 
+ undergradu select assign advisor 
+ sara william name start 
+ g 
+ dot hale name start 
+ h o 
+ mari brignol name start 
+ p z 
+ mari crite 
+ onlin degre 
+ set appoint wrong advisor ll chang assign advisor dai time email ll reschedul correct advisor 
+ choos date calendar ll appoint time choos time work schedul 
+ note 
+ system dai dai appoint schedul appoint week 
+ choos receiv 
+ email text messag appoint confirm 
+ appoint remind 
+ receiv confirm messag system appoint correctli 
+ cancel reschedul appoint log appoint cancel 
+ appointmentplu hour dai dai week appoint todai 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

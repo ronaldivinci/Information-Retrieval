@@ -1,0 +1,239 @@
+ undergradu catalog religi studi univers memphi 
+ undergradu catalog religi studi univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ religi studi 
+ concentr religi studi design student divers background interest religion student enrol concentr employ field knowledg religi tradit asset counsel social work contempl studi religion theolog seminari religi studi graduat program religi studi tradit liber art field help student develop skill critic think analysi complex issu oral written express concentr religi studi stand excel prepar wide rang career 
+ gener educ hour 
+ 
+ graduat univers 
+ univers gener educ program 
+ requir student complet year american histori high 
+ school exempt credit hour histori gener educ program 
+ requir student meet histori requir 
+ highli recommend student concentr religi studi anth soci fulfil gener educ social scienc requir 
+ b coordin studi hour 
+ religi studi core 
+ hour 
+ rlgn introduct religion 
+ rlgn perspect religion 
+ b religi context cours hour 
+ aaa african religion diaspora 
+ anth anthropolog religion 
+ arth art iconoclasm imag 
+ arth art mediev world 
+ arth art high renaiss itali 
+ arth tradit art africa oceania north america 
+ engl bibl literatur 
+ hist islam civil 
+ hist histori jewish peopl 
+ hist ancient india 
+ hist histori byzantin empir 
+ hist high middl ag 
+ hist renaiss europ 
+ hist europ ag reform 
+ jdst judaism 
+ jdst testament 
+ jdst jewish thought i 
+ jdst jewish thought ii 
+ jdst holocaust studi 
+ jdst jewish mystic 
+ jdst biblic archaeolog 
+ musa sacr music histori practic i 
+ musa sacr music histori practic ii 
+ phil human divin 
+ phil philosophi religion 
+ phil chines philosophi 
+ pol religion polit 
+ rlgn direct read 
+ rlgn special topic 
+ soci sociolog religion 
+ univ compar christian 
+ univ hebrew greek legaci 
+ univ faith reason imagin 
+ c colleg requir hour 
+ themat studi hour 
+ student complet total hour univers colleg themat studi s rlgn satisfi hour requir remain hour student s choos list specif design cours 
+ count fulfil themat studi requir count religi context ii student concentr religi studi rlgn themat studi requir 
+ senior project hour 
+ univ senior project 
+ senior project student s culmin experi capston design synthes integr content student s program studi senior project intend fuse academ area compris coordin studi major academ relev scholarship 
+ d elect hour 
+ chosen bring total number hour minimum upper divis hour 
+ experienti learn credit opportun 
+ student seek degre univers colleg grant credit colleg level knowledg understand relat student s major area studi gain work experi life experi colleg instruct student assess learn prepar portfolio describ document learn portfolio assess faculti teach area 
+ assess portfolio reserv knowledg compet readili fit credit examin procedur detail inform procedur obtain advisor 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

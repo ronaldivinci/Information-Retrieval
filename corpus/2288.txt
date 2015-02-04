@@ -1,0 +1,310 @@
+ undergradu catalog tech univers memphi 
+ undergradu catalog tech univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ tech 
+ tech technolog 
+ depart engin technolog 
+ scott southal m s e t chair 
+ room engin technolog build 
+ addit cours depart offer special topic cours 
+ tech special topic 
+ topic vari onlin class list repeat maximum hour credit prerequisit permiss instructor 
+ tech comput applic tech 
+ introduct comput applic pc s network file manag spreadsheet present graphic internet applic technolog 
+ tech comput program 
+ ceth comput usag engin technolog emphasi comput program solv technic problem lectur hour week prerequisit tech 
+ tech introduct technolog 
+ emphasi engin technolog program rel content opportun graduat profession ethic technic career commun technic career activ relat technolog disciplin approach basic research techniqu problem solv 
+ orthograph project section pictori draft instrument sketch introduct comput aid draft auxiliari view revolut profil vector graphic develop lectur hour laboratori hour week 
+ tech manufactur process i 
+ meth metal manufactur process includ tradit machin comput numer control thermal metal cut join measur layout inspect techniqu appli integr manufactur system coverag thread fasten geometr dimens toleranc lectur hour laboratori hour week 
+ tech electron circuit technolog 
+ eeth introduct fundament electron theori devic circuit network theorem laboratori emphasi basic electr measur proper instrument lectur hour laboratori hour week prerequisit math tech 
+ tech adv program technolog 
+ ceth principl comput program applic engin technolog algorithm problem solv code structur object orient high level languag subprogram paramet control structur i o complex arithmet doubl precis oper emphas lectur hour week prerequisit tech 
+ tech data structur 
+ ceth applic high speed digit comput problem storag retriev numer numer data engin system represent organ store data search sort techniqu decis tabl file mainten techniqu databas applic lectur hour week prerequisit tech 
+ tech basic industri cntrol devic 
+ eeth theori applic devic commonli modern industri control includ transistor oper amplifi thyristor solid state logic applic characterist motor control system i o devic lectur hour laboratori hour week prerequisit tech 
+ tech industri control system 
+ eeth theori oper logic control system includ relai ladder logic solid state logic programm logic control emphasi practic industri applic lectur hour laboratori hour week prerequisit tech 
+ tech solid state technolog 
+ eeth theori solid state devic applic power suppli amplifi basic electron circuit solid state diod bipolar junction transistor emphas lectur hour laboratori hour week prerequisit tech 
+ tech circuit analysi 
+ eeth circuit analysi method modern electron engin technolog laboratori confirm mathemat solut problem involv direct altern current lectur hour laboratori hour week prerequisit tech 
+ tech advanc solid state tech 
+ eeth theori field effect transistor oper amplifi emphasi practic applic includ amplifi filter oscil lectur hour laboratori hour week prerequisit tech math 
+ tech analysi engin tech 
+ applic mathemat scientif engin principl solut technolog problem varieti exampl major area technolog analyz provid accept solut ascend order design problem languag techniqu relat technolog disciplin select area mathemat algebra trigonometri calculu appli industri statist differenti equat lectur hour laboratori hour week prerequisit math phy tech 
+ tech digit technolog 
+ ceth number system code logic gate boolean algebra combin logic ttl circuit memori devic lectur hour laboratori hour week prerequisit tech 
+ tech microprocessor technolog 
+ ceth comput histori architectur microprocessor microcomput oper fetch execut instruct microprocessor regist memori address mode assembl languag instruct assembl oper lectur hour laboratori hour week prerequisit tech tech 
+ tech internet technolog 
+ tech ceth ceth internet servic protocol cover top layer osi model session present applic layer lectur hour week prerequisit tech 
+ tech assembl languag program 
+ ceth tech microcomput program assembl languag instruct do function call bio function microprocessor architectur assembl creat execut file assembl languag program text graphic displai assembl languag program applic program input output devic lectur hour laboratori hour week prerequisit tech 
+ tech comput aid circuit design 
+ ceth util commerci softwar electron circuit document analysi design schemat captur print circuit board design circuit simul lectur hour laboratori hour week prerequisit tech tech 
+ tech occup safeti 
+ meth hazard safeti procedur gener industri construct 
+ tech strength materi 
+ meth forc system solut branch mechan deal forc effect forc includ stress strain deform bodi rest analysi frame mechan prerequisit math phy corequisit tech 
+ tech industri materi 
+ meth materi properti method standard test properti metal ceram polym composit emphasi mechan properti reinforc test laboratori librari internet research spreadsheet applic written report oral present lectur hour laboratori hour week prerequisit tech corequisit tech 
+ tech manufactur process ii 
+ meth process techniqu fabric industri materi product techniqu cover includ cast mold form separ condit assembl finish cnc program concept process design control lectur hour laboratori hour week prerequisit tech 
+ tech project plan cost evalu 
+ meth concept project manag engin economi impact econom evalu altern decis make spreadsheet develop econom concept interest rate compound effect present futur valuat cash flow analysi applic project manag method techniqu includ plan organ lead control project team project includ case discuss written report oral present project manag softwar prerequisit math comm engl 
+ tech industri statist 
+ meth procedur collect describ present statist analyz industri data basic probabl theori hypothesi test basic concept analysi varianc introduct taguchi method spreadsheet softwar statist analysi prerequisit math higher tech 
+ tech dynam design autom 
+ meth analysi rectilinear curvilinear motion kinemat analysi mechan design mechan system pullei gear belt motor prerequisit tech phy 
+ tech construct estim 
+ fundament commerci light frame estim emphasi conduct quantiti survei includ unit overhead cost 
+ tech electron commun 
+ eeth principl analog commun harmon nois activ filter signal gener m singl side band transmiss recept f m lectur hour laboratori hour week prerequisit tech 
+ tech adv electron comm technolog 
+ eeth principl digit electron commun data transmiss modul demodul techniqu fsk qpsk quantiz error channel bandwidth puls code modul satellit commun system principl optic commun principl prerequisit tech tech phy 
+ tech industri electron 
+ eeth electron circuit system industri principl signal condit dc ac motor drive sensor process control plc theori applic devic unijunct transistor silicon control rectifi diac triac lectur hour laboratori hour week prerequisit tech 
+ tech programm logic control 
+ eeth theori oper programm logic control emphasi practic industri applic program techniqu lectur hour laboratori hour week prerequisit tech 
+ tech electr power motor control 
+ eeth gener util ac dc electr power applic oper characterist motor gener transform emphasi phase power system lectur hour laboratori hour week prerequisit tech 
+ tech analysi public fire protect 
+ system analysi limit fire protect problem area illustr case studi model system approach fire suppress prevent prerequisit admiss restrict student seek b p s degre fire administr fire prevent technolog 
+ tech fire relat human factor 
+ dynam human behavior fire incid relat build design code ordin fire prevent practic prerequisit admiss restrict student seek b p s degre fire administr fire prevent technolog 
+ tech fire protect struc sy design 
+ design principl involv protect structur fire involv empir test predict procedur control detect suppress system design practic fundament hydraul design sprinkler water sprai system innov prerequisit admiss restrict student seek b p s degre fire administr fire prevent technolog 
+ tech fire investig analysi 
+ procedur techniqu collect comparison analysi physic evid relat fire origin principl evid ignit phenomenon propag variabl legisl econom psycholog sociolog variabl incendiari fire role insur govern program prerequisit student b p s degre fire administr fire prevent technolog program 
+ tech fire dynam 
+ fire propag phenomenon fuel air regul phase variabl pre post flash fire develop geometr materi gaseou fluid flow thermodynam paramet compart build fire model prerequisit student b p s degre fire administr fire prevent technolog program 
+ tech applic fire research 
+ fire research applic transfer implic research result fire prevent protect program nation intern studi research develop prerequisit student b p s degre fire administr fire prevent technolog program 
+ tech manageri issu hazard mtrl 
+ examin feder regulatori issu hazard identif vulner analysi multi agenc conting plan respons personnel multi agenc respons resourc system discuss agenc polici public educ emerg inform system health safeti issu command post dynam strateg tactic consider recoveri termin procedur prerequisit enrol b p s degre fire administr fire prevent technolog program 
+ tech microproc interfac technolog 
+ analysi design microprocessor base system util serial parallel input output analog digit digit analog convert program develop verifi oper interfac hardwar team project written report lectur laboratori hour week prerequisit tech 
+ tech client applic technolog 
+ tech modern program 
+ ceth applic modern program languag problem select area engin technolog data collect model techniqu constraint program develop valid lectur hour week prerequisit tech equival 
+ tech server applic technolog 
+ ceth java except handl multithread file stream jdbc servlet jsp javabean server side softwar team project includ written report lectur hour laboratori hour week prerequisit tech permiss instructor 
+ tech oper system 
+ oper system structur memori manag physic virtual memori process manag process thread schedul synchron deadlock devic manag driver buffer queue file manag implement abstract instal configur servic unix linux oper system perform lectur hour laboratori hour week prerequisit tech equival 
+ tech comput network technolog 
+ ceth local area network cover bottom layer osi mode physic datalink network transport applic extens laboratori coverag instal configur administr router switch network devic lectur hour laboratori hour week prerequisit tech equival 
+ tech principl supervis 
+ meth practic approach supervisori manag includ function plan organ staf employe motiv coverag contemporari issu includ legal aspect supervis regulatori concern occup safeti health labor relat 
+ tech scienc technolog societi 
+ relationship scienc technolog societi investig research read discuss report condit studi promot develop scienc technolog evalu social global polit environment cultur econom effect technolog ethic impact control issu societi written essai team debat lectur hour week prerequisit tech 
+ tech work design improv 
+ meth analyt techniqu concept work method improv lean oper product distribut perform measur evalu continu improv fundament human factor ergonom work measur time studi predetermin time studi system work sampl develop standard data 
+ tech statist qualiti control 
+ meth statist method qualiti analysi improv control chart variabl attribut industri sampl defect prevent poka yoke system reliabl accept sampl qualiti standard continu improv comput softwar data analysi present prerequisit tech 
+ tech product control system 
+ meth function plan control product distribut oper concept jit mrp mrpii erp japanes manufactur techniqu analyt techniqu concept line balanc product process control demand manag project manag corequisit tech permiss instructor 
+ tech facil design 
+ meth integr approach design layout product distribut facil respect workstat design materi handl project resourc plan product control comput aid design schedul analyt softwar team project written report oral present prerequisit tech permiss instructor 
+ tech comput aid design 
+ meth overview cad technolog hardwar softwar option parametr solid model principl applic produc comput gener model assembl photo realist render work draw lectur hour laboratori hour week prerequisit tech 
+ tech autom robot 
+ meth concept autom appli product distribut industri robot team project includ written report lectur hour laboratori hour week prerequisit tech phy 
+ tech comput aid manufactur 
+ meth comput numer control program manual data input distribut numer control comput assist system assess cnc machin compon control tool integr manufactur environ lectur hour laboratori hour week prerequisit math tech 
+ tech construct plan schedul 
+ principl plan schedul organ control construct project studi critic path method cpm pert resourc level financi schedul comput applic cpm pert emphas 
+ tech tool design 
+ meth design tool work hold system integr manufactur environ geometr dimens toleranc fast chang techniqu hydraul pneumat circuit achiev world class qualiti design lectur hour laboratori hour week prerequisit tech 
+ tech microwav technolog 
+ eeth transit line principl coax waveguid fiber smith chart imped match principl microwav gener propag measur imped antenna gain vswr antenna type characterist radiat pattern lectur hour laboratori hour week prerequisit tech phy 
+ tech adv programm logic control 
+ eeth advanc applic programm logic control includ analog i o techniqu comput interfac lectur hour laboratori hour week prerequisit tech permiss instructor 
+ tech senior project plan seminar 
+ methodolog relat solv problem engin technolog culmin integr experi individu team project technic propos technic present lectur hour week prerequisit engl tech student semest graduat permiss instructor 
+ tech senior thesi 
+ ceth eeth meth studi research specif area culmin integr experi individu group project technic report prerequisit tech engl senior semest graduat permiss depart requir 
+ tech senior project 
+ individu team effort studi implement integr technic project culmin technic report technic present permit issu student senior exit exam appli graduat previou month lectur hour week prerequisit tech student semest graduat permiss instructor 
+ tech automat identif app 
+ method system automat identifi object keyless data entri bar code radio frequenc identif voic data entri 
+ tech engin tech project 
+ independ investig engin technolog problem consult instructor repeat maximum hour credit prerequisit senior stand 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

@@ -1,0 +1,104 @@
+ faculti senat tennesse univers faculti senat univers memphi 
+ faculti senat tennesse univers faculti senat univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ 
+ statement purpos 
+ articl author 
+ senat 
+ committe 
+ repres 
+ tbr faculti subcouncil 
+ tenn faculti senat 
+ coalit athlet 
+ senat calendar 
+ senat minut 
+ approv motion 
+ faculti handbook 
+ univers p p 
+ colleg t p 
+ faculti ombudsperson 
+ tenn board regent 
+ suggest box 
+ grievanc appeal 
+ quick link 
+ academ calendar 
+ academ 
+ alumni 
+ tom 
+ athlet 
+ contact u m 
+ faculti handbook 
+ fedex institut 
+ iam 
+ job 
+ librari 
+ polic servic 
+ rodp 
+ sac 
+ umdriv 
+ ummail 
+ umwiki 
+ question 
+ tennesse univers faculti senat 
+ univers memphi faculti senat charter member 
+ associ tennesse univers faculti senat 
+ tuf organ goal increas commun faculti senat state s univers provid faculti opportun speak unit voic issu import state level 
+ tuf websit 
+ tuf execut committe 
+ h lyn mile univers tennesse chattanooga presid 
+ jeff robert tennesse tech univers presid elect 
+ thoma e schacht east tennesse state univ presid 
+ thoma tom e ban univers memphi secretari 
+ univers memphi tuf repres 
+ reginald green vote repres 
+ reginald l green 
+ tuf vote repres 
+ tel 
+ fax 
+ email 
+ rlgreen memphi 
+ wade jackson 
+ tuf altern vote repres 
+ tel 
+ fax 
+ email 
+ wjackson memphi 
+ tuf document 
+ constitut 
+ letter governor 
+ letter governor 
+ posit paper higher educ 
+ tenn aaup endors 
+ posit paper governor 
+ posit paper press releas 
+ letter senat berk 
+ messag thec director 
+ tuf minut 
+ minut 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

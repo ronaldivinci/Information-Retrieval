@@ -1,0 +1,271 @@
+ undergradu catalog econom univers memphi 
+ undergradu catalog econom univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ econom 
+ depart econom 
+ depart econom locat fogelman colleg busi econom 
+ econom major b 
+ program object busi econom major fogelman colleg busi econom section 
+ univers gener educ program hour 
+ 
+ graduat univers 
+ univers gener educ program requir 
+ b colleg degre b requir hour 
+ 
+ colleg bachelor art requir 
+ addit univers gener educ program requir 
+ c major hour 
+ complet semest hour includ econ addit upper divis semest hour econom cours approv depart advisor 
+ d elect 
+ elect chosen bring total number hour 
+ econom minor 
+ receiv minor econom student requir credit hour cours econom hour cours econ econ remain hour cours upper divis cours econom i e level level cours cours microeconom theori econ macroeconom theori econ cours hour upper divis elect cours 
+ e honor program 
+ consid elig honor degre program econom student 
+ maintain minimum grade b honor section econ introduct macroeconom econ introduct microeconom 
+ obtain recommend faculti member depart econom depart honor committe 
+ accept honor degre program econom student 
+ maintain averag gpa econom cours continu program 
+ minimum gpa econom cours graduat 
+ enrol econ microeconom theori econ macroeconom theori honor contract contract discuss approv faculti member teach 
+ write honor thesi begin find faculti advisor thesi project discuss thesi topic write thesi honor thesi typic take semest complet work earli work honor thesi student enrol section econ honor thesi econom semest complet thesi grade faculti advisor 
+ successfulli complet requir student recogn commenc ceremoni degre confer honor econom student s diploma record univers memphi reflect accomplish 
+ acceler b m program econom 
+ program outstand undergradu coursework master art econom senior year student encourag plan enter acceler b m program earli undergradu career consult advisor depart econom 
+ work undergradu graduat academ coordin undergradu select program carefulli tailor studi complet b degre coursework m 
+ student appli graduat school acceler b m program graduat cours econom continu program b student appli full admiss graduat school econom depart s m program 
+ abm program hour graduat work appli undergradu graduat program graduat coursework appli undergradu gpa 
+ typic year econom sequenc 
+ freshman year 
+ engl 
+ engl 
+ math 
+ nat sci math b 
+ human fine art 
+ fine art 
+ elect 
+ econ 
+ foreign languag b 
+ foreign languag b 
+ semest total 
+ hr 
+ hr 
+ sophomor year 
+ engl 
+ histori 
+ natur scienc 
+ elect 
+ elect 
+ natur scienc 
+ econ 
+ elect 
+ histori 
+ comm 
+ semest total 
+ hr 
+ hr 
+ junior year 
+ human b 
+ ud elect 
+ ud elect 
+ ud elect 
+ ud elect 
+ elect 
+ ud econ elect 
+ econ 
+ econ 
+ ud econ elect 
+ semest total 
+ hr 
+ hr 
+ senior year 
+ elect 
+ ud econ 
+ ud econ 
+ ud econ 
+ ud econ 
+ ud elect 
+ elect 
+ elect 
+ elect 
+ semest total 
+ hr 
+ hr 
+ total hour 
+ total hour requir graduat 
+ satisfi univers gener educ program requir 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

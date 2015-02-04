@@ -1,0 +1,86 @@
+ suggest box univers memphi 
+ suggest box univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ cdata function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ 
+ project 
+ servic 
+ facil 
+ support 
+ learn 
+ resourc 
+ standard 
+ secur 
+ govern 
+ z list 
+ quick link 
+ tom 
+ campu map 
+ center teach learn ctl 
+ ecoursewar 
+ elearn rodp 
+ fedex institut 
+ gartner research 
+ high perform comput hpc center 
+ helpdesk 
+ project inventori system 
+ servic notif 
+ servic catalog 
+ iam ident manag 
+ iprint 
+ learn curv 
+ e mail 
+ rocc 
+ technolog resourc locat trl 
+ umdriv 
+ umwiki 
+ umtech 
+ webdev 
+ suggest box 
+ relat topic 
+ suggest 
+ option 
+ e mail address option 
+ subject 
+ enter suggest 
+ contact inform option provid contact follow 
+ enter suggest 
+ addit assist 
+ addit assist contact 
+ umtech servic desk 
+ 
+ visit room administr build 
+ asktom 
+ z list 
+ onlin servic desk center 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ inform technolog servic 
+ administr 
+ bldg 
+ phone 
+ email umtech memphi 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

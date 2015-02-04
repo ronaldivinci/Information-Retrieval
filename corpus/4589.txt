@@ -1,0 +1,97 @@
+ accolad univers memphi 
+ accolad univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ fall faculti 
+ univers award 
+ colleg award 
+ dean s advis award 
+ dean s teach award 
+ w russel smith award 
+ dunav professorship 
+ faculti inventor patent 
+ time pi 
+ licens 
+ pi millionair 
+ pat e burlison professor 
+ faculti public 
+ student fellowship award 
+ honor assembl 
+ travel enrich fund 
+ engag scholarship travel 
+ faculti research grant 
+ profession develop 
+ faculti servic award 
+ accolad archiv 
+ art scienc 
+ univers memphi 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ cdata imag src share share rootsit imag applynow bw jpg 
+ cdata imag src share share rootsit imag default background jpg 
+ cdata imag src share share rootsit imag portal bw jpg 
+ dunav professorship 
+ dunav professorship endow gener gift william dunav colleg art scienc award professorship annual awarde receiv year year support research program forti dunav professorship award 
+ ebenez georg 
+ mathemat scienc 
+ dr georg 
+ sanjai mishra 
+ physic 
+ dr mishra 
+ sharon stanlei 
+ polit scienc 
+ e olusegun georg professor depart mathemat scienc 
+ e olusegun georg professor statist bioinformat depart mathemat scienc univers memphi serv nih center scientif review biostatist method research design studi section bmrd nih studi section member member advisori board minor program harvard school public health chair local arrang intern biometr societi presid western tennesse chapter american statist associ major focu research analysi cluster exchang data meta analysi 
+ develop parametr model analyz cluster data development toxic studi year expand interest develop bayesian procedur analysi gene express genom relat data publish extens top statist journal includ journal american statist associ biometr biometrika bioinformat supervis phd student emploi top univers unit state 
+ sanjai mishra 
+ dr mishra receiv nsf fund prestigi research corpor petroleum research award faculti research fund research time nation laboratori total m incept univers memphi dr mishra publish articl peer review journal present confer proceed articl 
+ activ research activ activ promot materi research program univers dr mishra receiv univers award includ millionair award colleg art scienc distinguish award alumni distinguish award 
+ sharon stanlei 
+ professor stanlei s broad research interest focu modern contemporari polit thought separ emphas enlighten critic contest legaci polit racial justic unit state book french enlighten emerg modern cynic cambridg univers press trace relationship cynic enlighten thought eighteenth centuri french writer includ diderot rousseau la mettri author libertin literatur conclud examin contemporari diagnos cynic domin mode conscious postmodern democraci publish relat articl polit theori politi eighteenth centuri thought work book examin concept racial integr polit legal cultur discours offer spatial defin model racial integr piec project appear contemporari polit theori piec forthcom du boi review 
+ professor stanlei teach class histori polit thought american polit thought feminist polit thought race polit constitut law join faculti univers memphi 
+ intention empti ifram xsl 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ colleg art scienc accolad 
+ dean s offic scate hall memphi 
+ tn 
+ phone 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

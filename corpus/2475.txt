@@ -1,0 +1,81 @@
+ extend program univers memphi 
+ extend program univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex sfhover function var sfel document getelementbyid nav getelementsbytagnam li var i i sfel length i sfel i onmouseov function classnam sfhover sfel i onmouseout function classnam classnam replac regexp sfhover b window attachev window attachev onload sfhover 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu class 
+ gener inform 
+ bartlett 
+ colliervil 
+ covington 
+ dyersburg 
+ millington 
+ west tennesse 
+ public servic 
+ profession continu educ 
+ tennesse beauti 
+ extend program 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ 
+ contact inform 
+ extend program staff 
+ wilder tower 
+ univers memphi 
+ memphi tn 
+ roi boweri 
+ director distanc learn 
+ phone 
+ e mail 
+ rboweri memphi 
+ univers memphi dyersburg center staff 
+ dscc 
+ lake road 
+ dyersburg tn 
+ missi labont 
+ coordin recruit repres extend program 
+ phone 
+ e mail 
+ mlabont memphi 
+ carrier center staff 
+ winchest blvd 
+ colliervil tn 
+ tiphani booker 
+ offic associ 
+ phone 
+ e mail 
+ tabook memphi 
+ millington center staff 
+ navi road 
+ millington tn 
+ susan mikel 
+ secretari 
+ phone 
+ e mail 
+ smikel memphi 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

@@ -1,0 +1,680 @@
+ index major minor concentr graduat program univers memphi 
+ index major minor concentr graduat program univers memphi 
+ comment 
+ comment 
+ document readi function rel group fancybox transitionin transitionout titleposit titleformat function titl currentarrai currentindex currentopt return span id fancybox titl imag currentindex currentarrai length titl length titl span 
+ form ul li list style imag form contain input form contain textarea font famili georgia time roman time serif font size px font weight normal bottom px form contain ul li background formerror background repeat scroll ee border px solid dddddd border radiu px px px px color ffffff font famili tahoma font size px pad px px margin left px displai tabl main formerror background repeat scroll ee border px solid dddddd border radiu px px px px color ffffff font famili tahoma font size px font weight bold pad px px main formsuccess background repeat scroll aacc border px solid dddddd border radiu px px px px color ffffff font famili tahoma font size px font weight bold pad px px clear clear clearfix content displai block height clear visibl hidden 
+ document readi function directedit 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ undergradu 
+ graduat 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ graduat program 
+ program 
+ depart 
+ graduat 
+ program 
+ master 
+ doctor 
+ graduat 
+ concentr 
+ graduat 
+ certif 
+ account 
+ account 
+ m 
+ x 
+ account system 
+ account 
+ x 
+ adult educ 
+ leadership 
+ x 
+ advanc practic nurs 
+ nurs 
+ x 
+ x 
+ advanc studi teach learn 
+ instruct curriculum leadership 
+ m 
+ african american literatur 
+ english 
+ x 
+ analyt chemistri 
+ chemistri 
+ x 
+ ancient egyptian histori 
+ histori 
+ x 
+ anthropolog 
+ anthropolog 
+ m 
+ appli comput scienc 
+ comput scienc 
+ m 
+ x 
+ appli lean leadership 
+ engin 
+ x 
+ appli linguist 
+ english 
+ x 
+ appli mathemat 
+ mathemat 
+ x 
+ appli statist 
+ mathemat 
+ x 
+ archaeolog 
+ earth scienc 
+ x 
+ architectur 
+ architectur 
+ m 
+ art 
+ art 
+ m 
+ art africa african diaspora 
+ art histori 
+ m 
+ x 
+ art histori 
+ art 
+ m 
+ artist diploma music 
+ art 
+ x 
+ audiolog speech patholog 
+ commun scienc disord 
+ m 
+ bioinformat 
+ interdisciplinari program 
+ m 
+ biologi 
+ biologi 
+ m d 
+ biomed engin 
+ biomed engin 
+ m d 
+ x 
+ biomed manag 
+ busi econom interdepartment 
+ x 
+ biostatist 
+ public health 
+ x 
+ busi administr 
+ busi econom interdepartment 
+ m d 
+ busi inform assur 
+ manag inform system 
+ x 
+ ceram 
+ art 
+ x 
+ chemistri 
+ chemistri 
+ m d 
+ childhood literaci read rodp 
+ instruct curriculum leadership 
+ x 
+ citi region plan 
+ citi region plan 
+ m 
+ civil engin 
+ civil engin 
+ m 
+ x 
+ clinic mental health counsel 
+ counsel 
+ m d 
+ x 
+ clinic nutrit 
+ health sport scienc 
+ m 
+ clinic psycholog 
+ psycholog 
+ x 
+ clinic rehabilit counsel 
+ counsel 
+ x 
+ cognit scienc 
+ psycholog 
+ x 
+ commun 
+ commun 
+ m d 
+ x 
+ commun colleg teach leadership 
+ educ 
+ x 
+ composit 
+ music 
+ x 
+ composit studi 
+ english 
+ x 
+ comput chemistri 
+ chemistri 
+ x 
+ comput physic 
+ physic 
+ x 
+ comput engin 
+ electr comput engin 
+ x 
+ comput scienc 
+ comput scienc 
+ m d 
+ conduct 
+ music 
+ x 
+ counsel 
+ counsel 
+ m d 
+ counsel psycholog 
+ counsel 
+ d 
+ crimin justic 
+ criminolog crimin justic 
+ m 
+ cultur studi women s studi 
+ interdisciplinari program 
+ x 
+ design manufactur 
+ mechan engin 
+ x 
+ design mechan 
+ mechan engin 
+ x 
+ disabl studi 
+ interdisciplinari program 
+ x 
+ earli childhood educ 
+ instruct curriculum leadership 
+ x 
+ earth scienc 
+ earth scienc 
+ m d 
+ econom 
+ econom 
+ m 
+ x 
+ educ 
+ instruct curriculum leadership 
+ ed 
+ educ leadership 
+ leadership 
+ x 
+ educ psycholog research 
+ counsel 
+ m d 
+ educ psycholog 
+ counsel 
+ x 
+ educ research 
+ counsel 
+ x 
+ egyptian art archaeolog 
+ art 
+ x 
+ electr engin 
+ electr comput engin 
+ m 
+ x 
+ elementari educ 
+ instruct curriculum leadership 
+ x 
+ energi system 
+ mechan engin 
+ x 
+ engin 
+ engin 
+ d 
+ engin technolog 
+ engin technolog 
+ m 
+ english 
+ english 
+ m d 
+ english languag 
+ english 
+ x 
+ environment engin 
+ civil engin 
+ x 
+ epidemiolog 
+ public health 
+ x 
+ entrepreneurship 
+ busi administr 
+ x 
+ environment health 
+ public health 
+ x 
+ epidemiolog 
+ public health 
+ d 
+ execut 
+ busi econom interdepartment 
+ x 
+ execut leadership 
+ nurs 
+ x 
+ exercis sport scienc 
+ health sport scienc 
+ x 
+ experiment psycholog 
+ psycholog 
+ x 
+ film video product 
+ commun 
+ x 
+ financ 
+ busi econom interdepartment 
+ x 
+ financi servic 
+ busi administr 
+ x 
+ foundat engin 
+ civil engin 
+ x 
+ french 
+ foreign languag literatur 
+ x 
+ gener art histori 
+ art 
+ x 
+ gener physic 
+ physic 
+ x 
+ gener psycholog 
+ psycholog 
+ x 
+ gener public administr 
+ public nonprofit administr 
+ x 
+ geograph inform system 
+ earth scienc 
+ x 
+ geographi 
+ earth scienc 
+ x 
+ geologi 
+ earth scienc 
+ x 
+ geophys 
+ earth scienc 
+ x 
+ geotechn engin 
+ civil engin 
+ x 
+ graphic design 
+ art 
+ x 
+ health administr 
+ health administr 
+ m 
+ health administr 
+ public health 
+ x 
+ healthcar informat leadership 
+ public health 
+ x 
+ health promot 
+ health sport scienc 
+ x 
+ higher adult educ 
+ leadership 
+ d 
+ hear scienc disord 
+ commun scienc disord 
+ x 
+ higher educ 
+ leadership 
+ x 
+ histori 
+ histori 
+ m d 
+ health sport scienc 
+ health sport scienc 
+ m 
+ health system pharmaci 
+ busi administr 
+ x 
+ inequ social polici women s studi 
+ women s studi 
+ x 
+ inform assur 
+ comput scienc 
+ x 
+ inorgan chemistri 
+ chemistri 
+ x 
+ instruct curriculum 
+ instruct curriculum leadership 
+ x 
+ instruct curriculum leadership 
+ instruct curriculum leadership 
+ m d 
+ instruct comput applic 
+ instruct curriculum leadership 
+ x 
+ instruct design technolog 
+ instruct curriculum leadership 
+ x 
+ interdisciplinari studi earth scienc 
+ earth scienc 
+ x 
+ intern busi 
+ busi econom interdepartment 
+ m 
+ jazz studio music 
+ music 
+ x 
+ journal 
+ journal 
+ m 
+ languag linguist 
+ english 
+ x 
+ law 
+ busi econom interdepartment 
+ x 
+ law 
+ law 
+ jd 
+ leadership 
+ leadership 
+ x 
+ leadership polici studi 
+ leadership 
+ m d 
+ liber studi 
+ univers colleg 
+ m 
+ literaci leadership coach 
+ instruct curriculum leadership 
+ x 
+ literatur 
+ english 
+ x 
+ local govern manag 
+ public nonprofit administr 
+ x 
+ manag inform system 
+ busi econom interdepartment 
+ x 
+ materi scienc 
+ physic 
+ x 
+ mathemat scienc 
+ mathemat 
+ m d 
+ mathemat 
+ mathemat 
+ x 
+ mechan engin 
+ mechan engin 
+ m 
+ x 
+ mechan system 
+ mechan engin 
+ x 
+ medic anthropolog 
+ anthropolog 
+ x 
+ merchandis consum scienc 
+ univers colleg 
+ m 
+ middl school special educ 
+ instruct curriculum leadership 
+ x 
+ museum studi 
+ anthropolog 
+ x 
+ music 
+ music 
+ m d 
+ music educ 
+ music 
+ x 
+ music histori 
+ music 
+ x 
+ music theori 
+ music 
+ x 
+ musicolog 
+ music 
+ x 
+ nonprofit administr 
+ public nonprofit administr 
+ x 
+ nurs 
+ nurs 
+ m 
+ nurs administr 
+ nurs 
+ x 
+ nurs educ 
+ nurs 
+ x 
+ nurs informat 
+ nurs 
+ x 
+ orff schulwerk 
+ music 
+ x 
+ organ chemistri 
+ chemistri 
+ x 
+ paint 
+ art 
+ x 
+ pedagogi 
+ music 
+ x 
+ perform 
+ music 
+ x 
+ pharmaci manag 
+ busi administr 
+ x 
+ philanthropi nonprofit leadership 
+ public nonprofit administr 
+ x 
+ philosophi 
+ philosophi 
+ m d 
+ physic chemistri 
+ chemistri 
+ x 
+ physic ed teacher ed 
+ health sport scienc 
+ x 
+ physic 
+ physic 
+ m 
+ polici studi 
+ leadership 
+ x 
+ polit scienc 
+ polit scienc 
+ m 
+ power system 
+ mechan engin 
+ x 
+ printmak photographi 
+ art 
+ x 
+ profession 
+ busi econom interdepartment 
+ x 
+ profession studi 
+ univers colleg 
+ m 
+ profession write 
+ english 
+ x 
+ psycholog 
+ psycholog 
+ m d 
+ public administr 
+ public nonprofit administr 
+ m 
+ public archaeolog 
+ anthropolog 
+ x 
+ public health 
+ public health 
+ m 
+ read 
+ instruct curriculum leadership 
+ x 
+ real estat 
+ busi econom interdepartment 
+ x 
+ rehabilit counsel 
+ counsel 
+ x 
+ romanc languag 
+ foreign languag literatur 
+ m 
+ school administr supervis 
+ leadership 
+ x 
+ school counsel 
+ counsel 
+ x 
+ school psycholog 
+ psycholog 
+ m 
+ x 
+ sculptur 
+ art 
+ x 
+ secondari educ 
+ instruct curriculum leadership 
+ x 
+ social behavior health 
+ public health 
+ x 
+ servic market 
+ busi administr 
+ x 
+ social behavior scienc 
+ public health 
+ d 
+ social work 
+ social work 
+ m 
+ sociolog 
+ sociolog 
+ m 
+ softwar test 
+ manag inform system 
+ x 
+ spanish 
+ foreign languag literatur 
+ x 
+ special educ 
+ instruct curriculum leadership 
+ x 
+ speech languag scienc disord 
+ commun scienc disord 
+ x 
+ speech languag patholog 
+ commun scienc disord 
+ m 
+ speech patholog 
+ commun scienc disord 
+ x 
+ sport leisur commerc 
+ health sport scienc 
+ x 
+ statist 
+ mathemat 
+ x 
+ strateg leadership 
+ univers colleg 
+ x 
+ structur engin 
+ civil engin 
+ x 
+ student personnel 
+ leadership 
+ x 
+ taxat 
+ account 
+ x 
+ teach 
+ educ 
+ x 
+ teach english languag 
+ english 
+ x 
+ teach mathemat 
+ mathemat 
+ x 
+ literari cultur studi 
+ english 
+ x 
+ theatr 
+ theatr danc 
+ m 
+ transport engin 
+ civil engin 
+ x 
+ urban anthropolog 
+ anthropolog 
+ x 
+ urban educ 
+ instruct curriculum leadership 
+ x 
+ water resourc 
+ civil engin 
+ x 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

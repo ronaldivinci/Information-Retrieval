@@ -1,0 +1,61 @@
+ extend program hybrid cours univers memphi 
+ extend program hybrid cours univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex sfhover function var sfel document getelementbyid nav getelementsbytagnam li var i i sfel length i sfel i onmouseov function classnam sfhover sfel i onmouseout function classnam classnam replac regexp sfhover b window attachev window attachev onload sfhover 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu class 
+ gener inform 
+ bartlett 
+ colliervil 
+ covington 
+ dyersburg 
+ millington 
+ west tennesse 
+ public servic 
+ profession continu educ 
+ tennesse beauti 
+ extend program 
+ imag src share share rootsit imag applynow bw jpg 
+ imag src share share rootsit imag default background jpg 
+ imag src share share rootsit imag portal bw jpg 
+ hybrid cours 
+ hybrid cours world 
+ hybrid cours offer millington center provid flexibl tradit classroom offer portion coursework accomplish instruct held tradit classroom set remaind coursework perform onlin coursework work home librari local coffe shop 
+ hybrid cours opportun easili fit class person work schedul 
+ hybrid cours world greater flexibl manag time allow work conveni provid face face instructor interact seat time tradit classroom student 
+ millington center 
+ navi 
+ millington tennesse 
+ phone 
+ fax 
+ e mail 
+ hmccree memphi 
+ millington center staff 
+ millington center map 
+ schedul 
+ spring 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

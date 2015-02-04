@@ -1,0 +1,87 @@
+ oir enrol data univers memphi 
+ oir enrol data univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex sfhover function var sfel document getelementbyid nav getelementsbytagnam li var i i sfel length i sfel i onmouseov function classnam sfhover sfel i onmouseout function classnam classnam replac regexp sfhover b window attachev window attachev onload sfhover 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ fact glanc 
+ dashboard 
+ enrol data 
+ report support program review 
+ enrol monitor 
+ common data set profil 
+ enrol report gener 
+ markov chain enrol project excel 
+ enrol map 
+ daili enrol tracker 
+ retent graduat data 
+ retent graduat trend pdf 
+ retent graduat stem major pdf 
+ degre report trend 
+ graduat report gener 
+ progress colleg 
+ retent map 
+ degre award tbr institut 
+ program perform account data 
+ report support program review 
+ fund formula dashboard login 
+ ependitur student credit hour pdf 
+ earn employ graduat 
+ grade distribut login 
+ faculti staff data 
+ employe factbook pdf 
+ faculti staff report gener 
+ map employe commut distanc 
+ common data set faculti pdf 
+ addit resourc inform 
+ helpdesk request 
+ staff 
+ faq glossari 
+ peer institut 
+ oir 
+ z list 
+ enrol data 
+ short summari enrol report 
+ enrol monitor pdf 
+ report basic student enrol statist censu 
+ date inform includ enrol student classif registr type ethnic gender time freshmen 
+ enrol 
+ common data set profil pdf 
+ report provid student inform student profil includ freshmen undergradu lambuth student student onlin cours univers inform contain common data set 
+ enrol report gener 
+ interact report builder build custom enrol report creat report headcount credit hour test score gpa s retent rate choos variabl row column report report filter number variabl 
+ daili enrol tracker 
+ report provid daili enrol credit hour total term compar dai prior year data includ student registr midnight previou dai includ detail report student 
+ report support program review excel 
+ seri report provid inform univers colleg depart level univers memphi includ inform applic graduat enrol demand credit hour trend instruct load faculti data 
+ markov chain enrol project excel 
+ interact excel workbook enter student enrol total retent percentag order evalu impact futur enrol growth retent 
+ enrol map 
+ map spatial analysi yield rate student origin nation state level 
+ ip data extern site 
+ data report survei u s depart educ integr postsecondari educ data system ip standard data collect institut higher educ receiv titl iv feder student financi aid 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ offic institut research administr build memphi tn 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

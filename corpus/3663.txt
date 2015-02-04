@@ -1,0 +1,112 @@
+ faculti senat issu archiv univers memphi 
+ faculti senat issu archiv univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ 
+ statement purpos 
+ articl author 
+ senat 
+ committe 
+ repres 
+ tbr faculti subcouncil 
+ tenn faculti senat 
+ coalit athlet 
+ senat calendar 
+ senat minut 
+ approv motion 
+ faculti handbook 
+ univers p p 
+ colleg t p 
+ faculti ombudsperson 
+ tenn board regent 
+ suggest box 
+ grievanc appeal 
+ quick link 
+ academ calendar 
+ academ 
+ alumni 
+ tom 
+ athlet 
+ contact u m 
+ faculti handbook 
+ fedex institut 
+ iam 
+ job 
+ librari 
+ polic servic 
+ rodp 
+ sac 
+ umdriv 
+ ummail 
+ umwiki 
+ question 
+ issu archiv 
+ cy 
+ letter faculti 
+ faculti survei bookstor 
+ survei administr 
+ presid commun 
+ cy 
+ vote result onlin vote amend 
+ academ freedom tenur issu 
+ propos onlin vote procedur 
+ univers athlet fund 
+ cy 
+ vote result onlin vote amend 
+ academ freedom tenur issu 
+ propos onlin vote procedur 
+ univers athlet fund 
+ cy 
+ faculti termin resolut 
+ late add cours survei 
+ athlet fund resolut 
+ onlin access budget 
+ lectur mari burgan 
+ drop add inform 
+ cy 
+ chang t p criteria 
+ campu safeti resolut 
+ faculti grievanc committe 
+ call faculti repres 
+ faculti ombudsperson search 
+ senat vote tuf paper 
+ tuf paper higher educ 
+ univers budget reduct 
+ reginald l green 
+ faculti senat presid 
+ tel 
+ fax 
+ email 
+ rlgreen memphi 
+ carolyn featherston 
+ administr secretari 
+ tel 
+ fax 
+ email 
+ cafthrst memphi 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

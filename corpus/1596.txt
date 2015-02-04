@@ -1,0 +1,267 @@
+ undergradu catalog teach learner univers memphi 
+ undergradu catalog teach learner univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ teach learner 
+ teach learner lead elementari special educ modifi licensur 
+ depart instruct curriculum leadership 
+ program object b s ed teach learner understand learn occur student construct knowledg acquir skill provid learn opportun support student intellectu social person develop b adapt instruct techniqu student divers cultur languag background except learn 
+ success complet b s ed requir major teach learner qualifi person appli licensur elementari special educ modifi candid complet program requir elig licensur area consult advisor colleg educ health human scienc 
+ teach learner lead elementari special educ modifi licensur b s ed 
+ univers gener educ program hour 
+ 
+ graduat univers 
+ univers gener educ program requir 
+ univers gener educ program requir depart major 
+ human fine art engl engl art mu thea recommend cla phil phil pol pol social behavior scienc pol choos esci esci histori choos hist hist hist choos hist hist natur scienc choos list choos list list biol biol biol biol list esci esci esci esci phy phy phy phy 
+ b relat liber studi hour 
+ edpr idt pete 
+ c major core hour 
+ major core teach learner sped math math icl icl engl 
+ d profession educ hour 
+ teach learner elementari special educ modifi 
+ sped sped el rdng 
+ e pre resid semest hour offer spring 
+ elementari special educ modifi licensur rdng sped el icl icl 
+ f resid i semest hour offer fall 
+ elementari special educ modifi licensur el el icl sped 
+ g resid ii semest hour offer spring 
+ elementari special educ modifi licensur icl icl 
+ requir admiss tep 
+ typic year 
+ sequenc teach learner elementari educ 
+ special educ modifi licensur 
+ freshman year 
+ engl 
+ engl 
+ art mu 
+ thea 
+ math 
+ math 
+ social behavior scienc select 
+ edpr 
+ histori select 
+ human fine art 
+ sped 
+ semest total 
+ hr 
+ hr 
+ sophomor year 
+ comm 
+ el 
+ engl 
+ social behavior scienc select 
+ hist select 
+ natur scienc select 
+ math 
+ idt 
+ natur scienc select 
+ engl 
+ semest total 
+ hr 
+ hr 
+ junior year 
+ icl 
+ sped 
+ sped 
+ icl 
+ icl 
+ el 
+ pete 
+ rdng 
+ sped 
+ icl 
+ rdng 
+ semest total 
+ hr 
+ hr 
+ senior year resid year 
+ el 
+ icl 
+ el 
+ icl 
+ icl 
+ sped 
+ semest total 
+ hr 
+ hr 
+ total hour requir graduat 
+ satisfi gener educ program requir 
+ add endors special educ comprehens licensur 
+ sped 
+ sped 
+ sped 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 

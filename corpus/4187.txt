@@ -1,0 +1,23 @@
+ tab test 
+ tab test 
+ document readi function tab contain easytab 
+ quicksearch 
+ journal titl 
+ databas 
+ search book articl electron resourc 
+ classic catalog 
+ illiad interlibrari loan 
+ research guid 
+ worldcat 
+ find journal newspap magazin titl issn 
+ titl begin 
+ titl equal 
+ titl word 
+ issn equal 
+ brows journal 
+ find full text citat 
+ function popularlink document getelementbyid popularlink default window open document getelementbyid popularlink 
+ function gosearch var searchstr document getelementbyid target document getelementbyid searchloc var searchsit document getelementbyid encorebas var searchurl searchsit searchstr window open searchurl function submitent myfield e var keycod window event keycod window event keycod e keycod e return true keycod gosearch return fals return true 
+ find databas titl keyword 
+ databas 
+ law databas 

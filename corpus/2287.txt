@@ -1,0 +1,310 @@
+ undergradu catalog mech univers memphi 
+ undergradu catalog mech univers memphi 
+ comment 
+ comment 
+ comment 
+ hidden displai 
+ function mm jumpmenu targ selobj restor eval targ locat selobj option selobj selectedindex restor selobj selectedindex 
+ skip navig 
+ skip main content 
+ skip search form 
+ search 
+ search type 
+ site 
+ peopl 
+ campu directori 
+ calendar 
+ degre program 
+ plan 
+ univers 
+ servic student 
+ expens 
+ academ regul 
+ admiss 
+ graduat 
+ univers 
+ colleg degre 
+ program 
+ faculti staff 
+ catalog archiv 
+ univers link 
+ class offer 
+ quick link 
+ e mail 
+ bursar s offic 
+ event calendar 
+ job 
+ ecoursewar um 
+ elearn rodp 
+ bookstor 
+ tom 
+ employe servic 
+ campu map 
+ librari 
+ fedex institut 
+ umdriv 
+ iam 
+ polic servic 
+ contact 
+ search catalog 
+ mech 
+ mech mechan engin 
+ john i hochstein ph d chair 
+ room engin scienc build 
+ jeffrei g marchetta ph d 
+ coordin undergradu studi 
+ jmarchtt memphsi 
+ minimum grade c earn prerequisit cours regist mechan engin mech student withdraw drop class corequisit laboratori student administr drop laboratori 
+ undergradu graduat level engin cours requir addit fee credit hour 
+ addit cours depart offer special topic cours 
+ mech special topic mechan engin 
+ topic vari onlin class list 
+ mech intro mechan engin 
+ introduct profess design process profession ethic engin commun societ impact profess acquisit organ displai analysi data engin applic prerequisit math algebra equival 
+ mech mech engr comput i 
+ introduct pc base tool engin prerequisit math algebra equival 
+ mech mech engr comput ii 
+ introduct comput program includ applic linear algebra probabl statist prerequisit math trigonometri equival 
+ mech honor studi 
+ particip scholarli activ research design program colleg supervis faculti mentor success complet requir mentor s accept report document student s accomplish note intend student year academ studi repeat maximum hour credit prerequisit admiss honor program 
+ mech engin design comm i 
+ fundament d model draw gener dimens toler blueprint read gener draw prerequisit math trigonometri equival 
+ mech dynam 
+ kinemat kinet particl rigid bodi prerequisit civl 
+ mech honor studi 
+ particip scholarli activ research design program colleg supervis faculti mentor success complet requir mentor s accept report document student s accomplish note intend student year academ studi repeat maximum hour credit prerequisit admiss honor program 
+ mech engin analysi 
+ mechan engin applic order ordinari differenti equat laplac transform fourier seri problem area heat transfer vibrat fluid mechan prerequisit math 
+ mech intro thermal system 
+ introduct law thermodynam heat transfer emphasi engin applic mechan engin major mech fulfil b s m e degre requir prerequisit math 
+ mech engin thermodynam i 
+ law thermodynam applic engin problem prerequisit math 
+ mech engin thermodynam ii 
+ applic thermodynam law emphasi real gase real ga mixtur maxwel equat combust ga cycl vapor cycl psychometr prerequisit mech math 
+ mech engin design comm ii 
+ design mechan compon simpl function mechan system d comput aid design model includ rapid prototyp realiz prerequsit mech 
+ mech engin materi 
+ natur main class materi metal polym elastom ceram glass semiconductor superconductor composit mechan thermal electr electron magnet optic properti materi environment effect perform materi creep corros oxid methodolog select materi name applic prerequisit chem 
+ mech mechan machin 
+ veloc acceler analysi linkag mechan forc analysi linkag mechan machineri ic engin dynam balanc rotor reciproc mass prerequisit mech math 
+ mech mechan materi 
+ civl analysi compon subject tension compress bend moment torqu combin load mohr s stress circl deflect beam simpl treatment column buckl prerequisit civl biom 
+ mech machin design 
+ methodolog practic design machin compon integr principl mechan materi theori static fatigu failur prerequisit mech 
+ mech materi laboratori 
+ materi test evalu laboratori hour week prerequisit mech corequisit mech 
+ mech fluid mechan 
+ static dynam fluid includ applic pipe flow open channel flow prerequisit mech biom math 
+ mech fluid mechan lab 
+ principl fluid mechan demonstr verifi familiar instrument techniqu organ report result experiment investig design experi laboratori hour week corequisit mech 
+ mech numer statist method 
+ engin method classic analysi comput techniqu probabl statist interact mechan engin problem prerequisit mech math 
+ mech heat transfer i 
+ fundament conduct convect radiat heat transfer emphasi engin applic prerequisit mech 
+ mech thermo heat transfer lab 
+ instrument measur techniqu thermodynam heat transfer studi experiment verif basic principl emphasi organ report result design experi laboratori hour week corequisit mech 
+ mech honor studi 
+ particip scholarli activ research design program colleg supervis faculti mentor success complet requir mentor s accept report document student s accomplish note intend student year academ studi repeat maximum hour credit prerequisit admiss honor program 
+ mech prep profession practic 
+ capston prepar student transit academ studi profession practic topic includ engin ethic lifelong learn societ impact engin decis contemporari issu prepar fundament engin fe examin student encourag fe semest enrol pass simul fe requir pass prerequisit mech 
+ mech fluid mechan ii 
+ introduct topic advanc fluid mechan includ flow immers bodi compress fluid flow turbomachineri measur fluid mechan inviscid flow prerequisit mech 
+ mech ga dynam 
+ concept compress flow includ topic isentrop flow vari area flow normal obliqu shockwav fanno flow rayleigh flow prerequisit mech 
+ mech power gener 
+ applic thermodynam fluid mechan heat transfer design oper power plant econom oper power gener optim resourc altern energi system prerequisit mech 
+ mech heat transfer ii 
+ principl boil condens radiat heat transfer fundament heat exchang design prerequisit mech 
+ mech senior design i 
+ capston simul real world design process student work project team determin solut open end engin problem technic write commun skill produc project plan prepar preliminari design report review prerequisit mech mech mech 
+ mech principl hvac system 
+ psychometr analysi heat cool load build analysi air condit system prerequisit mech 
+ mech engin econ project mgmt 
+ introduct project plan project manag engin econom includ financi impact decis prerequisit mech 
+ mech mechan materi ii 
+ stress strain analys thin wall cylind sphere spring later load strut strut initi curvatur rotat disk cylind plastic yield beam shaft introduct energi method prerequisit mech 
+ mech system dynam 
+ introduct vibrat degre degre freedom system introduct control emphasi laplac transform block diagram order system basic control stabil system design model mechan control system prerequisit mech 
+ mech senior design ii 
+ continu senior design i student refin design fabric function prototyp produc final report give oral present prerequisit mech 
+ mech comput method design 
+ applic comput aid draft packag design mechan compon system introduct fundament concept principl finit element method design optim design project assign computer engin softwar analysi design solut prerequisit mech 
+ mech adv mech materi 
+ beam elast foundat experiment stress analysi torsion circular section curv beam theori unsymmetr bend prerequisit mech 
+ mech biomed system anali mech 
+ introduct concept analyz live system simul bodi function mechan comput model familiar design mechan bioengin devic heart valv heart lung machin renal dialysi machin prerequisit mech 
+ mech intro composit materi 
+ introduct fiber reinforc composit materi includ mechan behavior strength design methodolog implement comput aid design prerequisit mech 
+ mech turbomachineri 
+ basic principl fluid mechan thermodynam appli rotat machineri ideal actual oper characterist pump fan turbin compressor design real system prerequisit mech 
+ mech aerospac propuls syst 
+ fundament air breath rocket propuls devic principl combust thermodynam ga turbin oper solid liquid propel perform evalu atmospher space mission propuls requir prerequisit mech 
+ mech system dynam lab 
+ experi vibrat feedback control system experiment verif theori system dynam studi laboratori hour week corequisit mech 
+ mech intern combust engin 
+ principl otto diesel cycl engin effect fuel fuel deliveri system air induct system ignit system pollut control techniqu engin perform prerequisit mech 
+ mech appld comput fluid dyna 
+ introduct fundament mathemat model comput method simul physic fluid flow heat transfer identifi limit simul approach recogn sourc error evalu solut qualiti prerequisit mech 
+ mech manufactur process 
+ introduct manufactur process fundament mechan behavior materi manufactur properti materi cast bulk deform sheet metal form materi remov process process polym ceram glass composit materi powder metallurgi fasten join process nontradit manufactur process econom integr design manufactur develop manufactur prerequisit mech 
+ mech intro packag engin 
+ fundament studi function packag packag materi contain type process technolog equip emploi protect good handl ship storag 
+ mech mechan control 
+ fundament classic control concept model linear mechan control system transient accuraci perform analys design control system root locu sketch nyquist diagram bode plot prerequisit mech 
+ mech design mechan 
+ graphic analyt mechan synthesi techniqu path gener function gener rigid bodi guidanc optim forc transmiss characterist prerequisit mech 
+ mech adv mechan control 
+ advanc design model mechan control system review digit optim control system simul control system prerequisit mech 
+ mech principl biomechan 
+ biomechan tissu structur musculosketet system biomechan joint applic static mechan linear viscoelast prerequisit mech 
+ mech select engr materi 
+ detail studi main class materi properti design criteria failur mode select environ case studi technic tutori design exercis prerequisit mech 
+ mech biomateri 
+ biom biocompat biofunction materi bone joint replac materi cardiovascular system materi artifici organ dental restor materi materi drug deliveri materi ophthalmolog prerequisit mech 
+ mech process engin 
+ applic fundament principl fluid mechan heat transfer thermodynam analysi design fabric construct process equip facil includ physic chemic transform prerequisit mech 
+ mech mechan vibrat 
+ kinemat harmon harmon vibrat system degre freedom free forc vibrat excit vibrat prerequisit mech 
+ mech nondestruct test i 
+ visual optic method radiograph method ultrason test acoust emiss magnet method eddi current method penetr test standard train certif issu case studi project prerequisit mech 
+ mech nondestruct test ii 
+ nuclear radiograph method acoust dynam techniqu magnet reson test volatil liquid test thin layer chromatographi thermoplast stress analysi research techniqu case studi project prerequisit mech 
+ mech mechan engin proj 
+ independ investig mechan engin problem consult instructor prerequisit senior stand 
+ mech appld finit element analysi 
+ biom fundament topic finit element analysi mechan biomed engin applic introduct finit element theori model gener cad interfac post process result valid prerequisit biom mech 
+ mech honor thesi propos 
+ scholarli work engin requir advanc understand field studi foundat fundament principl undergradu curriculum student work honor thesi advisor identifi suitabl thesi topic develop advanc understand requir scholarli studi topic formal written oral propos accept department honor committe success complet prerequisit senior stand approv department honor committe 
+ mech honor thesi 
+ origin scholarli work perform direct honor thesi advisor report thesi success complet requir oral defens thesi accept thesi department honor committe prerequisit mech approv department honor committe 
+ mech mechan engr practicum 
+ topic vari onlin class list 
+ colleg art scienc 
+ aerospac studi aero 
+ african african american studi aaa 
+ anthropolog anth 
+ biologi biol 
+ chemistri chem 
+ comput scienc comp 
+ criminolog crimin justic cju 
+ earth scienc esci 
+ english engl 
+ emerg manag emgt 
+ environment studi envr 
+ health administr hadm 
+ histori hist 
+ intern studi intl 
+ judaic studi jdst 
+ mathemat math 
+ militari scienc armi 
+ naval scienc navi 
+ philosophi phil 
+ physic phy 
+ polit scienc pol 
+ public nonprofit administr padm 
+ psycholog psyc 
+ religi studi rlgn 
+ social work swrk 
+ sociolog soci 
+ women s studi wmst 
+ foreign languag literatur 
+ arab arab 
+ chines chin 
+ classic cla 
+ french fren 
+ german germ 
+ greek grek 
+ hebrew hebr 
+ italian ital 
+ japanes japn 
+ languag literatur lali 
+ latin latn 
+ portugues port 
+ russian russ 
+ spanish span 
+ fogelman colleg busi econom 
+ account acct 
+ busi administr ba 
+ econom econ 
+ financ insur real estat fir 
+ manag inform system mi 
+ manag mgmt 
+ market mktg 
+ suppli chain manag scienc scm 
+ colleg commun fine art 
+ architectur arch 
+ art art 
+ art histori arth 
+ commun comm 
+ commun fine art ccfa 
+ danc danc 
+ interior design id 
+ journal jour 
+ theatr thea 
+ music 
+ appli music muap 
+ music appreci mu 
+ music educ muse 
+ music histori literatur appreci muhl 
+ music industri muid 
+ music theori composit mutc 
+ sacr music musa 
+ colleg educ health human scienc 
+ counsel educ psycholog research 
+ counsel personnel servic coun 
+ educ psycholog research edpr 
+ health sport scienc 
+ dietet nutr 
+ health human perform exss 
+ health sport scienc hmse 
+ healthcar leadership hcl 
+ health promot hpro 
+ physic educ activ phed 
+ physic educ teacher educ pete 
+ sport leisur commerc slc 
+ sport leisur manag sl 
+ instruct curriculum leadership 
+ earli childhood educ ec 
+ educ servic edsv 
+ elementari educ el 
+ instruct curriculum leadership icl 
+ instruct design technolog idt 
+ leadership lead 
+ read rdng 
+ special educ sped 
+ herff colleg engin 
+ biomed engin biom 
+ civil engin civl 
+ electr comput engin eec 
+ engin engr 
+ mechan engin mech 
+ technolog tech 
+ loewenberg school nurs 
+ nurs nur 
+ univers colleg 
+ famili consum scienc csed 
+ merchandis mrch 
+ paraleg studi legl 
+ univers colleg univ 
+ kemmon wilson school hospit resort manag 
+ hospit resort manag hprm 
+ independ program 
+ orient program acad 
+ univers honor program unhp 
+ univers memphi librari lbry 
+ text 
+ print 
+ question tom 
+ contact 
+ memphi 
+ tn 
+ copyright 
+ univers memphi 
+ import notic 
+ updat 
+ visit univers memphi 
+ facebook 
+ youtub 
+ twitter 
+ var pagetrack gat gettrack ua pagetrack initdata pagetrack trackpageview 
+ updat 
